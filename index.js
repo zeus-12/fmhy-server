@@ -151,26 +151,30 @@ app.put('/api/guides/:ID', (req, res) => {
   if (!ObjectId.isValid(req.params.ID))
     res.status(400).json({error: 'Invalid ID'});
   else {
-    Guide.findOne({link: req.body.link}).then((data) => {
-      if (data) {
-        res.status(400);
-        res.end();
-      } else {
-        const guide = Guide.find({_id: req.params.ID});
-        if (!guide) {
-          res.status(400).json({error: 'Invalid ID'});
+    Guide.findOne({link: req.body.link, _id: {$ne: req.params.ID}}).then(
+      (data) => {
+        if (data) {
+          console.log('here');
+          console.log(data._id, req.params.ID);
+          res.status(400);
+          res.end();
+        } else {
+          const guide = Guide.find({_id: req.params.ID});
+          if (!guide) {
+            res.status(400).json({error: 'Invalid ID'});
+          }
+          console.log(req.body);
+          guide
+            .updateOne({
+              title: req.body.title.trim(),
+              link: req.body.link.replaceAll(' ', ''),
+              nsfw: req.body.nsfw ? true : false,
+            })
+            .then(() => {
+              res.json({status: 'ok'});
+            });
         }
-        console.log(req.body);
-        guide
-          .updateOne({
-            title: req.body.title.trim(),
-            link: req.body.link.replaceAll(' ', ''),
-            nsfw: req.body.nsfw ? true : false,
-          })
-          .then(() => {
-            res.json({status: 'ok'});
-          });
-      }
-    });
+      },
+    );
   }
 });
