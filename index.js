@@ -4,7 +4,7 @@ const Guide = require('./Guide.js');
 const User = require('./User.js');
 const jwt = require('jsonwebtoken');
 require('dotenv').config();
-
+const cors = require('cors');
 const app = express();
 
 const PORT = process.env.PORT || 3001;
@@ -19,6 +19,7 @@ mongoose
   .then(console.log(`Server listening on port ${PORT}`))
   .catch((err) => console.log(err));
 
+app.use(cors());
 app.use(express.json());
 
 //authentication
