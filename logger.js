@@ -14,7 +14,7 @@ function add(title, link, nsfw) {
 
 		.setDescription(description)
 		.setTimestamp();
-	logger.send(message); // Send the message
+	hook.send(message); // Send the message
 }
 
 function remove(title, link, nsfw) {
@@ -27,7 +27,7 @@ function remove(title, link, nsfw) {
 
 		.setDescription(description)
 		.setTimestamp();
-	logger.send(message);
+	hook.send(message);
 }
 
 function update(title, link, nsfw) {
@@ -40,7 +40,7 @@ function update(title, link, nsfw) {
 
 		.setDescription(description)
 		.setTimestamp();
-	logger.send(message);
+	hook.send(message);
 }
 
 module.exports = { add, remove, update };
