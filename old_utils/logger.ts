@@ -21,8 +21,7 @@ export default class Logger {
 	constructor(options: LoggerOptions) {
 		this.webhook = options.webhook;
 		this.name = "Guide Log";
-		this.icon =
-			"https://fmhy.cf/assets/logo.png";
+		this.icon = "https://fmhy.cf/assets/logo.png";
 
 		// Test if webhook and icon links are valid urls
 		if (this.webhook) {
@@ -84,7 +83,6 @@ export default class Logger {
 		options.color = 15158332;
 		await this.sendReq(options);
 	}
-
 
 	/** @type {RequestOptions} options - Request options */
 	async added(options: RequestOptions): Promise<void> {
