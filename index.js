@@ -5,6 +5,7 @@ const User = require('./User.js');
 const jwt = require('jsonwebtoken');
 require('dotenv').config();
 const cors = require('cors');
+
 const app = express();
 
 const PORT = process.env.PORT || 3001;
@@ -22,23 +23,14 @@ mongoose
 app.use(cors());
 app.use(express.json());
 
-//authentication
-// const authentication = app.use((req, res, next) => {
-//   if (!req.headers['x-access-token'])
-//     res.status(400).json({error: 'Not authenticated'});
-//   const token = req.headers['x-access-token'];
-//   if (!token) res.status(400).json({error: 'Invalid Token'});
-//   const decoded = jwt.verify(token, process.env.SECRET_KEY);
-//   next();
-// });
-
-// adding user
+// for adding a new user (ps: comment out when not req)
 // const user = new User({
 //   username: 'user',
 //   password: 'user',
 //   admin: false,
 // }).save();
 
+//for adding new guide
 app.post('/api/guides/new', (req, res) => {
   console.log(req.body);
 
@@ -69,6 +61,7 @@ app.post('/api/guides/new', (req, res) => {
   });
 });
 
+//for fetching all the guides
 app.get('/api/guides/all', (req, res) => {
   Guide.find().then((data) => res.send(data));
 });
@@ -82,6 +75,7 @@ app.get('/api/guides/user', (req, res) => {
   );
 });
 
+//for signing in
 app.post('/api/login', async (req, res) => {
   console.log(req.body);
   const user = await User.findOne({
@@ -103,6 +97,7 @@ app.post('/api/login', async (req, res) => {
   } else return res.json({status: 'error', user: false, username: null});
 });
 
+//for deleting an existing guide
 app.delete('/api/guides/delete/:ID', async (req, res) => {
   var ObjectId = mongoose.Types.ObjectId;
   if (!ObjectId.isValid(req.params.ID))
@@ -124,6 +119,8 @@ app.delete('/api/guides/delete/:ID', async (req, res) => {
     }
   }
 });
+
+//for fetching a particular guide: used to populate data for editing the guide(once added)
 app.get('/api/guides/:ID', (req, res) => {
   var ObjectId = mongoose.Types.ObjectId;
   if (!ObjectId.isValid(req.params.ID))
@@ -146,6 +143,8 @@ app.get('/api/guides/:ID', (req, res) => {
     });
   }
 });
+
+//to update a guide
 app.put('/api/guides/:ID', (req, res) => {
   var ObjectId = mongoose.Types.ObjectId;
   if (!ObjectId.isValid(req.params.ID))
