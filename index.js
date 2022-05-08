@@ -113,9 +113,8 @@ app.delete("/api/guides/delete/:ID", async (req, res) => {
 
 		if (decoded.admin) {
 			Guide.findOneAndDelete({ _id: req.params.ID }).then((data) =>
-				res
-					.json({ status: "ok", deletedGuide: data })
-					.finally(log.remove(data.title, data.link, data.nsfw)),
+				res.json({ status: "ok", deletedGuide: data }),
+				log.remove(data.title, data.link, data.nsfw),
 			);
 		} else {
 			Guide.findOneAndDelete({
@@ -123,7 +122,7 @@ app.delete("/api/guides/delete/:ID", async (req, res) => {
 				owner: decoded.username,
 			})
 				.then((data) => res.json({ status: "ok", deletedGuide: data }))
-				.finally(log.remove(data.title, data.link, data.nsfw));
+				.then(log.remove(data.title, data.link, data.nsfw));
 		}
 	}
 });

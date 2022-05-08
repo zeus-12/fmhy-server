@@ -6,7 +6,7 @@ hook.setAvatar("https://fmhy.cf/assets/logo.png");
 
 function add(title, link, nsfw) {
 	const description = `
-    ${`\`\`\`diff\n+ ${title} - ${link} | NSFW: ${nsfw}\`\`\``}
+    ${`\`\`\`diff\n+ Title: ${title} | Link: ${link} | NSFW: ${nsfw}\`\`\``}
     `; // what a beautiful mess
 	const message = new MessageBuilder()
 		.setTitle("Added")
@@ -19,7 +19,7 @@ function add(title, link, nsfw) {
 
 function remove(title, link, nsfw) {
 	const description = `
-    ${`\`\`\`diff\n- ${title} - ${link} | NSFW: ${nsfw}\`\`\``}
+    ${`\`\`\`diff\n- Title: ${title} | Link: ${link} | NSFW: ${nsfw}\`\`\``}
     `; // what a beautiful mess
 	const message = new MessageBuilder()
 		.setTitle("Removed")
@@ -32,7 +32,7 @@ function remove(title, link, nsfw) {
 
 function update(title, link, nsfw) {
 	const description = `
-    ${`\`\`\`diff\n++ ${title} - ${link} | NSFW: ${nsfw}\`\`\``}
+    ${`\`\`\`diff\n++ Title: ${title} | Link: ${link} | NSFW: ${nsfw}\`\`\``}
     `;
 	const message = new MessageBuilder()
 		.setTitle("Updated")
