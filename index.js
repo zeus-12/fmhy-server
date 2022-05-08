@@ -112,17 +112,16 @@ app.delete("/api/guides/delete/:ID", async (req, res) => {
 		const decoded = jwt.verify(token, process.env.SECRET_KEY);
 
 		if (decoded.admin) {
-			Guide.findOneAndDelete({ _id: req.params.ID }).then((data) =>
-				res.json({ status: "ok", deletedGuide: data }),
-				log.remove(data.title, data.link, data.nsfw),
+			Guide.findOneAndDelete({ _id: req.params.ID }).then(
+				(data) => res.json({ status: "ok", deletedGuide: data }),
+				//					.finally(log.remove(data.title, data.link, data.nsfw)),
 			);
 		} else {
 			Guide.findOneAndDelete({
 				_id: req.params.ID,
 				owner: decoded.username,
-			})
-				.then((data) => res.json({ status: "ok", deletedGuide: data }))
-				.then(log.remove(data.title, data.link, data.nsfw));
+			}).then((data) => res.json({ status: "ok", deletedGuide: data }));
+			//				.finally(log.remove(data.title, data.link, data.nsfw));
 		}
 	}
 });
