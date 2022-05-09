@@ -19,6 +19,7 @@ const guideSchema = new Schema({
 		type: String,
 		// default: '',
 	},
+  //maybe add a credit field to give credits to the creator.
 });
 
 module.exports = mongoose.model("Guide", guideSchema);

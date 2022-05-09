@@ -1,3 +1,4 @@
+//for backup just in case. to be automatically updated later on.
 const guides_sfw = [
 	{
 		name: "Filter Stalker(the one and only 💖)",
