@@ -46,6 +46,8 @@ app.post("/api/guides/new", (req, res) => {
 				link: req.body.link.replaceAll(" ", ""),
 				nsfw: req.body.nsfw ? true : false,
 				owner: req.body.username,
+				credits: req.body.credits,
+        		tags: req.body.tags,
 			});
 
 			guide
@@ -143,6 +145,8 @@ app.get("/api/guides/:ID", (req, res) => {
 						title: data.title,
 						link: data.link,
 						nsfw: data.nsfw,
+						tags: data.tags,
+            			credits: data.credits,
 					},
 				});
 			}
@@ -174,6 +178,8 @@ app.put("/api/guides/:ID", (req, res) => {
 							title: req.body.title.trim(),
 							link: req.body.link.replaceAll(" ", ""),
 							nsfw: req.body.nsfw ? true : false,
+							tags: req.body.tags,
+              				credits: req.body.credits.trim(),
 						})
 						.then(() => {
 							res.json({ status: "ok" });

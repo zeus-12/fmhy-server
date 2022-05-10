@@ -19,6 +19,13 @@ const guideSchema = new Schema({
 		type: String,
 		// default: '',
 	},
+	credits:{
+		type: String,
+	},
+	tags:
+	{
+		type: Array
+	},
   //maybe add a credit field to give credits to the creator.
 });
 
