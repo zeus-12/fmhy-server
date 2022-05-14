@@ -1,0 +1,535 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254713791774770",
+    "type": "GuildTextChat",
+    "categoryId": "913254713628176386",
+    "category": "\uD83D\uDC27 Linux / MacOS",
+    "name": "mac-gaming",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_gaming"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "939190814003830844",
+      "type": "Default",
+      "timestamp": "2022-02-04T16:08:59.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "939343249158570064",
+      "type": "Default",
+      "timestamp": "2022-02-05T02:14:42.753+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mac Games** *Macgamefiles* \nhttp://www.macgamefiles.com/",
+      "author": {
+        "id": "280745369707610114",
+        "name": "Armada",
+        "discriminator": "4798",
+        "nickname": "Armada",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280745369707610114/a919f952a93f58e90af63ce1eabfe931.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939343452615888948",
+      "type": "Default",
+      "timestamp": "2022-02-05T02:15:31.261+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Gamecube iso.dec to ISO Converter** *NASOS*\nhttps://archive.org/download/nNASOS1.8/nNASOS1.8.zip",
+      "author": {
+        "id": "280745369707610114",
+        "name": "Armada",
+        "discriminator": "4798",
+        "nickname": "Armada",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280745369707610114/a919f952a93f58e90af63ce1eabfe931.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939343574456234025",
+      "type": "Default",
+      "timestamp": "2022-02-05T02:16:00.31+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mac Games** *NXMac*\nhttps://nxmac.com/",
+      "author": {
+        "id": "280745369707610114",
+        "name": "Armada",
+        "discriminator": "4798",
+        "nickname": "Armada",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280745369707610114/a919f952a93f58e90af63ce1eabfe931.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "NXMac Ked - Mac OSX Apps & Games Download",
+          "url": "https://nxmac.com/",
+          "timestamp": null,
+          "description": "Download Mac OSX apps & games for free, new and updated apps & games from inside and outside Mac AppStore .",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/_W6_35qgE9q6U9RHKJEl1fmhkwqaplohdZvZSI1tLYk/https/nxmac.com/wp-content/uploads/2020/07/Movavi.Video_.Editor.Plus_.2021-65x65.png",
+            "width": 65,
+            "height": 65
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939343663815884870",
+      "type": "Default",
+      "timestamp": "2022-02-05T02:16:21.615+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mac Games** *Mac Torrents*\nhttps://www.torrentmac.net/",
+      "author": {
+        "id": "280745369707610114",
+        "name": "Armada",
+        "discriminator": "4798",
+        "nickname": "Armada",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280745369707610114/a919f952a93f58e90af63ce1eabfe931.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mac Torrents | Torrent Download Apple, Mac OSX Apps & Games Download",
+          "url": "https://www.torrentmac.net/",
+          "timestamp": null,
+          "description": "Mac Torrents - Torrents for Mac. Free Apps, Games & Plugins. Apple Final Cut Pro & Logic Pro X, Adobe Photoshop, Microsoft Office, Pixel Film Studios, Torrent Mac",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939343755369127937",
+      "type": "Default",
+      "timestamp": "2022-02-05T02:16:43.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mac Games** *MacTorrents*\nhttps://mactorrents.io/",
+      "author": {
+        "id": "280745369707610114",
+        "name": "Armada",
+        "discriminator": "4798",
+        "nickname": "Armada",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280745369707610114/a919f952a93f58e90af63ce1eabfe931.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mac Torrents | Torrent Download Apple, Mac OSX Apps & Games Download",
+          "url": "https://mactorrents.io/",
+          "timestamp": null,
+          "description": "Mac Torrents - Torrents for Mac. Free Apps, Games & Plugins. Apple Final Cut Pro & Logic Pro X, Adobe Photoshop, Microsoft Office, Pixel Film Studios,‎Graphics & Design · ‎Microsoft Office",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/6-NTqItRG_cU3a5ptICMuj-kAZZ-3UpCRAKVbDEqkZU/https/mactorrents.io/wp-content/uploads/2019/09/apple-mac-torrents-io-icons-4.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939343988689879091",
+      "type": "Default",
+      "timestamp": "2022-02-05T02:17:39.071+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mac Games** *Torrminatorr*\nhttps://forum.torrminatorr.com/",
+      "author": {
+        "id": "280745369707610114",
+        "name": "Armada",
+        "discriminator": "4798",
+        "nickname": "Armada",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280745369707610114/a919f952a93f58e90af63ce1eabfe931.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939344096353456148",
+      "type": "Default",
+      "timestamp": "2022-02-05T02:18:04.74+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mac Games** *SCNLOG*\nhttps://scnlog.me/",
+      "author": {
+        "id": "280745369707610114",
+        "name": "Armada",
+        "discriminator": "4798",
+        "nickname": "Armada",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280745369707610114/a919f952a93f58e90af63ce1eabfe931.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939344169325961226",
+      "type": "Default",
+      "timestamp": "2022-02-05T02:18:22.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mac Games** *MacDownload*\nhttps://www.macdownload.org/",
+      "author": {
+        "id": "280745369707610114",
+        "name": "Armada",
+        "discriminator": "4798",
+        "nickname": "Armada",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280745369707610114/a919f952a93f58e90af63ce1eabfe931.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Download the best Mac Apps - Full versions - Free",
+          "url": "https://www.macdownload.org/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "Hai Truong",
+            "url": "https://macdownload.org/author/haitruonginfotech/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939344278918938664",
+      "type": "Default",
+      "timestamp": "2022-02-05T02:18:48.267+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Epic Games Launcher** *HeroicGamesLauncher*\nhttps://heroicgameslauncher.com/\nhttps://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+      "author": {
+        "id": "280745369707610114",
+        "name": "Armada",
+        "discriminator": "4798",
+        "nickname": "Armada",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280745369707610114/a919f952a93f58e90af63ce1eabfe931.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Heroic Games Launcher",
+          "url": "https://heroicgameslauncher.com/",
+          "timestamp": null,
+          "description": "An Epic Games Launcher alternative",
+          "fields": []
+        },
+        {
+          "title": "GitHub - Heroic-Games-Launcher/HeroicGamesLauncher: A Native GUI Ep...",
+          "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+          "timestamp": null,
+          "description": "A Native GUI Epic Games Launcher for Linux, Windows and Mac. - GitHub - Heroic-Games-Launcher/HeroicGamesLauncher: A Native GUI Epic Games Launcher for Linux, Windows and Mac.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/5dUpdQD0TIJjYUrEQi2qTYB_Yt2GT4BHe1MEWsTlF-Y/https/opengraph.githubassets.com/bc10e02c76f50bc23a884c0a654ec15f829a4149cc4ea6cd106deb9a82c8a504/Heroic-Games-Launcher/HeroicGamesLauncher",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "959185365753802762",
+      "type": "Default",
+      "timestamp": "2022-03-31T20:20:11.998+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Roblox FPS Unlocker** *rbxfpsunlocker*\nhttps://github.com/lanylow/rbxfpsunlocker-osx",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - lanylow/rbxfpsunlocker-osx: Roblox FPS unlocker for macOS.",
+          "url": "https://github.com/lanylow/rbxfpsunlocker-osx",
+          "timestamp": null,
+          "description": "Roblox FPS unlocker for macOS. Contribute to lanylow/rbxfpsunlocker-osx development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/gau50PGmEDM9WADeCor5L1WwxASMs9dniNRADx29ttA/https/opengraph.githubassets.com/638d50cdeb4acad9f6094f3f5bc895439a46422a8ca73d7c69004324e86b9b7f/lanylow/rbxfpsunlocker-osx",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 11
+}

@@ -1,0 +1,4480 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254712340545611",
+    "type": "GuildTextChat",
+    "categoryId": "913254712340545608",
+    "category": "\uD83D\uDCFA Streaming",
+    "name": "anime",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_streaming"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "918871093593378866",
+      "type": "Default",
+      "timestamp": "2021-12-10T14:25:40.512+00:00",
+      "timestampEdited": "2022-02-04T16:02:49.062+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "939367978561044540",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:52:58.702+00:00",
+      "timestampEdited": "2022-04-24T12:53:23.816+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub / Dub** *9Anime*\nhttps://www.9anime.to/\n\nMirror: <https://9anime.me/>\nAdblock Scripts: <https://redd.it/c330dx>\nBinge Script: <https://greasyfork.org/en/scripts/401339-9anime-bingewatcher>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Anime Online, Watch English Anime Online Subbed, Dubbed",
+          "url": "https://www.9anime.to/",
+          "timestamp": null,
+          "description": "Watch anime online in high quality for free with English subbed, dubbed. Update daily, No tracking, No paying, No registration required. Just enjoy your anime ;)",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tc0p0sbHnjEX5UZ1S1KTWKye4UaO8vXsPcFoU6riML4/https/s2.bunnycdn.ru/assets/sites/9anime/images/preview.png",
+            "width": 650,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939368063093055560",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:53:18.856+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *KickAssAnime*\nhttps://www2.kickassanime.ro/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Kickassanime.ro - Watch Free Popular Anime Dub and Sub and more",
+          "url": "https://www2.kickassanime.ro/",
+          "timestamp": null,
+          "description": "Welcome to kickassanime, the worlds most active online anime community. Watch anime online for free in qualities from 240p to 1080p HD Videos.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hGGkvc0Zk7Pz3hBJQLo7b6GiyDHQ1BZC7AeXKDGFHCQ/https/www2.kickassanime.ro/images/kickassanime.jpg",
+            "width": 800,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939368138481471569",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:53:36.83+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Dub** *JustDubs* \nhttp://justdubs.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Just Anime Forum",
+          "url": "http://justdubs.org/",
+          "timestamp": null,
+          "description": "Your gateway to a world of anime. Discuss anime series, news, reviews. Connect with your community.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/HYqGW7Y39uA9DOnCEl0jjhEOPhTaIuT8dcX25AOC_3U/https/justanimeforum.net/styles/default/xenforo/logo.og.png",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939368336993710080",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:54:24.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeHub* \nhttps://animehub.ac",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeHub - Watch Anime Online Free in HD",
+          "url": "https://animehub.ac/",
+          "timestamp": null,
+          "description": "AnimeHub.ac - Watch Anime Online English Dubbed And Subbed. Download Anime in High Quality For Free on AnimeHub.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/yuK4QuoxpHJpd4Y3UdNYgQF1pfbH2LB2SEfE50Puu7M/https/static.anmedm.com/assets/animehub/images/animehub-fb-capture.png",
+            "width": 650,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939368396393418792",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:54:38.321+00:00",
+      "timestampEdited": "2022-02-05T03:54:41.371+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeShow*\nhttps://www2.animeshow.tv/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Anime - AnimeShow.tv",
+          "url": "https://www2.animeshow.tv/",
+          "timestamp": null,
+          "description": "Watch high quality episodes of all popular anime series, updated every hour with the best English subtitles right here on Animeshow.tv",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939368482049523784",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:54:58.743+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeRush* \nhttps://www.animerush.tv/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Anime Online in High Quality for Free - AnimeRush.tv",
+          "url": "https://www.animerush.tv/",
+          "timestamp": null,
+          "description": "AnimeRush - The anime site to watch subbed anime series and dubbed anime series online in HD for free. Watch english subbed and dubbed anime episodes, movies and OVAs in HD on iPad, iPhone, Android for free.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939368545295405057",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:55:13.822+00:00",
+      "timestampEdited": "2022-02-05T03:55:18.951+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *Soul-Anime*\nhttp://ww9.soul-anime.us",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Anime Online for FREE in 2019 - Soul-Anime",
+          "url": "http://ww9.soul-anime.us/",
+          "timestamp": null,
+          "description": "Watch Good Anime like Black Clover, Dragon Ball Heroes, New Fairy Tail Series Subbed Online. #SoulAnime #WatchAnime #StreamAnime #DownloadAnime #AnimeOnline #FreeAnimeShow",
+          "color": "#023048",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939368688862261258",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:55:48.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Kawaiifu* \nhttps://kawaiifu.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Anime HD Free Uncensored. Watch Anime Dub and Sub Online",
+          "url": "https://kawaiifu.com/",
+          "timestamp": null,
+          "description": "Watch Anime HD Online Free with no ads at Kawaiifu . Watching Anime HD together for FREE with no ads at Kawaiifu . Watch Anime Dub with on-screen comments.",
+          "author": {
+            "name": "vietsmiler",
+            "url": "https://kawaiifu.com/author/vietsmiler"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939368775348813934",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:56:08.671+00:00",
+      "timestampEdited": "2022-02-05T03:56:12.17+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub / Dub** *Anime8*\nhttps://anime8.ru",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Anime8 - Watch online free in high quality",
+          "url": "https://anime8.ru/",
+          "timestamp": null,
+          "description": "Anime8 - Watch anime online free in HD mobile friendly. Download Animes in HD 720, 1080p without signup.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939368864624549889",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:56:29.956+00:00",
+      "timestampEdited": "2022-02-05T03:56:36.263+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub / Dub** *AnimeKisa*\nhttps://animekisa.tv/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeKisa: Find & Watch Anime, Subbed & Dubbed",
+          "url": "https://animekisa.tv/",
+          "timestamp": null,
+          "description": "Unlike many other websites AnimeKisa has a tiny amount of ads. Find streamable servers and watch the anime you love, subbed or dubbed in HD.",
+          "color": "#201F1F",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NBXGy99_JLvpgl8K9WcDbomtvXwP6nXfQlLfUFuSago/%3F117/https/animekisa.tv/img/OG.png",
+            "width": 600,
+            "height": 315
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939368967934464030",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:56:54.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Learn Japanese** *AnimeLon* \nhttps://animelon.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn Japanese | Anime With Japanese Subtitles | Watch Anime Learn ...",
+          "url": "https://animelon.com/",
+          "timestamp": null,
+          "description": "Watch Anime - Learn Japanese!",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/H21Z5bXtU1C1AFkDw718ktFBe9f2B4YZGl3OcgW6Ab0/https/animelon.com/sub/en-jp/resources/img/HomeLinkIcon.png",
+            "width": 256,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939369026163998771",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:57:08.47+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeReborn* \nhttps://animereborn.net",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939369509754667048",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:59:03.767+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub** *AnimeTwist* \nhttps://twist.moe/\nhttps://discord.gg/Ea3Mq9n\nDownloader: https://github.com/aberrier/kurby",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Anime Twist - HD anime for free",
+          "url": "https://twist.moe/",
+          "timestamp": null,
+          "description": "Go home, you're drunk. This place is too good to be true. We have all the great anime on here in HD, and completely free. Don't believe us? Then why not give us a try? You don't have to signup for it, just click and go. We add new shows and episodes every day. Your favourite might be here.",
+          "color": "#1C1F22",
+          "fields": []
+        },
+        {
+          "title": "GitHub - aberrier/kurby: A modern CLI to download animes automatica...",
+          "url": "https://github.com/aberrier/kurby",
+          "timestamp": null,
+          "description": "A modern CLI to download animes automatically from Twist - GitHub - aberrier/kurby: A modern CLI to download animes automatically from Twist",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/RHiPReevqp-TZ2DenF9C8F_tPueQqfRAZg_z3YoQ888/https/repository-images.githubusercontent.com/325402238/be371300-4a33-11eb-8b14-25b29da15695",
+            "width": 758,
+            "height": 758
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939369599760224326",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:59:25.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Anime Site Index** *r/AnimePiracy Index* \nhttps://piracy.moe/\nhttps://discord.gg/piracy",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Anime Index",
+          "url": "https://piracy.moe/",
+          "timestamp": null,
+          "description": "The best places to stream your favorite anime shows online or download them for free and watch in sub or dub. Supports manga, light novels, hentai, and apps.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GDuf-WooT4B2Vsv_5sK7qlr06noOBr2h8qsMFpRubhA/https/piracy.moe/icons/logo.png",
+            "width": 256,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939369655980658788",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:59:38.63+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *StreamAnimeTV*\nhttps://streamanimetv.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "StreamAnimeTV",
+          "url": "https://streamanimetv.net/",
+          "timestamp": null,
+          "description": "Stream and download the latest English Subbed and English Dubbed anime online for free with minimal ads on any device in 480, 720, 1080 and 1080 60fps quality! With over 6 mirror sources to stream and download.",
+          "color": "#798DBD",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939369718668746813",
+      "type": "Default",
+      "timestamp": "2022-02-05T03:59:53.576+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**GDrivePlayer Database Anime**\nhttps://database.gdriveplayer.us/anime.php",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939369799132266508",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:00:12.76+00:00",
+      "timestampEdited": "2022-02-05T04:00:16.375+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime Site Index** *Awesome Piracy Clone* \nhttps://github.com/anshumanv/awesome-anime-sources",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - anshumanv/awesome-anime-sources: A curated list of everyth...",
+          "url": "https://github.com/anshumanv/awesome-anime-sources",
+          "timestamp": null,
+          "description": "A curated list of everything related to anime. Contribute to anshumanv/awesome-anime-sources development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939369894540099634",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:00:35.507+00:00",
+      "timestampEdited": "2022-02-05T04:00:38.503+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeSaga*\nhttps://animesa.ga/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeSaga | Home",
+          "url": "https://animesa.ga/",
+          "timestamp": null,
+          "description": "Owoanime is a collection of various animated movies, cartoons, and TV shows. You can browse these websites to find action, drama, horror, kids cartoons, and more.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939372478193602600",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:10:51.498+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Anime Streaming Sites Search**\nhttps://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei\n**Anime Streaming Sites Search 2**\nhttps://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939374565530955846",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:19:09.158+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub / Dub** *AniMixPlay*\nhttps://animixplay.to/\nhttps://discord.gg/YyQ9cpS",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AniMixPlay - Watch HD Anime for Free",
+          "url": "https://animixplay.to/",
+          "timestamp": null,
+          "description": "Watch Anime for free in HD quality with English subbed or dubbed.",
+          "color": "#191919",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/xDNlnGJTtZVSj_PWDIdCtvycc9OXUf7dbTkmHYeLNlY/https/animixplay.to/icon.png",
+            "width": 192,
+            "height": 192
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939374626272866365",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:19:23.64+00:00",
+      "timestampEdited": "2022-03-15T12:53:35.04+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Cartoons / Anime** *WCO*\nhttps://www.wco.tv/\nMirrors\nhttps://www.thewatchcartoononline.tv\nhttps://www.wcostream.com/\nhttps://www.wcoforever.com/\nhttps://www.wcoanimesub.tv/\nhttps://www.wcoanimedub.tv/\nhttps://www.wcofun.com/\nhttps://watchcartoonshd.com/\nhttps://www.wcoforever.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939374713195618324",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:19:44.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *NetAnime* \nhttps://netanime.tv",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939374763556605993",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:19:56.371+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *Anime1* \nhttp://anime1.com",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939374819135332413",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:20:09.622+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *animebam* \nhttps://www.animebam.se",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Anime Online Stream Subbed & Dubbed HD Episodes",
+          "url": "https://www.animebam.se/",
+          "timestamp": null,
+          "description": "Watch Anime Episodes Online Free Steaming Movies in Subbed and Dubbed. All Videos are available in HD 720p and 1080p and work on iPhone and Android.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939374885388570644",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:20:25.418+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeDao* \nhttps://animedao.to",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch subbed anime online - AnimeDao",
+          "url": "https://animedao.to/",
+          "timestamp": null,
+          "description": "Watch anime episodes with subtitles in high quality with tablet mobile or pc",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/NCiQ5a4qO_0cGbif-HNs55Yp24fNv5Iqo34DaoAcu_0/https/animedao.to/img/animedaofb.png",
+            "width": 300,
+            "height": 300
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939374961326452826",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:20:43.523+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeFrenzy*\nhttps://animefrenzy.org \nhttps://www.animefrenzy.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeFrenzy - Stream Anime in 720p up to 1080p with Little to No Ads!",
+          "url": "https://www.animefrenzy.net/",
+          "timestamp": null,
+          "description": "Watch high-quality dubbed anime in 720p, 1080p on AnimeFrenzy. You can Stream all anime for FREE and AdBlock Friendly!",
+          "color": "#201F1F",
+          "fields": []
+        },
+        {
+          "title": "AnimeFrenzy - Stream Anime in 720p up to 1080p with Little to No Ads!",
+          "url": "https://animefrenzy.org/",
+          "timestamp": null,
+          "description": "Watch high-quality dubbed anime in 720p, 1080p on AnimeFrenzy. You can Stream all anime for FREE and AdBlock Friendly!",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375028682776597",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:20:59.582+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *Aniwatcher* \nhttps://aniwatcher.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375334057463849",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:22:12.389+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *Animetake*\nhttps://animetake.tv",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Animetake - Watch anime online, English anime online",
+          "url": "https://animetake.tv/",
+          "timestamp": null,
+          "description": "Watch anime online in English. You can watch free series and movies online and English subtitle",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375377464299560",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:22:22.738+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Dub** *Animeland* \nhttps://www.animeland.us/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Animeland - Watch Anime English Dubbed",
+          "url": "https://www.animeland.us/",
+          "timestamp": null,
+          "description": "Watch Anime English Dubbed on Animeland you can Watch anime dubbed for free no need to register also animeland video quality is 480p upto 1080p visit now and bookmark us",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375442517962762",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:22:38.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub/Dub** *Pantsubase* \nhttps://pantsubase.tv/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Pantsubase TV - Stream Anime in 720p up to 1080p with Little to No ...",
+          "url": "https://pantsubase.tv/",
+          "timestamp": null,
+          "description": "Watch high-quality dubbed anime in 720p, 1080p on Pantsubase TV. You can Stream all anime for FREE and AdBlock Friendly!",
+          "color": "#201F1F",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/EJUMA8IEJNOngF85S5pKQ0vsav_oJZ460Ia9UMAwwC4/https/pantsubase.tv/img/metaimg.png",
+            "width": 600,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375498298023966",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:22:51.547+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub/Dub** *tenshi.moe*\nhttps://tenshi.moe",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375575175426070",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:23:09.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Simplyaweeb*\nhttps://simplyaweeb.to/\nDiscord:\nhttps://discord.gg/4uGvPUV",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home - Simplyaweeb",
+          "url": "https://simplyaweeb.to/",
+          "timestamp": null,
+          "description": "Weebs only one stop to get updated with the latest anime content, meme and bang on the latest anime music. More features coming soon so stay tuned.",
+          "color": "#0A0909",
+          "author": {
+            "name": "Simplyaweeb",
+            "url": "https://simplyaweeb.to/author/animeweeb/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375631316172810",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:23:23.261+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Animeow* \nhttps://animeow.me/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch anime online English subbed in high quality",
+          "url": "https://animeow.me/",
+          "timestamp": null,
+          "description": "Animeow | Anime hd | Watch anime online English subbed in high quality, watch anime similar to kissanime and gogoanime and darkanime",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/lQoDDsY_iEDK6g1qTgoxfVHBm4q1Lii5Lp6eZZUMyI0/https/animeow.me/assets/img/logo11-m.png",
+            "width": 310,
+            "height": 307
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375688425803816",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:23:36.877+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeTribes*\nhttps://animetribes.ru",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeTribes \uD83D\uDC31‍\uD83D\uDC64 Seriousness Killed the Neko",
+          "url": "https://animetribes.ru/",
+          "timestamp": null,
+          "description": "Congratulation! You have discovered the greatest online anime repository. The only place you will ever need to watch & stream anime online free.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/THIctKzXc-DeL5F2Rf4jxrv_K-TXX-1ATrb0gRNWCfE/https/animetribes.ru/images/animetribes_tw.jpg",
+            "width": 1025,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375734722551818",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:23:47.915+00:00",
+      "timestampEdited": "2022-02-05T04:23:57.947+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub / Free w/ Ads** *CrunchyRoll*\nhttps://www.crunchyroll.com/videos/anime\nhttps://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/ (US Proxy)",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CR-Unblocker – Get this Extension for \uD83E\uDD8A Firefox (en-US)",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/",
+          "timestamp": null,
+          "description": "Download CR-Unblocker for Firefox. Changes your session on crunchyroll.com to a US one when the site is visited from somewhere else and unlocks many more anime!",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/cEHenro2jl-wPU6eIYpld1rW0ocvjpWFvkIHR0ndx7I/https/addons.mozilla.org/static-frontend/b4ed07ea73fd9b86f6ace81025f9c6eb.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375817836884030",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:24:07.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub / Free w/ Ads** *Funimation*\nhttps://www.funimation.com/shows/free/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375876368375829",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:24:21.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeHeaven*\nhttps://animeheaven.ru/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeHeaven - Watch HD Anime Online Free",
+          "url": "https://animeheaven.ru/",
+          "timestamp": null,
+          "description": "AnimeHeaven - Watch & Download HD Anime Online English Dubbed And Subbed for Free",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/_ciUsT1Ry4jgCnLmXSUytGzIX6XIo4yJv_dRszO4IXM/https/static.anmedm.com/static/images/animeheaven-fb-capture.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939375945817653248",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:24:38.244+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimePahe*\nhttps://animepahe.com/\n\nBatch Downloaders\nhttps://github.com/charathmathew/animepahe_downloader\nhttps://github.com/ed-archer/animepahe-dlr \nhttps://github.com/notmarek/pyheanime\nhttps://github.com/KevCui/animepahe-dl",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "cloud anime encoding",
+          "url": "https://animepahe.com/",
+          "timestamp": null,
+          "description": "Watch or download anime shows in HD 720p/1080p.",
+          "color": "#373A3C",
+          "fields": []
+        },
+        {
+          "title": "GitHub - charathmathew/animepahe_downloader",
+          "url": "https://github.com/charathmathew/animepahe_downloader",
+          "timestamp": null,
+          "description": "Contribute to charathmathew/animepahe_downloader development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XxTaF4xfaUTFFl8ySRvuxuimGFMBE5X5oim1F3_8F8c/https/opengraph.githubassets.com/52a68a0c620027b65ce2c113b95b0b52cb1881111c9b5abb9d34e3f7fac5a04a/charathmathew/animepahe_downloader",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        },
+        {
+          "title": "GitHub - ed-archer/animepahe-dlr: A python script to automate downl...",
+          "url": "https://github.com/ed-archer/animepahe-dlr",
+          "timestamp": null,
+          "description": "A python script to automate downloads from animepahe. - GitHub - ed-archer/animepahe-dlr: A python script to automate downloads from animepahe.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/CZQ2Fsl1nNcBZdXIrby-cg-uEra-J6HPvkB78itdKqo/https/opengraph.githubassets.com/f819dc29077a1dd053c75038973f153dfc443aa30c663843e013e95ff7667db6/ed-archer/animepahe-dlr",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        },
+        {
+          "title": "GitHub - notmarek/pyheanime",
+          "url": "https://github.com/notmarek/pyheanime",
+          "timestamp": null,
+          "description": "Contribute to notmarek/pyheanime development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NFU8A0DdL8foDss7MFilYtjdiFkx_WB_ZMJ-dzUdkwg/https/opengraph.githubassets.com/20ce19b0c7227c5283f7a7926c8787c6d6c387d7c8ff0078a0c3b2c53f5c958b/notmarek/pyheanime",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        },
+        {
+          "title": "GitHub - KevCui/animepahe-dl: animepahe anime downloader",
+          "url": "https://github.com/KevCui/animepahe-dl",
+          "timestamp": null,
+          "description": ":arrow_down: animepahe anime downloader . Contribute to KevCui/animepahe-dl development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939376837010788362",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:28:10.721+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Legal anime sites Search** *because.moe*\nhttps://because.moe",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BECAUSE.MOE - anime streaming search engine",
+          "url": "https://because.moe/",
+          "timestamp": null,
+          "description": "BECAUSE.MOE - a search engine for legal anime streams",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939376882963611669",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:28:21.677+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimePace* \nhttps://www3.animepace.si/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939376928576651374",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:28:32.552+00:00",
+      "timestampEdited": "2022-02-05T04:28:38+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Genoanime*\nhttps://genoanime.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939376986533548142",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:28:46.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Array Anime*\nhttps://www.arrayanime.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ArrayAnime - Watch Subbed and Dubbed Anime for free without any ads",
+          "url": "https://www.arrayanime.com/",
+          "timestamp": null,
+          "description": "Watch Subbed and Dubbed Anime for free without any ads",
+          "color": "#C92130",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377031685242951",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:28:57.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeVibe*\nhttps://animevibe.se/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeVibe Lite",
+          "url": "https://animevibe.se/",
+          "timestamp": null,
+          "description": "AnimeVibe Lite - Faster and Lighter way to Stream Anime",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377074639085590",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:29:07.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AniMumu*\nhttps://animumu.ga/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377125906055198",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:29:19.599+00:00",
+      "timestampEdited": "2022-03-13T19:45:29.167+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub / Dub** *Zoro.to* \nhttps://zoro.to/\nhttps://animebee.to/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Anime Online, Free Anime Streaming Online on Zoro.to Anime We...",
+          "url": "https://zoro.to/",
+          "timestamp": null,
+          "description": "Zoro is a Free anime streaming website which you can watch English Subbed and Dubbed Anime online with No Account and Daily update. WATCH NOW!",
+          "color": "#202125",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/NNHd2gj_2ooB6S893SlhgkKt36bau39cPqlzjfyQv-E/https/zoro.to/images/capture.png",
+            "width": 650,
+            "height": 350
+          },
+          "fields": []
+        },
+        {
+          "title": "AnimeBee | Watch Anime Online | English Sub & Dub Anime Free",
+          "url": "https://animebee.to/",
+          "timestamp": null,
+          "description": "AnimeBee is a Free anime streaming website which you can watch English Subbed and Dubbed Anime online with No Account and Daily update. WATCH NOW!",
+          "color": "#202125",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/pS5n4AK-uscLItPzkLIPjX1P8S8xrk1sVXTLdlpbnRs/%3Ft%3D1632061382/https/animebee.to/assets/animebee/images/capture.png",
+            "width": 650,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377183242219541",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:29:33.269+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Cartoons / Anime / Sub / Dub** *KissCartoon.info*\nhttps://kisscartoon.info/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch cartoons online free in high quality kisscartoon",
+          "url": "https://kisscartoon.info/",
+          "timestamp": null,
+          "description": "Watch cartoons online free in high quality kisscartoon, watchcartoononline and download cartoon online in kisscartoon alternative website.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377284241031199",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:29:57.349+00:00",
+      "timestampEdited": "2022-04-10T08:59:33.518+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeFox*\nhttps://animefox.cc/\n<https://animefox.io/>\n<https://www.animedao.cc/>\nDiscord Server\nhttps://discord.gg/QBg75nxa7A",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeFox - Watch High Quality Anime Online",
+          "url": "https://animefox.cc/",
+          "timestamp": null,
+          "description": "AnimeFox - Watch High Quality Anime Online. You can watch anime online free in HD without Ads. Best place for free find and one-click anime.",
+          "color": "#202125",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/gw-U9jZoUk40I_59OPz72b4SUydcBUiGSaigC_y45nA/https/animefox.sbs/assets/images/logo.png",
+            "width": 650,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377343435251732",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:30:11.462+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *11Anime*\nhttps://11anime.fr/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377382597460008",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:30:20.799+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Crunchyroll Premium Bypass Script** \nhttps://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player\nhttps://github.com/Mateus7G/crp-iframe-player",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Crunchyroll iFrame Player",
+          "url": "https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player",
+          "timestamp": null,
+          "description": "Este script Permite ver todos os vídeos do site crunchyroll gratuitamente.\tNota(JarEd):\tApenas modifiquei um pouco do código para UserScript, o código original já não é mais disponibilizado pelos desenvolvedores, contudo, só está aqui nessa comunidade pois o código está disponível na web em vários sites e ele é de domínio público, colocando em ê...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/5qWXt-t8MgN3c8YRnUJnEd83Z1BZ2Fm2T93PigEggfw/https/greasyfork.s3.us-east-2.amazonaws.com/l8gb9043gq99bxkhk4r56pxwi6b1",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        },
+        {
+          "title": "GitHub - Mateus7G/crp-iframe-player: forka ai fazeno favor vai q ca...",
+          "url": "https://github.com/Mateus7G/crp-iframe-player",
+          "timestamp": null,
+          "description": "forka ai fazeno favor vai q cai mia conta \uD83D\uDC4D. Contribute to Mateus7G/crp-iframe-player development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/x_Pqthx7XUAiBxODPv6BKZDmlY9Eczzp39o1giwkU9w/https/opengraph.githubassets.com/b219f2a0be36968d40d45cc1e155107578cdd00ce203be92551cbf0cec8b1e1b/Mateus7G/crp-iframe-player",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377424523747429",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:30:30.795+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Shiro*\nhttps://shiro.is/\nhttps://discord.gg/shiro",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Landing - Shiro",
+          "url": "https://shiro.is/",
+          "timestamp": null,
+          "description": "Shiro is a Discord Bot that homes an engaging, loving and friendly community gathering weebs, gamers and others alike.",
+          "color": "#1D1D1D",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377475291602984",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:30:42.899+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Anime Owl*\nhttps://animeowl.net",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeOwl - Anime site to watch anime for free",
+          "url": "https://animeowl.net/",
+          "timestamp": null,
+          "description": "AnimeOwl is one of the anime sites to watch anime for free, anime sharing. You can watch subbed anime (subbedanime) and dubbed anime (dubbedanime) or download anime flv",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/BAs13e30mGjRMMzDsGZoH28dD-B1ieolTXyIc6JQWQc/https/animeowl.net/images/favicon-96x96.png",
+            "width": 96,
+            "height": 96
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377638986895361",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:31:21.927+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime** *AnimeXin*\nhttps://animexin.info/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Animexin.info",
+          "url": "https://animexin.info/",
+          "timestamp": null,
+          "description": "AnimeXin - Watch Online Popular latest anime and Chinese Donghua in english sub, Indo sub, Portuguese,Turkish, Spanish and Italian sub. Fastest anime updates",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/tYUf_GWHCGa29VsjTBZ1Taj1622UDq16IYzSwXac-zc/https/animexin.info/wp-content/uploads/2021/03/animexin-logo-final-transparent.png",
+            "width": 1920,
+            "height": 1080
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377690987876352",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:31:34.325+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimetTV*\nhttps://animet.tv/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimetTV - Watch HD Anime for Free",
+          "url": "https://animet.tv/",
+          "timestamp": null,
+          "description": "Watch anime online in English. You can watch free series and movies online and English subtitle.",
+          "color": "#FCEBEF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377735065821234",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:31:44.834+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeFreak*\nhttps://www.animefreak.vip/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeFreak: Watch HD Anime, Subbed & Dubbed",
+          "url": "https://www.animefreak.vip/",
+          "timestamp": null,
+          "description": "Watch the anime you love, subbed or dubbed in Full HD and without ads - only at AnimeFreak.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377882671771658",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:32:20.026+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeGuru*\nhttps://www.animeguru.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Anime Online Free, Watch English Anime Online Subbed, Dubbed",
+          "url": "https://www.animeguru.net/",
+          "timestamp": null,
+          "description": "Watch anime online in high quality for free with English subbed, dubbed. Watch free series and movies online with English subtitle.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hUsFUh20j3zYO-vFZOpjd2KDjZ2AmMUM49da-LwYA5s/https/animeguru.net/images/logo.png",
+            "width": 305,
+            "height": 68
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377935729692683",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:32:32.676+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *GoAnimeList*\nhttps://goanimelist.me/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939377996891029576",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:32:47.258+00:00",
+      "timestampEdited": "2022-04-15T02:45:49.014+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *GoGoAnime*\nhttps://gogoanime.pe/\nhttps://streamani.net/\nhttps://www2.gogoanime.cm/\nhttps://gogoanime.film/\nhttps://gogoplay1.com/\n\nNetflix Style Skin: https://github.com/RyukSama/GogoAnimeSkin\nDownloader: https://github.com/notmarek/GOgogoanime",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378037668057220",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:32:56.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeTV*\nhttps://animetv.cc/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeTV Watch Anime Online | AnimeTVStreaming Anime Episodes",
+          "url": "https://animetv.cc/",
+          "timestamp": null,
+          "description": "AnimeTV Watch anime online your favorite anime series stream for free with the large database of Streaming Anime Episodes at AnimeTV.cc",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Huq16BgdtZ3-NccZeM7J6es3h4WVlcIioG39APO8N54/%3Ft%3D1622344093/https/animetv.cc/public/theme_animetv/images/capture.jpg",
+            "width": 650,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378075106439209",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:33:05.906+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *YugenAnime*\nhttps://yugen.to/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Track, Discover, Share & Watch Anime for Free! :: YugenAnime",
+          "url": "https://yugen.to/",
+          "timestamp": null,
+          "description": "Track, discover, share and watch high quality anime with YugenAnime. Sign up for free!",
+          "color": "#000FFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/3A4bhQoF8GK8bw1yG9ARiBkjNLpjCvETxZMH-UhiPjI/https/yugen.to/static/img/preview.png",
+            "width": 800,
+            "height": 800
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378138486562836",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:33:21.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Animegg*\nhttps://www.animegg.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Anime Online - Streaming Subbed HD | Animegg.org",
+          "url": "https://www.animegg.org/",
+          "timestamp": null,
+          "description": "Watch Naruto, Bleach, One Punch Man or any other Anime Online Streaming Free.Watch anime online free All Episodes & Movies in Dubbed and Subbed, HD and iPhone and android mobile friendly",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378187111116850",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:33:32.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *Animeplyx*\nhttps://animeplyx.eu/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimePlyx - Watch Anime Online in HD",
+          "url": "https://animeplyx.eu/",
+          "timestamp": null,
+          "description": "Watch or download anime in high definition, no ads too. We have the best shows there is and all of them are free and ready for you.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378230815784971",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:33:43.03+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *5Anime*\nhttps://5anime.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "5Anime | Watch High Quality Anime Episodes Online",
+          "url": "https://5anime.net/",
+          "timestamp": null,
+          "description": "Watch High-quality Anime episodes in 360p, 480p, 720p, 1080p on 5Anime. Best of all you can Stream all anime for FREE without Ads!",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378289179496521",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:33:56.945+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeOnsen*\nhttps://animeonsen.xyz/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeOnsen",
+          "url": "https://animeonsen.xyz/",
+          "timestamp": null,
+          "description": "AnimeOnsen is a video streaming platform for anime shows and movies.",
+          "color": "#141414",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7SL4ywra7Ox1LIQp0OAPli01GBGHKpME7L5BLulQZgE/https/cdn.animeonsen.xyz/image/png/animeonsen-logo_darkbg-512x512.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378345626456084",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:34:10.403+00:00",
+      "timestampEdited": "2022-03-31T20:16:39.973+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *9AnimeTV*\nhttps://9animetv.su/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "9anime - Watch English Anime Online Free HD",
+          "url": "https://9animetv.su/",
+          "timestamp": null,
+          "description": "9anime Watch Online English Sub Anime hd video in high quality. watch and download 9 anime all video episodes for free in hd.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QzWWEgPUA05d5hxwgOCrhCMohp4laOcHLn30XxrF_js/https/9animetv.su/wp-content/uploads/2020/08/logo.png",
+            "width": 250,
+            "height": 40
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378399468716042",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:34:23.24+00:00",
+      "timestampEdited": "2022-03-31T20:16:47.007+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AniWatch.pro*\nhttps://aniwatch.pro/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Aniwatch - Free Anime Streaming Online - Aniwatch Official",
+          "url": "https://aniwatch.pro/",
+          "timestamp": null,
+          "description": "Aniwatch Anime is another website offering audience to watch anime for free and viewers so far are quite impressed with the user-friendly interface",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/cmDc3kQfNyN60kFhJTkp5FUM92aKv0upYp2G2aCvebc/%3Ft%3D1616322630/https/aniwatch.pro/public/theme_aniwatch/images/capture.jpg",
+            "width": 650,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378446788861962",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:34:34.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AniStream*\nhttps://anistream.fun/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "anistream - best anime streaming site",
+          "url": "https://anistream.fun/",
+          "timestamp": null,
+          "description": "The best website to watch anime for free thousands of anime episodes. Watch anime online in English at anistream. Subbed, Dubbed, No ADs.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378500274634812",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:34:47.274+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Kissanime*\nhttps://kissanime.dev/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Kissanime original website - Watch Anime Online English Subbed - Ki...",
+          "url": "https://kissanime.dev/",
+          "timestamp": null,
+          "description": "Watch Online KissAnime We Can Watch and Download High Quality kissanime.dev Episodes for free no register Needed. Various Formats from 480p up to 1080p. Thanks",
+          "author": {
+            "name": "admin",
+            "url": "https://kissanime.dev/author/admin/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378552887980062",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:34:59.818+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeNana*\nhttps://animenana.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378596273877034",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:35:10.162+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *123Anime*\nhttps://123animes.ru/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "123anime - Watch download Anime Online English Sub and Dub",
+          "url": "https://123animes.ru/",
+          "timestamp": null,
+          "description": "123anime has free anime online in SUB and DUB HD. 123animes has 11,000+ Anime. Watch and download 123Anime free without Registration.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/cADiKLDibeKLzbuczFEN1mdigzMTmN7zH3HxlY4-4_c/https/123animes.ru/assets/banner.png",
+            "width": 1206,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378648216133663",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:35:22.546+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeXin*\nhttps://animexin.xyz/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeXin",
+          "url": "https://animexin.xyz/",
+          "timestamp": null,
+          "description": "Fansub & Fanshare Donghua",
+          "color": "#3BDB0F",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378692730257448",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:35:33.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *Crimsonfansubs*\nhttps://crimsonfansubs.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Crimson Subs",
+          "url": "https://crimsonfansubs.com/",
+          "timestamp": null,
+          "description": "Welcome to the world of Chinese Anime aka Donghua",
+          "color": "#0C70DE",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ATCIodO2BxLMgw8iyz7ML_htsw8o0OIIxhM4P5hpvEM/https/i0.wp.com/crimsonfansubs.com/wp-content/uploads/2021/07/1.png",
+            "width": 400,
+            "height": 352
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378765702783026",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:35:50.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Animeflix*\nA self hosted Anime site.\nThe content is sourced from GogoAnime. \nhttps://github.com/chirag-droid/animeflix",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - chirag-droid/animeflix: A anime discovery, streaming site ...",
+          "url": "https://github.com/chirag-droid/animeflix",
+          "timestamp": null,
+          "description": "A anime discovery, streaming site made with NextJs and TailwindCSS. Uses AniList API and video data from GogoAnime. No ads and no vpn required - GitHub - chirag-droid/animeflix: A anime discovery, ...",
+          "color": "#1E2327",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378899161350154",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:36:22.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeMint*\nhttps://www.animemint.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home",
+          "url": "https://www.animemint.com/",
+          "timestamp": null,
+          "description": "Watch your favorite anime at AnimeMint. Fast and free!",
+          "color": "#00B894",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hbZ5mvzvubUMIGxAuQ80A29KONV6CWTcAYZuP8DVR_k/https/www.animemint.com/static/animemint-icon-63022ae78829a1870ba0d119fb0c6a95.png",
+            "width": 500,
+            "height": 500
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378941901275187",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:36:32.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Chia Anime*\nhttps://chia-anime.su/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chia Anime - Watch anime free online in high quality",
+          "url": "https://chia-anime.su/",
+          "timestamp": null,
+          "description": "Watch Anime online and Enjoy Fast Updates at Chia Anime. We have thousands of Anime for Online streaming in HD quality videos.",
+          "color": "#168DDD",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/o_fiz0Zub5lFcnGlkAaYlPfvSoK0AT9RSdKFUen0zWU/https/i0.wp.com/chia-anime.su/wp-content/uploads/2020/11/ChiaLogo.png",
+            "width": 390,
+            "height": 100
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939378996037181520",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:36:45.473+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Masteranime*\nhttps://masteranime.es/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Masteranime - Watch Anime Online Free",
+          "url": "https://masteranime.es/",
+          "timestamp": null,
+          "description": "Masteranime - is an anime info database with a streaming option to watch anime in HD. Join the community to keep track of your watched anime and get to follow friends to see what they're watching.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/xdlKlXWMiECNuY4tFtSITmn7csLOR0z5xGdiWSrTIYQ/https/static.anmedm.com/static/img/masteranime-fb-capture.jpg",
+            "width": 850,
+            "height": 416
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939379038865223681",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:36:55.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeCruzers*\nhttps://animecruzers.me/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeCruzers - Watch HD Anime (No Ads)",
+          "url": "https://animecruzers.me/",
+          "timestamp": null,
+          "description": "Watch HD Anime (No Ads)",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/B8i3WqxYrS0hDHqO0Ns7JCEkhKuN9lAVASjgvkVYvzw/https/www.themoviedb.org/t/p/original/x6jWDL4H9TaBLGEvyej0qKiirBU.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939379079730307123",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:37:05.427+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *KimAnime*\nhttps://kimanime.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "KimAnime",
+          "url": "https://kimanime.com/",
+          "timestamp": null,
+          "description": "Kimanime - Watch anime online",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939379123724353557",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:37:15.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Dub** *AnimelandTV*\nhttps://www.animelandtv.me/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Animeland - Watch Anime English Dubbed",
+          "url": "https://www.animelandtv.me/",
+          "timestamp": null,
+          "description": "Watch Anime English Dubbed on Animeland you can Watch anime dubbed for free no need to register also animeland video quality is 480p upto 1080p visit now and bookmark us",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939379319644491866",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:38:02.627+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *LMAnime*\nhttps://lmanime.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LM ANIME",
+          "url": "https://lmanime.com/",
+          "timestamp": null,
+          "description": "Watch Chinese Anime | Donghua | Animation With Subtitles.Chinese donghua /Anime only on LMAnime.com.Better quality.Good translation.Annoying ad free site.Watch donghua online.Chinese Animation.",
+          "color": "#156FBF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939379368868839515",
+      "type": "Default",
+      "timestamp": "2022-02-05T04:38:14.363+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeEpisodes*\nhttps://ww6.animesepisodes.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimesEpisodes",
+          "url": "https://ww6.animesepisodes.com/",
+          "timestamp": null,
+          "description": "Watch Free Anime Episodes",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "959184418273099787",
+      "type": "Default",
+      "timestamp": "2022-03-31T20:16:26.101+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime Opening & Ending Themes** *Themes.moe*\nhttps://themes.moe/\nhttps://staging.animethemes.moe/wiki/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "♪Themes.moe♪",
+          "url": "https://themes.moe/",
+          "timestamp": null,
+          "description": "Search for your favorite anime openings and endings with your MyAnimeList or AniList username, browse our collection, per-season lists, or try the roulette!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0EBBMlEVcnhXfvMHZYYdMjUcktqmqw_WF5fH42AjQgk/https/themes.moe/assets/img/fb.png",
+            "width": 1637,
+            "height": 861
+          },
+          "fields": []
+        },
+        {
+          "title": "AnimeThemes",
+          "url": "https://staging.animethemes.moe/wiki/",
+          "timestamp": null,
+          "description": "AnimeThemes is a simple and consistent repository of anime opening and ending themes.",
+          "color": "#1C1823",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "959184511407620136",
+      "type": "Default",
+      "timestamp": "2022-03-31T20:16:48.306+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime Streaming Client** *Yuna*\nhttps://yuna.moe/\nhttps://github.com/BeeeQueue/yuna",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "964353312403120138",
+      "type": "Default",
+      "timestamp": "2022-04-15T02:35:46.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *ChiaAnime.cc*\nhttps://chia-anime.cc/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chia-Anime | Watch Anime Online in High Quality",
+          "url": "https://chia-anime.cc/",
+          "timestamp": null,
+          "description": "A free anime streaming websites contains 50000 episodes in high quality and 5000 anime series with english subbed!",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "964354207878623312",
+      "type": "Default",
+      "timestamp": "2022-04-15T02:39:19.993+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *DubbedAnime*\nhttps://dubbedanime.biz/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Anime Online English Dubbed dubbedanime",
+          "url": "https://dubbedanime.biz/",
+          "timestamp": null,
+          "description": "Watch anime online in English dubbed, watch dubbedanime in high quality online free no sign up require.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "964430974656053328",
+      "type": "Default",
+      "timestamp": "2022-04-15T07:44:22.619+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeGo*\nhttps://animego.se/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeGo - Watch High Quality Anime Online",
+          "url": "https://animego.se/",
+          "timestamp": null,
+          "description": "AnimeGo - Watch High Quality Anime Online. You can watch anime online free in HD without Ads. Best place for free find and one-click anime.",
+          "color": "#202125",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/do80H-N9Dvv2zYdFLXzwwa3zcxjLEsK69KD8NsSkZXE/%3Fv%3Danimego/https/animego.se/assets/fb/banner.png",
+            "width": 650,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "964768191333167144",
+      "type": "Default",
+      "timestamp": "2022-04-16T06:04:21.34+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**sub/dub** *AnimeSanka*\nhttps://animesanka.com/",
+      "author": {
+        "id": "925645788590252032",
+        "name": "Pixel_1",
+        "discriminator": "6758",
+        "nickname": "Pixel_1",
+        "color": "#00FF4A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/925645788590252032/e735505f92b518a3e12e4250c2398ace.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeSanka - Watch High Quality Anime Online",
+          "url": "https://animesanka.com/",
+          "timestamp": null,
+          "description": "AnimeSanka - Watch High Quality Anime Online. You can watch anime online free in HD without Ads. Best place for free find and one-click anime.",
+          "color": "#202125",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8a3702A-o-8-ZTvgjbOH1bose2-E64F7NS7OfGCTrzU/%3Fver%3Danimesanka/https/animesanka.com/theme/6anime/assets/images/6anime.png",
+            "width": 650,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "966146961277325372",
+      "type": "Default",
+      "timestamp": "2022-04-20T01:23:05.711+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *MasterAni*\nhttps://www.masterani.one/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Masterani - Watch Anime Online for Free",
+          "url": "https://www.masterani.one/",
+          "timestamp": null,
+          "description": "Watch Anime Movies and TV Shows for free Online in HD 1080p/720p/480p Quality with English Subtitles. Stream Your Favourite Anime Series and Movies with Eng Sub updated daily-wise on Masterani.",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 88
+}

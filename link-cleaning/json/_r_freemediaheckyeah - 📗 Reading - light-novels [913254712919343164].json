@@ -1,0 +1,3255 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254712919343164",
+    "type": "GuildTextChat",
+    "categoryId": "913254712776732724",
+    "category": "\uD83D\uDCD7 Reading",
+    "name": "light-novels",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_light_novel_sites"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "939189834302492742",
+      "type": "Default",
+      "timestamp": "2022-02-04T16:05:05.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841719824957482",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:27.421+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Armaell's Library*\nhttps://armaell-library.net/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Download ebooks",
+          "url": "https://armaell-library.net/",
+          "timestamp": null,
+          "description": "Download and read Light Novels, Chinese Novels and Web Fictions",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841721276186664",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:27.767+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Novelonlinefree*\nhttps://novelonlinefree.com/homepage",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read Light Novel Online Free",
+          "url": "https://novelonlinefree.com/homepage",
+          "timestamp": null,
+          "description": "Read light novel, web novel, korean novel and chinese novel online for free. On novelonlinefree.com you can find hundreds of english translated light novel, web novel, korean novel and chinese novel which are daily updated! We have Battle Through The Heavens, Against the Gods, Coiling Dragon, Soul Land, Tales of Demons & Gods, Desolate Era and m...",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841722723225681",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:28.112+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *jnovels*\nhttps://jnovels.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "jnovels - No 1 Light Novel website",
+          "url": "https://jnovels.com/",
+          "timestamp": null,
+          "description": "Jnovels.com is your best destination to download all your favorite Japanese Light Novels such as: Danmachi, Goblin Slayer, Overlord, Sword Oratoria, Accel World. Your favorite Comic Books and Mangas are available for download in pdf or epub formats. Number one place to download free comic books, Free cbr download, Download free cbz, Download Mar...",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841726288371712",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:28.962+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *English Light Novels*\nhttps://englishlightnovels.com/list-of-light-novels/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "List of Light Novels (Alphabetical)",
+          "url": "https://englishlightnovels.com/list-of-light-novels/",
+          "timestamp": null,
+          "description": "This is the complete list of light novels translated and published officially in English, ordered Alphabetically. We’ve added tags next to some titles to indicate their current publication st…",
+          "author": {
+            "name": "JustusRStone",
+            "url": "https://englishlightnovels.com/author/jrstone/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nckiyfb41ClnoyGfnetkv5QnDI6Fx7NGLn3Fdrje44E/https/englishlightnovels.com/wp-content/uploads/2019/02/86-eighty-six-banner.jpg",
+            "width": 750,
+            "height": 380
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841727819296808",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:29.327+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *ReadNovelFull*\nhttps://readnovelfull.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Best Books To Read Online - Free Light Novel Online - ReadNovelFull",
+          "url": "https://readnovelfull.com/",
+          "timestamp": null,
+          "description": "We are offering thousands of free books online read! Read novel updated daily: light novel translations, web novel, chinese novel, japanese novel, korean novel, english novel and other novels online.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841742495154198",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:32.826+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Light Novel World*\nhttps://www.lightnovelworld.com",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read Light Novels Online For Free | Light Novel World",
+          "url": "https://www.lightnovelworld.com/",
+          "timestamp": null,
+          "description": "Special platform where you can read the translated versions of world famous Japanese Light Novels, Chinese Light Novels and Korean Light Novels in English. Start reading now to explore this mysterious fantasy world.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/bvsai3Z5t6_OMCyzTVs6OSMmluhr3HhcqLB7kP3_BIg/https/static.lightnovelworld.com/content/img/lightnovelworld/logo.png",
+            "width": 150,
+            "height": 94
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841744101605407",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:33.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Baka-Tsuki*\nhttps://www.baka-tsuki.org/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841746035179530",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:33.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Light Novels Translations*\nhttps://lightnovelstranslations.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Light Novels Translations",
+          "url": "https://lightnovelstranslations.com/",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/LH3wgGSarGy2QaKI-gzotYxLZFJsZD4s6Izi4cLJx0o/https/s0.wp.com/i/blank.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841747176026144",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:33.942+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Mnovel Free*\nhttps://mnovelfree.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mnovel Free",
+          "url": "https://mnovelfree.com/",
+          "timestamp": null,
+          "description": "Read light novel, web novel, korean novel and chinese novel online for free. On Mnovelfree.com you can find hundreds of english translated light novel, web novel, korean novel and chinese novel which are daily updated! We have Battle Through The Heavens, Against the Gods, Coiling Dragon, Soul Land, Tales of Demons & Gods, Desolate Era and many m...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/F6R7B1flVsH5w-rDZBPOKuqege4y2vcVTJrOXXeaxto/http/mnovelfree.com//images/2020/10/perfect-secret-love-the-bad-new-wife-is-a-little-sweet.jpeg",
+            "width": 221,
+            "height": 324
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841748748865547",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:34.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *FreeLightNovel*\nhttps://www.freelightnovel.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "FreeLightNovel | Read free light novel online",
+          "url": "https://www.freelightnovel.com/",
+          "timestamp": null,
+          "description": "Free Light Novel website provides free and updated light novel online .You can read free light novel with your PC or Mobile devices here for free.We also update the latest novel chapter quickly.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841765307998259",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:38.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Premium Light Novels** *ThatNovelCorner*\nhttps://thatnovelcorner.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "That Novel Corner - light novels and then some",
+          "url": "https://thatnovelcorner.com/",
+          "timestamp": null,
+          "description": "light novels and then some",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841766931189810",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:38.652+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *RnDNovels*\nhttps://www.rndnovels.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841768583745607",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:39.046+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Manga / Light Novels** *MP4DIRECTS*\nhttps://mp4directs.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MP4DIRECTS - MP4DIRECTS COMMUNITY",
+          "url": "https://mp4directs.com/",
+          "timestamp": null,
+          "description": "Mp4directs community -  Light Novel Download, Best site to download free comic books, Free cbr download, Download free cbz, Download Marvel comics, Free DC Comics, Free Manga download, Download Scanlation, Image, Dark Horse,epub download, pdf download,manga download",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841771163238431",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:39.661+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Read Light Novel*\nhttps://www.readlightnovel.org/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read free English translated Light Novel online!",
+          "url": "https://www.readlightnovel.org/",
+          "timestamp": null,
+          "description": "Read light novel, web novel, korean novel and chinese novel online for free. On readlightnovel.me you can find hundreds of english translated light novel, web novel, korean novel and chinese novel which are daily updated! We have Battle Through The Heavens, Against the Gods, Coiling Dragon, Soul Land, Tales of Demons & Gods, Desolate Era and man...",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841787806236752",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:43.629+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels / Audio Recordings** *Baka-Tsuki*\nhttps://www.baka-tsuki.org/project/?title=Main_Page",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://www.baka-tsuki.org/project/?title=Main_Page",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/33JlxpA76v9ngQ8QuAJpHVF8UQbHFU8Vi96BY_4j0dM/https/www.baka-tsuki.org/project/images/4/45/PumkiMpagebanner.png",
+            "width": 240,
+            "height": 100
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841788947103794",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:43.901+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Web Novel*\nhttps://www.webnovel.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Webnovel - Your Fictional Stories Hub",
+          "url": "https://www.webnovel.com/",
+          "timestamp": null,
+          "description": "Your own fictional stories hub",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841790616403980",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:44.299+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Novel Updates*\nhttps://www.novelupdates.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841792231235624",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:44.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Nakimushitl*\nhttps://nakimushitl.wordpress.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Nakimushi",
+          "url": "https://nakimushitl.wordpress.com/",
+          "timestamp": null,
+          "description": "No blood, no bone, no ash, just tears.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/LH3wgGSarGy2QaKI-gzotYxLZFJsZD4s6Izi4cLJx0o/https/s0.wp.com/i/blank.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841796387794984",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:45.675+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Shin Translations*\nhttps://shintranslations.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Shin Translations",
+          "url": "https://shintranslations.com/",
+          "timestamp": null,
+          "description": "Japanese light novel translations",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NMzH9KXpMFkiPHIxz0-YNXAp5z7HWRvC6fYJxLNBlj8/https/shintranslations.com/wp-content/uploads/2016/06/cropped-SchneeSiteIcon.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841813144014889",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:49.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Skythewood Translations*\nhttps://skythewood.blogspot.com/?m=1",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Skythewood translations",
+          "url": "https://skythewood.blogspot.com/?m=1",
+          "timestamp": null,
+          "description": "Susthewood Translations",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841814817546271",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:50.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Tensai Translations*\nhttps://tensaitranslations.wordpress.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tensai Translations",
+          "url": "https://tensaitranslations.wordpress.com/",
+          "timestamp": null,
+          "description": "Translations for different web novels",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/LH3wgGSarGy2QaKI-gzotYxLZFJsZD4s6Izi4cLJx0o/https/s0.wp.com/i/blank.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841818831487006",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:51.026+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Void Translations*\nhttps://voidtranslations.wordpress.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Void Translations",
+          "url": "https://voidtranslations.wordpress.com/",
+          "timestamp": null,
+          "description": "Back but not Back....Forward but not Forward",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/LH3wgGSarGy2QaKI-gzotYxLZFJsZD4s6Izi4cLJx0o/https/s0.wp.com/i/blank.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841820614086686",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:51.451+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novels** *Henkan Epubs*\nhttps://henkanepubs.wordpress.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "henkanepubs",
+          "url": "https://henkanepubs.wordpress.com/",
+          "timestamp": null,
+          "description": "Your Light Novels Epubs",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/LH3wgGSarGy2QaKI-gzotYxLZFJsZD4s6Izi4cLJx0o/https/s0.wp.com/i/blank.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841822031761441",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:51.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *Moon Bunny Cafe*\nhttps://moonbunnycafe.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Moon Bunny Cafe",
+          "url": "https://moonbunnycafe.com/",
+          "timestamp": null,
+          "description": "Sating your thirst",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/LH3wgGSarGy2QaKI-gzotYxLZFJsZD4s6Izi4cLJx0o/https/s0.wp.com/i/blank.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841835159916585",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:54.919+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *VolareNovels*\nhttps://www.volarenovels.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home",
+          "url": "https://www.volarenovels.com/",
+          "timestamp": null,
+          "description": "Chinese Fantasy & Romance",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841836833464370",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:55.318+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *Rekt Novel Compilations*\nhttps://rektnovelcompilations.wordpress.com",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "~ Rekt Novel Compilations ~",
+          "url": "https://rektnovelcompilations.wordpress.com/",
+          "timestamp": null,
+          "description": "Light novel downloads",
+          "color": "#2D2D2D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/95dJ4EnDsyZn8zwBzYhd24KBFePaBueYCqqpxiZe-ng/%3Fs%3D200%26ts%3D1644146155/https/secure.gravatar.com/blavatar/c00148792668235365995b3cc51b0cb8",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841838242742302",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:55.654+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *MTL Novel*\nhttps://www.mtlnovel.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841839618457600",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:55.982+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *NovelFull*\nhttps://novelfull.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read Books Online Free - Free Novels Online",
+          "url": "https://novelfull.com/",
+          "timestamp": null,
+          "description": "We are offering free books online read! Read novel updated daily: light novel translations, web novel, chinese novel, japanese novel, korean novel and other novel online.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841840939683881",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:15:56.297+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Manga / Novels** *WuxiaWorld*\nhttps://wuxiaworld.site/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841857364557925",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:00.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Light-Novels** *Just Light Novels*\nhttps://www.justlightnovels.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Just Light Novel",
+          "url": "https://www.justlightnovels.com/",
+          "timestamp": null,
+          "description": "Home of All Light Novels",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841858601910273",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:00.508+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels Crawler** *Book Smelting Bot*\nhttps://t.me/epub_smelter_bot",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83D\uDD25 Book Smelting Bot \uD83D\uDD25",
+          "url": "https://t.me/epub_smelter_bot",
+          "timestamp": null,
+          "description": "You can contact @epub_smelter_bot right away.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/C0PXJ5814aDUgNxsI8R6T32DL2cfP3OIRaSNEDxa7J4/https/cdn5.telesco.pe/file/he6plR_UFxJktJC_9Ti_6o98DXJ2GsHz_I7A3Te7pqkE-xPTcem4OkBw3ImcuMxTuF83DEF30z6BjHynAaU8OV45AvdMOcrZujBq-nBjh3X4MzGNOYahJlC9GPbrYvm-au5DVfoZXrM_6UW9Ev0-Y3b64SwujD9adhW_0U6Worf-x6yOO1RlJhds6yMQQITCnqOGg60Oun8bKIiveE3ikLStBDcvHAM2JCpy9fifKTUor4Ju3LVFnoZFg6jvQT8aVzImPsOEF4efKbl2QjfjfCwmKejIE2dzunNwgSntT6fwhakuM3UCp_oS557-XwmmTi33F_xzAKnZxUA_ePf8jQ.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841860363509770",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:00.928+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light-Novel Downloader** *Novel-Grabber*\nhttps://github.com/Flameish/Novel-Grabber",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Flameish/Novel-Grabber: Novel-Grabber can download novels ...",
+          "url": "https://github.com/Flameish/Novel-Grabber",
+          "timestamp": null,
+          "description": "Novel-Grabber can download novels from pretty much any webnovel and lightnovel site. - GitHub - Flameish/Novel-Grabber: Novel-Grabber can download novels from pretty much any webnovel and lightnove...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/umSTUYxHG67BEHC9qJEuxkZd_e0K167_6NoAyg5hyUk/https/opengraph.githubassets.com/ad12f2986bd84cfe52bec5e86c538028b27e9fbe77f295a422200b9e85126f0d/Flameish/Novel-Grabber",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841861206544436",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:01.129+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novel Downloader** *Lightnovel Crawler*\nhttps://github.com/dipu-bd/lightnovel-crawler/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - dipu-bd/lightnovel-crawler: Generate and download e-books ...",
+          "url": "https://github.com/dipu-bd/lightnovel-crawler/",
+          "timestamp": null,
+          "description": "Generate and download e-books from online sources. - GitHub - dipu-bd/lightnovel-crawler: Generate and download e-books from online sources.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/N0ZtDSWcDvF_Hx69JMgX698pTi-aqL9OnxMz-3jsex8/https/repository-images.githubusercontent.com/117826737/a863b3d6-db21-4057-bba7-172cd2f2f5f2",
+            "width": 1356,
+            "height": 668
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841864150966284",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:01.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novel Downloader** *QuickNovel*\nhttps://github.com/LagradOst/QuickNovel",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - LagradOst/QuickNovel: Android app for downloading novels",
+          "url": "https://github.com/LagradOst/QuickNovel",
+          "timestamp": null,
+          "description": "Android app for downloading novels. Contribute to LagradOst/QuickNovel development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/N96AT0IPE3MTZ0EQMVfBnPE-lTmO2sDcoiG2ZeO4e58/https/opengraph.githubassets.com/59b617dadd301d9658eebdcc0860bf29fe6adf48c5a35549e1e1fa4ef93c8b09/LagradOst/QuickNovel",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841880009629728",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:05.612+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Novel to EPUB Converter** *WebToEpub*\nhttps://github.com/dteviot/WebToEpub",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - dteviot/WebToEpub: A simple Chrome (and Firefox) Extension...",
+          "url": "https://github.com/dteviot/WebToEpub",
+          "timestamp": null,
+          "description": "A simple Chrome (and Firefox) Extension that converts Web Novels (and other web pages) into an EPUB. - GitHub - dteviot/WebToEpub: A simple Chrome (and Firefox) Extension that converts Web Novels (...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tGAhBdLvJuEny9C4dVS7CyPt1eYk1rr5DosTcK9ZwVU/https/opengraph.githubassets.com/750e5eebd672fc235490f419b40b05daf7faaffafb3353867ff87178b5eb3c7a/dteviot/WebToEpub",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841882039664660",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:06.096+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *Light Novel Pub*\nhttps://www.lightnovelpub.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read Light Novels Online For Free | Light Novel Pub",
+          "url": "https://www.lightnovelpub.com/",
+          "timestamp": null,
+          "description": "Special platform where you can read the translated versions of world famous Japanese Light Novels, Chinese Light Novels and Korean Light Novels in English. Start reading now to explore this mysterious fantasy world.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/2ceJ6WRBqhG9t-N12Hr5ayH0t4T6Vfv8VaWmUdLtToI/https/static.lightnovelpub.com/content/img/lightnovelpub/logo.png",
+            "width": 200,
+            "height": 128
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841883033731113",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:06.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *JPMTL*\nhttps://jpmtl.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read Quality Machine Translated Japanese Fantasy Light novels and W...",
+          "url": "https://jpmtl.com/",
+          "timestamp": null,
+          "description": "Read Quality Machine Translated Japanese Fantasy Light novels and Web novels free! - JPMTL",
+          "color": "#C52D2D",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841885055381544",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:06.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novel Downloads** *LNWNCentral*\nhttps://lnwncentral.wordpress.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LNWNCentral",
+          "url": "https://lnwncentral.wordpress.com/",
+          "timestamp": null,
+          "description": "Novels in PDF and EPUB format",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/LH3wgGSarGy2QaKI-gzotYxLZFJsZD4s6Izi4cLJx0o/https/s0.wp.com/i/blank.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841886414323742",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:07.139+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *NovelOnlineFull*\nhttps://novelonlinefull.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read Light Novel - Free Online Novels | Novelonlinefull.com",
+          "url": "https://novelonlinefull.com/",
+          "timestamp": null,
+          "description": "Read complete light novels, Korean and Chinese novels online for free. Find hundreds of English translated light novels which are daily updated on novelonlinefull.com!",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841902746939463",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:11.033+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *BestLightNovel*\nhttps://bestlightnovel.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read Light Novel Online Free | BestLightNovel.com",
+          "url": "https://bestlightnovel.com/",
+          "timestamp": null,
+          "description": "Read light novel, web novel, korean novel and chinese novel online for free. On BestLightNovel.com you can find hundreds of english translated light novel, web novel, korean novel and chinese novel which are daily updated! We have Battle Through The Heavens, Against the Gods, Coiling Dragon, Soul Land, Tales of Demons & Gods, Desolate Era and ma...",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841903963299900",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:11.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *LightNovelPDF*\nhttps://lightnovelpdf.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Light Novel PDF - Light Novel Download",
+          "url": "https://lightnovelpdf.com/",
+          "timestamp": null,
+          "description": "Light Novel PDF Reader you can download and read Light Novels Online Free, Web Novel Updates and download light novels pdf free in English, Japanese, Korean and Chinese.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JMJa54S4wGp6M8Sx6XcwSCapmXfqaNdHqzEOLW0bC3s/%3Fid%3DwYPvgqW.png%26format%3Dpng/https/lightnovelpdf.com/api/cover_visor.php",
+            "width": 300,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841905628422165",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:11.72+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *DaoNovel*\nhttps://daonovel.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Daonovel - Read chinese fantasy novels and light novels!",
+          "url": "https://daonovel.com/",
+          "timestamp": null,
+          "description": "Daonovel Provides you English Translation of Latest Chinese, Japanese, Korean - Fantasy and Light Novels. All Novels are Updated Daily",
+          "color": "#1670BF",
+          "author": {
+            "name": "admin",
+            "url": "https://daonovel.com/author/admin/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/YCwXShmhck4ciG5X6xgdvLvbLYCsX-702xCcEi-rbvI/https/daonovel.com/wp-content/uploads/2019/02/daonovel.png",
+            "width": 425,
+            "height": 96
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841907155161118",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:12.084+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *FreeWebNovel*\nhttps://freewebnovel.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Free Web Novel - Read Novels Online For Free",
+          "url": "https://freewebnovel.com/",
+          "timestamp": null,
+          "description": "We are offering free books online read! Read novel updated daily: light novel translations, web novel, chinese novel, japanese novel and korean novel online.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841908530872320",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:12.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *AsianHobbyist*\nhttps://www.asianhobbyist.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Asian Hobbyist – A Window To Asian Content",
+          "url": "https://www.asianhobbyist.com/",
+          "timestamp": null,
+          "description": "A Window To Asian Content",
+          "color": "#D5E0EB",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841924959981590",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:16.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *WoopRead*\nhttps://woopread.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home - WoopRead",
+          "url": "https://woopread.com/",
+          "timestamp": null,
+          "description": "the joy of reading",
+          "author": {
+            "name": "admin",
+            "url": "https://woopread.com/author/admin/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/VHSqDew24UQ7k4SdynZUoFzGgWGEASq6qwHDyHThEa4/https/woopread.com/wp-content/uploads/2020/05/svgexport-30.png",
+            "width": 370,
+            "height": 91
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841926247620618",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:16.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *Ranobes*\nhttps://ranobes.net/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841927287824415",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:16.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *Novel Ebooks*\nhttps://novel-ebook.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841928533540865",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:17.181+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *AsianNovel*\nhttps://www.asianovel.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://www.asianovel.com/",
+          "timestamp": null,
+          "description": "ASIANOVEL is the largest online ebook library for asian translated novels. Create your own EPUBs and PDFs. Select only chapters you want to read. And download to your device.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841930404192326",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:17.627+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *Octiopii*\nhttps://octopii.co/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Octopii: Read Light Novels Online for Free",
+          "url": "https://octopii.co/",
+          "timestamp": null,
+          "description": "Octopii is a special website where you can read light novels, published novels and web novels for free. The English versions of Japanese, Chinese and Korean Light Novels are available for online reading.",
+          "author": {
+            "name": "octopee",
+            "url": "https://octopii.co/author/octopee/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/sH07MrMThaKf_NMVQu30iyM53bUPRNI8xSfSz6n_W3E/https/octopii.co/wp-content/uploads/2021/09/octopii-logo-128.png",
+            "width": 100,
+            "height": 150
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841947886059571",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:21.795+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *List Novel*\nhttp://www.listnovel.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ListNovel",
+          "url": "http://www.listnovel.com/",
+          "timestamp": null,
+          "description": "Read Free Novels Online",
+          "author": {
+            "name": "aclabbe11979",
+            "url": "https://listnovel.com/author/aclabbe11979/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/tIu49heGG4kAkcsRQ1nNPlrqOUZ2-syrccXezPDFyYc/https/listnovel.com/wp-content/uploads/2017/10/coollogo_com-302831470.png",
+            "width": 307,
+            "height": 97
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841949119176734",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:22.089+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *WuxiaWorld*\nhttps://www.wuxiaworld.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wuxiaworld",
+          "url": "https://www.wuxiaworld.com/",
+          "timestamp": null,
+          "description": "Chinese fantasy novels and light novels!",
+          "color": "#313131",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841950352297984",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:22.383+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novel Translator** *LNMTL*\nhttps://lnmtl.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home page",
+          "url": "https://lnmtl.com/",
+          "timestamp": null,
+          "description": "LNMTL - Place where Web Novels are being MTLed",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841951312805910",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:22.612+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Wuxia &amp; Light Novel** *Readwn*\nhttps://www.readwn.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read Web Novels Online For Free - Your Wuxia & Light Novels Hub.",
+          "url": "https://www.readwn.com/",
+          "timestamp": null,
+          "description": "Read English Machine Translation Novels on Readwn.com. Every new raw chapters published is updated instantly",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841952839520316",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:22.976+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Light Novels** *KonoSuba!*\nhttps://xyz.iamzlnk.xyz/0:/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841970208120832",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:27.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *NovelCool*\nhttps://www.novelcool.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841971416084560",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:27.405+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *Light Novel Archive*\nhttps://t.me/LightNovelArchives\nhttps://t.me/LN_Index",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Light Novel Archive",
+          "url": "https://t.me/LightNovelArchives",
+          "timestamp": null,
+          "description": "A collective channel for Light Novels and Web Novels\t\tRequest Light Novels here :- @lightnovelarchive_bot\t\tCheck \uD83D\uDC47\tAnime : @Anime_Gallery\tManga: @manga_gallery\tGroup : @Anime_Discussion_Cafe\tAnime Ost: @animemusicstash\tAnime News: @Anime_News",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YyX15o7giwX96H3o4WWhycEnvJQmrDyQHoMYYRLB-OI/https/cdn5.telesco.pe/file/LBR8QtRQynPyCEsxnaBwm-mkyd-U0St8dvwlX2apXwe1fxtGSMqjZ-z9abH0Zurx8dlMWiWy556L-Eq0BFdxl3JIe24QHFFa40VLUcCaXf20JegwPGDH3LvlCU6Mq-37BxhfHJThwV-IOtFwaIYwz4HkBRT6RWYahkrFbbu6bmm8RbfFNSF4Qzhscd00zJXazS3-6ORkCqReAt30hYfJ0YDtB8KtCo109TYRRPZ0mW756Ly2Dm0LZ7Oy8aDm3ye7yOWnsin0-WS0sp4RabWc3g4SwpNsgWMA-SRxWKFREg_jmJ4jZX0RZCF65ERuA7RXHTGtP6_8rqZ-4NUEYtJQ-A.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        },
+        {
+          "title": "Light Novel Index",
+          "url": "https://t.me/LN_Index",
+          "timestamp": null,
+          "description": "Index for @LightNovelArchives",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/4dG-j34K80XEck_eQB-Mbq0eBXQpbXeeqI-Bgr9nnTc/https/cdn5.telesco.pe/file/dXDz5GJ8GZlohEfDQSwG5l6r3afuemOhz1MURi1TR7bpNejjs-mcZWCdZQgumO28ht3ZODqNhEroJ3IQdpdij43xEyhTc7c0iOjwVHD0atfTKZurh9KMRIL9IY_hXKsdO0ftxJvNNROfbF4OsRtMGvaPVy8VYJrNsHKsAb9OObn8xKGCjRibvv5D8hiYksj9NRXeB5s7xVAAPOv7g8umhTQRCoIKWV87EnbZomm1hDm4M4Cr05XiR66Z4Pm33IY0hvY4DA2UtLXeuVVkkkAMa2f6geW5B9FRNsdDn7iGC0rnq3CRo1SrXMVYfXwQnfdWcBLeBuu5iVW5rtDavUdexg.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841972984746024",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:27.779+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *Scribblehub*\nhttps://www.scribblehub.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841974465359953",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:28.132+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *NovelReader*\nhttps://github.com/Kevin-Umali/NovelReader",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Kevin-Umali/NovelReader: Light Novel Reader for Windows",
+          "url": "https://github.com/Kevin-Umali/NovelReader",
+          "timestamp": null,
+          "description": "Light Novel Reader for Windows. Contribute to Kevin-Umali/NovelReader development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tNdrGDpFcLAC8tqGS0bpsrisn6n-TAonUAB0R93JAyw/https/opengraph.githubassets.com/d8aef7973bb6e075e161062cbd25d27dcb3a70c11719477a29cc6c11e23037ac/Kevin-Umali/NovelReader",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841976117919814",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:28.526+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime / Manga / LN Downloader** *Anime-dl*\nhttps://github.com/vrienstudios/anime-dl\nhttps://github.com/vrienstudios/anime-dl",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - vrienstudios/anime-dl: ADLCore is an API and app for the d...",
+          "url": "https://github.com/vrienstudios/anime-dl",
+          "timestamp": null,
+          "description": "ADLCore is an API and app for the download of novels, manga, and anime from a plethora of sites. It works on Windows, Linux, OSX, and Android. - GitHub - vrienstudios/anime-dl: ADLCore is an API an...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/5hNqqZmXuMlrVRjgxLCIFIoUXPswJrgCwMfoVyNB5XA/https/repository-images.githubusercontent.com/280795543/9ae82b00-2747-11eb-83a2-49a3d467c9ec",
+            "width": 480,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841992328904765",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:32.391+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *Read Light Novel*\nhttps://www.readlightnovel.me/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read free English translated Light Novel online!",
+          "url": "https://www.readlightnovel.me/",
+          "timestamp": null,
+          "description": "Read light novel, web novel, korean novel and chinese novel online for free. On readlightnovel.me you can find hundreds of english translated light novel, web novel, korean novel and chinese novel which are daily updated! We have Battle Through The Heavens, Against the Gods, Coiling Dragon, Soul Land, Tales of Demons & Gods, Desolate Era and man...",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841994065322014",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:32.805+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *All Novel Full*\nhttps://allnovelfull.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Read free English translated Light Novel - Novel Online - AllNovelFull",
+          "url": "https://allnovelfull.com/",
+          "timestamp": null,
+          "description": "AllNovelFull offers users to read free books online. You can find thousands of English translated light novel, web novel, Korean novel, Chinese novel, Japanese novel, Korean novel and other novel online which are daily updated!",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841995554304040",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:33.16+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Machine Translated Light Novels** *MTL Nation*\nhttps://mtlnation.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home",
+          "url": "https://mtlnation.com/",
+          "timestamp": null,
+          "description": "Read English Machine Translated Popular and Premium Web Novel For Free Online. A collection of Popular and Premium Action, Fan-Fiction, Fantasy, and Many More Novels. - MTLNATION",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841997060055090",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:33.519+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *WebNovelOnline*\nhttps://webnovelonline.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "WebNovelOnline - Read Light Novel, Kungfu Novel Online Free",
+          "url": "https://webnovelonline.com/",
+          "timestamp": null,
+          "description": "❶❶✅ Read web novels, light novels, japanese novels, korean novels and chinese novels online for free. Updated with awesome new content daily. Try WebNovelOnline.com! Find all your favorite novels.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/wT_fjuQlvEDILofE4jep7qSEILIs5eOxPveN5SqZf8c/https/webnovelonline.com/webnovelonline.png",
+            "width": 600,
+            "height": 300
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 64
+}

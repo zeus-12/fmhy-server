@@ -1,0 +1,618 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254713628176384",
+    "type": "GuildTextChat",
+    "categoryId": "913254713288454198",
+    "category": "\uD83D\uDCF1 android / ios",
+    "name": "ios-reading",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "939190538521952286",
+      "type": "Default",
+      "timestamp": "2022-02-04T16:07:53.7+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939430784853495888",
+      "type": "Default",
+      "timestamp": "2022-02-05T08:02:32.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Manga** *Manga Bird*\nhttps://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417",
+      "author": {
+        "id": "864483354023165982",
+        "name": "TheRedSpecial",
+        "discriminator": "8311",
+        "nickname": "C₁₇H₂₁NO₄",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864483354023165982/45e56fbb9fb9c91d10ed880f41ca7573.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939430851995906098",
+      "type": "Default",
+      "timestamp": "2022-02-05T08:02:48.897+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Manga / iOS** *Paperback*\nhttps://paperback.moe/\nhttps://discord.gg/Ny83JV3",
+      "author": {
+        "id": "864483354023165982",
+        "name": "TheRedSpecial",
+        "discriminator": "8311",
+        "nickname": "C₁₇H₂₁NO₄",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864483354023165982/45e56fbb9fb9c91d10ed880f41ca7573.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Paperback",
+          "url": "https://paperback.moe/",
+          "timestamp": null,
+          "description": "An ad-free manga reader for iOS and iPadOS.",
+          "color": "#D21A1C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/_MxOV45-8AL6iSs0HKgKXDx4odLuOurxNwRlRxHsvqY/https/paperback.moe/icons/logo.png",
+            "width": 1000,
+            "height": 1000
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939430897248268318",
+      "type": "Default",
+      "timestamp": "2022-02-05T08:02:59.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Manga/iOS** *Manga Max*\nhttps://apps.apple.com/us/app/apple-store/id1558957618",
+      "author": {
+        "id": "864483354023165982",
+        "name": "TheRedSpecial",
+        "discriminator": "8311",
+        "nickname": "C₁₇H₂₁NO₄",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864483354023165982/45e56fbb9fb9c91d10ed880f41ca7573.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "‎Manga Max - Manga Reader",
+          "url": "https://apps.apple.com/us/app/apple-store/id1558957618",
+          "timestamp": null,
+          "description": "‎Our target is to become the best manga reader app on the Appstore, aims to provide unlimited manga content and coolest reader.\n\nManga Max(Manga X) is a browser for manga. It does not own or host any manga. All the data is fetched from the origin website as external source\n\nManga Max(MAX) - read mang…",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/B2IUBl24yG1KHR-tUJ_gpCnKbj2lStf_kVoqIDB4U5U/https/is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/b8/a0/f1b8a045-bead-2f52-8978-c70ba87eca4f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939430920614727680",
+      "type": "Default",
+      "timestamp": "2022-02-05T08:03:05.257+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Borrow Digital Library Books** *Libby*\nhttps://www.overdrive.com/apps/libby/",
+      "author": {
+        "id": "864483354023165982",
+        "name": "TheRedSpecial",
+        "discriminator": "8311",
+        "nickname": "C₁₇H₂₁NO₄",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864483354023165982/45e56fbb9fb9c91d10ed880f41ca7573.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Download the Libby App: ebooks & audiobooks FREE from your library",
+          "url": "https://www.overdrive.com/apps/libby/",
+          "timestamp": null,
+          "description": "All you need is a library card to access ebooks, audiobooks and more for free! Read & listen to books with just a tap in our award-winning app! Need a library card? Libby may be able to help!",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/w2hBsfECy2Gc4fORNzSTDD207BKIu-CvOGh9qPJIlh4/https/www.overdrive.com/apps/libby/assets/libbysocial.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939430942777409566",
+      "type": "Default",
+      "timestamp": "2022-02-05T08:03:10.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Audiobook Player** *BookPlayer*\nhttps://github.com/TortugaPower/BookPlayer",
+      "author": {
+        "id": "864483354023165982",
+        "name": "TheRedSpecial",
+        "discriminator": "8311",
+        "nickname": "C₁₇H₂₁NO₄",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864483354023165982/45e56fbb9fb9c91d10ed880f41ca7573.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - TortugaPower/BookPlayer: Player for your DRM-free audiobooks",
+          "url": "https://github.com/TortugaPower/BookPlayer",
+          "timestamp": null,
+          "description": "Player for your DRM-free audiobooks. Contribute to TortugaPower/BookPlayer development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939430964633952266",
+      "type": "Default",
+      "timestamp": "2022-02-05T08:03:15.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Manga** *Zetsu*\nhttps://apps.apple.com/us/app/zetsu-by-orion/id1510161371",
+      "author": {
+        "id": "864483354023165982",
+        "name": "TheRedSpecial",
+        "discriminator": "8311",
+        "nickname": "C₁₇H₂₁NO₄",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864483354023165982/45e56fbb9fb9c91d10ed880f41ca7573.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "‎ZETSU by Orion",
+          "url": "https://apps.apple.com/us/app/zetsu-by-orion/id1510161371",
+          "timestamp": null,
+          "description": "‎ZETSU by Orion\n\nZETSU is a Modular app that allow developers to create and share modules, this modules can output Images & Text Content.\n\nFetatures: \nCustom Text Reader.\nCustom Image Viewer / Reader.\nFavorites.\nCategorizer.\nDownloads.\nDynamic UI.\nCustomizable Colors.\nLight / Night Mode.\nAnd much mor…",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/aqqsYBaYyrrtTOJGIjTSINqQ58kxpIl-JgtvpVobRRg/https/is4-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/d2/86/8dd28632-030a-6203-eb94-2efde6e5010e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939430986112974868",
+      "type": "Default",
+      "timestamp": "2022-02-05T08:03:20.873+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Manga** *MangaToon*\nhttps://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093",
+      "author": {
+        "id": "864483354023165982",
+        "name": "TheRedSpecial",
+        "discriminator": "8311",
+        "nickname": "C₁₇H₂₁NO₄",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864483354023165982/45e56fbb9fb9c91d10ed880f41ca7573.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "‎MangaToon - Manga Reader",
+          "url": "https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093",
+          "timestamp": null,
+          "description": "‎MangaToon is a free app for reading comics, manhua, manhwa & manga. A trusty platform for you to enjoy all kinds of comics, novels and chat stories! \n\n[MangaToon Features] – what makes us stand out \n\n► Hottest comics updated on a regular basis. You can explore various genres here – Romance, Fantasy,…",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fpFHfTLgadKhy7baRkbe9MNuJmxKW-PgIx7pEN6nhXg/https/is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/5b/63/225b632b-fcb2-db2b-cf7b-d8b10d9683e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939431019566735383",
+      "type": "Default",
+      "timestamp": "2022-02-05T08:03:28.849+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *NovelLoop*\nhttps://apps.apple.com/in/app/novelloop/id1170755867",
+      "author": {
+        "id": "864483354023165982",
+        "name": "TheRedSpecial",
+        "discriminator": "8311",
+        "nickname": "C₁₇H₂₁NO₄",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864483354023165982/45e56fbb9fb9c91d10ed880f41ca7573.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939431079700471818",
+      "type": "Default",
+      "timestamp": "2022-02-05T08:03:43.186+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Light Novels** *NovelReader*\nhttps://github.com/ppraveentr/NovelReader",
+      "author": {
+        "id": "864483354023165982",
+        "name": "TheRedSpecial",
+        "discriminator": "8311",
+        "nickname": "C₁₇H₂₁NO₄",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864483354023165982/45e56fbb9fb9c91d10ed880f41ca7573.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - ppraveentr/NovelReader: Novel reader is iOS native Mobile ...",
+          "url": "https://github.com/ppraveentr/NovelReader",
+          "timestamp": null,
+          "description": "Novel reader is iOS native Mobile application, based out Swift, is a working sample for MobileCore. - GitHub - ppraveentr/NovelReader: Novel reader is iOS native Mobile application, based out Swift...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ru6WRKjxYV5Rxm6YMJY5aBj-aWg9ZSKzOiSAVLhR76U/https/opengraph.githubassets.com/bd47f52e4493353fcc7a6dcd47ab053f311685de2751fb3721925046751afc38/ppraveentr/NovelReader",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "943331349308268604",
+      "type": "Default",
+      "timestamp": "2022-02-16T02:21:59.924+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Optimize PDF/DJVU Files for Mobile E-Readers** *K2pdfopt*\nhttps://willus.com/k2pdfopt/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "966352427735462009",
+      "type": "Default",
+      "timestamp": "2022-04-20T14:59:32.732+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**iOS Comic Reader** *ComicFlow*\nhttps://github.com/swisspol/ComicFlow",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - swisspol/ComicFlow: Full source code for the ComicFlow com...",
+          "url": "https://github.com/swisspol/ComicFlow",
+          "timestamp": null,
+          "description": "Full source code for the ComicFlow comic reader for iPad - GitHub - swisspol/ComicFlow: Full source code for the ComicFlow comic reader for iPad",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/TSvm-BGKVDZy5OmnfQTM6W1iUljCD_xAxPenUT8d1Bk/https/opengraph.githubassets.com/90939b8489d1ab314ea37eaf7b44fca1198291d27c9399b08e6f51c172ea31a3/swisspol/ComicFlow",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

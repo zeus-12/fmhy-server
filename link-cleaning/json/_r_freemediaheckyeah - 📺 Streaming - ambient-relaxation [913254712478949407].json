@@ -1,0 +1,2807 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254712478949407",
+    "type": "GuildTextChat",
+    "categoryId": "913254712340545608",
+    "category": "\uD83D\uDCFA Streaming",
+    "name": "ambient-relaxation",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_ambient_.2F_relaxation"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "918871233112723466",
+      "type": "Default",
+      "timestamp": "2021-12-10T14:26:13.776+00:00",
+      "timestampEdited": "2022-02-04T16:03:16.512+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "939410347528437780",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:41:20.251+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Lofi Hip-Hop Radio** *Viberoom*\nhttps://viberoom.audio/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Lofi Hip-Hop Radio | Viberoom",
+          "url": "https://viberoom.audio/",
+          "timestamp": null,
+          "description": "Viberoom is chillhop beats radio station. Listen to royalty free chillhop beats by best lofi hip-hop producers on our website.",
+          "color": "#0E1930",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7BEZUpjFRGfs8yK6NCg-qI0I3N0evQv3DxI16NEmLeQ/%3Fv%3D56kohv/https/cdn.sanity.io/images/eeh5ambg/production/2c664d81cbede1fbe4e55e729d4235938a314636-1200x627.jpg",
+            "width": 1200,
+            "height": 627
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939410436464472074",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:41:41.455+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Music for Focus** *Music For Programming*\nhttp://musicforprogramming.net/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939410538037907457",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:42:05.672+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Nature Sounds / Relaxation** *Noizio*\nhttps://noiz.io/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Noizio — Calm, Meditate, Sleep",
+          "url": "https://noiz.io/",
+          "timestamp": null,
+          "description": "Noizio is an app that will drown out the noise of the street and allow you to concentrate on the work at hand, increasing your productivity for macOS, iOS & Android.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939410811028402228",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:43:10.758+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Nature Sounds / Relaxation** *CalmSound* \nhttps://www.calmsound.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Calmsound - Free Nature Sounds",
+          "url": "https://www.calmsound.com/",
+          "timestamp": null,
+          "description": "Calmsound bring you a collection of the finest nature sounds which are ideal for sleep, relaxation and helpful for tinnitus sufferers. Listen for free now!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DQREMMu9YZVaYjdHAYnnzaedB1rEvPIdUqQqa_3-aHw/https/static.wixstatic.com/media/e7f4d3_dacb8f37c1db4307a3d6f50cf717e69f.jpg/v1/fit/w_2500%2Ch_1330%2Cal_c/e7f4d3_dacb8f37c1db4307a3d6f50cf717e69f.jpg",
+            "width": 2500,
+            "height": 1330
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939410940510740480",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:43:41.629+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Nature Sounds / Relaxation** *Moszen*\nhttps://www.moszen.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939411010282987520",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:43:58.264+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mix Ambient Sounds / Relaxation** *Soundrown*\nhttp://soundrown.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939411080881516564",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:44:15.096+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mix Ambient Sounds** A Soft Murmur \nhttps://asoftmurmur.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A Soft Murmur",
+          "url": "https://asoftmurmur.com/",
+          "timestamp": null,
+          "description": "Mix ambient sounds together to wash away distraction and help you focus or relax",
+          "color": "#673AB8",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939411153606545448",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:44:32.435+00:00",
+      "timestampEdited": "2022-02-05T06:44:38.27+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Nature Sound Mixer** *Nature Mixer*\nhttps://naturemixer.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939411228760096798",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:44:50.353+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Sounds / Music** *Ambient Mixer*\nhttps://www.ambient-mixer.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Listen and create ambient sounds easily",
+          "url": "https://www.ambient-mixer.com/",
+          "timestamp": null,
+          "description": "Listen online to relaxing sound atmospheres, ambient music or chilling sound effects. You can even create and mix your own moods, all for free.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WIqoAJP-ntgklBbNZzpudnzPug0iDRLx0eh9Xj_Z9Ig/https/static.ambient-mixer.com/images/mixer.jpg",
+            "width": 1500,
+            "height": 780
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939411300981817364",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:45:07.572+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Meditation / Sleep Music** *Calm* \nhttps://app.www.calm.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939411445202968587",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:45:41.957+00:00",
+      "timestampEdited": "2022-02-05T06:45:46.13+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Meditation / Sleep Sounds** *Tide.fm*\nhttps://tide.fm/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "潮汐 - 睡眠, 专注, 冥想, 呼吸",
+          "url": "https://tide.fm/",
+          "timestamp": null,
+          "description": "潮汐是一款大自然声音主题的身心健康应用，在快速繁复的日常生活中，帮你保持专注、减压放松、睡得更好。通过我们提供的自然声音场景，配合「专注」与「睡眠」两大功能模块，从快节奏的当下抽离，进入另一个平和安静的时空——减少焦虑与压力、保持专注不分心、获得更好的睡眠。",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939411594734084096",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:46:17.608+00:00",
+      "timestampEdited": "2022-02-05T06:47:13.492+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Summer Sounds / Relaxation** *August Ambience*\nhttps://augustambience.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "August Ambience",
+          "url": "https://augustambience.com/",
+          "timestamp": null,
+          "description": "Listen to the soothing sounds of summer all year long.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hR-b3bbOw3npbcTZtxD7A7KRNuSC-9nC7BUtIuIKp94/http/augustambience.com/assets/images/thumb.png",
+            "width": 263,
+            "height": 263
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939411908472229920",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:47:32.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Ocean Sounds** *VirtCcean*\nhttps://virtocean.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "VirtOcean | Ocean noise generator",
+          "url": "https://virtocean.com/",
+          "timestamp": null,
+          "description": "Relaxing sounds of the ocean waves crashing on the beach. Sounds of the sea for relaxing or studying.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Mjd2dtAQIXVVFb8RYE-UsVCDMduY6zqE3aACkmrqzu4/https/virtocean.com/images/tw.jpg",
+            "width": 1024,
+            "height": 560
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939411981520211998",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:47:49.825+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Noise Generator** *ASMRion*\nhttps://asmrion.com/\nhttps://defonic.com/vibeasmrion.html",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASMRion",
+          "url": "https://asmrion.com/",
+          "timestamp": null,
+          "description": "Generator of positive sounds for pleasant relaxation.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/02jt85zwB8UpJVYUilE9tGNtwL6-RYhD5X6-0wWch2E/https/asmrion.com/images/tw.jpg",
+            "width": 1024,
+            "height": 560
+          },
+          "fields": []
+        },
+        {
+          "title": "Defonic - a fabulous ambient noise generator",
+          "url": "https://defonic.com/vibeasmrion.html",
+          "timestamp": null,
+          "description": "Give you an easy creative boost, stay focused or just relax with one of the multitude of combinations.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/2kPo-BIxeIMQcdjXxj6pCU-E6wE6bcGdH9bT-KK2b90/https/defonic.com/defonic/images/defonic-social.png",
+            "width": 1024,
+            "height": 560
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939412095554945086",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:48:17.013+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Cafe Sounds / Relaxation** *Coffitivity*\nhttps://coffitivity.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939412158301741146",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:48:31.973+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Cafe Sounds** *Hipstersound* \nhttps://hipstersound.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hipstersound | Cafe Restaurant ambient noise generator",
+          "url": "https://hipstersound.com/",
+          "timestamp": null,
+          "description": "Ambient coffee shop sounds to stay focused at work.",
+          "color": "#3A353D",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/vI5t4RdlPW6Bk2Sl1fKY_qa6CxYO8sfBn151SHCCbBE/https/hipstersound.com/img/hipster-social.jpg",
+            "width": 1024,
+            "height": 560
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939412194066579456",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:48:40.5+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Office Sounds** *Sound Of Colleagues*\nhttps://soundofcolleagues.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Are you too missing the office?",
+          "url": "https://soundofcolleagues.com/",
+          "timestamp": null,
+          "description": "Are you too missing the office? Keyboard clattering, office dogs and printer errors.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ZGR_EY19oI3YxlfDkNnYXuKBB4b5JTXrZ1_K0oDLNrs/https/soundofcolleagues.com/assets/img/soundofcolleagues_1200x630.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939412278015586394",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:49:00.515+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Bar Sounds** *I Miss My Bar*\nhttp://imissmybar.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "I Miss My Bar - Recreate Your Favorite Bar's Atmosphere",
+          "url": "http://imissmybar.com/",
+          "timestamp": null,
+          "description": "A modern digital artifact recreating the atmosphere of our favorite local bars to keep us company while it’s safe to visit them again. An initiative by Maverick Monterrey.",
+          "color": "#E1DACA",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939412372492259368",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:49:23.04+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient City Sounds & Live LAPD Police Radio** *You are Listening To Los Angeles*\nhttp://youarelistening.to/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "You are listening to Los Angeles",
+          "url": "http://youarelistening.to/",
+          "timestamp": null,
+          "description": "Ambient music and live LAPD police radio. What's not to like?",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/KOqTusrP2wsfsSL7w2GCA9WzsuPLfkDCVGzhR2plVrI/http/youarelistening.to/images/thumb_losangeles.png",
+            "width": 500,
+            "height": 375
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939412445250871349",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:49:40.387+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Background Noises & Interactive Soundscapes** *myNoise*\nhttps://mynoise.net/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Focus at Work • Relax at Home • Sleep at Night | myNoise ®",
+          "url": "https://mynoise.net/",
+          "timestamp": null,
+          "description": "Background Noises • Ambient Sounds • Interactive Soundscapes • Relaxing Music • Online & Free",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/4GFR1NZHKwyK4WLL0XLooRDwdjJbNOh8Rs9RfKiYaLE/https/mynoise.net/Pix/FBdefault.jpg",
+            "width": 2560,
+            "height": 1440
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939412499055411220",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:49:53.215+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Background Sounds for Productivity & Focus** *Noisli*\nhttps://www.noisli.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Noisli - Improve Focus and Boost Productivity with Background Sounds",
+          "url": "https://www.noisli.com/",
+          "timestamp": null,
+          "description": "Your digital place for focus. Mix different sounds and create your perfect sound environment to work, study and relax.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/F5CBYZ5bLtkZDgoSKskRufrw95GWObZXHkdZgWWvnmo/https/about.noisli.com/assets/social/noisli.png",
+            "width": 2400,
+            "height": 1200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939412578910736404",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:50:12.254+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Media Inspired Sounds** *Ambient-Mixer*\nhttps://movies.ambient-mixer.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Listen to movie and series themed sounds",
+          "url": "https://movies.ambient-mixer.com/",
+          "timestamp": null,
+          "description": "Listen to sounds and ambiances inspired by popular movies and series like Dr Who, Harry Potter, or Game of Thrones. Create your own sounds mixes for your favorite movies.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WIqoAJP-ntgklBbNZzpudnzPug0iDRLx0eh9Xj_Z9Ig/https/static.ambient-mixer.com/images/mixer.jpg",
+            "width": 1500,
+            "height": 780
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "939412690420510791",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:50:38.84+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Listen to the sound of Wikipedia's recent changes feed** *Listen to Wikipedia* \nhttp://listen.hatnote.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hatnote Listen to Wikipedia",
+          "url": "http://listen.hatnote.com/",
+          "timestamp": null,
+          "description": "Listen to recent changes on Wikipedia",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939412866543517706",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:51:20.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Android / iOS Relaxation **\nhttps://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation\nhttps://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "android - FREEMEDIAHECKYEAH",
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android",
+          "timestamp": null,
+          "description": "r/FREEMEDIAHECKYEAH: \uD83C\uDF7F \uD83D\uDCFA \uD83C\uDFB5 \uD83C\uDFAE \uD83D\uDCD7 \uD83D\uDCF1",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939412977810047006",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:51:47.359+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Nyan Cat's Cousin / Lo-Fi Radio** *Coding Cat*\nhttps://hostrider.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Nyan Cat's cousin who is listening to some lo-fi beats",
+          "url": "https://hostrider.com/",
+          "timestamp": null,
+          "description": "...the cat that has a habit of singing while coding. Meow.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/HvFTComfa77kXBuRdQWvi9Uba_dpteR9n9C9s10SYKU/https/hostrider.com/images/tw.png",
+            "width": 1024,
+            "height": 560
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413040753954837",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:52:02.366+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Meditation Aid** ChillOuts\nhttp://www.chillouts.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Relaxing Meditation aid. Chill out at ChillOuts.com",
+          "url": "http://www.chillouts.com/",
+          "timestamp": null,
+          "description": "An online sensory experience. Relax and chill to the sound of mindblowing music and drifting lights.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413102326345778",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:52:17.046+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient / Nature** *MoodTurn*\nhttp://moodturn.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413161424080927",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:52:31.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient** *CanvasCycle*\nhttp://www.effectgames.com/demos/canvascycle/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413212632330261",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:52:43.345+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Google Street View Soundscapes** *ImaginarySoundscape*\nhttp://www.imaginarysoundscape.net/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413398444179456",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:53:27.646+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Make a room / Make and listen lofi music** *Lofi Player*\nhttps://magenta.github.io/lofi-player/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://magenta.github.io/lofi-player/",
+          "timestamp": null,
+          "description": "Interactive lofi beat player.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/v89M2RbPvQVAY8KVCwNiCtBGO3kmOGVE3-Mx8-wWThs/https/magenta.github.io/lofi-player/assets/screenshots/screenshot_v.1.0.png",
+            "width": 1212,
+            "height": 662
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413464542232597",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:53:43.405+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Stream** *Moss Garden*\nhttps://moss.garden/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Moss Garden",
+          "url": "https://moss.garden/",
+          "timestamp": null,
+          "description": "Ambient radio for rest, calm, or focus",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/3QvcxDHMDzCYM5oUYbgTTzCOx2tf9ucwFcu1wRmK5XE/https/moss.garden/img/moss.png",
+            "width": 2400,
+            "height": 1256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413518439030874",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:53:56.255+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Home Sounds** *HomeSick*\nhttps://scoreascore.com/homesick",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Homesick",
+          "url": "https://scoreascore.com/homesick",
+          "timestamp": null,
+          "description": "A soundboard designed to recreate your home office's ambient noises.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2z9KKAEtD_jiO0_wacHmSL11a3CaTewYKbFaajLIzCc/http/sas-craft.s3.amazonaws.com/affiliates/_1200x600_crop_center-center_none/3_newReversed.PNG",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413562500214784",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:54:06.76+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient / Nature** *Moodli*\nhttps://www.moodil.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Moodil - Nature sounds",
+          "url": "https://www.moodil.com/",
+          "timestamp": null,
+          "description": "Listen to high quality sounds of the nature. Make up your favourite mixes and save them for later use.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Xrboe1we4v_UqTrpmIsjSJTGWVwuCHXGerT09TaMIzI/https/www.moodil.com/gfx/metaicon.png",
+            "width": 152,
+            "height": 152
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413672965570560",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:54:33.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient / Lo-fi** *lofi*\nhttps://lofi.co/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "lofi.co - relax & focus",
+          "url": "https://lofi.co/",
+          "timestamp": null,
+          "description": "Interact with wonderful original artworks to create a custom background music loop. Enjoy our suite of studying & time tracking tools.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413887424553011",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:55:24.228+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Halo Menu Screens** *HaloMe.nu*\nhttps://halome.nu/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Halo 1 Main Menu",
+          "url": "https://halome.nu/",
+          "timestamp": null,
+          "description": "Have you ever left a Halo title running on your TV, just to listen to and watch the main menu? Now you can relive your favourite Halo title menu in your browser.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/KkDeXLetD83NzR7pUcBYs6UPF3LDk4Q7lBcubV28drA/https/halome.nu/postersocial.jpg",
+            "width": 1920,
+            "height": 1080
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939413941887569952",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:55:37.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Forest Sounds** *tree.fm*\nhttps://www.tree.fm/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "tree.fm â€“ Tune Into Forests From Around The World ðŸŒ³ðŸ”ˆ",
+          "url": "https://www.tree.fm/",
+          "timestamp": null,
+          "description": "People around the world recorded the sounds of their forests, so you can escape into nature, while in lockdown or unable to travel. Use this site to chill, meditate or do some digital shinrin-yoku.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/dkL5gzuy5z2LTmWdOqms27kLowzckmBLnrcrFgXIr1Q/https/assets.website-files.com/5f59e3c5d2dc12a2f6762402/5f7cd2582566b6464f15f77c_OGImage.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414013291405392",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:55:54.237+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Ambient/LoFi** *ChillHop*\nhttps://chillhop.com",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chillhop Music - lofi hip hop and chill beats",
+          "url": "https://chillhop.com/",
+          "timestamp": null,
+          "description": "Chillhop Music is the leading platform and label in lofi hip hop and jazzy hip hop. The best and chillest beats for working, studying and relaxing. New releases every week as well as our 24/7 lofi radio livestream.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/kfkSmKPv-JFfYp4cN9Z4HawU5NpAmSCJSh_qPCqyAO8/https/chillhop.com/wp-content/uploads/2019/08/ChillhopWebsiteBackground.jpg",
+            "width": 1600,
+            "height": 1600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414074255605811",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:56:08.772+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Ambient Rain Sites \nhttps://www.rainymood.com/**\nhttp://rainfor.me/\nhttps://raining.fm/\nhttps://rainyscope.com/\nhttps://pluvior.com/\nhttps://rainbowhunt.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Relax to the sound of rain with Rainfor.me",
+          "url": "http://rainfor.me/",
+          "timestamp": null,
+          "description": "Unwind from your stressful day to the sound of rain at rainfor.me. For music enthusiasts, massage therapists, yoga instructors, relaxation or meditation.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/hIRx8cpi3pFt3EKzrcna566hIwYnusCysqq-bWasBGs/https/rainfor.me/assets/img/fb-og.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        },
+        {
+          "title": "Raining.fm",
+          "url": "https://raining.fm/",
+          "timestamp": null,
+          "description": "Check out Raining.fm's new App, relaxing rain audio for work, play and sleep",
+          "author": {
+            "name": "YetiForce",
+            "url": "https://raining.fm/author/neilmin/"
+          },
+          "fields": []
+        },
+        {
+          "title": "Rainyscope: web-based rain simulator",
+          "url": "https://rainyscope.com/",
+          "timestamp": null,
+          "description": "Let the rain sing you a lullaby. Sounds of rain for sleeping or studying.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/9ZJFbicXx4o0oR4BoZQob3kp41XzH6tpv-T6dWgwV4w/https/rainyscope.com/img/rainyscope-social.jpg",
+            "width": 1000,
+            "height": 700
+          },
+          "fields": []
+        },
+        {
+          "title": "Rain simulator for pluviophiles",
+          "url": "https://pluvior.com/",
+          "timestamp": null,
+          "description": "Background rain sounds for relaxing and working.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/IFOvOyEWRh3m_vy-p06kmLI0ZzTyC0WLBO-PI7IqPdo/https/pluvior.com/images/tw.jpg",
+            "width": 800,
+            "height": 800
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414150222843944",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:56:26.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient / Nature** *CalmyLeon*\nhttps://calmyleon.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Calmy Leon",
+          "url": "https://calmyleon.com/",
+          "timestamp": null,
+          "description": "World's most relaxing music player and sound generator.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/yahYD5m_rbanTGVd7FRYmkDtJ2A9Y-f6YV-J3Ywi4VI/https/calmyleon.com/Pix/screenshot.png",
+            "width": 2296,
+            "height": 1148
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414201003290674",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:56:38.991+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**LoFi Radio** *Ambicular*\nhttps://ambicular.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ambicular | Lofi",
+          "url": "https://ambicular.com/",
+          "timestamp": null,
+          "description": "Lofi vibes and rain sound generator",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9iGXWU9i4Ac2bHjrJoU0u14I_NkbFWvkjfpgr12z0AA/https/ambicular.com/img/tw.jpg",
+            "width": 1024,
+            "height": 560
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414304736837632",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:57:03.723+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient ocean sounds** *defonic*\nhttps://defonic.com/vibeocean.html",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Noise generator of Ocean sounds",
+          "url": "https://defonic.com/vibeocean.html",
+          "timestamp": null,
+          "description": "Let the waves hit your feet, and the sand be your seat.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/M7T4QqpMxCVdjtvwqjxWjDjOIC17zls5zWikvZvlh9c/https/defonic.com/tim/img/ocean/twitter.png",
+            "width": 1024,
+            "height": 560
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "939414430494634006",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:57:33.706+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Lofi Radio** *Lofi Music*\nhttps://lofimusic.app/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Steezy Coffee Shop Radio",
+          "url": "https://lofimusic.app/",
+          "timestamp": null,
+          "description": "Listen to Lo-fi music radio Steezy Coffee Shop on the Lofimusic open-source player: an installable Progressive Web app (PWA) written in Go (Golang).",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414478221611078",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:57:45.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Lofi Radio** *lofi cafe*\nhttps://www.lofi.cafe/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "lofi.cafe - lofi music \uD83C\uDFA7",
+          "url": "https://www.lofi.cafe/",
+          "timestamp": null,
+          "description": "Lofi music streams for studying, working, and relaxing.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414548291649606",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:58:01.791+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Sounds** *Whispr*\nhttps://www.whispr.tech/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Whispr - listen & focus.",
+          "url": "https://www.whispr.tech/",
+          "timestamp": null,
+          "description": "Whispr is a web app to help you focus on timed tasks by combining ambient sounds. Choose your favourite sounds, mix them together, save your combinations and share with friends. Once you've set your timer, hit the play button and work until the music stops.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/z3el5tFuLFZSn66sXrjpmyYw6EVNumwGq180WQn-3qQ/https/www.whispr.tech/assets/whispr-preview-cd54170c77d08dcfd90e2f8c5221df8d99c765c48604b2bb6b69fa461d47deb6.jpg",
+            "width": 900,
+            "height": 471
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414615354384424",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:58:17.78+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Sounds** *Noises Online*\nhttps://noises.online/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Online Background Noises • Relaxing Sounds • Noise Masking",
+          "url": "https://noises.online/",
+          "timestamp": null,
+          "description": "Premium Ambient Noises & Relaxing Sounds • NEW Audio file download • Online & Free • Increase your focus • Boost your productivity • Quieten your mind • Mask your tinnitus • And more!",
+          "color": "#006699",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/gB01GPBW4uq57QmUSae1tjA58BoTmMvfsIVYD6uDfBs/https/noises.online/Pix/screenshot21.png",
+            "width": 1600,
+            "height": 800
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414670840848414",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:58:31.009+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Sounds** *Soundscape*\nhttps://soundescape.io/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Soundescape: 3-D generative ambient sounds",
+          "url": "https://soundescape.io/",
+          "timestamp": null,
+          "description": "Soundescape offers 3-dimensional, generative sound environments that help you Focus, Relax, or Sleep.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0WHbnF_R_VASD9MJ82jlJUOtlg5zTlu9_QMCm-ZUARs/https/dqrlpl3wok9e.cloudfront.net/Soundescape_Open_Graph_03_96a1fdb5a0.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414721277349938",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:58:43.034+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Sounds** *Relaxing Sounds*\nhttps://unifycosmos.com/relaxing-sounds/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Relaxing Sounds | Unify Cosmos",
+          "url": "https://unifycosmos.com/relaxing-sounds/",
+          "timestamp": null,
+          "description": "At Unify Cosmos, we have curated the most relaxing sounds from across the globe to help you find the perfect vibration for meditating or feeling at ease.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414771994857533",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:58:55.126+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sounds of Locations** *Sounds of Maine*\nhttps://soundsofmaine.life/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sounds of Maine | Meditative portraits of life in Maine. Immersive ...",
+          "url": "https://soundsofmaine.life/",
+          "timestamp": null,
+          "description": "Meditative portraits of life in Maine. Immersive audiovisual encounters.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414873664811008",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:59:19.366+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Nature Sounds** *EcoSounds*\nhttp://en.ecosounds.net/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sounds of Nature online",
+          "url": "http://en.ecosounds.net/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "andrei",
+            "url": "http://en.ecosounds.net/author/andrei/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/bsZEdWLpknkqDweuk2724KMtVPEj_RDIngdlTsg_9DE/http/en.ecosounds.net/wp-content/uploads/2016/03/flowers.jpg",
+            "width": 1280,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414915758829578",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:59:29.402+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Urban Sounds** *NoisyLoop*\nhttps://noisyloop.com/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "NoisyLoop",
+          "url": "https://noisyloop.com/",
+          "timestamp": null,
+          "description": "Missing chaos during quarantine? Play urban soundscapes in a loop and #StayTheFuckHome",
+          "color": "#4DBA87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2WOVcCd_ED70PaglOHCPRKwdPN1ZIvoh1pJBjvVx_MU/https/noisyloop.com/static/img/noisyloop-og-image.png",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939414969525608508",
+      "type": "Default",
+      "timestamp": "2022-02-05T06:59:42.221+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Binaural Beats Generator** *Fractal Panda*\nhttp://fractalpanda.com/binaural-beats-generator/",
+      "author": {
+        "id": "367091940178526211",
+        "name": "Proly",
+        "discriminator": "2030",
+        "nickname": "Proly",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367091940178526211/519846ef33a6ec83e6a05dcf826325de.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Binaural Beats Generator - Fractal Panda",
+          "url": "http://fractalpanda.com/binaural-beats-generator/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "Adam Rogers",
+            "url": "http://fractalpanda.com/author/adam/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/DYeiNv27RcFCKMNo4xRy9PKvJgKW1_ymSgQNyulIifI/http/fractalpanda.com/wp-content/uploads/2015/04/Fractal_Stock_2_by_Moonchilde_Stock.jpg",
+            "width": 1024,
+            "height": 768
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939415985000157185",
+      "type": "Default",
+      "timestamp": "2022-02-05T07:03:44.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient / Lo-Fi Radio** *DevTunes FM*\nhttps://radio.madza.dev/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DevTunes FM",
+          "url": "https://radio.madza.dev/",
+          "timestamp": null,
+          "description": "Online radio for coders with various genre stations.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/U-DtwL1UoI760Ypu3qIrkNX06-iWMKdRo3bLGANU0h0/https/cdn.madza.dev/uploads/2021/12/devtunes-social-card.png",
+            "width": 950,
+            "height": 464
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "954690850489778176",
+      "type": "Default",
+      "timestamp": "2022-03-19T10:40:36.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient** *Zen Sounds*\nhttps://app.zenflowchart.com/zen-sounds",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Zen Flowchart",
+          "url": "https://app.zenflowchart.com/zen-sounds",
+          "timestamp": null,
+          "description": "Ceate Flowcharts easily with our Free Online Flowchart Maker. Voted #1 on Product Hunt. Loved by +650k Users. Try our Flow Chart Creator Now!",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "964445216683749397",
+      "type": "Default",
+      "timestamp": "2022-04-15T08:40:58.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Sounds** *RelaxFrens*\nhttps://www.relaxfrens.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "RelaxFrens",
+          "url": "https://www.relaxfrens.com/",
+          "timestamp": null,
+          "description": "Create your own environment using soothing sounds to be more productive at work, study to ace your exams, practice yoga or just relax frens",
+          "color": "#25D871",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GVcFZelSZp7lASwKMhI8wjJVag7g_owzZh68noLUwpI/https/relaxfrens.com/theme-config/icon-192x192.png",
+            "width": 192,
+            "height": 192
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 55
+}

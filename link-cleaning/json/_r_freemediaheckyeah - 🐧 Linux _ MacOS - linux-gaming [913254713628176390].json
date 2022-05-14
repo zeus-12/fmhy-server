@@ -1,0 +1,1980 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254713628176390",
+    "type": "GuildTextChat",
+    "categoryId": "913254713628176386",
+    "category": "\uD83D\uDC27 Linux / MacOS",
+    "name": "linux-gaming",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_gaming"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "939190765752582254",
+      "type": "Default",
+      "timestamp": "2022-02-04T16:08:47.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457032275238943",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:46:50.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Gaming kernels for linux**  *Liquorix/Xanmod*\nLiquorix: https://liquorix.net/\nXanmod: https://xanmod.org/\nLinux tkg: https://github.com/Frogging-Family/linux-tkg\nNote: A timeshift backup is recommended before attempting to install.",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Liquorix Kernel",
+          "url": "https://liquorix.net/",
+          "timestamp": null,
+          "description": "Kernel package optimized for Debian Unstable",
+          "color": "#FFFFFF",
+          "fields": []
+        },
+        {
+          "title": "GitHub - Frogging-Family/linux-tkg: linux-tkg custom kernels",
+          "url": "https://github.com/Frogging-Family/linux-tkg",
+          "timestamp": null,
+          "description": "linux-tkg custom kernels. Contribute to Frogging-Family/linux-tkg development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/NWotCWPYvbpORJ8DaGEUy307idIipc_i1xO3P8zrMFU/https/opengraph.githubassets.com/cc0410cae6e82227cd9a473ae8b6399c1d8551b0fbdb3c08548e89593b099990/Frogging-Family/linux-tkg",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457079230488606",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:47:01.957+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Roblox Manager for Linux** *Grapejuice*\nhttps://gitlab.com/brinkervii/grapejuice",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BrinkerVII / Grapejuice",
+          "url": "https://gitlab.com/brinkervii/grapejuice",
+          "timestamp": null,
+          "description": "A wine+roblox management application",
+          "color": "#292961",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/8vG-Ti6F5DcPLnWQVBI9UbaHqS3iy6mtxMoF5JmSPhc/https/gitlab.com/uploads/-/system/project/avatar/11688812/Grapejuice.png",
+            "width": 64,
+            "height": 64
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457133303431188",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:47:14.849+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Wiki for Linux gaming** *Gaming-on-Linux wiki*\nhttps://www.gamingonlinux.com/wiki/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457187615494176",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:47:27.798+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Play Windows games on Linux** *protondb*\nhttps://www.protondb.com/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://www.protondb.com/",
+          "timestamp": null,
+          "description": "Proton and Steam Play game reports for playing Windows games on Linux",
+          "color": "#F50057",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uui_NJXdXvtswt174ODsklwOip4ATrJLJTv6wqkloew/https/www.protondb.com/sites/protondb/images/site-logo.png",
+            "width": 251,
+            "height": 69
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457242317611029",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:47:40.84+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Play Windows games on Linux** *Lutris*\nhttps://lutris.net/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Lutris - Open Gaming Platform",
+          "url": "https://lutris.net/",
+          "timestamp": null,
+          "description": "Play all your games on Linux. Lutris is an Open Source gaming platform for Linux. It installs and launches games so you can start playing without the hassle of setting up your game. Get your games from GOG, Steam, Battle.net, Origin, Uplay and many other sources running on any Linux powered gaming machine.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457310231781457",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:47:57.032+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Linux Game Package Downloader** *LibreGaming*\nhttps://github.com/Ahmed-Al-Balochi/LibreGaming",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Ahmed-Al-Balochi/LibreGaming: Python Program that download...",
+          "url": "https://github.com/Ahmed-Al-Balochi/LibreGaming",
+          "timestamp": null,
+          "description": "Python Program that downloads gaming required packages based on your Linux Distribution. - GitHub - Ahmed-Al-Balochi/LibreGaming: Python Program that downloads gaming required packages based on you...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/16rYY_-G9ydm7M0RD8mqCn3QQdFGxPKwgLkctfVQzCg/https/opengraph.githubassets.com/2725ae6a35e064e0f3f5c32e846984caee16ee13daa207fb1c6ebd6b83a2c448/Ahmed-Al-Balochi/LibreGaming",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457362408919091",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:48:09.472+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Linux System Optimizer** *Gamemode*\nhttps://github.com/FeralInteractive/gamemode",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - FeralInteractive/gamemode: Optimise Linux system performan...",
+          "url": "https://github.com/FeralInteractive/gamemode",
+          "timestamp": null,
+          "description": "Optimise Linux system performance on demand. Contribute to FeralInteractive/gamemode development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/K2NxNfxExnO6qwDqTU7XWldG7ZO5Bkh6NA3lmDznyuM/https/opengraph.githubassets.com/cf032d157d4f6b318f317518dbcabfebd702804919c04133bd89e0438227c3b4/FeralInteractive/gamemode",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457433624010752",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:48:26.451+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Epic Games Launcher for Linux** *HeroicGamesLauncher* \nhttps://heroicgameslauncher.com/\nhttps://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Heroic Games Launcher",
+          "url": "https://heroicgameslauncher.com/",
+          "timestamp": null,
+          "description": "An Epic Games Launcher alternative",
+          "fields": []
+        },
+        {
+          "title": "GitHub - Heroic-Games-Launcher/HeroicGamesLauncher: A Native GUI Ep...",
+          "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+          "timestamp": null,
+          "description": "A Native GUI Epic Games Launcher for Linux, Windows and Mac. - GitHub - Heroic-Games-Launcher/HeroicGamesLauncher: A Native GUI Epic Games Launcher for Linux, Windows and Mac.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tmwhsJf0VsmuMrnKkYFm8Q0v7BX1skKe8pIBaW-RnKo/https/opengraph.githubassets.com/75ca270b13ab8df567effcb77c7bb8e83d71072e5d51bcb5ca2aaf5e191a1749/Heroic-Games-Launcher/HeroicGamesLauncher",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457587471069195",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:49:03.131+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Linux Games** *The KDE Games Center*\nhttps://games.kde.org/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The KDE Games Center",
+          "url": "https://games.kde.org/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457648213000202",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:49:17.613+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Linux Games** *Zamunda*\nhttps://zamunda.net/login.php?returnto=%2Fgames.php\nhttps://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/ (Translator)",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Translate Web Pages – Get this Extension for \uD83E\uDD8A Firefox (en-US)",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/",
+          "timestamp": null,
+          "description": "Download Translate Web Pages for Firefox. Translate your page in real time using Google or Yandex.\nIt is not necessary to open new tabs.\nNow works with the NoScript Extension.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Pc46_Bhl-EwN0y3HeQxsv4tUu3vrgVC9nR9tNdFzZ0s/%3Fmodified%3D1625013971/https/addons.mozilla.org/user-media/previews/full/258/258434.png",
+            "width": 291,
+            "height": 150
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457731763519539",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:49:37.533+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Linux Games** *Torrminatorr*\nhttps://forum.torrminatorr.com/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457782275538954",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:49:49.576+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Linux Games** *SCNLOG*\nhttps://scnlog.me/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457819994890272",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:49:58.569+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Linux Game Repacks** *johncena141*\nhttps://1337x.to/user/johncena141/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Download  johncena141's Torrents | 1337x",
+          "url": "https://1337x.to/user/johncena141/",
+          "timestamp": null,
+          "description": "Browse and download latest torrents uploaded by johncena141",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939457881416282152",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:50:13.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Install & Manage Proton-GE for Steam / Wine** *ProtonUp-QT*\nhttps://github.com/DavidoTek/ProtonUp-Qt/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - DavidoTek/ProtonUp-Qt: Install and manage Proton-GE and Lu...",
+          "url": "https://github.com/DavidoTek/ProtonUp-Qt/",
+          "timestamp": null,
+          "description": "Install and manage Proton-GE and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface. Based on AUNaseef&#39;s ProtonUp, made with Python 3 and Qt 6. - GitHub - Davido...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/a9QnW59ypE1o0WPM14kcDbq7PLqVJr7hWTrjLyixxLo/https/opengraph.githubassets.com/a253e837812693c69fa58cb4fcb4390b2e53b31581403a0d5c77232a96a9f661/DavidoTek/ProtonUp-Qt",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939458060659884033",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:50:55.948+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Play Among Us in your Terminal (Recreation)** *among-sus*\nhttps://git.sr.ht/~martijnbraam/among-sus",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939458233322590208",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:51:37.114+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Rust TUI for Steam** *steam-tui*\nhttps://github.com/dmadisetti/steam-tui",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - dmadisetti/steam-tui: Rust TUI client for steamcmd",
+          "url": "https://github.com/dmadisetti/steam-tui",
+          "timestamp": null,
+          "description": "Rust TUI client for steamcmd. Contribute to dmadisetti/steam-tui development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ilbSgPLQ5wDgutMnGvJPnjtMa-w1dwwh4IYmCYQWPwg/https/repository-images.githubusercontent.com/365874831/e417c400-b22c-11eb-990e-5e1ccf640d68",
+            "width": 1360,
+            "height": 768
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939458281951334480",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:51:48.708+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**CLI for Steam** *steam-cli*\nhttps://github.com/berenm/steam-cli",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - berenm/steam-cli: Command-line interface to install and ex...",
+          "url": "https://github.com/berenm/steam-cli",
+          "timestamp": null,
+          "description": "Command-line interface to install and execute Steam games - GitHub - berenm/steam-cli: Command-line interface to install and execute Steam games",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/c7LcxVKeegh1XsfhA8oTblKu6xbkA5moAHFDvzW3zXk/https/opengraph.githubassets.com/fb9b670381c5f444f31b705bc5ba29ff743d2ae2e426ae3822b08d43b72319de/berenm/steam-cli",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939458345805422643",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:52:03.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Setup Gaming Environment on Ubuntu** *Gamebuntu*\nhttps://discourse.ubuntu.com/t/gamebuntu/25544/13\nhttps://gitlab.com/rswat09/gamebuntu",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gamebuntu",
+          "url": "https://discourse.ubuntu.com/t/gamebuntu/25544/13",
+          "timestamp": null,
+          "description": "You might want to add MangoHud to your recipe in order to provide FPS and stuff monitoring overlay. Many gamers need such overlays as far as I know.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ODOWH7LZCGxtKuOdiPMl_DWB4JSweBs3cH9SrxXpfnQ/https/ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8ec63f51865d10fa6b7a454abefa04f2cf28abcb_2_1024x812.jpeg",
+            "width": 1024,
+            "height": 812
+          },
+          "fields": []
+        },
+        {
+          "title": "Rudra Saraswat / Gamebuntu",
+          "url": "https://gitlab.com/rswat09/gamebuntu",
+          "timestamp": null,
+          "description": "Transform an Ubuntu install into a complete game-ready (!) setup",
+          "color": "#292961",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/aduYJmqvc29xMiXuP8l9MXYcKHG-DZEN4kbt-7SOdfc/https/gitlab.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+            "width": 64,
+            "height": 64
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939458393121357835",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:52:15.213+00:00",
+      "timestampEdited": "2022-02-05T09:52:28.579+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Linux Games**  *Free Linux PC Games*\nhttps://freelinuxpcgames.com/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Free Linux PC Games",
+          "url": "https://freelinuxpcgames.com/",
+          "timestamp": null,
+          "description": "Free Linux PC Games is the easiest way to download any full native linux games you want with wide collection of different categories and more!",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939458521760690177",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:52:45.883+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Retro Gaming Distro** *Batocera.linux*\nhttps://batocera.org/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Batocera.linux",
+          "url": "https://batocera.org/",
+          "timestamp": null,
+          "description": "Only Cores That Matter",
+          "color": "#343A40",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939458589213474816",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:53:01.965+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Linux Yuzu Updater** *yuzu-ea-updater-for-linux*\nhttps://github.com/lem6ns/yuzu-ea-updater-for-linux",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - lem6ns/yuzu-ea-updater-for-linux: Mmmmm",
+          "url": "https://github.com/lem6ns/yuzu-ea-updater-for-linux",
+          "timestamp": null,
+          "description": "Mmmmm. Contribute to lem6ns/yuzu-ea-updater-for-linux development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/A-DlF0SDv7qWpJzW28MZYC_a_CIO2FHMTg4kSt0EWCo/https/opengraph.githubassets.com/5bce8f1a845bc8a7642c9a838d15a793a94085c54c9b13fcdf32a65381a92251/lem6ns/yuzu-ea-updater-for-linux",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939458634168020993",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:53:12.683+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Game Manager** *GameHub*\nhttps://tkashkin.github.io/projects/gamehub/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939458676761198602",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:53:22.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Retro Gaming** *Distro Lakka*\nhttps://lakka.tv/",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Lakka - The DIY open source retrogaming emulation console",
+          "url": "https://lakka.tv/",
+          "timestamp": null,
+          "description": "Lakka is a lightweight Linux distribution based on RetroArch that transforms a small computer like a Raspberry Pi into a full blown retrogaming console.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939458780230484028",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:53:47.507+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Steam Achievement Manager** *SamRewritten*\nhttps://github.com/PaulCombal/SamRewritten",
+      "author": {
+        "id": "366605219121070081",
+        "name": "Razorback",
+        "discriminator": "4637",
+        "nickname": "Razorback",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366605219121070081/f47992c074e942ab92b5439fda22aa55.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - PaulCombal/SamRewritten: Steam Achievement Manager For Lin...",
+          "url": "https://github.com/PaulCombal/SamRewritten",
+          "timestamp": null,
+          "description": "Steam Achievement Manager For Linux. Rewritten in C++. - GitHub - PaulCombal/SamRewritten: Steam Achievement Manager For Linux. Rewritten in C++.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/pphygj8eY39_srYIOOEr7mHdCwWOsXax1GO4DQIKEPw/https/opengraph.githubassets.com/4687f48d28af8224e5cb5c9d4aa10445b7fb3a214a179e23323fba3075670704/PaulCombal/SamRewritten",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941065949010866227",
+      "type": "Default",
+      "timestamp": "2022-02-09T20:20:06.404+00:00",
+      "timestampEdited": "2022-02-09T21:17:45.4+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Run Genshin Impact on Linux** *An Anime Game Launcher*\nhttps://gitlab.com/KRypt0n_/an-anime-game-launcher\nDiscord: https://discord.com/invite/ck37X6UWBp\nAlternative: *Paimon Launcher*\nhttps://notabug.org/loentar/paimon-launcher",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Observer KRypt0n_ / An Anime Game Launcher",
+          "url": "https://gitlab.com/KRypt0n_/an-anime-game-launcher",
+          "timestamp": null,
+          "description": "Open Source An Anime Game launcher for Linux with automatic anti-cheat patching and telemetry disabling Our discord server: https://discord.gg/ck37X6UWBp",
+          "color": "#292961",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9xSzHQxCt9aFH-wlDaU367vNMyy84WVYX86_7nOgy5M/https/gitlab.com/uploads/-/system/project/avatar/31654761/256x256.jpg",
+            "width": 64,
+            "height": 64
+          },
+          "fields": []
+        },
+        {
+          "title": "loentar/paimon-launcher",
+          "url": "https://notabug.org/loentar/paimon-launcher",
+          "timestamp": null,
+          "description": "",
+          "color": "#428BCA",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/42B0fPbtcqeCdAT321nnWk0kHhWpXBX6muZ1V3JXw9Q/https/seccdn.libravatar.org/avatar/26d967054fff7c5ad56b31a270ab3e47",
+            "width": 80,
+            "height": 80
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941353122943602699",
+      "type": "Default",
+      "timestamp": "2022-02-10T15:21:14.005+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Corsair RGB Driver for Linux** *ckb-next*\nhttps://github.com/ckb-next/ckb-next",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - ckb-next/ckb-next: RGB Driver for Linux",
+          "url": "https://github.com/ckb-next/ckb-next",
+          "timestamp": null,
+          "description": "RGB Driver for Linux. Contribute to ckb-next/ckb-next development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/4WTVxQ3lvH7Ly_dIWiJsdcfz5A3XhYm0uID8QWtwmz4/https/opengraph.githubassets.com/5a0a2d70afcb83e19d996a6819327c8e01884f2c5bba358a98996b6560cf100a/ckb-next/ckb-next",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941729810168832031",
+      "type": "Default",
+      "timestamp": "2022-02-11T16:18:03.238+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**script to install a Windows game through GOG on Linux** *proton-gog-install*\nhttps://github.com/myyc/proton-gog-install",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - myyc/proton-gog-install: A script to install a Windows gam...",
+          "url": "https://github.com/myyc/proton-gog-install",
+          "timestamp": null,
+          "description": "A script to install a Windows game through GOG on Linux - GitHub - myyc/proton-gog-install: A script to install a Windows game through GOG on Linux",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Q4k4u7vArtDrB4i4KnNaEpVqx2mFh_-ktLYSdCa0H0U/https/opengraph.githubassets.com/95bdc1959f05cbc31b17cbf2d0ab2b70dd1c681017c5d7c2a8ad8b4101c98e60/myyc/proton-gog-install",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "943363617380769873",
+      "type": "Default",
+      "timestamp": "2022-02-16T04:30:13.232+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Unix ASCII Games** *Unix ASCII Games* \nhttps://github.com/ligurio/awesome-ttygames",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - ligurio/awesome-ttygames: Unix ASCII games",
+          "url": "https://github.com/ligurio/awesome-ttygames",
+          "timestamp": null,
+          "description": "Unix ASCII games. Contribute to ligurio/awesome-ttygames development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/w3er3Ld28Fl1mmTBbTSsWfqrY8gkg8miy4N8qABdmRA/https/opengraph.githubassets.com/f6510d9c3ac7c5e18d486ee990b6ad6a5aaf01fa852685cf64ae93f5cbd37ef8/ligurio/awesome-ttygames",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "948536920722522193",
+      "type": "Default",
+      "timestamp": "2022-03-02T11:07:04.864+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Linux Gaming Guide** *LinuxCrackSupport Wiki*\nhttps://www.reddit.com/r/LinuxCrackSupport/wiki/index",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Reddit - Dive into anything",
+          "url": "https://www.reddit.com/r/LinuxCrackSupport/wiki/index",
+          "timestamp": null,
+          "description": "r/LinuxCrackSupport: Here you can ask for support on getting a cracked game to run on Linux or submit your own tips and tricks.",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "953933804769259552",
+      "type": "Default",
+      "timestamp": "2022-03-17T08:32:22.29+00:00",
+      "timestampEdited": "2022-03-17T08:33:02.413+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Fix program priority and lag while gaming** *Ananicy*\nhttps://github.com/Nefelim4ag/Ananicy\nC++ Version (Lower CPU Usage): https://gitlab.com/ananicy-cpp/ananicy-cpp",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Nefelim4ag/Ananicy: Ananicy - is Another auto nice daemon,...",
+          "url": "https://github.com/Nefelim4ag/Ananicy",
+          "timestamp": null,
+          "description": "Ananicy - is Another auto nice daemon, with community rules support (Use pull request please) - GitHub - Nefelim4ag/Ananicy: Ananicy - is Another auto nice daemon, with community rules support (Use...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hhZnZWBqOkr-NU6KJSrLXNqB1EoBZG_dLlNfZ2XQ1bk/https/opengraph.githubassets.com/45a7aba77d98cf2d2a61e0378af95e4a9585e6fb4114fabf982dc288a6cc2b99/Nefelim4ag/Ananicy",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        },
+        {
+          "title": "Ananicy Cpp / Ananicy Cpp",
+          "url": "https://gitlab.com/ananicy-cpp/ananicy-cpp",
+          "timestamp": null,
+          "description": "Ananicy rewritten in C++ for much lower CPU and memory usage.",
+          "color": "#292961",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/aduYJmqvc29xMiXuP8l9MXYcKHG-DZEN4kbt-7SOdfc/https/gitlab.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+            "width": 64,
+            "height": 64
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "956837916708061195",
+      "type": "Default",
+      "timestamp": "2022-03-25T08:52:16.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Gaming on Linux Wiki** *r/linux_gaming wiki*\nhttps://linux-gaming.kwindu.eu/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Main Page",
+          "url": "https://linux-gaming.kwindu.eu/",
+          "timestamp": null,
+          "description": "This wiki is a \"fork\" from /r/linux_gaming wiki with the intention to make an open, standard type of wiki that gathers all information, tutorials and tweaks to help with gaming on Linux. Please feel free to contribute, this wiki needs it to gain traction.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "957041235317629008",
+      "type": "Default",
+      "timestamp": "2022-03-25T22:20:11.466+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Issue tracking for the Steam for Linux beta client** *Steam for Linux*\nhttps://github.com/ValveSoftware/steam-for-linux",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - ValveSoftware/steam-for-linux: Issue tracking for the Stea...",
+          "url": "https://github.com/ValveSoftware/steam-for-linux",
+          "timestamp": null,
+          "description": "Issue tracking for the Steam for Linux beta client - GitHub - ValveSoftware/steam-for-linux: Issue tracking for the Steam for Linux beta client",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YpPzTZSx9UgFa83s8QJA29nIjmgOqI1IPzJ8jf-PrUQ/https/opengraph.githubassets.com/573c32c5e15955960865751909931527570efad5526c68be44abb8e89aac59a0/ValveSoftware/steam-for-linux",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "957041376908963860",
+      "type": "Default",
+      "timestamp": "2022-03-25T22:20:45.224+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Run Windows Games on Linux** *Proton*\nhttps://github.com/ValveSoftware/Proton",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - ValveSoftware/Proton: Compatibility tool for Steam Play ba...",
+          "url": "https://github.com/ValveSoftware/Proton",
+          "timestamp": null,
+          "description": "Compatibility tool for Steam Play based on Wine and additional components - GitHub - ValveSoftware/Proton: Compatibility tool for Steam Play based on Wine and additional components",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/iiNT7hg3kQoYxBtP_p8Pbcn3S7bWP9_inUWKvjRDHtQ/https/opengraph.githubassets.com/a574aeb30d64e4aee6eb22066939fbe9dc3b4851d30d606b251e421d44f84acd/ValveSoftware/Proton",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "962171484263055371",
+      "type": "Default",
+      "timestamp": "2022-04-09T02:05:58.13+00:00",
+      "timestampEdited": "2022-04-09T02:06:44.389+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Steam Session Compositing Window Manager** *GameScope*\nhttps://github.com/Plagman/gamescope",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Plagman/gamescope: SteamOS session compositing window manager",
+          "url": "https://github.com/Plagman/gamescope",
+          "timestamp": null,
+          "description": "SteamOS session compositing window manager. Contribute to Plagman/gamescope development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/TbRDlNnKJQHoqx7WqcRtR_ZLmRw8BLt-KxhtMC8P3Q0/https/opengraph.githubassets.com/fc6cf0831a6f2646aa4868a3f36e09b7099f586268182031ee6972a3e8e1a186/Plagman/gamescope",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "962172652317978634",
+      "type": "Default",
+      "timestamp": "2022-04-09T02:10:36.616+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Game Post Processing Layer** *VKBasAlt*\nhttps://github.com/DadSchoorse/vkBasalt",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - DadSchoorse/vkBasalt: a vulkan post processing layer for l...",
+          "url": "https://github.com/DadSchoorse/vkBasalt",
+          "timestamp": null,
+          "description": "a vulkan post processing layer for linux. Contribute to DadSchoorse/vkBasalt development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/g6RbxDoKe_5IBYf8X9EHMfEj2J_2bSQT0Qc48IsAbk8/https/opengraph.githubassets.com/d4b077b69ff445ba2a4f45f650155fa1f43bb5af853738aa44005786e6b5f8e4/DadSchoorse/vkBasalt",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "964363079901143050",
+      "type": "Default",
+      "timestamp": "2022-04-15T03:14:35.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**D3D9, D3D10 and D3D11 for Linux / Wine** *dxvk*\nhttps://github.com/doitsujin/dxvk",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - doitsujin/dxvk: Vulkan-based implementation of D3D9, D3D10...",
+          "url": "https://github.com/doitsujin/dxvk",
+          "timestamp": null,
+          "description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine - GitHub - doitsujin/dxvk: Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/uNxvtIdccHvzzKHsJCo7R9lGIdITvQR63zn5GJpJW2c/https/opengraph.githubassets.com/cfdb34c7bf685303df0317cc53eae3490376c1a3c499d3d1fb2db780f37c87ae/doitsujin/dxvk",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 37
+}

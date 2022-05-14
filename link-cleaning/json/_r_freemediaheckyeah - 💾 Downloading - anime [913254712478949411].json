@@ -1,0 +1,3544 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254712478949411",
+    "type": "GuildTextChat",
+    "categoryId": "913254712478949408",
+    "category": "\uD83D\uDCBE Downloading",
+    "name": "anime",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "918871304571084830",
+      "type": "Default",
+      "timestamp": "2021-12-10T14:26:30.813+00:00",
+      "timestampEdited": "2022-02-04T16:03:40.848+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939449754084057109",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:17:55.506+00:00",
+      "timestampEdited": "2022-02-05T09:18:15.277+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub / Dub** *AnimeKaizoku* \nhttps://animekaizoku.com/\nDual Audio: https://github.com/AnimeKaizoku/KaizokuPatcher",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Download Anime - The Best Place for Free Anime Downloads - Anime Su...",
+          "url": "https://animekaizoku.com/",
+          "timestamp": null,
+          "description": "Download anime from a wide range of anime encodes, Carefully selected and daily updated collection of anime series available for downloads from AnimeKaizoku.",
+          "color": "#1B98E0",
+          "fields": []
+        },
+        {
+          "title": "GitHub - AnimeKaizoku/KaizokuPatcher: Script to easily apply patche...",
+          "url": "https://github.com/AnimeKaizoku/KaizokuPatcher",
+          "timestamp": null,
+          "description": "Script to easily apply patches to AnimeKaizoku's encodes. - GitHub - AnimeKaizoku/KaizokuPatcher: Script to easily apply patches to AnimeKaizoku's encodes.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0HX0uaC0swiavKvHU-4qIVxdffvglp0iEjwMu7684_s/https/opengraph.githubassets.com/03f5de38247d229d7bef2518ba5b6d36208bc4f0cdfb98c2cb53e7eda9b5d46f/AnimeKaizoku/KaizokuPatcher",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939449985739669534",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:18:50.737+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub / Dub** *Hi10 Anime* \nhttps://hi10anime.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450040492126208",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:19:03.791+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AniMK*\n https://animk.info/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AniMK",
+          "url": "https://animk.info/",
+          "timestamp": null,
+          "description": "Killing moods since 2013",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/k_DDqEA5-it9bL8ruAqQ61WyJvyuaLjYfLZwkN8mAJ8/https/animk.info/wp-content/uploads/cropped-zZz-cropped.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450082263171103",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:19:13.75+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime Site Index** *Awesome Piracy Clone* \nhttps://github.com/anshumanv/awesome-anime-sources",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - anshumanv/awesome-anime-sources: A curated list of everyth...",
+          "url": "https://github.com/anshumanv/awesome-anime-sources",
+          "timestamp": null,
+          "description": "A curated list of everything related to anime. Contribute to anshumanv/awesome-anime-sources development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/rKnOD6V47d8kwMIC66jY5EF13cklPtgBVNe0nymwIQ4/https/opengraph.githubassets.com/7d2a9b60cb798da8bdd02d2b09d828be2e3f3c8a0a686eeaa24ddbb8ec80cbdc/anshumanv/awesome-anime-sources",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450145777516575",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:19:28.893+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Anime Site Index** *r/AnimePiracy Index* \nhttps://piracy.moe/\nhttps://discord.gg/piracy",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Anime Index",
+          "url": "https://piracy.moe/",
+          "timestamp": null,
+          "description": "The best places to stream your favorite anime shows online or download them for free and watch in sub or dub. Supports manga, light novels, hentai, and apps.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GDuf-WooT4B2Vsv_5sK7qlr06noOBr2h8qsMFpRubhA/https/piracy.moe/icons/logo.png",
+            "width": 256,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450181307465789",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:19:37.364+00:00",
+      "timestampEdited": "2022-02-05T09:19:45.237+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub** *Erai-Raws* \nhttps://www.erai-raws.info\nhttps://discord.gg/2PfWaar",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Erai-raws",
+          "url": "https://www.erai-raws.info/",
+          "timestamp": null,
+          "description": "Erai-raws",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ytOdkUpa3o7CUt0mkoKP49AWlds2e4WoRwVJOfFWNck/https/www.erai-raws.info/wp-content/uploads/2021/07/ER-icon1.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450254657478659",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:19:54.852+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Bulk Download From Various Sites** *Monkey-DL*\nhttps://github.com/Oshan96/monkey-dl",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Oshan96/monkey-dl: Bulk download your favourite anime epis...",
+          "url": "https://github.com/Oshan96/monkey-dl",
+          "timestamp": null,
+          "description": "Bulk download your favourite anime episodes from your favourite anime websites - GitHub - Oshan96/monkey-dl: Bulk download your favourite anime episodes from your favourite anime websites",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dUwETZi5feMeelHV60sjByEyRAE-a-S6d-gwUlI9pSE/https/repository-images.githubusercontent.com/242177795/313b2380-7dea-11ea-8cad-14fc7bb31912",
+            "width": 1500,
+            "height": 500
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450298634764348",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:20:05.337+00:00",
+      "timestampEdited": "2022-02-05T09:20:08.682+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime Download / Streaming App (Windows/Linux)** *Anime DL* \nhttps://archive.org/details/animedl4.0_202004",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Anime DL : Free Download, Borrow, and Streaming : Internet Archive",
+          "url": "https://archive.org/details/animedl4.0_202004",
+          "timestamp": null,
+          "description": "![Banner](images/icon.png)# Anime DL###Latest Version: v7.0####Modern GUIA simple app let you watch and bulk download anime with faster anime Browsing,...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/_ZffKXZBSXMWXnfZFjMUe1q8HK3VAXEgnGhDtWlyF8w/https/archive.org/services/img/animedl4.0_202004",
+            "width": 160,
+            "height": 110
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450378968268820",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:20:24.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Manga & Anime Downloader / Viewer** *HakuNeko*\nhttps://github.com/manga-download/hakuneko",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - manga-download/hakuneko: Manga & Anime Downloader for Linu...",
+          "url": "https://github.com/manga-download/hakuneko",
+          "timestamp": null,
+          "description": "Manga & Anime Downloader for Linux, Windows & MacOS - GitHub - manga-download/hakuneko: Manga & Anime Downloader for Linux, Windows & MacOS",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/QWapVAEJyzsMCRTwSJzSYIyem6h6_5uUhY7gWcWb06s/https/repository-images.githubusercontent.com/95580598/ccadf200-df9e-11ea-8200-213a0db4bc87",
+            "width": 1280,
+            "height": 640
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450424124112956",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:20:35.256+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime / Manga Download Forum** *Anime-Sharing* \nhttp://www.anime-sharing.com/forum/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Anime-Sharing Community",
+          "url": "http://www.anime-sharing.com/forum/",
+          "timestamp": null,
+          "description": "Anime-Sharing is a place where you can find many anime or visual novel-related materials",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450457103929395",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:20:43.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Soulreaperzone*\nhttps://www.soulreaperzone.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450488389255199",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:20:50.578+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeOut*\nhttps://www.animeout.xyz/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home",
+          "url": "https://www.animeout.xyz/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "Slime",
+            "url": "https://www.animeout.xyz/author/anime-out/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450522937724998",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:20:58.815+00:00",
+      "timestampEdited": "2022-02-05T09:21:06.525+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AniDL*\nhttps://anidl.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AniDL",
+          "url": "https://anidl.org/",
+          "timestamp": null,
+          "description": "AniDL | Download Your Favourite Anime in Mega Batch | Download 480p 720p & 1080p in Small Size From AniDL | Direct Download Encoded Anime",
+          "color": "#17B978",
+          "author": {
+            "name": "Knightking",
+            "url": "https://anidl.org/author/knightking-2/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939450606765097020",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:21:18.801+00:00",
+      "timestampEdited": "2022-03-26T02:58:20.261+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *CopyCat Encodes* \n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_copycat_encodes>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451125185253396",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:23:22.402+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime / Dub** *Animeland*\nhttps://www.animeland.us/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Animeland - Watch Anime English Dubbed",
+          "url": "https://www.animeland.us/",
+          "timestamp": null,
+          "description": "Watch Anime English Dubbed on Animeland you can Watch anime dubbed for free no need to register also animeland video quality is 480p upto 1080p visit now and bookmark us",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451227635331083",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:23:46.828+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**IRC Anime Download Script** *manyame*\nhttps://github.com/asakura42/manyame/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - asakura42/manyame: anime cli xdcc download script for linu...",
+          "url": "https://github.com/asakura42/manyame/",
+          "timestamp": null,
+          "description": "anime cli xdcc download script for linux/win/mac/android - GitHub - asakura42/manyame: anime cli xdcc download script for linux/win/mac/android",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/N4cPEDXW5KrXubUyWbl143lWVFTTzvqM7T0YKw4LtmU/https/opengraph.githubassets.com/27a67fd160a67a1eded3ffab3e770d5b2b45d5d49013b94d22d90f94fec39ac2/asakura42/manyame",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451268039065610",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:23:56.461+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *DameDesuYo*\nhttps://damedesuyo.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DameDesuYo",
+          "url": "https://damedesuyo.com/",
+          "timestamp": null,
+          "description": "So Dame, It's Good.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451411136127007",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:24:30.578+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Crunchyroll Downloaders (Non-Premium Only)**\nhttps://github.com/anidl/crunchyroll-downloader-nx\nhttps://github.com/hama3254/Crunchyroll-Downloader-v3.0\nhttps://github.com/Sakurai07/Crunchyroll.dl",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - anidl/crunchyroll-downloader-nx: Download videos from Crun...",
+          "url": "https://github.com/anidl/crunchyroll-downloader-nx",
+          "timestamp": null,
+          "description": "Download videos from Crunchyroll via cli. . Contribute to anidl/crunchyroll-downloader-nx development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RiYBF33N9K-AoVpO2H12K_nVMsa8Dqk6mIt_8e-S68Y/https/opengraph.githubassets.com/46cd834566fcaa127e5863c362ba636447d46a08f609967a14fb0f69a9e01248/anidl/crunchyroll-downloader-nx",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        },
+        {
+          "title": "GitHub - hama3254/Crunchyroll-Downloader-v3.0: Downloader for Crunc...",
+          "url": "https://github.com/hama3254/Crunchyroll-Downloader-v3.0",
+          "timestamp": null,
+          "description": "Downloader for Crunchyroll . Contribute to hama3254/Crunchyroll-Downloader-v3.0 development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/3bfNLUwd9fHjLVuxyP7Ay6rCUYSRUttnMbqWlB6141o/https/opengraph.githubassets.com/5c7400056a68a556d6b788607d50126b929c59cc38b645db7082b96c0fa8d05b/hama3254/Crunchyroll-Downloader-v3.0",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        },
+        {
+          "title": "GitHub - Ehnryu/Crunchyroll.dl: crunchyroll downloader in python",
+          "url": "https://github.com/Sakurai07/Crunchyroll.dl",
+          "timestamp": null,
+          "description": "crunchyroll downloader in python. Contribute to Ehnryu/Crunchyroll.dl development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/VJwU8HAj_OJvWIViIUk3RMCuqtqERGZqhImgCyjFh4U/https/opengraph.githubassets.com/ae05df1d71c4192a9a9cdb9718a8a375c9875ca218743b10cc68fd5d8f025987/Ehnryu/Crunchyroll.dl",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451454064853013",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:24:40.813+00:00",
+      "timestampEdited": "2022-03-26T02:25:11.552+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub / Dub** *Judas*\nhttps://discord.gg/vbJ7RTn\nTeamdrive\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_judas_teamdrive>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451509886840894",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:24:54.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeSub*\nhttps://www.animesub.in/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeKuro | Download Your Favourite Anime in Mega Batch",
+          "url": "https://www.animesub.in/",
+          "timestamp": null,
+          "description": "AnimeSub | Download Your Favourite Anime & OST in English Subbed | Mega Batch | Download 480p 720p & 1080p in Small Size From AnimeSub | Direct Download Encoded Anime and Manga from your favorite source.",
+          "color": "#1B98E0",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451558494601276",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:25:05.711+00:00",
+      "timestampEdited": "2022-03-26T03:01:17.511+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Teamdrive Index / Dub / Sub** *Anime Time Drive*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_time_drive>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451593760338010",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:25:14.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *Anime Chiby* \nhttp://www.animechiby.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Anime Chiby - Small Encoded Anime",
+          "url": "http://www.animechiby.com/",
+          "timestamp": null,
+          "description": "Small Encoded Anime",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451626249416704",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:25:21.865+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *DarkLegends*\nhttps://darklegends60mb.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451685074518106",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:25:35.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Bulk Anime Downloader** *ultimate-batch-anime-downloader*\nhttps://github.com/KorigamiK/ultimate-batch-anime-downloader",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - KorigamiK/ultimate-batch-anime-downloader: The new and imp...",
+          "url": "https://github.com/KorigamiK/ultimate-batch-anime-downloader",
+          "timestamp": null,
+          "description": "The new and improved version of batch anime downloader. Made a tleast 10x more efficient from the older version. - GitHub - KorigamiK/ultimate-batch-anime-downloader: The new and improved version o...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/bMVBL0QqiwIOfirVjYE_1bZPDjGvygNNCvwjdePtAHs/https/opengraph.githubassets.com/934a1d9f725a07e0996b6a42ea38236bb0b9a7b809ce84ab56030f6fb6e79f3a/KorigamiK/ultimate-batch-anime-downloader",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451715973971969",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:25:43.257+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *Anime2Enjoy*\nhttps://www.anime2enjoy.com/\nhttps://discord.gg/PxSmumS",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451750367264799",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:25:51.457+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *SSAnime*\nhttps://ssanime.ga/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SSAnimations",
+          "url": "https://ssanime.ga/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451786224341032",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:26:00.006+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub / GDrive host** *Kayoanime*\nhttps://kayoanime.com/\nhttps://t.me/Kayoanime",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Kayoanime » News, Reviews & Updates of Anime",
+          "url": "https://kayoanime.com/",
+          "timestamp": null,
+          "description": "Kayoanime.com is an anime community site. Where we share about on Anime Reviews, Anime News, Latest Updates of upcoming Anime.",
+          "color": "#0088FF",
+          "author": {
+            "name": "Kayoanime",
+            "url": "https://kayoanime.com/author/englishliteraturenot/"
+          },
+          "fields": []
+        },
+        {
+          "title": "Kayo | Updates",
+          "url": "https://t.me/Kayoanime",
+          "timestamp": null,
+          "description": "Release Channel: @KayoAnime\t\tOur Chat Group: @AnimeKayo\t\tAnimeKayo.com",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YZrWzUeHT_1ygXYezmRE3c49_pkJ8mAChciE91JWf24/https/cdn5.telesco.pe/file/lgJ9oZO0FT0QRya1j4rlYLYRYxnPxHyiDjM8BqDDfmf165tPXRZauGKo18PXux4ac4AIZVtIruYaKaK7V22cOa8Zj08i7PsADNqLQZvdD1RXSwZ9zCPDr6lOBUjK5Fgk8TIxgBC64y6ZM3SK1SINwrQ1hQynwm4ocBn7-t3iEjYL5AtETrQF33j8R60ETTdlUlNNYS9ZVGsOhbppo8fy0z5tbQkMNSHwy81lmMCwTIe40DmyAOQzKWH1L4JbWbxxVmO4bMw8gMIZ3tGykmxqs6N-Zhz2r3wjEAkbTlOOXQVGyqWjdcEGKSkKi-5-NUMpF_pwpgZE6D80UOYZzfGecg.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451837973671947",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:26:12.344+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Command line anime downloader** *anime-dl*\nhttps://github.com/anime-dl/anime-downloader",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - anime-dl/anime-downloader: A simple but powerful anime dow...",
+          "url": "https://github.com/anime-dl/anime-downloader",
+          "timestamp": null,
+          "description": "A simple but powerful anime downloader and streamer. - GitHub - anime-dl/anime-downloader: A simple but powerful anime downloader and streamer.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ku2XXIOfEhqksfQFvljMMCy9h5Xbf8nU8gzSIfkdyWk/https/opengraph.githubassets.com/f0acf426335649bf177bed578d9c2d8152fe0298eea3cfb5aacab0d8ff0e6cc6/anime-dl/anime-downloader",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451888036888587",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:26:24.28+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Small Encoded Anime** *anime7.download*\nhttp://anime7.download/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Download Anime Small Encoded Free | anime7.download",
+          "url": "http://anime7.download/",
+          "timestamp": null,
+          "description": "Free small encoded anime episodes on-going in high quality 720p mini size MKV, anime series, anime movies, anime OVA, anime special.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939451950624292894",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:26:39.202+00:00",
+      "timestampEdited": "2022-03-19T16:25:20.659+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Telegram / Anime / Dub / Sub** *Anime Telegram Channels*\nhttps://t.me/Anime_Gallery\nhttps://t.me/anidlws\nhttps://t.me/AnimeCrunch\nhttps://t.me/Anime_Library\nhttps://t.me/Anime_4u_Geng\nhttps://t.me/anime_everywhere\nhttps://t.me/Hd_Anime_Series\nhttps://t.me/joinchat/AAAAAFSIbbpvGcBgRC6IKw\nhttps://t.me/animeze\nhttp://t.me/AUTOxANIME/2\nhttps://t.me/AnimeIndexOfficial\nhttps://t.me/myanimetvbot\nhttps://t.me/otakulounge\nhttps://t.me/AnimeList\nhttps://t.me/TGanimehaku\nhttps://t.me/AnimeGuardian_bot\nhttps://t.me/animeinc\nhttps://t.me/AnimeTeleNS\nhttps://t.me/Animewatching\nhttps://t.me/anime_a_to_z\nhttps://t.me/AnimeSeries\nhttps://t.me/Anime4uGeng_List\nhttps://t.me/Anime_Flix_Pro\nhttps://t.me/Animereq45\nhttps://t.me/Anime_1080p_720p_480p\nhttps://t.me/Animeworld001\nhttps://t.me/AnimeRG\nhttps://t.me/AnimeWorldOngoing\nhttps://t.me/AnimeFiles\nhttps://t.me/soulreaperzone\nhttps://t.me/AnimeFiles\nhttps://t.me/AnimeKingdomX\nhttps://t.me/Kingdomofanimeseries\nhttps://t.me/AnimeMoviesOtaku\nhttps://t.me/AnimeLibrary_Movies\nhttps://t.me/animemovies",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452052029988875",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:27:03.379+00:00",
+      "timestampEdited": "2022-03-26T02:37:43.386+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Dub / Sub / GDrive** *Anime Devil*\nhttps://animedevil.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home | Anime Devil",
+          "url": "https://animedevil.com/",
+          "timestamp": null,
+          "description": "",
+          "color": "#0088FF",
+          "author": {
+            "name": "AnimeDevil",
+            "url": "https://animedevil.com/author/sukhmeet2729/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452107679997973",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:27:16.647+00:00",
+      "timestampEdited": "2022-03-26T02:36:46.867+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Anime Collection (3Tb)*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_collection_.283tb.29>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452141607747664",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:27:24.736+00:00",
+      "timestampEdited": "2022-03-26T02:31:10.672+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Mix Bag of Anime*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mix_bag_of_anime>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452181646561370",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:27:34.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime Downloader** *Anigrab*\nhttps://github.com/ngomile/anigrab",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - ngomile/anigrab: Anime downloader that is fast and efficient",
+          "url": "https://github.com/ngomile/anigrab",
+          "timestamp": null,
+          "description": "Anime downloader that is fast and efficient. Contribute to ngomile/anigrab development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/oi7rbdpOQixKJk1IFqoF3TWtFysEyMtpzm8v2zHAXJ8/https/opengraph.githubassets.com/107e64eac53b74906504779dffa72791b61e8e12f8a82e04c00793a58e602913/ngomile/anigrab",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452204585213952",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:27:39.751+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime Downloader** *AnimeDL*\nhttps://github.com/justfoolingaround/animdl",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - justfoolingaround/animdl: A highly efficient, fast, powerf...",
+          "url": "https://github.com/justfoolingaround/animdl",
+          "timestamp": null,
+          "description": "A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime. - GitHub - justfoolingaround/animdl: A highly efficient, fast, powerful and light-weight a...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NXe_38gHaInKViXmo8jRS7fE7YLQKZT0xzclYJTgAls/https/repository-images.githubusercontent.com/358163720/82dd1700-b338-11eb-841c-3f9b586b8431",
+            "width": 1327,
+            "height": 750
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452245198663690",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:27:49.434+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Otaku Union*\nhttps://t.me/for_otaku",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Otaku \uD83D\uDD38 Union",
+          "url": "https://t.me/for_otaku",
+          "timestamp": null,
+          "description": "⚜ MAIN CHANNEL FOR OTAKU UNION ⚜\t\t〽️English chat :  @Fateunionchat\t\t〽️Index Channel : @Otaku_Union_Index\t\t〽️Request Group : @Otaku_Union_Request_Grp\t\t〽️Movie Channel : @Otaku_Union_Movies\t\t〽️Ongoing channel : @Otaku_Union_Ongoing\t\t〽️Check : @Anime_Legion",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/g_oeMZHl6ChE2SZIVIewAshGj2C9xmkxo7hJgWjekiQ/https/cdn5.telesco.pe/file/CrEuf3492wDb9NRtUmAqD2VQ61YDu9Z35Z-QwNwnc7n8x_HCMyU0Oo10Lym7WE4JRaC8wsmn3mFKyoANNjbmJiV497iHg4633O41pZ81wn44dK44gO-CwoZIn8m48BYyp0oxABM9JRaEeblf2mMTlR-MaWPzCB_UZ67cRvQZ6te-Xxxsen3bhkXazeERhoOWPzzsll92sDWHuapQU5_NtfFucXV5MdHF5dUpkWgbuKkD0c3T7GNPR54q5ixZp--NthbvxHNNkzTDfFrPvYZ3ik4qHR9P_7W5eYugdL_434yLE8i3V_wcoRC4ykCNlnvanpu7rPdmfmR8VDDrVxJFUA.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452285803712553",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:27:59.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime Downloads / XDCC** *NIBL*\nhttps://nibl.co.uk/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home  | nibl.co.uk",
+          "url": "https://nibl.co.uk/",
+          "timestamp": null,
+          "description": "nibl.co.uk provides direct access to large number of XDCC IRC Bots.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452348974137396",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:28:14.176+00:00",
+      "timestampEdited": "2022-02-05T09:28:19.141+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Highest Quality Anime Release Guide** *SeaDex*\nhttps://releases.moe/ \nhttps://discord.com/invite/jPeeZewWRn",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SeaDex",
+          "url": "https://releases.moe/",
+          "timestamp": null,
+          "description": "A Certain SeaSmoke's Index",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zufSHwT1yiZl_EgLmCKfYhOD1U0fXAs7tRI39RaA2wc/https/i.imgur.com/A28qADS.png",
+            "width": 488,
+            "height": 459
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452412471685161",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:28:29.315+00:00",
+      "timestampEdited": "2022-03-26T02:59:57.373+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Anime (New & Requests)*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_.28new_.26amp.3B_requests.29>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452450803421194",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:28:38.454+00:00",
+      "timestampEdited": "2022-03-26T02:34:34.211+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *ANIME___*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime___>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452485553229864",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:28:46.739+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *MiniEncodes*\nhttps://miniencodes.org/\nhttps://miniencodes.netlify.app/\nhttps://discordapp.com/invite/yuD8X9p",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MiniEncodes | High Quality Encoded Anime",
+          "url": "https://miniencodes.org/",
+          "timestamp": null,
+          "description": "Free download high quality yet small size anime encodes in mkv format. No registration required",
+          "fields": []
+        },
+        {
+          "title": "MiniEncodes | High Quality Encoded Anime",
+          "url": "https://miniencodes.netlify.app/",
+          "timestamp": null,
+          "description": "Free download high quality yet small size anime encodes in mkv format. No registration required",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452526661627924",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:28:56.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Watch & Download Anime & Manga** *AnimeClassroom*\nhttps://github.com/justdvnsh/AnimeClassroom",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - justdvnsh/AnimeClassroom: Anime Classroom - To watch, down...",
+          "url": "https://github.com/justdvnsh/AnimeClassroom",
+          "timestamp": null,
+          "description": "Anime Classroom - To watch, download or talk about anime and classic cartoons or read manga and comics. No ads ! I promise ! - GitHub - justdvnsh/AnimeClassroom: Anime Classroom - To watch, downloa...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/k-mCcQt3WHU4QFgPqOL1mWy_mmpKLMgfA22CiCKUews/https/repository-images.githubusercontent.com/361118759/db183ee9-2993-4ee7-b29e-99895f1b8d6e",
+            "width": 3000,
+            "height": 2000
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452567635767326",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:29:06.309+00:00",
+      "timestampEdited": "2022-03-26T02:29:20.094+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *NoobSubs*\nhttps://noobsubs.com/\nDrives\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_noobsubs_drives>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "NoobSubs - Direct Download Anime Made Easy",
+          "url": "https://noobsubs.com/",
+          "timestamp": null,
+          "description": "Japanese Anime / Dual Audio English dubbed Direct Downloads. Easily download your favorate Anime directly from our site. These videos should work on all platforms and even older computers.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452603924897813",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:29:14.961+00:00",
+      "timestampEdited": "2022-03-26T02:39:15.066+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *37.187.6.206*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_37.187.6.206>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452636158132315",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:29:22.646+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *AnimeLibr*\nhttps://t.me/AnimeLibr",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeLibr",
+          "url": "https://t.me/AnimeLibr",
+          "timestamp": null,
+          "description": "You can view and join @AnimeLibr right away.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1CleVHbTn8jgs4gazI9NuQaEerDIibVIGuEV0gNzOmc/https/cdn5.telesco.pe/file/OuS5HQMAS47j7otBtJam09Gv_pKKZXknySZwzgOl8gDeoC95ZgmAz0C3bQbYIgQoZ4pDVL4f1-CiS94cinlf3m_mIpW2xFIlMpptKlmyxR27TW-tAifC1Q0Q2JYm64bZNrzq1FrKfIdexmnd2gLEZ0oxfA91itlXk9IjmYVYlg6JjYaT-XSJBY6U8UtXJgTUmF3K9s2Xzx7BsP39iKu0EeqzlABZFKe5THR9qIlfYpywmuupQiNVZ4DPXC8DfJ17TcmkbUeQpphQuYXo7phn9wbNmGT4sc3DOsrZ8dtaGK_0VeJ7948IKHYZDmDEQzxhvm1JPEd03BH-FuHN9InBWw.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452675735576577",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:29:32.082+00:00",
+      "timestampEdited": "2022-03-26T02:52:02.453+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Dub** *rbx*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rbx>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452724989267978",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:29:43.825+00:00",
+      "timestampEdited": "2022-03-26T02:23:11.635+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Sub / Dub** *Anime Collection (15Tb)*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_15tb_anime_collection>\nCredits to @Kimi",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "827053709036355614",
+          "name": "Kimi",
+          "discriminator": "9960",
+          "nickname": "Kimi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "939452761156776007",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:29:52.448+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeKuro*\nhttps://animekuro.org/\nhttps://www.reddit.com/r/animesub/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeKuro | Download Your Favourite Anime in Mega Batch",
+          "url": "https://animekuro.org/",
+          "timestamp": null,
+          "description": "AnimeSub | Download Your Favourite Anime & OST in English Subbed | Mega Batch | Download 480p 720p & 1080p in Small Size From AnimeSub | Direct Download Encoded Anime and Manga from your favorite source.",
+          "color": "#1B98E0",
+          "fields": []
+        },
+        {
+          "title": "r/animesub",
+          "url": "https://www.reddit.com/r/animesub/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/R8MImXnoRmJJKmN-kr6Q5xSKcKytSNwuQhOUSECs2l8/%3Fwidth%3D256%26s%3D902e3cbd4300c54bc45de3eccb563816e78c4abc/https/styles.redditmedia.com/t5_zuva0/styles/communityIcon_lq82e97npgl61.png",
+            "width": 256,
+            "height": 254
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452792706334750",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:29:59.97+00:00",
+      "timestampEdited": "2022-03-26T02:32:32.826+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *MrDeadpool*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mrdeadpool>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452823354114078",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:30:07.277+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Anime-Downloader*\nhttps://github.com/henry-richard7/Anime-Downloader",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - henry-richard7/Anime-Downloader: Windows app that allows y...",
+          "url": "https://github.com/henry-richard7/Anime-Downloader",
+          "timestamp": null,
+          "description": "Windows app that allows you to download anime that are available on the web. - GitHub - henry-richard7/Anime-Downloader: Windows app that allows you to download anime that are available on the web.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/y-2uy-KTCW7KUvGHVlCfzba-nFBBoNZ1IZd90cTjJC4/https/opengraph.githubassets.com/53f1215e9afec23a152efa1a99babb3f7607fb2a423ff6ced8b9674e20259716/henry-richard7/Anime-Downloader",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939452960432357416",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:30:39.959+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *cartoonsarea.com*\nhttps://www.cartoonsarea.xyz/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939453169468047391",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:31:29.797+00:00",
+      "timestampEdited": "2022-02-05T09:31:35.17+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime Downloader** *Anime-dl*\nhttps://github.com/gabelluardo/anime-dl",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - gabelluardo/anime-dl: Efficient cli app for downloading anime",
+          "url": "https://github.com/gabelluardo/anime-dl",
+          "timestamp": null,
+          "description": "Efficient cli app for downloading anime. Contribute to gabelluardo/anime-dl development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/PtB_uRJjEZcyYDBfmKFtlrZQxOhBs6iOfPCQuGPv1jM/https/opengraph.githubassets.com/4ddbf562828f94ca0aa1a0c708ba2d2af334ece439ea4cdc4406825df6823289/gabelluardo/anime-dl",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939453274896072704",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:31:54.933+00:00",
+      "timestampEdited": "2022-02-05T09:32:04.877+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime / Manga / LN Downloader** *Anime-dl*\nC# Version (Recommended) https://github.com/vrienstudios/anime-dl\nJS Version https://github.com/vrienstudios/anime-dl",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - vrienstudios/anime-dl: ADLCore is an API and app for the d...",
+          "url": "https://github.com/vrienstudios/anime-dl",
+          "timestamp": null,
+          "description": "ADLCore is an API and app for the download of novels, manga, and anime from a plethora of sites. It works on Windows, Linux, OSX, and Android. - GitHub - vrienstudios/anime-dl: ADLCore is an API an...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/5hNqqZmXuMlrVRjgxLCIFIoUXPswJrgCwMfoVyNB5XA/https/repository-images.githubusercontent.com/280795543/9ae82b00-2747-11eb-83a2-49a3d467c9ec",
+            "width": 480,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939453351798652969",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:32:13.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *IndiAnime*\nhttps://indianime.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "IndiAnime » A world for Otaku Lovers",
+          "url": "https://indianime.com/",
+          "timestamp": null,
+          "description": "A world for Otaku Lovers",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939453382479982652",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:32:20.583+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Anipakku*\nhttps://anipakku.blogspot.com/\nDiscord: https://discord.com/invite/ekwtwjwHey",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Anipakku",
+          "url": "https://anipakku.blogspot.com/",
+          "timestamp": null,
+          "description": "",
+          "color": "#444444",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/oX7n-JxZh-by-k2pnpvQ7e64dM2b3NorwaJyNhlGx9w/https/blogger.googleusercontent.com/img/a/AVvXsEjKr-dHR_J7LaPq6gByz8fKyCCrDyHZvz54Cro7GDPYEBwZbvXWgFlrFUtn8SynfC-QRBcJHpMpZ2YUDGL_0erJN4wfJQRyYDFd1xk4ipYjHwjzN2CWf8nobeT7INtVT-_tx_cRqhx8aR7Ww3u0lr2aar6MVkEYX0KyL7G81Bd7fZq4tYOgOTXLp2Md%3Dw1200-h630-p-k-no-nu",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939453411466825768",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:32:27.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *TokyoInsider*\nhttps://www.tokyoinsider.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939453438914334760",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:32:34.038+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *Kainime*\nhttps://kainime.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "KaiNime - Download Anime Batch Eng Sub",
+          "url": "https://kainime.com/",
+          "timestamp": null,
+          "description": "Download Anime Batch Eng Sub",
+          "color": "#0C70DE",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939453471768326165",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:32:41.871+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub** *CoolsAnime*\nhttps://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A To Z index of Anime in (English Subbed) - CoolsAnime.org",
+          "url": "https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/",
+          "timestamp": null,
+          "description": "",
+          "color": "#C60A0A",
+          "author": {
+            "name": "CoolsAnime_Admin",
+            "url": "https://coolsanime.me/author/ajjuultima12/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939453505922543636",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:32:50.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Anime Flix*\nhttps://animeflix.org.in/\nTG: https://t.me/moviesflixnet",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "moviesflixnet",
+          "url": "https://t.me/moviesflixnet",
+          "timestamp": null,
+          "description": "You can view and join @moviesflixnet right away.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/jXo_0t-rXvsjzRrg9OtdJpCvH1ZSwdmckt3z8H7h1C4/https/cdn5.telesco.pe/file/Jze1F_k0gjo-8Fdwka3Dak8cD30CMzF1F1o3NovC0nW9tpwXvtZ8LoYGl0k3Ab2s9J9mEIDZz8X1x2A8cN7JwvswbK-uoDs7C0RC4bd90ylMaNVtdx4reVarQkh2fnsUaOMPeh4-3UVJIgU16fhS_NA2ZEfACdrBrOoqtMSRzdC8rjdP-O478irdJrBIGzkRi76get_tFnj0nK8i15f8TFFRI-zPoCR_BpkHnvhTyowTINS_qKYHvvh8QegtuQ7Kzi6t-QEdV6RmMJ_LoMoykj0EZ1WHw4S3xisIRVQgqOp1HlBO074YGp0KVPamCPbT9A1ZSU0R_3fImoicwOlhXw.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939453570053447781",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:33:05.304+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *Anime Senpai4U*\nhttps://www.animesenpai4u.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Animesenpai4u",
+          "url": "https://www.animesenpai4u.com/",
+          "timestamp": null,
+          "description": "AnimeSenpai4u | Download Your Favourite Anime in English Dubbed or English Subbed. Download Anime from Google drive , Mega drive , zipped",
+          "color": "#4CAF50",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939453639385309186",
+      "type": "Default",
+      "timestamp": "2022-02-05T09:33:21.834+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *AnimeTV4U*\nhttps://animetv4u.com/\nTG: https://t.me/Anim3TV4u",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AnimeTv4u - Anime Release Date And News",
+          "url": "https://animetv4u.com/",
+          "timestamp": null,
+          "description": "",
+          "color": "#0088FF",
+          "fields": []
+        },
+        {
+          "title": "AnimeTv4u - Watch And Download Anime",
+          "url": "https://t.me/Anim3TV4u",
+          "timestamp": null,
+          "description": "Download Anime from Animetv4u with Google Drive link\tOfficial Website - animetv4u.com\t\tRules\t\t❌No Porn\t❌No Selling\t❌No Links\t❌No Promotion\t❌No Spam",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/AkFZAwaMR7PK4hMFxwhSk1ILBmNZ5zmV5J8Cbau8bvg/https/cdn5.telesco.pe/file/VmXwpfPK2RQj7br0p3I4CD7DpyMnhAbrtURu74VvQNGvOmMEU6fTC-11xanXs1HnZElWLZo3ueb29dGpOKYXMvtevJa0Rd0apv8UbIehNs5v1BbUDJYCdsjTNOkOon6fN24WA5HPYIH7EV8REAZAv0K03qDaU7xpeGc_IQ1uBtiG666i-R1W01Ope0y68tSmL0Sb4N9078vh-_3cRN_gRanPeXFAFmYa5pxJYRkfM9RvDhF44J1b8UPaSTGo-lSCUVfAP3yGCNtPCxU76fBtKrwZCny63eoroHDT1l6fMwe9O1-8_3lVLv4hTE0BkEmQYq0UdIjzRzNwH0vNvsw7KA.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "940043851668807680",
+      "type": "Default",
+      "timestamp": "2022-02-07T00:38:39.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Anime Download CSE**\nhttps://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "940046313989488650",
+      "type": "Default",
+      "timestamp": "2022-02-07T00:48:26.471+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Anime Piracy Guides / Tutorials** */r/animepiracy Wiki*\nhttps://wiki.piracy.moe/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "/r/animepiracy Wiki",
+          "url": "https://wiki.piracy.moe/",
+          "timestamp": null,
+          "description": "",
+          "color": "#1976D2",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "950357703753101312",
+      "type": "Default",
+      "timestamp": "2022-03-07T11:42:13.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Upscaled Anime / Requests** *Bubble' Upscale Project*\nhttps://discord.gg/7kqqtJ7ArW",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "957107247576674345",
+      "type": "Default",
+      "timestamp": "2022-03-26T02:42:30.015+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *176.36.86.211*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_176.36.86.211>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "957107587713732628",
+      "type": "Default",
+      "timestamp": "2022-03-26T02:43:51.11+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *166.84.7.155*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_166.84.7.155>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "957108154632638474",
+      "type": "Default",
+      "timestamp": "2022-03-26T02:46:06.274+00:00",
+      "timestampEdited": "2022-03-26T02:46:23.321+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *ns3309227*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ns3309227>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "957108949478440960",
+      "type": "Default",
+      "timestamp": "2022-03-26T02:49:15.78+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Sub / Dub** *belia*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_belia>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "959342858278690836",
+      "type": "Default",
+      "timestamp": "2022-04-01T06:46:01.142+00:00",
+      "timestampEdited": "2022-04-01T06:46:11.971+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Anime Compilations** *CompSquad*\n<https://sites.google.com/view/compilationlist/home>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "959966284483797023",
+      "type": "Default",
+      "timestamp": "2022-04-03T00:03:17.532+00:00",
+      "timestampEdited": "2022-04-03T00:03:40.958+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Search and get latest anime** *AutoAnimeBot*\nhttps://t.me/AutoAnimeBot",
+      "author": {
+        "id": "925645788590252032",
+        "name": "Pixel_1",
+        "discriminator": "6758",
+        "nickname": "Pixel_1",
+        "color": "#00FF4A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/925645788590252032/e735505f92b518a3e12e4250c2398ace.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AutoAnime bot",
+          "url": "https://t.me/AutoAnimeBot",
+          "timestamp": null,
+          "description": "Yet another anime bot.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/mQtGzjhjkocsqAeKPJX3rL929f68yVphM73ZP8uAHJA/https/cdn5.telegram-cdn.org/file/HVVK6OU_puWqtE8Nqk0d11Dm8cP4osM5tBg8ZixJmyl_iJ2BAjt2XRz6mOWatkl9h2Mf8a1TsIQ3bmpiQDYn6Ug66xotSgDqrftzWXYQUarvG1xp7T5PBG0gi18YGetIedgNqNoqkYwyt0lJqixUVol8XkWX6yl1m1Nt9-hZ_Nr1k3jIg1MA9cNoRp6LIgzGOIjnBTOlr3gABK7v0xIjy-VjAULui4wsXL_dr83IWwzrwPY3QZnH_ke9eQkEUJ21Z6K_Muzj5UZnXys-0VAhzs1C-CKKU0Ad3EjzyQ7XZntCGYc_Y9yARcEU6oJyQS_rOvZAYyrR1vyhWcGhmaAmbw.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 71
+}

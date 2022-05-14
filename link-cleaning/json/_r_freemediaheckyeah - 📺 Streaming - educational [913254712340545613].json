@@ -1,0 +1,5126 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254712340545613",
+    "type": "GuildTextChat",
+    "categoryId": "913254712340545608",
+    "category": "\uD83D\uDCFA Streaming",
+    "name": "educational",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_educational_streaming"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "918871140993224734",
+      "type": "Default",
+      "timestamp": "2021-12-10T14:25:51.813+00:00",
+      "timestampEdited": "2022-02-04T16:02:58.502+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394068302147634",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:36:38.981+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Courses** *Khan Academy* \nhttps://www.khanacademy.org\nhttps://github.com/rand-net/khan-dl (Downloader)",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - rand-net/khan-dl: Download courses from  khanacademy.org",
+          "url": "https://github.com/rand-net/khan-dl",
+          "timestamp": null,
+          "description": "Download courses from  khanacademy.org . Contribute to rand-net/khan-dl development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "fields": []
+        },
+        {
+          "title": "Khan Academy | Free Online Courses, Lessons & Practice",
+          "url": "https://www.khanacademy.org/",
+          "timestamp": null,
+          "description": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/dPNjdJhxczZirh5nvfIhtttveoXOcx3bOmt2-cSppEk/https/cdn.kastatic.org/images/khan-logo-dark-background-2.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394137503973416",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:36:55.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Courses** *MitOpenCourseWare*\nhttps://ocw.mit.edu/index.htm",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://ocw.mit.edu/index.htm",
+          "timestamp": null,
+          "description": "Unlocking knowledge, empowering minds. Free course notes, videos, instructor insights and more from MIT.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/8rJJhjLKLBsSJBToNPLwrMkv-rY-FvO9vBkYuu_oHEg/https/ocw.mit.edu/images/MIT_dome.jpg",
+            "width": 320,
+            "height": 240
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394180059377674",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:37:05.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Math Tutorials** *Mathispower4u* \nhttp://www.mathispower4u.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "mathispower4u",
+          "url": "http://www.mathispower4u.com/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394229006909500",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:37:17.296+00:00",
+      "timestampEdited": "2022-02-05T05:37:20.542+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Math Tutorials** *PatrickJMT*\nhttp://patrickjmt.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PatrickJMT",
+          "url": "http://patrickjmt.com/",
+          "timestamp": null,
+          "description": "Just another WordPress weblog",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394295629246495",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:37:33.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documenataries** *TopDocumentaryFilms* \nhttps://topdocumentaryfilms.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394375350374410",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:37:52.187+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Documenataries** *IHaveNoTV* \nhttps://ihavenotv.com/\nhttps://discord.gg/eShqWHg",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://ihavenotv.com/",
+          "timestamp": null,
+          "description": "Free Documentaries Website - Astronomy, Nature, Brain, Science, Health, Lifehack",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394443247755275",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:38:08.375+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *Documentary Heaven* \nhttps://documentaryheaven.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home",
+          "url": "https://documentaryheaven.com/",
+          "timestamp": null,
+          "description": "Watch thousands of free documentaries online, spanning across all genres.",
+          "author": {
+            "name": "Documentary Heaven",
+            "url": "https://documentaryheaven.com/author/danny/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/K0qKeFUtIhaehXlEWGM6OCZnadyTnfYY_BayoubxuL8/https/www.documentaryheaven.com/docheaven.jpg",
+            "width": 1200,
+            "height": 444
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394511799476224",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:38:24.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Math / Interactive** *School Yourself* \nhttp://schoolyourself.org",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "School Yourself",
+          "url": "http://schoolyourself.org/",
+          "timestamp": null,
+          "description": "The future of online learning",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/hJVMnYFnHZwm3VbWiWYMTsXqD914FPg5wZGhMqt1mUc/http/schoolyourself.org/images/logo_lightbg.png",
+            "width": 361,
+            "height": 69
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394639365030018",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:38:55.133+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Math Tutorials** *Math Help*\nhttps://www.mathhelp.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home",
+          "url": "https://www.mathhelp.com/",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zrd15zze3ChhyBX3zSr6FapnbLyKeAbRvVh3MA8oZ3o/https/mathhelp.com/wp-content/themes/mathhelp/images/Home-Page-Image.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394679529680948",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:39:04.709+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Math Tutorials / Animated** *Mashup Math*\nhttps://mashupmath.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mashup Math",
+          "url": "https://mashupmath.com/",
+          "timestamp": null,
+          "description": "Math Education Teacher Resources Common Core Cool Video Lesson Free Worksheets Elementary Middle High School Homeschool Algebra Geometry Lessons Help Tutor Homework",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TT9ojK82xWxlPfgmq9JCXd6EaLmpfC2oAAsq0osIcw4/%3Fformat%3D1500w/http/static1.squarespace.com/static/54905286e4b050812345644c/t/5824f2a8f5e2319d0ba09259/1478816445249/NewLogoPNG.png",
+            "width": 1500,
+            "height": 1474
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394730616295455",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:39:16.889+00:00",
+      "timestampEdited": "2022-02-05T05:39:22.142+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**EDU Videos** *Brightstorm*\nhttps://www.brightstorm.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn math, science, English & Test Prep from expert teachers - Bri...",
+          "url": "https://www.brightstorm.com/",
+          "timestamp": null,
+          "description": "5,300 video lessons by expert teachers. 5,300 video lessons cover pre-algebra, algebra, geometry, algebra 2, trigonometry, precalculus, calculus in math, chemistry, biology and physics in science, English grammar, writing and literature in English, and SAT, ACT, ACT redbook, AP biology, AP calculus, AP US government, AP US history.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sIJcf3TcPLSo01-A-9vVXH9NWA3Fgf7kYrNKRYQ4Ob0/https/d1kk77jy37m3hf.cloudfront.net/02-12-12-04-1001_md.jpg",
+            "width": 640,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394833993306132",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:39:41.536+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Tech / Programming** *O'Reilly* \nhttps://www.oreilly.com/\nyou can use free forever just sign up for free trial and when it ends clear cookies and make another account",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "O'Reilly Media - Technology and Business Training",
+          "url": "https://www.oreilly.com/",
+          "timestamp": null,
+          "description": "Gain technology and business knowledge and hone your skills with learning resources created and curated by O'Reilly's experts: live online training, video, books, our platform has content from 200+ of the world's best publishers.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/FTY4dO4yX5njmLpzMit80SZAO_ZC_yfc7Ox9zSPAcdk/https/cdn.oreillystatic.com/oreilly/images/oreilly-social-200.png",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394903090286592",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:39:58.01+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Courses** *edX*\nhttps://www.edx.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "edX | Free Online Courses by Harvard, MIT, & more",
+          "url": "https://www.edx.org/",
+          "timestamp": null,
+          "description": "Access 2000 free online courses from 140 leading institutions worldwide. Gain new skills and earn a certificate of completion. Join today.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/n9oER9zzZRcqqZGj3yZKUn00408CDk2xsurhVq8nKhA/https/images.ctfassets.net/ii9ehdcj88bc/24nI9FEfxhYsu4JtOI8esA/283e8add221ba5a36b9af0b595f5cd61/edx-homepage-preview.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394943653400606",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:40:07.681+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Courses** *Coursera*\nhttps://www.coursera.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Coursera | Online Courses & Credentials From Top Educators. Join fo...",
+          "url": "https://www.coursera.org/",
+          "timestamp": null,
+          "description": "Learn online and earn valuable credentials from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Join Coursera for free and transform your career with degrees, certificates, Specializations, & MOOCs in data science, computer science, business, and dozens of other topics.",
+          "color": "#4689C6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QnA6Ci3C52hLXW2Ri_M-U14otTW3nHtIb9wdzB2idPA/https/s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png",
+            "width": 1200,
+            "height": 628
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939394984182943785",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:40:17.344+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Courses** *Future Learn*\nhttps://www.futurelearn.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "FutureLearn: Online Courses and Degrees from Top Universities",
+          "url": "https://www.futurelearn.com/",
+          "timestamp": null,
+          "description": "Join millions of people learning on FutureLearn. Find online courses and degrees from leading universities or organisations and start learning online today.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395026948063253",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:40:27.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Courses / Tech / Programming** *Udacity*\nhttps://www.udacity.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn the Latest Tech Skills; Advance Your Career | Udacity",
+          "url": "https://www.udacity.com/",
+          "timestamp": null,
+          "description": "Learn online and advance your career with courses in programming, data science, artificial intelligence, digital marketing, and more. Gain in-demand technical skills. Join today!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7R-NNQM6Mqh9oj9oEYuADEFElTxVBJzeWmse_8Bh914/https/www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/2dmDLmWvCncVHcQ6lz9u5v/9ebc8c914fcf0e8b546bce78133b2a4a/OpenGraph_Udacity_Logo_Update__1_.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395063576948747",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:40:36.273+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Tech / Programming / List** *Awesome CS Courses*\nhttps://github.com/prakhar1989/awesome-courses/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - prakhar1989/awesome-courses: List of awesome university co...",
+          "url": "https://github.com/prakhar1989/awesome-courses/",
+          "timestamp": null,
+          "description": ":books: List of awesome university courses for learning Computer Science! - GitHub - prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/T_hxNDfBSCj-dBQM_p1FETpO3D-ekZwqMxKWc6No-gc/https/opengraph.githubassets.com/80eeecaaecf6cd5315a7c2da6be7f57a8d8f8b297b8368d1f3bd7b391a606610/prakhar1989/awesome-courses",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395098804887623",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:40:44.672+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Alison*\nhttps://alison.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Alison | Free Online Learning with Certificate & Diploma Courses",
+          "url": "https://alison.com/",
+          "timestamp": null,
+          "description": "Free online courses with certificates. Join 4 million graduates and empower your career. Study, learn, certify, upskill with free online learning and training",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dBxO8LtewWaX7cqWqIK8KmYOdA6d4Sy0fXPSCkDMolg/https/alison.com/html/site/img/alison-icon-default.png",
+            "width": 260,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395146066321408",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:40:55.94+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Video Lectures** *UC Berkeley Webcast project*\nhttps://archive.org/details/ucberkeley-webcast\nhttps://lbry.tv/@UCBerkeley:d?",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "@UCBerkeley",
+          "url": "https://lbry.tv/@UCBerkeley:d?",
+          "timestamp": null,
+          "description": "View @UCBerkeley on Odysee",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/vVnBjfnUFQtghnhFFzIFttgzeuexR8Laa9WXL83iaS8/https/cards.odycdn.com/aHR0cHM6Ly9zcGVlLmNoL29keXNlZS1vZzplLnBuZz9xdWFsaXR5PTg1JmhlaWdodD02MzAmd2lkdGg9MTIwMA%3D%3D.jpg",
+            "width": 390,
+            "height": 205
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395195655565342",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:41:07.763+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Audiobooks, Courses, Documentaries, & Podcasts** *LearnOutLoud* \nhttps://www.learnoutloud.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LearnOutLoud.com - Audio Books, Podcasts, & Videos to Learn From",
+          "url": "https://www.learnoutloud.com/",
+          "timestamp": null,
+          "description": "LearnOutLoud.com is your one-stop destination for audio and video learning. Browse over 50,000 educational audio books, MP3 downloads, podcasts, and videos.",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395405437882418",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:41:57.779+00:00",
+      "timestampEdited": "2022-03-25T22:27:16.746+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Courses** *Git.ir*\nhttps://git.ir/\nGeolocked",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395449931038742",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:42:08.387+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Udemy Courses** */r/udemyfreebies* \nhttps://www.reddit.com/r/udemyfreebies/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "r/udemyfreebies",
+          "url": "https://www.reddit.com/r/udemyfreebies/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395502963843082",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:42:21.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *OpenLearn*\nhttps://www.open.edu/openlearn/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Open Learning",
+          "url": "https://www.open.edu/openlearn/",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/-hrf_HLDaPamnWjAWVjLcl-CFdYg3rF5KnP9qK1qHTk/https/www.open.edu/openlearn/theme/image.php/openlearnng/theme_openlearnng/1643106821/logo",
+            "width": 245,
+            "height": 82
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395564913721354",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:42:35.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *EbookFoundation Courses*\nhttps://github.com/EbookFoundation/free-programming-books#free-online-courses",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - EbookFoundation/free-programming-books: Freely available p...",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "timestamp": null,
+          "description": ":books: Freely available programming books. Contribute to EbookFoundation/free-programming-books development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/b8mKlV5NAkn6xdhyAyqTtZISnpDgYDBTCR5mbjl8120/https/opengraph.githubassets.com/786c519ebc0ef67acd85060f1b086f1b03057e5c5046d81a0c7509c4681bf4a7/EbookFoundation/free-programming-books",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395605472641104",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:42:45.471+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Udemy Courses** *UdemyFreeCourses*\nhttps://udemyfreecourses.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "All Udemy FREE  courses (daily updated) - UdemyFreeCourses.org",
+          "url": "https://udemyfreecourses.org/",
+          "timestamp": null,
+          "description": "More than 2000 FREE courses of Udemy all up to date and classified by categories. Our scraper bot updates the courses every day. Find the course you're looking for!",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/R3QwK8Rly6e-qxHRYq8qosQ0uZFZu7bqkMogsM3R1g8/https/udemyfreecourses.org/images/logo-big.jpg",
+            "width": 886,
+            "height": 502
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395641203916841",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:42:53.99+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Udemy Courses / Coupons** *TutsNode*\nhttps://tutsnode.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TutsNode - Free Courses",
+          "url": "https://tutsnode.net/",
+          "timestamp": null,
+          "description": "Free Courses",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395703111839784",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:43:08.75+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentary Subreddit** *r/Documentaries*\nhttps://www.reddit.com/r/Documentaries",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "r/Documentaries",
+          "url": "https://www.reddit.com/r/Documentaries",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395751212122174",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:43:20.218+00:00",
+      "timestampEdited": "2022-04-19T09:43:34.966+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Visual Studio Dev Essentials** *PluralSight Free for 1 Month*\nhttps://visualstudio.microsoft.com/dev-essentials/\nDecrypt Videos: <https://github.com/phuonghd/Decrypt-PluralSight-Videos-GUI>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Visual Studio Dev Essentials - Visual Studio",
+          "url": "https://visualstudio.microsoft.com/dev-essentials/",
+          "timestamp": null,
+          "description": "Everything you need to build and deploy your app on any platform including tools, services, training, and more. Join our free developer program.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/HOmZ9PAnzNEmFaMWrBnffHkJD4NuQ-7nfmair0RJWag/https/visualstudio.microsoft.com/wp-content/uploads/2020/07/Facebook.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395854865936424",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:43:44.931+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *Media Burn Archive*\nhttps://mediaburn.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Media Burn Archive",
+          "url": "https://mediaburn.org/",
+          "timestamp": null,
+          "description": "Documentaries with a social justice lens",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395887912857610",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:43:52.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *Folkstreams*\nhttps://www.folkstreams.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Folkstreams | Preserving the Stories of America",
+          "url": "https://www.folkstreams.net/",
+          "timestamp": null,
+          "description": "Folkstreams is a non-profit dedicated to finding, preserving, contextualizing, and showcasing documentary films on American traditional cultures.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/HO914JJBvVAmrRM0gNkTDxlxWfgn3tMDPu6P6WkJq3Y/%3Fmtime%3D1630507473/https/www.folkstreams.net/_media/banners/_1200x630_crop_center-center_82_none/bg-home-tbone.jpg-13-23-30-708.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395952677093416",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:44:08.251+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Udemy Coupons / Courses** *Online Courses Tracker*\nhttps://comidoc.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Daily Freebies and Coupons",
+          "url": "https://comidoc.net/",
+          "timestamp": null,
+          "description": "Our exclusive curated listing: all the daily free online courses are here",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/4geIjz4FmjtZFvvgUJUoKMWURjPmsn7iEkC8a8wXaO0/https/cdn-thumbs.comidoc.net/logo/coupons.jpg",
+            "width": 598,
+            "height": 448
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939395991562498058",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:44:17.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Udemy Coupons / Courses** *SmartyBro*\nhttps://smartybro.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SmartyBro - Top Free Online Courses | Udemy, Coursera, Edx, Eduonix...",
+          "url": "https://smartybro.com/",
+          "timestamp": null,
+          "description": "Top Free Online Courses | Udemy, Coursera, Edx, Eduonix & Skillshare",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/-F-DmYjoNsAxkg_H7e7sE-Tbb9ANtTp0JeKlElfzWfE/https/smartybro.com/wp-content/uploads/2019/05/Udemy-10-Promotion-On-All-Top-Course-SEO-Development-Photography-English-Master-Marketing-Education-Twitter-Facebook-Marketing-512x512.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396097263165490",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:44:42.723+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *Films For Action* \nhttps://www.filmsforaction.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Films For Action: A Library for Changing the World",
+          "url": "https://www.filmsforaction.org/",
+          "timestamp": null,
+          "description": "Browse and watch 4,500+ films. Share with friends. Add and rate content. Let's change the world together!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GLUlql9d2564n15hiWqH3aUKRjSniZ3-FUvTA-Y_XLY/https/www.filmsforaction.org/img/pages/eff8159c-3382-4637-8d95-249b6528f0a3.jpg",
+            "width": 600,
+            "height": 325
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396178083205162",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:45:01.992+00:00",
+      "timestampEdited": "2022-02-05T05:45:06.139+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *Documentary Mania* \nhttps://www.documentarymania.com/home.php",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Documentary Mania - Simply the best Documentaries",
+          "url": "https://www.documentarymania.com/home.php",
+          "timestamp": null,
+          "description": "The world's best free documentary collection - Simply the best Documentaries",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/AUOoXezCP-xorqNlPn6beJRfmJVgJTnG6pyEpXhHb88/https/www.documentarymania.com/Favicons/social-logo.png",
+            "width": 264,
+            "height": 266
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396292323463289",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:45:29.229+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Annotated Videos** *pad.ma*\nhttps://pad.ma",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Pad.ma",
+          "url": "https://pad.ma/",
+          "timestamp": null,
+          "description": "Pad.ma is an online archive of densely text-annotated video material, primarily footage and not finished films. The entire collection is searchable and viewable online, and is free to download for non-commercial use.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/RW8DkfT4WsthqunVDsgB7IYOw38hqr0bNZDeslA6Oi8/https/pad.ma/static/png/icon.png",
+            "width": 256,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396378453495858",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:45:49.764+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Class Central* \nhttps://www.classcentral.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Discover Free Online Courses & MOOCs • Class Central",
+          "url": "https://www.classcentral.com/",
+          "timestamp": null,
+          "description": "Love to learn? Discover thousands of FREE online courses and MOOCs from top universities and companies on Class Central.",
+          "color": "#0D4DF1",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/pfjPVkJ2oD_ZLUdWr5OA-1ugDMh0B5kF58QM4C28WtQ/%3Fauto%3Dformat%26ixlib%3Dphp-3.3.0%26s%3D619f6e4f641c5fbee122a06873ddb988/https/ccweb.imgix.net/https%253A%252F%252Fwww.classcentral.com%252Fimages%252Fmeta%252Fmeta-default.png",
+            "width": 1024,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396419868041256",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:45:59.638+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Auto-Grab Udemy Coupons** *UdemyEnrollEverywhere*\nhttps://github.com/keethesh/UdemyEnrollEverywhere",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - keethesh/UdemyEnrollEverywhere: Want to brag about having ...",
+          "url": "https://github.com/keethesh/UdemyEnrollEverywhere",
+          "timestamp": null,
+          "description": "Want to brag about having a lot of Udemy courses? Then UdemyEnrollEverywhere is what you need! It searches for coupons, and adds the corresponding courses to your account! - GitHub - keethesh/Udemy...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/rPPuLeViDGNM2JpwMP7xuzzl9hTT1ygmCuce-wWkAFg/https/opengraph.githubassets.com/ce9c8f601f8b38e583cb2b77842fd931299325ef5867c8066fd52c3228852fb3/keethesh/UdemyEnrollEverywhere",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396471462166550",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:46:11.939+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *OpenCulture*\nhttps://www.openculture.com/freeonlinecourses",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "1,700 Free Online Courses from Top Universities",
+          "url": "https://www.openculture.com/freeonlinecourses",
+          "timestamp": null,
+          "description": "Download 1,700 free courses from Stanford, Yale, MIT, Harvard, Berkeley and other great universities to your computer or mobile device. Over 45,000 hours of free audio & video lectures.",
+          "author": {
+            "name": "eric oberle",
+            "url": "https://www.openculture.com/author/ericoberle"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/3b784X9MmsWe1V9KCTaSQTYPuU2y7mU1867SjKwHPDY/https/cdn8.openculture.com/2020/10/15103818/Free-Online-Courses-2-1.jpg",
+            "width": 1000,
+            "height": 800
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396518694240336",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:46:23.2+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *DigitalGarage*\nhttps://learndigital.withgoogle.com/digitalgarage/courses",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Free Online Marketing & Career Courses - Google Digital Garage",
+          "url": "https://learndigital.withgoogle.com/digitalgarage/courses",
+          "timestamp": null,
+          "description": "Explore free online courses designed to help develop your digital marketing knowledge and digital skills.  Start learning at your own pace today.",
+          "color": "#00BFA5",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3p2IbIMdEwniUkW4WogNTRBY2rlOQ8kcnUCfs4f0sj8/%3F1644039983.55/https/lh3.googleusercontent.com/bsKrX6zCFKQMykyJT2DFMdQSJtF5uYh5D901fsyCQ5QhcEbsZ3_mIWNjixlLLub9F2mzqUEJy-GpZ5GGOrDkk97BvAOytfT4CPnJHvs",
+            "width": 512,
+            "height": 268
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396561224482816",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:46:33.34+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Lagunita* \nhttps://online.stanford.edu/lagunita-learning-platform",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396602798420038",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:46:43.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Hillsdale College*\nhttps://online.hillsdale.edu/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hillsdale College Online Courses",
+          "url": "https://online.hillsdale.edu/",
+          "timestamp": null,
+          "description": "Free courses taught by Hillsdale College faculty to pursue knowledge of the highest things, form character, and defend constitutional government.",
+          "color": "#102D51",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396648168214568",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:46:54.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Free Computer Science Lectures** *How to Become a Computer Science Engineer*\nhttps://laconicml.com/computer-science-engineer-mit-university/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to Become Computer Science Engineer at MIT University for FREE ...",
+          "url": "https://laconicml.com/computer-science-engineer-mit-university/",
+          "timestamp": null,
+          "description": "How to Become Computer Science Engineer at MIT University for FREE. Here's how you can become a Computer Science Engineer for free at the MIT University...",
+          "color": "#EEEE22",
+          "author": {
+            "name": "Filip Projcheski",
+            "url": "https://laconicml.com/author/laconicml/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/m_Altk5o3CIYSiE0HKuupDhiG9vyDappEaAHP6SyX00/https/laconicml.com/wp-content/uploads/2020/06/How-to-Become-Computer-Science-Engineer-at-MIT-University-for-FREE.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396688425156708",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:47:03.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Udemy Coupon Bot** *GUdemyBot*\nhttps://t.me/GUdemyBot",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Udemy Bot",
+          "url": "https://t.me/GUdemyBot",
+          "timestamp": null,
+          "description": "I can:\n    a) send you 100% discounted Udemy courses. \uD83D\uDEA9.\n\nMy owner is @gautamajay52 \uD83C\uDDEE\uD83C\uDDF3 .",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/D0HjpBjx9OSEwTzF4SAjHeikf_2rhNGq70ekMrboh_A/https/cdn5.telesco.pe/file/MdGADC0WwehDyncQK5qurmcFlyCh7kE8N8tIogr9MrDPajE1l_iorFgRMqshRRfXBF1vXp4vSoN_dSTTHPKm6NbddTudLiEZjbxie94iKNsyjpVEKmNqDXDebn_FkwcUVSScG-9z6NXACwLzE5U1q_UnNmCaxudvyXFd0gdPEXLZ7ETHuSCIxJOcGNHVwKbHs-f0vtzP4KWnrLoxe-6LxddVM2FYFgNsUgx9SSsex_GpjwyTHqclSQCzvkBWdz-WIlMcXmaBMJIfEBSz-1y-THbKRC9Z2TQH8tz9AOeGtVuRSkWZTub0RrFFAfXBI3aCVhRQ5ZH62np7WqvKqCXJhw.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396718494105651",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:47:10.836+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Educational Video Playlists** *cs1000*\nhttps://cs1000.vercel.app/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CS1000",
+          "url": "https://cs1000.vercel.app/",
+          "timestamp": null,
+          "description": "A reference site for a beginner, to gain insight into various subjects present around CS and Software engineering.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396762110681088",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:47:21.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *Documentary Streaming*\nhttps://documentary-streaming.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Documentary Streaming : Watch Free Documentaries And Reports Online",
+          "url": "https://documentary-streaming.com/",
+          "timestamp": null,
+          "description": "Download and Watch the best free documentaries and reports online : free replay tv streaming, free documentary streaming, free report streaming",
+          "author": {
+            "name": "yassine",
+            "url": "https://documentary-streaming.com/author/yassine/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396792263540756",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:47:28.424+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *ThoughtMaybe*\nhttps://thoughtmaybe.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Thought Maybe",
+          "url": "https://thoughtmaybe.com/",
+          "timestamp": null,
+          "description": "A library of films to provoke, inspire and inform radical social and political change.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396884580163606",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:47:50.434+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Automatically Enroll in Udemy Courses** *Discounted-Udemy-Course-Enroller*\nhttps://github.com/techtanic/Discounted-Udemy-Course-Enroller",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - techtanic/Discounted-Udemy-Course-Enroller: A script/softw...",
+          "url": "https://github.com/techtanic/Discounted-Udemy-Course-Enroller",
+          "timestamp": null,
+          "description": "A script/software for automatically enrolling/joining 100% discounted Udemy courses for free. Get Paid Udemy courses for free with just a few clicks. - GitHub - techtanic/Discounted-Udemy-Course-En...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/3szbBCcWklMlNX-SFgxq2MoP5H3VV-qYLSeI14b7YY4/https/repository-images.githubusercontent.com/310627946/89daca80-64a9-11eb-8781-d7a05e1b1f2e",
+            "width": 400,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396915165012000",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:47:57.726+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *SelfSchool*\nhttps://selfschool.me/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939396947654107186",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:48:05.472+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Educational Videos** *WatchKnowLearn*\nhttp://www.watchknowlearn.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "WatchKnowLearn - Free K-12 educational videos",
+          "url": "http://www.watchknowlearn.org/",
+          "timestamp": null,
+          "description": "Free K-12 educational videos … organized. Tens of thousands of excellent, educational videos in a huge, intuitive directory. Organized, reviewed, rated, and described by teachers. Ideal as a supplement to a curriculum or for independent study. Designed for teachers, students, parents, homeschoolers, educators … and all life-long learners!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tMRtg3kS1p2hQUjzQJiM0Hl3x_OZN45fgjqSUhBfEXc/http/www.watchknowlearn.org/images/icon-120x120-1.jpg",
+            "width": 120,
+            "height": 120
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939397003299946516",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:48:18.739+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Computer Science Courses** *Open Source Society University*\nhttps://github.com/ossu/computer-science\nhttps://github.com/ossu\nhttps://discord.gg/wuytwK5s9h",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - ossu/computer-science: Path to a free self-taught educatio...",
+          "url": "https://github.com/ossu/computer-science",
+          "timestamp": null,
+          "description": ":mortar_board: Path to a free self-taught education in Computer Science! - GitHub - ossu/computer-science: Path to a free self-taught education in Computer Science!",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wgOHOn2N9M28B6ZBBOEN5CBLsv3av_f8dWoI_VTqTHg/https/opengraph.githubassets.com/03a5093aa62ac57a346d2469d68a15251fa92a433678d19e17f1872fd69fd359/ossu/computer-science",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        },
+        {
+          "title": "Open Source Society University",
+          "url": "https://github.com/ossu",
+          "timestamp": null,
+          "description": "Empowering learners to master college curricula through free resources. Choose a major and start today! - Open Source Society University",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/T9XT_-vZzv9NzIMG6b-WjM_kRloLS9Z5k3miJlz7A0M/%3Fs%3D280%26v%3D4/https/avatars.githubusercontent.com/u/14957346",
+            "width": 280,
+            "height": 280
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939397054306848788",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:48:30.9+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Computer Science Courses** *Open Source CS Degree*\nhttps://github.com/mvillaloboz/open-source-cs-degree",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - mvillaloboz/open-source-cs-degree: The Open Source Compute...",
+          "url": "https://github.com/mvillaloboz/open-source-cs-degree",
+          "timestamp": null,
+          "description": "The Open Source Computer Science Degree. Contribute to mvillaloboz/open-source-cs-degree development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/DcGvNEbO0WNzMEBSd54GrSrqY7sR3HC-c5EG1nImwbg/https/opengraph.githubassets.com/886d8aa04da7fdc51e83cffb910100bf5fde0d7a3a57336c81104165178960d6/mvillaloboz/open-source-cs-degree",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939397110040780810",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:48:44.188+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Computer Science Courses** *Modern Computer Science Curriculum* \nhttps://functionalcs.github.io/curriculum/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939397166567424010",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:48:57.665+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Programming Courses** *Curated Programming Resources*\nhttps://github.com/Michael0x2a/curated-programming-resources",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Michael0x2a/curated-programming-resources: A curated list ...",
+          "url": "https://github.com/Michael0x2a/curated-programming-resources",
+          "timestamp": null,
+          "description": "A curated list of resources for learning programming. - GitHub - Michael0x2a/curated-programming-resources: A curated list of resources for learning programming.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/2d3qplWEcaHaXj7Bv6oCpWSux4x_Cyu7ZRyJjLSDsh8/https/opengraph.githubassets.com/5b170514868fc607ad826f12c1574d4a8fa039cf2097a262cbc709e70bf7714a/Michael0x2a/curated-programming-resources",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939397240525570068",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:49:15.298+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Educational Presentations** *media.ccc.de*\nhttps://media.ccc.de/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "media.ccc.de -\nhome",
+          "url": "https://media.ccc.de/",
+          "timestamp": null,
+          "description": "Video Streaming Portal des Chaos Computer Clubs",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939397287296266321",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:49:26.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Computer Science Courses** *Learn Computer Science in 1k Videos*\nhttps://laconicml.com/computer-science-curriculum-youtube-videos/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Entire Computer Science Curriculum in 1000 YouTube Videos | Laconicml",
+          "url": "https://laconicml.com/computer-science-curriculum-youtube-videos/",
+          "timestamp": null,
+          "description": "This is The Entire Computer Science Curriculum in 1000 YouTube Videos. The curriculum is going to be organized in 40 courses in total, further organized in 4 academic years...",
+          "color": "#EEEE22",
+          "author": {
+            "name": "Filip Projcheski",
+            "url": "https://laconicml.com/author/laconicml/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/igQeWm857QP6SbevYfmstiQuOfATaqqZGogfF54QYHc/https/laconicml.com/wp-content/uploads/2020/12/post_58_naslovna.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939397934246662214",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:52:00.694+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *ARTE (Use VPN if outside EU)*\nhttps://www.arte.tv/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ARTE, the European culture TV channel, free and on demand",
+          "url": "https://www.arte.tv/",
+          "timestamp": null,
+          "description": "Magazine shows, concerts, documentaries, and more: the European culture channel's programmes available to stream free of charge on arte.tv.",
+          "color": "#FD4600",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/CUDJKE8FlItix6972CimneoH5HvY1wQ0Q8y71P6uOAY/https/static-cdn.arte.tv/guide/img/SHARE_DEFAULT.jpg",
+            "width": 500,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939397993101156392",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:52:14.726+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *NPTEL*\nhttps://nptel.ac.in/course.html",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "NPTEL :: Courses",
+          "url": "https://nptel.ac.in/course.html",
+          "timestamp": null,
+          "description": "NPTEL provides E-learning through online Web and Video courses various streams.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398059304054795",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:52:30.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Cursa*\nhttps://cursa.app/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cursa | Free online courses with certificate",
+          "url": "https://cursa.app/",
+          "timestamp": null,
+          "description": "Hundreds of free courses in video and text, divided into several categories, exercises and certificate.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/_kdAid7aBOhwQGBWPbbFfqfdTqgHhnTX6GUN8OB9cm8/https/cursa.app/img/share/imagem_compartilhamento_en.webp",
+            "width": 1024,
+            "height": 500
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398091616956446",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:52:38.214+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Real.Discount*\nhttps://app.real.discount/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Free Udemy Online Courses and Udemy Free Courses | Real Discount",
+          "url": "https://app.real.discount/",
+          "timestamp": null,
+          "description": "Get Free Online Courses with Certificates, Udemy Coupon, Udemy Coupon Codes, Free Udemy Online Courses, Udemy Free Courses, Online Sales and More...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/bbzBIjtbiNue_l8KlO8zz1hdshSEqGOOT4UwlSnrL9Y/https/app.real.discount/img/headerbg-sm.jpg",
+            "width": 1920,
+            "height": 1239
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398172143415337",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:52:57.413+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Cyber Security Courses with Certification** *Skills for All with Cisco*\nhttps://skillsforall.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Skills for All with Cisco Networking Academy",
+          "url": "https://skillsforall.com/",
+          "timestamp": null,
+          "description": "Free online tech courses backed by Cisco's expertise and connected to real career paths. Discover your future today.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/mW4ukkErBYgbyuUphDnnMjbJHdpwdTjMcdZwNSkj_Qo/https/socialgoodplatform.com/skillsforall/img/desktop/hero.png",
+            "width": 1920,
+            "height": 1000
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398205999824946",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:53:05.485+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *PBS Frontline*\nhttps://www.pbs.org/wgbh/frontline/films/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Full FRONTLINE Documentaries | PBS | Official Site",
+          "url": "https://www.pbs.org/wgbh/frontline/films/",
+          "timestamp": null,
+          "description": "Watch FRONTLINE videos online. Stream full episodes of PBS's documentary series for free.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ZmWw2oxIQNGk-Plu6FSB5yMYqKZnjMqOxk47oGOGK1E/https/www.pbs.org/wgbh/frontline/wp-content/themes/fl-responsive-theme/library/images/frontline_logo_og.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398237033476096",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:53:12.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Medical Courses** *FreeMedTube*\nhttps://freemedtube.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "FreeMedtube : Free USMLE, Medical Video Sharing site",
+          "url": "https://freemedtube.net/",
+          "timestamp": null,
+          "description": "Free  Online Usmle and other Medical Videos sharing site including Kaplan, Picmonic, Sketchy Medical, Becker, DIT, Doctor in Training, MedQuest, Medmasterym Usmle Rx, First Aid Express and many more",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bTU-zEaZswdv8-vPkS_LFgrSuxKhAMB8EC7WCrmQo64/%3F1/https/freemedtube.net/main.png",
+            "width": 480,
+            "height": 270
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398281212067880",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:53:23.417+00:00",
+      "timestampEdited": "2022-02-05T05:53:26.797+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Lectures** *iTunes U*\nhttps://wiki.archiveteam.org/index.php/ITunes_U",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ITunes U",
+          "url": "https://wiki.archiveteam.org/index.php/ITunes_U",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398339827490816",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:53:37.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Kadenze*\nhttps://www.kadenze.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Kadenze",
+          "url": "https://www.kadenze.com/",
+          "timestamp": null,
+          "description": "Kadenze brings together educators, artists, and engineers from leading universities to provide world-class education in the fields of art and creative technology.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/yLx6KudCF_kuCuL7C4CRRAuB4AGFREFfzAqRrqGdKI0/https/prod-assets.useast1.kadenze.com/assets/fb-share-logo-41d1da44a946afd16e11d9d3b543ff21311984b1e63cf11ebc95f78bec6f0028.jpg",
+            "width": 1600,
+            "height": 1000
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398377400041602",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:53:46.35+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *Documentary Network*\nhttps://documentary.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Documentary Network - Watch amazing videos",
+          "url": "https://documentary.net/",
+          "timestamp": null,
+          "description": "Explore the world with videos and documentaries. We go beyond headlines, discover uncomfortable truths and feature drone and timelapse clips.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398406206550026",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:53:53.218+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *OnlineTutorials*\nhttps://www.onlinetutorials.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Online Tutorials: Free Online Courses With Certificates (2021)",
+          "url": "https://www.onlinetutorials.org/",
+          "timestamp": null,
+          "description": "Get the latest free online tutorials, online classes, free online courses with certificates to learn new skills and improve your knowledge without paying for it.",
+          "author": {
+            "name": "Online Tutorials",
+            "url": "https://www.onlinetutorials.org/author/administrator/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/IxzVqaR2z8_ei5hDO5KabtS6d0-vZEWmk-DVtEeD_dg/https/www.onlinetutorials.org/wp-content/uploads/2021/07/freeonlinecourse.jpg",
+            "width": 1000,
+            "height": 667
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398445184188468",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:54:02.511+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *CourseSity*\nhttps://www.coursesity.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Discover Best Online Courses & Tutorials - Coursesity",
+          "url": "https://www.coursesity.com/",
+          "timestamp": null,
+          "description": "Find the best courses on programming, design, marketing, business, test prep, health, personal development and anything you want to learn. Discover the best online courses & tutorials on the internet for your next learning.",
+          "color": "#1976D2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/B-RbgevX9OlrEGMvXxLiZeR32d_OknPJ2BD5cwRtBTY/https/res.cloudinary.com/db194k5td/image/upload/v1577931201/meta/default.png",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398475001516042",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:54:09.62+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Udemy Courses** *FreeCourseWebsite*\nhttps://freecoursewebsite.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "1500 + Free Online Courses - Free Course Website",
+          "url": "https://freecoursewebsite.com/",
+          "timestamp": null,
+          "description": "Get Courses Related to Development Design And Business Marketing Programming Python Machine Learning",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398505099849789",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:54:16.796+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Course Search Engine** *FindAndSolve*\nhttps://www.findandsolve.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Online Tutorials Library - ASP.NET,ANGULAR, AI with QA and Onli...",
+          "url": "https://www.findandsolve.com/",
+          "timestamp": null,
+          "description": "findandsolve is an open platform where readers find dynamic thinking and voices can share their writing on any topic.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/j-O4YI0W2YoNBKuRL6SfLY-N00sjHC9a1DMbje53JwA/https/www.findandsolve.com/images/fns/fbdefault.png",
+            "width": 1000,
+            "height": 1000
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398554894610503",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:54:28.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Udemy Course Enrollment Script** *Automatic-Udemy-Course-Enroller*\nhttps://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COU...",
+          "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+          "timestamp": null,
+          "description": "Do you want to LEARN NEW STUFF for FREE? Don&#39;t worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons &amp; enroll you for PAID UDEMY CO...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/yGfzLCa4PPfDLXkz2vzhmYvt_9ZpZtjBskJoYpV6HWM/https/opengraph.githubassets.com/01c9b42cddfa9d8e38089500fb2894267ac533101365a0a97fb15dbf7553a54d/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398598360174622",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:54:39.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Harvard Online Courses*\nhttps://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Courses",
+          "url": "https://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price",
+          "timestamp": null,
+          "description": "Browse the latest online courses from Harvard University, including \"CS50's Introduction to Game Development\" and \"Nonprofit Financial Stewardship Webinar: Introduction to Accounting and Financial Statements.\"",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398649958498324",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:54:51.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Computer Science Courses With Video Lectures** *cs video courses*\nhttps://github.com/Developer-Y/cs-video-courses",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Developer-Y/cs-video-courses: List of Computer Science cou...",
+          "url": "https://github.com/Developer-Y/cs-video-courses",
+          "timestamp": null,
+          "description": "List of Computer Science courses with video lectures. - GitHub - Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/M1I2Ch11mRaINyA9yXQf_cbj0JxcqG3rpfACQNIJpnY/https/opengraph.githubassets.com/8f35a73416bc0c2d514852eaa0b50f11f4e8a5b64c34259856abcd441087c340/Developer-Y/cs-video-courses",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398693361176577",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:55:01.681+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Inspiring and Educational Talks** *Ted*\nhttps://www.ted.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TED: Ideas worth spreading",
+          "url": "https://www.ted.com/",
+          "timestamp": null,
+          "description": "TED Talks are influential videos from expert speakers on education, business, science, tech and creativity, with subtitles in 100+ languages. Ideas free to stream and download.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Qd9MmFOS9Hd-Y0GA-ltUOOCi0wcU5C-mGVCA4rUC7BI/%3Fv%3DwAff13s%3F/https/pi.tedcdn.com/r/pl.tedcdn.com/social/ted-logo-fb.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398743642501171",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:55:13.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Academic Earth*\nhttps://academicearth.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AcademicEarth.org - Free Online Courses From Top Colleges",
+          "url": "https://academicearth.org/",
+          "timestamp": null,
+          "description": "Find free online courses, lectures, and videos from the best colleges in the country. Take online classes from schools like Yale, MIT and Stanford.",
+          "author": {
+            "name": "Staff Writers",
+            "url": "https://academicearth.org/author/rv-admin/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398780854341693",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:55:22.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Canvas*\nhttps://www.canvas.net/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Canvas Network | Free online courses | MOOCs",
+          "url": "https://www.canvas.net/",
+          "timestamp": null,
+          "description": "The Canvas Network offers free online courses and classes from the world's leading universities. Find a MOOC and enroll now to get started on your new journey!",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398832112939049",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:55:34.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Automatically Apply Discount Coupons on Udemy Courses** *Fresh Coupons*\nhttps://github.com/KajanM/fresh-coupons\nhttps://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - KajanM/fresh-coupons: Buy paid Udemy courses for free/with...",
+          "url": "https://github.com/KajanM/fresh-coupons",
+          "timestamp": null,
+          "description": "Buy paid Udemy courses for free/with discount without extra step! See all discounted courses right in Udemy and apply coupon code automatically or with a single click. - GitHub - KajanM/fresh-coupo...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/v78Ex4UjVLPAnS_N-RSpLMGl0oN865AO1glglReBIv4/https/opengraph.githubassets.com/d45b64ae329052f7abacaa35ab31fbcd2809366c42a99f6f4c9c583357fde1e8/KajanM/fresh-coupons",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        },
+        {
+          "title": "Fresh Coupons",
+          "url": "https://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie",
+          "timestamp": null,
+          "description": "Automatically find and apply discount coupon codes for Udemy courses",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/c1vYFbTrUgGa5-oHfwFRe9m6lB-Wk1qXk9DVCXNSifg/https/lh3.googleusercontent.com/CQ5wKkDqv1NJVkRaQ1rwC3lBydoR34s6Drg5YshQE8ISO1c8iI5Uj0uJ8DJm2Hrbjx81MonAcdRMo96j9VhZGlq2Jw%3Dw128-h128-e365-rj-sc0x00ffffff",
+            "width": 128,
+            "height": 128
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398873087090688",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:55:44.531+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Curated Educational Videos** *Topic Play*\nhttps://topicplay.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Topic Play",
+          "url": "https://topicplay.com/",
+          "timestamp": null,
+          "description": "Topic Play lists the best videos, playlists and channels for different topics.",
+          "color": "#21252B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/pYmmDOXyaZ_HdPamKkyiD1TWN8EH1EUYljvyvJuXIh0/https/res.cloudinary.com/sl0/image/upload/v1599482915/static-images/sba6xpzutdzxmclqvglu.png",
+            "width": 1200,
+            "height": 800
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398929357881406",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:55:57.947+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Deep Learning Course** *NYU-DLSP21*\nhttps://atcold.github.io/NYU-DLSP21/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939398966091599882",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:56:06.705+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Yale.edu*\nhttps://oyc.yale.edu/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939399002749829170",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:56:15.445+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Open HPI*\nhttps://open.hpi.de/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939399035301797899",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:56:23.206+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *CourseF*\nhttps://www.coursef.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Coursef.com: Free Online Courses & Certificates From Leading Instit...",
+          "url": "https://www.coursef.com/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939399067446960138",
+      "type": "Default",
+      "timestamp": "2022-02-05T05:56:30.87+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Courses** *Stepik*\nhttp://stepik.org/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Stepik is an educational platform for Computer Science.",
+          "url": "http://stepik.org/",
+          "timestamp": null,
+          "description": "Promoting efficient learning by developing innovative educational technologies. Create an interactive lesson and employ automated grading software for free.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/2YgcCf_m3nUDiwDSCj8xKGznJ46WJ8GqoEIGwfKL-3g/https/stepik.org/static/frontend/stepic_logo_share.jpg",
+            "width": 250,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941260216090103839",
+      "type": "Default",
+      "timestamp": "2022-02-10T09:12:03.285+00:00",
+      "timestampEdited": "2022-02-10T09:12:14.893+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Free Udemy Courses** *Study Bullet*\nhttps://studybullet.com/\nTG: https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "StudyBullet",
+          "url": "https://studybullet.com/",
+          "timestamp": null,
+          "description": "100% Free Udemy Courses!",
+          "fields": []
+        },
+        {
+          "title": "UdemyKing Free Courses!",
+          "url": "https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw",
+          "timestamp": null,
+          "description": "☑️ Get 30+ Daily (100% Off) Udemy Certificate Courses for Free!  \t\t☑️ Visit Website➛ UdemyKing.com\t\t☑️ FAQ's➛ @UFC_FAQs\t\t☑️ Contact Us➛ @UFCs_bot\t\t☑️ DMCA➛ bit.ly/UFCdmca\t\t☑️ Join Channel➛ bit.ly/UFC-telegram",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FwzZG1aDvGqibndV7aB0rgHnok1TUBDzqZfpj6atNKM/https/cdn5.telesco.pe/file/pwyHfGGbCiuVQ0ieJ1keOkUw1jqrYPE4SVZjwJ-hcwABWTz54vBJHoCEIlgsiPfTwQ7W7AcHQWIrBjYxO4_dHAEy1FZHoBRVFt3BfOz2h6ZZmmUHjP6zKa1icc1yrdnMxOb70DSHbEk3xf7dYFescKD6RyjXf8VshuBLhqltbf0VN9N4VJBkNPHQ30wJ6dKRvT_j0XcS28a9rtQ3Xt6Az3tEviVeO3UvGz24LvH0Lj_WWXOxE6-y-u5v78kas0BY3szGX48GnPzUZtFVr7bO_hX4oa_MQwkWtaUB77xJMbF0T9mYMtMIMnkfOA_OizYs7jeyjer3RP4V-LoWZ-313g.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941264595933356062",
+      "type": "Default",
+      "timestamp": "2022-02-10T09:29:27.521+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Bill Nye Science Videos** *BillNye*\nhttps://billnye.com/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Official Website of Bill Nye The Science Guy",
+          "url": "https://billnye.com/",
+          "timestamp": null,
+          "description": "The official website of Bill Nye The Science Guy featuring books, shows, appearances, episode guides, and home demos.",
+          "color": "#333333",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941767415816142868",
+      "type": "Default",
+      "timestamp": "2022-02-11T18:47:29.123+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *Documentary Storm*\nhttps://www.documentarystorm.com/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Documentary Storm",
+          "url": "https://www.documentarystorm.com/",
+          "timestamp": null,
+          "description": "Watch the best free full-length documentary films on the web. History documentaries, Science, Culture, Music... Explore and Enjoy!",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Kf8FEtevWJRUpv15XuZg-4jr9xPk0jDPRnPiRre5r0c/https/documentarystorm.com/files/2015/03/fb.png",
+            "width": 600,
+            "height": 315
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941767556589572117",
+      "type": "Default",
+      "timestamp": "2022-02-11T18:48:02.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *WatchDocumentaries*\nhttps://watchdocumentaries.com/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "WatchDocumentaries.com | Watch Free Documentaries Online",
+          "url": "https://watchdocumentaries.com/",
+          "timestamp": null,
+          "description": "Collection of the world's greatest full-length documentaries. All films are free to watch and enjoy online. Embrace the knowledge!",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ixooMGQFndR_2h6WTCEYlwMxpJZww8FTYFt6BurLhfg/https/watchdocumentaries.com/wp-content/uploads/social-logo.jpg",
+            "width": 250,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941767684108992571",
+      "type": "Default",
+      "timestamp": "2022-02-11T18:48:33.089+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *Docur*\nhttps://docur.co/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Docur: Watch the Best Free Documentaries Online",
+          "url": "https://docur.co/",
+          "timestamp": null,
+          "description": "Watch documentaries online on Docur. Review, favourite & rate the best free documentaries online. Find high quality full length documentary films, updated daily with a variety of 22 categories including, science, history, art, space, nature, health and animals.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/EOguIckjz7K1Z-PbUpREbsWbs7Ig5FnUHtoL1-Iaot4/https/docur.co/media/style/logo.png",
+            "width": 773,
+            "height": 310
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "944368938060488785",
+      "type": "Default",
+      "timestamp": "2022-02-18T23:05:00.36+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Documentaries** *Documentary Tube*\nhttps://www.documentarytube.com/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Free Documentary Videos",
+          "url": "https://www.documentarytube.com/",
+          "timestamp": null,
+          "description": "Watch Full-Length Documentaries Online for Free. New Documentaries Added Daily, Top Documentary Films.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/qHIcDGIowqGxaBGlWHB5VvkVfynciJWonlEn1PFdTVo/http/www.documentarytube.com/theme/img/icon.png",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "947363994379882576",
+      "type": "Default",
+      "timestamp": "2022-02-27T05:26:17.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Free Udemy Course Bot** *UdemyBot*\nhttps://github.com/gautamajay52/UdemyBot",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - gautamajay52/UdemyBot: UdemyBot - A Simple Udemy Free Cour...",
+          "url": "https://github.com/gautamajay52/UdemyBot",
+          "timestamp": null,
+          "description": "UdemyBot - A Simple Udemy Free Courses Scrapper. Contribute to gautamajay52/UdemyBot development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/A3LaIYN1EYCeIjEypllhS8eD85q0y-gyebbyTwNkpuc/https/opengraph.githubassets.com/ea2616156d27581f6686cfa48c96dc34656ff3f59978f3b409b3dd6028c6da66/gautamajay52/UdemyBot",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "953031952812875861",
+      "type": "Default",
+      "timestamp": "2022-03-14T20:48:44.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Udemy Courses** *HiDevs*\nhttps://hidevs.net/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learning Center - ShareAppsCrack",
+          "url": "https://hidevs.net/",
+          "timestamp": null,
+          "description": "ShareAppsCrack Learning Center is a website for learning some course for free - hidevs.net",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/cIBnAHnrhchoTNoMop7JC1qylhDD8DAccnHjIipd_GQ/https/hidevs.net/static/default.png",
+            "width": 250,
+            "height": 150
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "959979766386155540",
+      "type": "Default",
+      "timestamp": "2022-04-03T00:56:51.868+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**awesome public courses** *Study is wonderful*\nhttps://github.com/xioacd99/study-is-wonderful",
+      "author": {
+        "id": "925645788590252032",
+        "name": "Pixel_1",
+        "discriminator": "6758",
+        "nickname": "Pixel_1",
+        "color": "#00FF4A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/925645788590252032/e735505f92b518a3e12e4250c2398ace.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - xioacd99/study-is-wonderful: awesome public courses and wo...",
+          "url": "https://github.com/xioacd99/study-is-wonderful",
+          "timestamp": null,
+          "description": "awesome public courses and wonderful study resource - GitHub - xioacd99/study-is-wonderful: awesome public courses and wonderful study resource",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/A-jagqilAhUdmbilfbYoG2hJ2nmTn2HCbzWqWaqur24/https/opengraph.githubassets.com/f9c475953371b86946ef1c6e997a2eaf8456da6830213c964079f15d3ac51c12/xioacd99/study-is-wonderful",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "960392020352966656",
+      "type": "Default",
+      "timestamp": "2022-04-04T04:15:00.873+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**NYU Tandon's Applied Cryptography course** *sha256_project*\nhttps://github.com/oconnor663/sha256_project",
+      "author": {
+        "id": "925645788590252032",
+        "name": "Pixel_1",
+        "discriminator": "6758",
+        "nickname": "Pixel_1",
+        "color": "#00FF4A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/925645788590252032/e735505f92b518a3e12e4250c2398ace.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - oconnor663/sha256_project: developed for NYU Tandon's Appl...",
+          "url": "https://github.com/oconnor663/sha256_project",
+          "timestamp": null,
+          "description": "developed for NYU Tandon's Applied Cryptography course - GitHub - oconnor663/sha256_project: developed for NYU Tandon's Applied Cryptography course",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nCWNt_WDNFqMIn3Ov-udRkS3UeP0gc20F6nr-MactFY/https/opengraph.githubassets.com/a668ec6dc3ea1c815c5695a35fe07ff1d7f3476317dcbab92d1506fb8d81d879/oconnor663/sha256_project",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "960653997830713454",
+      "type": "Default",
+      "timestamp": "2022-04-04T21:36:01.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Religious Courses** *Sapience Institute*\nhttps://learn.sapienceinstitute.org/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home",
+          "url": "https://learn.sapienceinstitute.org/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "Sapience Institute",
+            "url": "https://learn.sapienceinstitute.org/author/imran/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "963827646108692501",
+      "type": "Default",
+      "timestamp": "2022-04-13T15:46:57.884+00:00",
+      "timestampEdited": "2022-04-13T15:47:35.611+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Find, compare and join hundreds of free online courses (MOOCs) from over 250+ Universities** *Coursebuffet* \n*(The Most Organized Online Course Catalog)*\n\nhttps://www.coursebuffet.com/",
+      "author": {
+        "id": "925645788590252032",
+        "name": "Pixel_1",
+        "discriminator": "6758",
+        "nickname": "Pixel_1",
+        "color": "#00FF4A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/925645788590252032/e735505f92b518a3e12e4250c2398ace.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CourseBuffet - Find free online courses from 200+ top universities ...",
+          "url": "https://www.coursebuffet.com/",
+          "timestamp": null,
+          "description": "The most organized catalog of free courses on the planet. Spend your time learning, not searching - CourseBuffet.com",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/JmBjOWzg5L5F275V_SftNu97doxJmLQHLtMeep2U59Q/https/coursebuffet.com/newdesign/img/fbog.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "963831258524315708",
+      "type": "Default",
+      "timestamp": "2022-04-13T16:01:19.151+00:00",
+      "timestampEdited": "2022-04-13T16:01:45.271+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "watch and download 1086+ courses Free  crunchlearn\n*(Telegram: https://t.me/joinchat/AAAAAEvVtydjvhe_w8kyPw)*\n https://www.crunchlearn.com/",
+      "author": {
+        "id": "925645788590252032",
+        "name": "Pixel_1",
+        "discriminator": "6758",
+        "nickname": "Pixel_1",
+        "color": "#00FF4A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/925645788590252032/e735505f92b518a3e12e4250c2398ace.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Join group chat on Telegram",
+          "url": "https://t.me/joinchat/AAAAAEvVtydjvhe_w8kyPw)*",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/vQJF1mUTS5Fumitbe1LLlMqmyrwKJ2tgTbvnfq1kLP0/https/telegram.org/img/t_logo.png",
+            "width": 128,
+            "height": 128
+          },
+          "fields": []
+        },
+        {
+          "title": "Free machine learning, big data, cloud, python, udemy courses",
+          "url": "https://www.crunchlearn.com/",
+          "timestamp": null,
+          "description": "Watch and Download Free Courses and Tutorials. Machine Learning, Big Data, DevOps, Python, JavaScript, Udemy, Hacking, Programming, Software",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2Ov1YxJ7PSN8E-LdkpxJnspWREfUydDGTPobNP8-1r0/https/www.crunchlearn.com/images/site_image.jpg",
+            "width": 225,
+            "height": 221
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "964338067215384616",
+      "type": "Default",
+      "timestamp": "2022-04-15T01:35:11.759+00:00",
+      "timestampEdited": "2022-04-19T09:12:52.745+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Udemy Coupons** \nhttps://couponscorpion.com/\nhttps://www.discudemy.com/\nhttps://bestcouponhunter.com/\nhttps://coursevania.com/\nhttps://udemycoupon.learnviral.com/\nhttps://baronip-coupons.blogspot.com/\nhttps://coursetime.net/\nhttp://idownloadcoupon.com/\nhttps://t.me/freeudemycoupondaily\nhttps://udemycoupons.me/\nhttps://cursosdev.com/\nhttps://freebiesglobal.com/\nhttps://www.real.discount/\nhttps://www.onlinecourses.ooo/\nhttps://100offdeal.online/\nhttps://coursecouponclub.com/\nhttps://coursekingdom.xyz/\nhttps://www.lorebeam.com/\nhttps://www.freshercooker.com/category/courses/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 97
+}

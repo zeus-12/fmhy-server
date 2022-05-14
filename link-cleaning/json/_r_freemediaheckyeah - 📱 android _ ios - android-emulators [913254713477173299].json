@@ -1,0 +1,1090 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254713477173299",
+    "type": "GuildTextChat",
+    "categoryId": "913254713288454198",
+    "category": "\uD83D\uDCF1 android / ios",
+    "name": "android-emulators",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "939190424613040248",
+      "type": "Default",
+      "timestamp": "2022-02-04T16:07:26.542+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840385126137877",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:09.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**PC / Mac** *Nox*\nhttps://www.bignox.com/\nhttps://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Noxplayer – Fastest and Smoothest Android Emulator for PC & Mac – F...",
+          "url": "https://www.bignox.com/",
+          "timestamp": null,
+          "description": "Play the most popular mobile games and run apps on PC with NoxPlayer, the best Android Emulator. Supports Android 9. Compatible with Windows & Mac. Much faster and more stable.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/t0gDT5OYXq6y7qZOtSUMCXMXzlVq0VvrEoN_Tlz-r_A/https/res06.noxgroup.com/player/www/image/share.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        },
+        {
+          "title": "Debloating & Optimizing Nox",
+          "url": "https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29",
+          "timestamp": null,
+          "description": "Debloating & Optimizing Nox. GitHub Gist: instantly share code, notes, and snippets.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/v2ToTBFZ7zHPk2sQlBt80EaH2hhwBfD3Zdf1J_uxMxs/https/github.githubassets.com/images/modules/gists/gist-og-image.png",
+            "width": 1280,
+            "height": 640
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840385621061693",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:09.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**PC** *MuMu*\nhttps://www.mumuglobal.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MuMu Player -Fast Android Emulator for PC,Perfectly supports Free Fire",
+          "url": "https://www.mumuglobal.com/",
+          "timestamp": null,
+          "description": "MuMu Player is a free Android emulator to play mobile games on PC with mouse and keyboard. It provides the fastest performance for Android gaming, supports most of the popular apps and games. MuMu Player perfectly supports Revived Witch, Start your pixel journey in a fantasy world today!",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/wJy8jTliZZf0pmogAOFyszpHfO7hHgBC0rRf2i7lmyM/https/www.mumuglobal.com/pc/gw/20210507180025/data/share.png",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840386195660832",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:09.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**PC** *GameLoop*\nhttps://www.gameloop.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Best Android Emulator for PC | GameLoop Official 2022",
+          "url": "https://www.gameloop.com/",
+          "timestamp": null,
+          "description": "GameLoop, a global leading free Android emulator to play mobile games on PC. Have better gaming experience in PUBG Mobile✓, CODM✓, Pokémon UNITE✓, Free Fire Max✓ and more…",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/jHHStKogMM1yOxWl0ixWO2PSHkEqOzoGqCXyGmX9HHM/https/webapp.gameloop.com/syzs_cms/202107/1fa4lan400.3qt8snk3pg.jpeg",
+            "width": 830,
+            "height": 467
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840387474939984",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:09.764+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**PC** *MeMu*\nhttps://www.memuplay.com/\nhttps://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MEmu - The Best Android Emulator for PC - Free Download",
+          "url": "https://www.memuplay.com/",
+          "timestamp": null,
+          "description": "100M+ Downloads Worldwide. Maximize your mobile gaming experience on PC. Play Free Fire, PUBG, Brawl Stars, Mobile Legends, and millions more!",
+          "fields": []
+        },
+        {
+          "title": "Debloating & Optimizing MEmu",
+          "url": "https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8",
+          "timestamp": null,
+          "description": "Debloating & Optimizing MEmu. GitHub Gist: instantly share code, notes, and snippets.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/v2ToTBFZ7zHPk2sQlBt80EaH2hhwBfD3Zdf1J_uxMxs/https/github.githubassets.com/images/modules/gists/gist-og-image.png",
+            "width": 1280,
+            "height": 640
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840388229894165",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:09.944+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**PC** *LDPlayer*\nhttps://www.ldplayer.net/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LDPlayer - Lightweight & Fast Android Emulator for PC",
+          "url": "https://www.ldplayer.net/",
+          "timestamp": null,
+          "description": "LDPlayer is a free Android emulator to play mobile games on PC with mouse\nand keyboard. It provides the fastest performance for Android gaming, supports\nvarious Windows systems and most popular apps and games",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/R60mClnL6piLiv_zLJwnxr6cV14eZxbdkv8ZV4ogQpk/https/encdn.ldmnq.com/other/en/ldplayer-free-android-emulator-on-pc.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840410103201862",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:15.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**PC/Mac/Linux** *Genymotion (personal use)*\nhttps://www.genymotion.com/fun-zone/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Downloads Archive - Genymotion – Android Emulator for app testing",
+          "url": "https://www.genymotion.com/fun-zone/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840410568765451",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:15.27+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**PC** *Leapdroid*\nhttps://leapdroid.en.softonic.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Leapdroid",
+          "url": "https://leapdroid.en.softonic.com/",
+          "timestamp": null,
+          "description": "An easy-to-use Android emulator!",
+          "color": "#0277BD",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/zZh4Yy3M1EEQ1RZfBhVPda8NEwrOBgXQoDPbfjvXrXQ/https/images.sftcdn.net/images/t_app-logo-l%2Cf_auto/p/2be9fa2e-a4d5-11e6-9298-00163ed833e7/2236898439/leapdroid-A-5E3CO2.jpg",
+            "width": 64,
+            "height": 64
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840411302776842",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:15.445+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Android Desktop OS** *PrimeOS*\nhttps://primeos.in/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PrimeOS | Android for PC",
+          "url": "https://primeos.in/",
+          "timestamp": null,
+          "description": "PrimeOS is an Android-based OS for PCs with a complete desktop interface. PrimeOS is the leading solution to play android games over PC with over a 2 million user base. High-end key-mapping, access to millions of Android games, android at the comfort of a laptop.",
+          "author": {
+            "name": "Vipul Jha",
+            "url": "https://www.primeos.in/blog/author/lordarcadius/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3MZNNZhK26Q3F0zv1JmZu606oPTJUgSZEe6IW89CGvc/https/www.primeos.in/wp-content/uploads/2021/10/join-our-subreddit-2-e1635762268416.png",
+            "width": 1063,
+            "height": 1058
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840411852242975",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:15.576+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Android Desktop OS** *PhoenixOS*\nhttp://www.phoenixos.com/en/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Phoenix OS - Phoenix OS",
+          "url": "http://www.phoenixos.com/en/",
+          "timestamp": null,
+          "description": "超卓科技原凤凰工作室，产品包括凤凰系统，凤凰1号（凤凰一号），星尘浏览器，超卓文件管理器，超卓文本编辑器。",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840432727277600",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:20.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Modded project of Phoenix OS based on the discontinued project Phoenix OS ** *Phoenix OS Darkmatter*\nhttps://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/\nhttps://discord.com/invite/AcGAGrzZ4e",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Distro - PhoenixOS DarkMatter - Supercharged for Everyone - Exo4.7 ...",
+          "url": "https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/",
+          "timestamp": null,
+          "description": "Introduction\nDarkMatter is a totally reworked version of the discontinued official PhoenixOS project and to be honest, it'd be quite much of a crime to even call DarkMatter as a part of PhoenixOS now. Not alike others, it has some special...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dVy6MDFrLy4N7lw1NOI_m1rdL80eJnIZhiZrYegB4y0/https/supreme-gamers.com/styles/assets/sg-meta.png",
+            "width": 389,
+            "height": 427
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840433578729552",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:20.756+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**More Androidx86 Projects** *Android X86*\nhttps://blissos.org/\nhttps://www.android-x86.org/\nhttps://www.fosshub.com/Remix-OS.html",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bliss OS For PC",
+          "url": "https://blissos.org/",
+          "timestamp": null,
+          "description": "Open Source OS for PC's, based on AOSP",
+          "fields": []
+        },
+        {
+          "title": "Android-x86 - Porting Android to x86",
+          "url": "https://www.android-x86.org/",
+          "timestamp": null,
+          "description": "Android-x86 is an Android Open Source Project licensed under Apache Public License 2.0. Some components are licensed under GNU General Public License (GPL) 2.0 or later.",
+          "color": "#2E56CC",
+          "fields": []
+        },
+        {
+          "title": "Remix OS",
+          "url": "https://www.fosshub.com/Remix-OS.html",
+          "timestamp": null,
+          "description": "Free PC optimized version of Android based on Android-x86 open-source OS project.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/p97kvveWLuRfFMDryCVqGj0I_oYKI7xnh790MIaiOTU/https/www.fosshub.com/media/img/project/metaimg/5b8fc29a59eee027c3d78bc8.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840434295963648",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:20.927+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Cloud-Based Android Gaming** *BlueStacks X*\nhttps://x.bluestacks.com/\nhttps://bin.disroot.org/?76603b940782c632#77xYY6mPppQ6jRLnuhQhRwPZ1rgrhGkHLnfNx8YKnz5H",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BlueStacks X - Play Android games on the Cloud",
+          "url": "https://x.bluestacks.com/",
+          "timestamp": null,
+          "description": "The world's first cloud-based android gaming platform",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/5pQiNpbrJBIeuXwCTV4RrbGmNJ7DFhwd8Z7zBQp2_p0/https/cdn-bgp.bluestacks.com/x-bst/Journalist-Banner-for-X_002.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840434996383804",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:21.094+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Easily install any Androidx86 OS** None\nhttps://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Software - Advanced Android-x86 Installer For Windows - v1.8",
+          "url": "https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/",
+          "timestamp": null,
+          "description": "Introduction\n\nAdvanced Android-x86 Installer is an windows executable which can help you install possibly any android-x86 operating system directly from windows. It also helps you in installing multiple clones of the same operating system and...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dVy6MDFrLy4N7lw1NOI_m1rdL80eJnIZhiZrYegB4y0/https/supreme-gamers.com/styles/assets/sg-meta.png",
+            "width": 389,
+            "height": 427
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840452331446304",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:25.227+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Run Android applications on any GNU/Linux operating system** *Anbox*\nhttps://anbox.io/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Anbox - Android in a Box",
+          "url": "https://anbox.io/",
+          "timestamp": null,
+          "description": "Android in a Box",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840453350658049",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:25.47+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Run Android applications on any GNU/Linux operating system** *waydroid*\nhttps://Waydro.id\nhttps://github.com/waydroid",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "WayDroid",
+          "url": "https://github.com/waydroid",
+          "timestamp": null,
+          "description": "Android on Wayland. WayDroid has 31 repositories available. Follow their code on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/vBl7WAkztpE2NFCH6Fq1GV4bfVlYIgtbC-iyqXpC2jw/%3Fs%3D280%26v%3D4/https/avatars.githubusercontent.com/u/82235690",
+            "width": 280,
+            "height": 280
+          },
+          "fields": []
+        },
+        {
+          "title": "Waydroid - Android in a Linux container",
+          "url": "https://waydro.id/",
+          "timestamp": null,
+          "description": "Waydroid - Android in a Linux container",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840454197927966",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:25.672+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Android Desktop OS** *PhoenixOS - BR*\nhttps://discord.gg/BQ4td84",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "940082669490958407",
+      "type": "Default",
+      "timestamp": "2022-02-07T03:12:54.298+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Custom Android Operating Systems** \n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "950282332563193876",
+      "type": "Default",
+      "timestamp": "2022-03-07T06:42:43.475+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Android Emulator** *Wakuoo*\nhttps://wakuoo.com",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wakuoo：Mobile Android Games Platform on PC for Free - Download and ...",
+          "url": "https://wakuoo.com/",
+          "timestamp": null,
+          "description": "Wakuoo, the lastest emulator rebranded, is one of the largest Android emulators for downloading and playing mobile games on PC. Get the fastest and smoothest gaming performance with Wakuoo.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "962199803595485215",
+      "type": "Default",
+      "timestamp": "2022-04-09T03:58:29.985+00:00",
+      "timestampEdited": "2022-04-09T03:59:15.899+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Online Android Emulators** *APK Online*\nhttps://www.apkonline.net/\nExtension: <https://chrome.google.com/webstore/detail/apkonline/lnhnebkkgjmlgomfkkmkoaefbknopmja>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ApkOnline - Online Android apps Download",
+          "url": "https://www.apkonline.net/",
+          "timestamp": null,
+          "description": "",
+          "color": "#36364A",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 20
+}

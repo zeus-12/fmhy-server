@@ -1,0 +1,4118 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254713288454203",
+    "type": "GuildTextChat",
+    "categoryId": "913254713288454198",
+    "category": "\uD83D\uDCF1 android / ios",
+    "name": "android-audio",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_audio"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "939190394619592794",
+      "type": "Default",
+      "timestamp": "2022-02-04T16:07:19.391+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840322060550204",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:09:54.168+00:00",
+      "timestampEdited": "2022-04-13T10:52:46.402+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Modded Spotify APK / No Ads / Music / Podcasts** None\nhttps://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modded_spotify_apk\nhttps://github.com/xManager-v2/xManager-Spotify",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840324191277056",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:09:54.676+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Streaming** *Fildo*\nhttps://fildo.net/android/en/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Fildo.net music streaming | Mp3 Streaming | Official Site",
+          "url": "https://fildo.net/android/en/",
+          "timestamp": null,
+          "description": "Fildo is an music streaming and download app, which use third party search engines. Search, play and enjoy your favorite music",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840324711370752",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:09:54.8+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Streaming** *Deezer*\nhttps://play.google.com/store/apps/details?id=deezer.android.app",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Deezer: Music & Podcast Player - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=deezer.android.app",
+          "timestamp": null,
+          "description": "Deezer is a world of music in your pocket - listen anytime, anywhere!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/btW-Wj0dJMlRs-aJ9X76nxzeu9c0R8rwNIfgGJjf7fI/https/play-lh.googleusercontent.com/0SYhFp800GApkFDd-gdwMS-jGiYMN8nhFg4SYmBH98OhqMSYPMKudW8tg6oQcuDqav0",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840343577346058",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:09:59.298+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Collaborative Playlists** *Quorus*\nhttps://quorus.net/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Quorus - Music Awaits",
+          "url": "https://quorus.net/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840343925485580",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:09:59.381+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Podcasts / Radio** *IHeartRadio*\nhttps://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "iHeart: Radio, Music, Podcasts - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller",
+          "timestamp": null,
+          "description": "Discover a station or podcast",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Qrq0n-KbulzoSPPFB4iyQu7OVRR4gk-16rn1pUvNSJA/https/play-lh.googleusercontent.com/CEAqn0CgvCNHaxw5TYivcsAmzhfUaCPaprBIGUjH5gEqm1ScoGCBaUC-8Xx-K7rKGUM",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840344596545557",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:09:59.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Podcasts / Radio** *MixCloud*\nhttps://play.google.com/store/apps/details?id=com.mixcloud.player&hl=en",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mixcloud - Radio & DJ mixes - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.mixcloud.player&hl=en",
+          "timestamp": null,
+          "description": "Mixcloud is the global community for audio culture.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/S28LnQVUJONey6ZqnIpNQ5qwS7Sr0S6ri-_0fHH1OBA/https/play-lh.googleusercontent.com/ZgTZbMukn9QQTFcILc9nbC6ElbCmqi0pqyVtlifAtRQOQ799Tb01fQqayv-xk1xmJUk",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840345770979378",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:09:59.821+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Podcasts / Radio** *TuneIn*\nhttps://play.google.com/store/apps/details?id=tunein.player&hl=en",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TuneIn Radio: News, Sports & AM FM Music Stations - Apps on Google ...",
+          "url": "https://play.google.com/store/apps/details?id=tunein.player&hl=en",
+          "timestamp": null,
+          "description": "Listen to live sports, news & AM/FM radio stations, plus stream music & podcasts",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/IL6J62M-6y7yxMWd6wIb15mgLd5erl_aUEsqi446Xl4/https/play-lh.googleusercontent.com/rqiXoI7KSnXPGRZNe1TxiuToMp0k5UbwC-lt-4XJ59liSt3wr8T4_p8Om6vWZgO_dN7M",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840346714685440",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:00.046+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Podcasts** *Podbean*\nhttps://play.google.com/store/apps/details?id=com.podbean.app.podcast",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Podcast App & Podcast Player - Podbean - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.podbean.app.podcast",
+          "timestamp": null,
+          "description": "Podcast app: play popular podcasts & livestreams with the best podcast player.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/y--e-QF4svTVk09Xwf5KqVgx5HPYJpvrAC8gvHmCpR8/https/play-lh.googleusercontent.com/mW7eHcBAVqLJ8GX1tS1Wkq07CFerpT0u0oyVyIwMhb4jTVG_qCQJnjNhx3LEBIXplZA",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840365152854056",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:04.442+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Podcasts** *Escapepod*\nhttps://f-droid.org/en/packages/org.y20k.escapepod/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Escapepod - Podcast Player | F-Droid - Free and Open Source Android...",
+          "url": "https://f-droid.org/en/packages/org.y20k.escapepod/",
+          "timestamp": null,
+          "description": "Escapepod is a simple and lightweight app for listening to podcasts.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/h8ey1O22p703LwYnwtpKkZMKaxhhC76ptgYtvE2qSmQ/https/f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4%3D.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840365454823456",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:04.514+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Podcasts** *PocketCasts*\nhttps://www.pocketcasts.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Listen to podcasts with the best free podcasting app - built by lis...",
+          "url": "https://www.pocketcasts.com/",
+          "timestamp": null,
+          "description": "Pocket Casts provides next-level listening, search and discovery tools. Find your next obsession with our hand curated podcast recommendations, and seamlessly enjoy and manage all your shows no matter which platform you're on.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840366096551977",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:04.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Radio** *RadioDroid*\nhttps://f-droid.org/en/packages/net.programmierecke.radiodroid2/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "RadioDroid | F-Droid - Free and Open Source Android App Repository",
+          "url": "https://f-droid.org/en/packages/net.programmierecke.radiodroid2/",
+          "timestamp": null,
+          "description": "Browse and stream internet radios",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/RMnr4cjwc2qYQvaltAYA7hwBS-HIFiN44P_xqsFZ_xE/https/f-droid.org/repo/icons-640/net.programmierecke.radiodroid2.94.png",
+            "width": 192,
+            "height": 192
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840366419533865",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:04.744+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Radio** *Transistor*\nhttps://f-droid.org/en/packages/org.y20k.transistor/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Transistor - Simple Radio App | F-Droid - Free and Open Source Andr...",
+          "url": "https://f-droid.org/en/packages/org.y20k.transistor/",
+          "timestamp": null,
+          "description": "Transistor is an app for listening to radio programs over the internet.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/h8ey1O22p703LwYnwtpKkZMKaxhhC76ptgYtvE2qSmQ/https/f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4%3D.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840367396790282",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:04.977+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Radio** *DisasterRadio*\nhttps://f-droid.org/en/packages/tk.giesecke.disaster_radio/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DisasterRadio | F-Droid - Free and Open Source Android App Repository",
+          "url": "https://f-droid.org/en/packages/tk.giesecke.disaster_radio/",
+          "timestamp": null,
+          "description": "F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Q03rz7B2gRRoyiDZR6fqYoY4jmLHEXd0UxZ_bUEEVBE/https/f-droid.org/repo/tk.giesecke.disaster_radio/en-US/icon_S0Ue3R1hm43S3zdRqugj4UajW3UW_dqbisqbJRDg9uE%3D.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840386627682335",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:09.562+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Radio** *HaveRadiosion*\nhttps://f-droid.org/en/packages/click.dummer.have_radiosion/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "HaveRadiosion | F-Droid - Free and Open Source Android App Repository",
+          "url": "https://f-droid.org/en/packages/click.dummer.have_radiosion/",
+          "timestamp": null,
+          "description": "Internet radio player with comic figure as music visualizer",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/H7kHyR8VUTHoxtQ-B3_BOpkKJejJjtlhk9mgpnlyGqs/https/f-droid.org/repo/click.dummer.have_radiosion/en-US/icon_Da9WeAuGI9Ft1LcgmTQSu0-UwAeOrazllwdBlqa1pl0%3D.png",
+            "width": 144,
+            "height": 144
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840387508477962",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:09.772+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Podcasts** *AntennaPod*\nhttps://antennapod.org/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AntennaPod",
+          "url": "https://antennapod.org/",
+          "timestamp": null,
+          "description": "The easy-to-use, flexible and open-source podcast manager for Android.",
+          "color": "#2A854E",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/3RntDyompTtW7Q6uBYFgKIuGNIVz9nKdN9efbe3tTgQ/https/antennapod.org/assets/images/favicons/android-chrome-256x256.png",
+            "width": 256,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840388074700870",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:09.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Podcasts** *Tsacdop*\nhttps://play.google.com/store/apps/details?id=com.stonegate.tsacdop",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tsacdop - Podcast Player - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.stonegate.tsacdop",
+          "timestamp": null,
+          "description": "Enjoy podcasts with Tsacdop! An open source podcast player built with flutter.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/phUWG6FrVmqdjiWkbisLupkFPCGyxriU64fMdhYp3oI/https/play-lh.googleusercontent.com/sXcz5NcMqIVw9pQ6FDnnNJuPhg4RBIfhe1CGauPzMPaeOoEWqs0lTwy65iFgMfQ1V40",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840388527710290",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:10.015+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**FM Radio** *NextRadio*\nhttps://play.google.com/store/apps/details?id=com.nextradioapp.nextradio",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "NextRadio Free Live FM Radio - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.nextradioapp.nextradio",
+          "timestamp": null,
+          "description": "Keep up with your favorite music, sports, and news talk wherever you go",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/4FbHD9ibnbWjSiD572_k1nA8km-MySW3kPzoum4suu0/https/play-lh.googleusercontent.com/Q1wCXERgJPKsthzVtVsLO-opHUlQspP-K1y-x-Ik5n-0j0cd-9iTJmpOqzPZCfYmzmo",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840389479821364",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:10.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Electronic Radio** *DI.FM*\nhttps://play.google.com/store/apps/details?id=com.audioaddict.di",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DI.FM: Electronic Music Radio - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.audioaddict.di",
+          "timestamp": null,
+          "description": "Electronic music radio with 90+ channels including Trance, House, & more!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/u_UeK-xJKfLhjExvWReuJEUhPd-F3tHSPQA3iAeeG2w/https/play-lh.googleusercontent.com/0yvycPeXiCnrgOgTaWQtuPanJPHzxV4T17GaI6FnNfJkDPAh8uunzex6DOFvC4_ihA",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840409037844490",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:14.905+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**K-Pop Radio** *LISTEN.moe*\nhttps://play.google.com/store/apps/details?id=me.echeung.moemoekyun",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LISTEN.moe: j-pop, k-pop, and anime music radio - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=me.echeung.moemoekyun",
+          "timestamp": null,
+          "description": "\uD83C\uDFB5 \uD83C\uDFB6 Listen to j-pop, k-pop, and anime music ad-free 24/7! \uD83C\uDFB6 \uD83C\uDFB5",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/y51ojDGRfQBc35rDntSp6ix0ZdWzwq_H4l62Aw3P96g/https/play-lh.googleusercontent.com/tZdQmrQ2xfRRKdRVNYm_9292Jix1adoZflohZiTeITPJ7fds55sz_0Y7wPbTnQ-kaHo",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840409679573052",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:15.058+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Rain Sounds** *Rainy Mood*\nhttps://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rainy Mood • Rain Sounds - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood",
+          "timestamp": null,
+          "description": "The #1 rain sounds app. Rain makes everything better! Sleep better tonight!",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/4yKBqpmxquL06_2YtjaiULOmV4wNdyuf5nVe9ZxqYYs/https/play-lh.googleusercontent.com/FoA-gSbSrFyVN16DF3WI9hLDfzLH8r-l8ARiowo0m5m2NsczbeOlZQkiDFmdydRuUA",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840411269206027",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:15.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Android Podcasts** *Podcast Addict*\nhttps://play.google.com/store/apps/details?id=com.bambuna.podcastaddict",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Podcast Addict: Podcast player - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict",
+          "timestamp": null,
+          "description": "Podcast, Audiobook, Radio, Player, Youtube and RSS news from a single app",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/4gH9neKfZR6x6XHT8PVjbImHYyhI2lBmKwSrnayxK2s/https/play-lh.googleusercontent.com/T5pOubAZZfudFEIDNaB-W7uTLiZECJ1_tN9QymcaPbKyFQzA7wfTWG9UYLlSY0TFUw",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840412498137129",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:15.73+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Rain Sounds / Relaxation** *Raining.fm*\nhttps://play.google.com/store/apps/details?id=fm.raining.rainingfm&hl=en",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Raining.fm Official App - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=fm.raining.rainingfm&hl=en",
+          "timestamp": null,
+          "description": "Take the rain wherever you go with the official Raining.fm App.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/_SojImkrVS5vU7nRE32RKrIEtvNC_zSvpqb6QiZ1x-k/https/play-lh.googleusercontent.com/xq4YTAVFFx15pSOdzOCbh_0gVzvU635-TYqJiOZ4Wh5GYDChYzHx8IZrcHKIx88e8w",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840413534154792",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:15.977+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Nature Sounds / Relaxation** *Noizio*\nhttps://play.google.com/store/apps/details?id=com.noizio&hl=en_US",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Noizio — nature sounds for focus, relax or sleep - Apps on Google P...",
+          "url": "https://play.google.com/store/apps/details?id=com.noizio&hl=en_US",
+          "timestamp": null,
+          "description": "Noizio – your subtle companion",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XU4-1cxg_usmB5Ad_UfAkWFbE9V2E3QO2NH2Husxc_E/https/play-lh.googleusercontent.com/LqzYJ8opfMqnsfpVyosUbNzEjm0BY6tYUtbR1JcS4pYujb2jdl0IApgOEyNnZ9kjInaI",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840430730797086",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:20.077+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mix ambient sounds** *A Soft Murmur*\nhttps://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A Soft Murmur - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur",
+          "timestamp": null,
+          "description": "Mix together ambient nature sounds to help you relax, focus and be productive.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fnzZt0AG8LG-zoL7LFYUSfXWpSzzn37P6LQWciqi9B4/https/play-lh.googleusercontent.com/-O9Oc-VYjschj4mTLDAJKB4TNf7IplEs881K5ZTTInuClpyb0GOJycgkN7Tf5g24g3Q",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840431796154388",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:20.331+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Meditation / Sleep Sounds** *Tide.fm*\nhttps://pics.tide.moreless.io/site/tide.apk",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840432706302022",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:20.548+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Background Noises &amp; Interactive Soundscapes** *myNoise*\nhttps://play.google.com/store/apps/details?id=com.mynoise.mynoise&hl=en",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "myNoise - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.mynoise.mynoise&hl=en",
+          "timestamp": null,
+          "description": "The premier White Noise and Background Noise Generator.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/vIRvk1LHiinhYfVc4x-mvVYXhMw_thTRe6Pc7kwYY-M/https/play-lh.googleusercontent.com/0-EpY4SrQ0j7rYTi99sN8of0H4omHwShLys5w9qFlv7xDTuZ5A_aD7r996mNENqFp_0",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840433394180126",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:20.712+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Download / FLAC / MP3** *AIDS*\nhttps://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840452360814634",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:25.234+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Download / FLAC / MP3** *SMLoadr*\nhttps://t.me/SMLoadrNews",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SMLoadr News",
+          "url": "https://t.me/SMLoadrNews",
+          "timestamp": null,
+          "description": "News & builds of SMLoadr here.\t\tCOMMUNITY: @SMLoadrCommunity\tOFF-TOPIC: @SMLoadrOffTopic",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xOXp7WoZ9DRqMXbv7Ft6gM1fC4I9oj2pgS8a-zsqRjM/https/cdn1.telesco.pe/file/BPrHgGwEpDMjTzawA4Lr5p-lS9auLMBF3a-U_KXTq70y3CsipqapIKBJNz46BlCL7qJUz8xUUXb5AxNcQ2T_80-tb1xYzMxm8TtXT46mp2JyXfE1D4SGYuW5GddUqCv0xJj7y4qsVXW1qKk_axG4zkNfkIQ1CzaSPjur5HMbL3To0tUy7llCDeqRXgJWtwwtTbAmKmITl3s71Cv3FZwLqUHuUyY_xZHEzEKRZj_mp6vsoebuongqtbRj5mbmKOIf05Sw-i-zsCeJv6gRwOfn6qKr0uPAwTkRa979xpvXKOdRgPIjc5iaNy8QnKtSKsSydRwExMxdzejthzQRYj3smQ.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840453400997969",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:25.482+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Telegram Deezer Bots** None\nhttps://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "storage - FREEMEDIAHECKYEAH",
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage",
+          "timestamp": null,
+          "description": "r/FREEMEDIAHECKYEAH: \uD83C\uDF7F \uD83D\uDCFA \uD83C\uDFB5 \uD83C\uDFAE \uD83D\uDCD7 \uD83D\uDCF1",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840454604759140",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:25.769+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Streaming** *Soundcloud*\nhttps://play.google.com/store/apps/details?id=com.soundcloud.android&hl=us",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SoundCloud: Play Music & Songs - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=us",
+          "timestamp": null,
+          "description": "Discover songs & build playlists on the world’s largest music streaming platform",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e1vShUsGiKujwTkGQ9y0XZLVvzP3b_1f-QnMXURagRM/https/play-lh.googleusercontent.com/h4mH6YExQxUUlzc6TxeEL-NB5Yd0uen_qEIUYR391G4RUowbOrBDPnj7hryED2IWCA",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840455087108137",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:25.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Streaming** *BlackPlayer*\nhttps://rexdl.com/android/blackplayer-ex-apk.html/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BlackPlayer EX 20.62 (Patched) Apk + Mod for Android",
+          "url": "https://rexdl.com/android/blackplayer-ex-apk.html/",
+          "timestamp": null,
+          "description": "BlackPlayer Exclusive - Premium MP3 Music Player .The Library, Playlists and Favorite tracks are shared between the Free and EX versions.",
+          "author": {
+            "name": "Rexdl",
+            "url": "https://rexdl.com/author/hamid/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/vfSV66Lisx01P6N8DWeD2x6SqkzsFXLsEbrtU2IzpEw/https/rexdl.com/wp-content/uploads/2016/11/blackplayer-ex-android-thumb.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840455967911946",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:26.094+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**FOSS Podcast Player** *AntennaPod*\nhttps://antennapod.org/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AntennaPod",
+          "url": "https://antennapod.org/",
+          "timestamp": null,
+          "description": "The easy-to-use, flexible and open-source podcast manager for Android.",
+          "color": "#2A854E",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/3RntDyompTtW7Q6uBYFgKIuGNIVz9nKdN9efbe3tTgQ/https/antennapod.org/assets/images/favicons/android-chrome-256x256.png",
+            "width": 256,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840475018428416",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:30.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Switch Audio to Different Outputs** *Lesser AudioSwitch*\nhttps://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Lesser AudioSwitch - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch",
+          "timestamp": null,
+          "description": "Force your audio output to switch to headphones, speakers, or any other output!",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/g5Z4pYTQc8pz9obYgLUafeY9eoR68Voc-Cho0at3onc/https/play-lh.googleusercontent.com/EQqi0Asgk-Zny3ziHq5T04SRMuVajuv559SJ_YHLbJ_qSrI-3ZlhSBnikhru0lhoJ2Q",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840475618218014",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:30.779+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Podcast Player** *Tsacdop*\nhttps://f-droid.org/en/packages/com.stonegate.tsacdop/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tsacdop - Podcast Player | F-Droid - Free and Open Source Android A...",
+          "url": "https://f-droid.org/en/packages/com.stonegate.tsacdop/",
+          "timestamp": null,
+          "description": "Enjoy podcasts with Tsacdop! An open source podcast player built with flutter.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/LvQ7xENVmVkPqHCAvacOV93qFTDl9QD5XHZE0kb5PW8/https/f-droid.org/repo/com.stonegate.tsacdop/en-US/icon_IEGDJbxFaHpEoxB_wVVI0KFSMSp-Q0YwIJKc3JmtrNs%3D.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840476276744243",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:30.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mute Spotify Ads** None\nhttps://play.google.com/store/apps/details?id=live.teekamsuthar.mutify\nhttps://github.com/aghontpi/ad-silence\nhttps://f-droid.org/packages/com.rohit2810.spotit/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mutify - Mute annoying ads - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify",
+          "timestamp": null,
+          "description": "A powerful, light-weight & free Spotify ads silencing app [Read description⬇]",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JHt72VkmT2_WO7a7kSJgngy27w2_62whxlTHqkaoWz4/https/play-lh.googleusercontent.com/ytNbU6DF62SgnHSPikyMpVM9o0NVI2FcaZ6PKUWFeJH97hl7Q8Zgwzfc2PEDuTItnkk",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        },
+        {
+          "title": "GitHub - aghontpi/ad-silence: Mute Ad/promotions from Accuradio, Sp...",
+          "url": "https://github.com/aghontpi/ad-silence",
+          "timestamp": null,
+          "description": "Mute Ad/promotions from Accuradio, Spotify, TIDAL &amp; Pandora Android. Minimal, extensible &amp; lightweight under 150kb. - GitHub - aghontpi/ad-silence: Mute Ad/promotions from Accuradio...",
+          "color": "#1E2327",
+          "fields": []
+        },
+        {
+          "title": "SpotIt | F-Droid - Free and Open Source Android App Repository",
+          "url": "https://f-droid.org/packages/com.rohit2810.spotit/",
+          "timestamp": null,
+          "description": "Music streaming advertisement muter",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/APwQXBTY0ID-OsxZ-aqUj7DPF9c-I0JS3IrjV5dLXjA/https/f-droid.org/repo/com.rohit2810.spotit/en-US/icon_GZNbpCuIW3XK2UQnIl3wm-e2ErifI4VBoyMMurnZBU4%3D.png",
+            "width": 332,
+            "height": 332
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840476473851936",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:30.983+00:00",
+      "timestampEdited": "2022-04-28T12:50:11.006+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Android Audio Players** \nhttps://www.foobar2000.org/apk\nhttps://f-droid.org/packages/com.poupa.vinylmusicplayer\nhttps://www.videolan.org/vlc/download-android.html\nhttps://f-droid.org/packages/is.xyz.mpv\nhttps://f-droid.org/packages/ch.blinkenlights.android.vanilla\nhttps://github.com/Sangwan5688/BlackHole\nhttps://github.com/raag-music/raag/\nhttps://f-droid.org/en/packages/io.github.muntashirakon.Music/\nhttps://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/\nhttps://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US\nhttps://f-droid.org/en/packages/org.oxycblt.auxio/\nhttps://github.com/RetroMusicPlayer/RetroMusicPlayer\nhttps://github.com/nuclearfog/Apollo-Music\nhttps://play.google.com/store/apps/details?id=com.awedea.nyx",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "foobar2000: Android APK Downloads",
+          "url": "https://www.foobar2000.org/apk",
+          "timestamp": null,
+          "description": "foobar2000",
+          "fields": []
+        },
+        {
+          "title": "Vinyl Music Player | F-Droid - Free and Open Source Android App Rep...",
+          "url": "https://f-droid.org/packages/com.poupa.vinylmusicplayer",
+          "timestamp": null,
+          "description": "Light and slick material design music player",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/h8ey1O22p703LwYnwtpKkZMKaxhhC76ptgYtvE2qSmQ/https/f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4%3D.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        },
+        {
+          "title": "mpv-android | F-Droid - Free and Open Source Android App Repository",
+          "url": "https://f-droid.org/packages/is.xyz.mpv",
+          "timestamp": null,
+          "description": "Listen to music and watch videos",
+          "color": "#FFFFFF",
+          "fields": []
+        },
+        {
+          "title": "Vanilla Music | F-Droid - Free and Open Source Android App Repository",
+          "url": "https://f-droid.org/packages/ch.blinkenlights.android.vanilla",
+          "timestamp": null,
+          "description": "Listen to and manage songs",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/57OVBSFrvLa1sXCAaLuMq2ZZhBlC8RbcSyEhSN1f5JI/https/f-droid.org/repo/icons-640/ch.blinkenlights.android.vanilla.11000.png",
+            "width": 192,
+            "height": 192
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840495398555729",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:35.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**YouTube Audio / Video Downloader** *SongTube*\nhttps://github.com/SongTube/SongTube-App",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - SongTube/SongTube-App: Simple & Beautiful App (Tool) made ...",
+          "url": "https://github.com/SongTube/SongTube-App",
+          "timestamp": null,
+          "description": "Simple & Beautiful App (Tool) made in Flutter to Download Media from YouTube - GitHub - SongTube/SongTube-App: Simple & Beautiful App (Tool) made in Flutter to Download Media from YouTube",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Yt1CPd4tUZvFo_FcBTM3lNSwf8XJcqc6aJ81tIP6TSc/https/opengraph.githubassets.com/04ca8d90898f19749a5fad0ee669bd85b0474d89142132aee0da4f26826e3a77/SongTube/SongTube-App",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840496258396170",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:35.7+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Subsonic Client** *Ultrasonic*\nhttps://github.com/ultrasonic/ultrasonic",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - ultrasonic/ultrasonic: Free and open-source music streamin...",
+          "url": "https://github.com/ultrasonic/ultrasonic",
+          "timestamp": null,
+          "description": "Free and open-source music streaming Android client for Subsonic API compatible servers - GitHub - ultrasonic/ultrasonic: Free and open-source music streaming Android client for Subsonic API compat...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/F_Z_hjffSNLi9LLvrp0rH7KWno8TEUrwqYxvhkAdET4/https/opengraph.githubassets.com/902370f7a8b83ab11fa6bbe79a4d0d8d6164c3432d31b9f9eacb1eb3b53d8c98/ultrasonic/ultrasonic",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840496904310784",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:35.854+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Share &amp; Listen to Music** *Otter*\nhttps://github.com/apognu/otter",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - apognu/otter: Music player for Funkwhale",
+          "url": "https://github.com/apognu/otter",
+          "timestamp": null,
+          "description": "Music player for Funkwhale. Contribute to apognu/otter development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/dvYYxBHKCw4nDpLNij_5VIkQMYt1WBerwwldR3ryJDU/https/repository-images.githubusercontent.com/203193223/acea6680-f2c6-11e9-9d02-062d5debedfb",
+            "width": 1024,
+            "height": 500
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840497889968139",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:36.089+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Audio Splitter** *SplitCloud*\nhttp://www.splitcloud-app.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Get SplitCloud - The Double Music Player for Android",
+          "url": "http://www.splitcloud-app.com/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840517179600916",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:40.688+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**YouTube Video / Audio Downloader** *YouTubeDL Android*\nhttps://github.com/yausername/youtubedl-android",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - yausername/youtubedl-android: youtube-dl for android",
+          "url": "https://github.com/yausername/youtubedl-android",
+          "timestamp": null,
+          "description": "youtube-dl for android. Contribute to yausername/youtubedl-android development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Vw3oKfeuy4yoSMYw_-K4RbXYYYc4dTBBrdHaeZOGQw0/https/opengraph.githubassets.com/4d9e205e9db1ab5226016ccaf2e52a967a64afcffd07d25a10cd2e346abdb82e/yausername/youtubedl-android",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840517800329266",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:40.836+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Music Streaming** *Rezonance*\nhttps://www.rezonanceindia.tech/\nhttps://github.com/rezonance-india",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "rezonance",
+          "url": "https://www.rezonanceindia.tech/",
+          "timestamp": null,
+          "description": "Free Your Music",
+          "fields": []
+        },
+        {
+          "title": "rezonance-india",
+          "url": "https://github.com/rezonance-india",
+          "timestamp": null,
+          "description": "rezonance-india has 7 repositories available. Follow their code on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FPIaQ9pcjkZhAAnBYxiLUDdhI1RpY5DEMlmnTNQOoPw/%3Fs%3D280%26v%3D4/https/avatars.githubusercontent.com/u/79323932",
+            "width": 280,
+            "height": 280
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840518538526750",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:41.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Music Sharing App** *humit*\nhttps://www.humit.app/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "humit - the social music discovery app",
+          "url": "https://www.humit.app/",
+          "timestamp": null,
+          "description": "Discover conveniently, Share convincingly. Available on Play Store and Appstore",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/FiS495H_8BQusxGKlJZgp4svLwoLmyeZR_gkF6UolOA/https/uploads-ssl.webflow.com/606341580ed8377059cd7085/60c70348507914e16f7358b0_web.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840519142531082",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:41.156+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Audio Splitter** *SplitCloud*\nhttp://www.splitcloud-app.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Get SplitCloud - The Double Music Player for Android",
+          "url": "http://www.splitcloud-app.com/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840538801242122",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:45.843+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Scrobble through last.fm/libre.fm/listenbrainz** *Pano Scrobbler*\nhttps://github.com/kawaiiDango/pScrobbler",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - kawaiiDango/pScrobbler: A last.fm scrobbler and viewer for...",
+          "url": "https://github.com/kawaiiDango/pScrobbler",
+          "timestamp": null,
+          "description": "A last.fm scrobbler and viewer for Android. Contribute to kawaiiDango/pScrobbler development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840539455524924",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:45.999+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Music Speed Changer** *MusicSpeedChanger*\nhttps://musicspeedchanger.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Music Speed Changer",
+          "url": "https://musicspeedchanger.com/",
+          "timestamp": null,
+          "description": "Music Speed Changer is a musicians' tool that allows you to independently change the speed and pitch of audio files in real time and set practice loop points. Available as Android App, Web App and Browser Extension.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8FmGmYvtpKUdc8d_Pg3zS4H9uEupTHM6-H78bvjPQ_M/https/musicspeedchanger.com/images/logo432.png",
+            "width": 432,
+            "height": 432
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840540072112148",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:46.146+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Automatic Audio ID3 Tagging** *MP3 Tagger*\nhttps://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Automatic Tag Editor - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger",
+          "timestamp": null,
+          "description": "An automatic ID3 music tag and cover editor",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/UKb9Xnmp35goWVq-8HbNRChhMaHXH9vtLWkx8JcGHmQ/https/play-lh.googleusercontent.com/KcrBpL2KUawTeq5AinJW1rDNh0vw51l575pLEygOdMyzXiYgT17t8ROMMMy58EYgKw",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840540629942282",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:46.279+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Music Streaming / Downloading** *Cliggo*\nhttps://play.google.com/store/apps/details?id=com.cliggo.cliggo_music",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CLiGGO MUSIC – Free Music & Radio App - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music",
+          "timestamp": null,
+          "description": "Free music streaming app to listen to millions of songs and albums for free.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/n-nlR0MQAtiGmkl71hYqgXISoJWkH7MNW19ozjlWQWA/https/play-lh.googleusercontent.com/PVWtW0YhsHNbSPdUGrXLJ3aZbbFs-jBMPkMV3A19eh_Slvf-Y4cz2GZgRZeGIAlsCWk",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840541175185448",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:46.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Podcast Manager** *AntennaPod*\nhttps://github.com/AntennaPod/AntennaPod",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - AntennaPod/AntennaPod: A podcast manager for Android",
+          "url": "https://github.com/AntennaPod/AntennaPod",
+          "timestamp": null,
+          "description": "A podcast manager for Android. Contribute to AntennaPod/AntennaPod development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RL0Xkd3HpUuipQUDOuecDX9UYY9x_xXwRcqpX9kxpck/https/opengraph.githubassets.com/1574f80bdec3ae76ad82ea0c597d4858c8589946ea88a8abb6c20f54e0c63fb7/AntennaPod/AntennaPod",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840563157544960",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:51.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Volume Equalizer** *Voleq*\nhttps://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "VolEq - Realtime Volume Balancer - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq",
+          "timestamp": null,
+          "description": "Improves your listening experience by automatically balancing the media volume",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ygUat_LvUKeH_iw8_PA2znjugG8sDOoDDz-q8UaLtik/https/play-lh.googleusercontent.com/1mbYQGJDKaN2Il5UwhLfLKx3w3UwpjbZpXbCNfSEfdh1W2lrU4oj6SF2T3U9vIi3rXo",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840564013195284",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:51.854+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Jellyfin Music Player** *Finamp*\nhttps://github.com/UnicornsOnLSD/finamp",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - UnicornsOnLSD/finamp: A Jellyfin music client for mobile",
+          "url": "https://github.com/UnicornsOnLSD/finamp",
+          "timestamp": null,
+          "description": "A Jellyfin music client for mobile. Contribute to UnicornsOnLSD/finamp development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/puP0ps3DqJh-Nu4mfcBjyfnwZEHBdR1GLmuC6wwPfmI/https/opengraph.githubassets.com/7f5d578328fcf96f1c5c918726bacbaa0da95bf554a816991750f7959b59dbe1/UnicornsOnLSD/finamp",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840564420022303",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:51.951+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Spotify Downloader** *SpotaFree*\nhttps://github.com/sheensantoscapadngan/SpotaFree",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - sheensantoscapadngan/SpotaFree",
+          "url": "https://github.com/sheensantoscapadngan/SpotaFree",
+          "timestamp": null,
+          "description": "Contribute to sheensantoscapadngan/SpotaFree development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/2cmG1pxokE0VCp5XIBiN0grdNyI9oEFZosMF2Nd_IHQ/https/opengraph.githubassets.com/c554b9116c032ec3ceadcf8840cd328467a575266f5fc49383340d893ba6895f/sheensantoscapadngan/SpotaFree",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840565254717440",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:52.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Audio Equalizer** *Poweramp Equalizer*\nhttps://play.google.com/store/apps/details?id=com.maxmpz.equalizer",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Poweramp Equalizer - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.maxmpz.equalizer",
+          "timestamp": null,
+          "description": "Poweramp Equalizer is an advanced audio processing app",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1rEVvLbhvCiCcL5LblfFzyJCPKd5OVM5Zl_2ehtolrM/https/play-lh.googleusercontent.com/oDBOeo0zdoHilT50WR0KykmyDyqibsZo_-yLRlD7LXEYsHCtAN0m00-qWIdvzB_fHS8",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840565556707379",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:52.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Long Press Volume Button Track Skip** *skipTrackLongPressVolume*\nhttps://github.com/Cilenco/skipTrackLongPressVolume",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Cilenco/skipTrackLongPressVolume",
+          "url": "https://github.com/Cilenco/skipTrackLongPressVolume",
+          "timestamp": null,
+          "description": "Contribute to Cilenco/skipTrackLongPressVolume development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/U0_XIzMQxLSYzauOoTOS6SYFwfClBSJxrzEeifHuLQc/https/opengraph.githubassets.com/3a81105d1bfdd17ad60960aa414d929c3522817b1aaead0b45de6d0be5b25bab/Cilenco/skipTrackLongPressVolume",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840584217145426",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:56.671+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**FM Radio** *SpiritF*\nhttps://www.apkmirror.com/apk/xiaomi-inc/miui-fm-radio/miui-fm-radio-1-0-478-release/\nhttps://f-droid.org/packages/fm.a2d.sf/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Xiaomi FM Radio 1.0.478 APK Download by Xiaomi Inc. - APKMirror",
+          "url": "https://www.apkmirror.com/apk/xiaomi-inc/miui-fm-radio/miui-fm-radio-1-0-478-release/",
+          "timestamp": null,
+          "description": "",
+          "color": "#48BC9C",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/jL0v0xJkSyR55AGbHs5Ks0EIuB1B16N8x2drta5IJEs/https/www.apkmirror.com/wp-content/uploads/2021/05/90/60a3603bdc290-384x384.png",
+            "width": 384,
+            "height": 384
+          },
+          "fields": []
+        },
+        {
+          "title": "SpiritF | F-Droid - Free and Open Source Android App Repository",
+          "url": "https://f-droid.org/packages/fm.a2d.sf/",
+          "timestamp": null,
+          "description": "Use headphones as antenna for FM radio",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/5LJKvwpU5XxnnFqMRk9UcQgEm38iAFdxL8042730j54/https/f-droid.org/repo/icons-640/fm.a2d.sf.111.png",
+            "width": 144,
+            "height": 144
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840584867258398",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:56.826+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Navbar Audio Visualizer** *Muviz*\nhttps://www.sparkine.com/muviz/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Muviz for Android - Status Bar & Navbar Music Visualizer",
+          "url": "https://www.sparkine.com/muviz/",
+          "timestamp": null,
+          "description": "Muviz is a first of its kind app that displays a Music Visualizer on your Phone's Navigation Bar or Status Bar while you are listening to your favourite music from your favourite apps.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/fDEZ8zB4CAcVoWOvy-bsrP1ufp65wpYKsKAgfhRyjys/https/www.sparkine.com/images/banner.jpg",
+            "width": 1024,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840585026637895",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:56.864+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Android Audio Import Tool** *MImport*\nhttps://julioverne.github.io/description.html?id=com.julioverne.mimport",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840586117169162",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:10:57.124+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Retro Music Player** *RetroPad*\nhttps://jamesob.com/apps/retropod.html",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "James O'Brien - retroPod",
+          "url": "https://jamesob.com/apps/retropod.html",
+          "timestamp": null,
+          "description": "retroPod Android Application by James O'Brien",
+          "color": "#3E98BA",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840606690218035",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:02.029+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Modded Tidal** *Tidal*\nhttps://forum.mobilism.org/search.php?keywords=tidal",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840607113838604",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:02.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Audio Player** *audacium*\nhttps://audacium.xyz/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "audacium",
+          "url": "https://audacium.xyz/",
+          "timestamp": null,
+          "description": "Free and open-source audio editor",
+          "color": "#353535",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840607822700584",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:02.299+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Rain Sounds** *RainySounds*\nhttps://rainysounds.online/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rainy App - Rainy Sounds",
+          "url": "https://rainysounds.online/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840608518963230",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:02.465+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Audio Download App** *Seeker*\nhttps://github.com/jackBonadies/SeekerAndroid",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - jackBonadies/SeekerAndroid: Android client for the Soulsee...",
+          "url": "https://github.com/jackBonadies/SeekerAndroid",
+          "timestamp": null,
+          "description": "Android client for the Soulseek peer-to-peer network - GitHub - jackBonadies/SeekerAndroid: Android client for the Soulseek peer-to-peer network",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Q7A4MdUWl7tERkE7U4esaoBaAgPRRuVK-YsReaPVxyY/https/opengraph.githubassets.com/299e49ab158a323c60e7f2eb42e099a67364aa039b51e70854a96a883dbe0883/jackBonadies/SeekerAndroid",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840609173262346",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:02.621+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Video to MP3** *Video to MP3 Converter*\nhttps://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Video to MP3 Converter - mp3 cutter and merger - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter",
+          "timestamp": null,
+          "description": "Extract music from video, Easy & Fast.\nVideo Trimmer, Video to MP3 Converter.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/XIOROpcu99QMg4UAmHC5WNExSUWBOnycwK1uF4-QCzs/https/play-lh.googleusercontent.com/amKi89H8kGmONaZOzt-y6uGJhoHfIvAGhidwYVM8LM0I-BFnTA96tfkpW6ey5yCTSjTB",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840628169265163",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:07.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Music Player &amp; Downloader** None\nhttps://github.com/alashow/datmusic-android",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - alashow/datmusic-android: Music search, downloader & playe...",
+          "url": "https://github.com/alashow/datmusic-android",
+          "timestamp": null,
+          "description": "Music search, downloader & player app using Jetpack Compose - GitHub - alashow/datmusic-android: Music search, downloader & player app using Jetpack Compose",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/s5AC_ZtJjDiaqjNSkU-gg8XmEfn7ZLGmWGVweS7kPRI/https/opengraph.githubassets.com/212ae400825ecdab524e75b5ab6059a03c10e7223133e0c7dff2bf05b72d8829/alashow/datmusic-android",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840629310115860",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:07.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Music Player** None\nhttps://github.com/enricocid/Music-Player-GO",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - enricocid/Music-Player-GO: \uD83C\uDFB6\uD83C\uDFBC Very slim music player \uD83D\uDC68‍\uD83C\uDFA4 1...",
+          "url": "https://github.com/enricocid/Music-Player-GO",
+          "timestamp": null,
+          "description": "\uD83C\uDFB6\uD83C\uDFBC Very slim music player \uD83D\uDC68‍\uD83C\uDFA4 100% made in Italy \uD83C\uDF55\uD83C\uDF33\uD83C\uDF1E\uD83C\uDF5D\uD83C\uDF04 - GitHub - enricocid/Music-Player-GO: \uD83C\uDFB6\uD83C\uDFBC Very slim music player \uD83D\uDC68‍\uD83C\uDFA4 100% made in Italy \uD83C\uDF55\uD83C\uDF33\uD83C\uDF1E\uD83C\uDF5D\uD83C\uDF04",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ffHqP1hxZsNYtJ-RIAs5dAeAQIy4istaxQShwA2lYwk/https/repository-images.githubusercontent.com/119420975/18591d00-2e65-11eb-9be9-5112e51378d4",
+            "width": 1280,
+            "height": 640
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840629817606146",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:07.543+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ambient Rain** *Rain Sounds*\nhttps://sleeprelaxapps.github.io/rainsounds/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rain Sounds",
+          "url": "https://sleeprelaxapps.github.io/rainsounds/",
+          "timestamp": null,
+          "description": "Having trouble sleeping or want to get relaxed? Rain Sounds app helps you fall asleep fast quickly.     Ideal for sleeping, relaxing, meditation and tinnitus problems.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840630652276776",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:07.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Free music streaming and downloading service** *Trebel*\nhttps://home.trebel.io/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TREBEL MUSIC: Free Music Download App for Android and iPhone",
+          "url": "https://home.trebel.io/",
+          "timestamp": null,
+          "description": "The best free music download app for Android phones and iPhone, iPod and iPad. Download free, play offline, no wifi, no data plan, no subscription.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sIuxZLuLXTv7qNh8Jpw69NqeCVm-hKK3tsINqv6P178/https/uploads-ssl.webflow.com/602fbb305fedd148ad98287e/60bf8ff703667d00870d410f_5a097cfd-4c97-426c-bc88-16263be7fb05.jpg",
+            "width": 1280,
+            "height": 853
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840631671509012",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:07.985+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Skip Tracks with Volume Buttons** *Volumee*\nhttps://maslanka.app/volumee/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Volumee - Skip Tracks with Volume Buttons",
+          "url": "https://maslanka.app/volumee/",
+          "timestamp": null,
+          "description": "Let's make skipping tracks simple. Volumee lets you easily skip tracks while listening to music on your Android device – just hold down the volume button.",
+          "author": {
+            "name": "artur.maslanka.2@gmail.com",
+            "url": "https://maslanka.app/author/artur-maslanka-2gmail-com/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/53zWLBN3xiiW0E_2oKyL4xb0Zovar4VpwhR8u-Mr9to/https/maslanka.app/wp-content/uploads/2021/11/cropped-cropped-logo_with_text_transparent.png",
+            "width": 891,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840651619602432",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:12.741+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Music Downloader** *SpotiFlyer*\nhttps://github.com/Shabinder/SpotiFlyer/\nhttps://f-droid.org/en/packages/com.shabinder.spotiflyer/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Shabinder/SpotiFlyer: Kotlin Multiplatform Music Downloade...",
+          "url": "https://github.com/Shabinder/SpotiFlyer/",
+          "timestamp": null,
+          "description": "Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          ...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mQT6-JdayKMDcM6oMRwWw8CNvppPFu74qAiw6FId4Y0/https/opengraph.githubassets.com/aa530a9fd9c4e1f404c3be0c2788af380a5dc044611457390393fb775416078d/Shabinder/SpotiFlyer",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        },
+        {
+          "title": "SpotiFlyer | F-Droid - Free and Open Source Android App Repository",
+          "url": "https://f-droid.org/en/packages/com.shabinder.spotiflyer/",
+          "timestamp": null,
+          "description": "Download All your songs from Spotify, Gaana, Jio Saavn, Youtube Music, SoundClou",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/AtRfA7DdrkfoADLJvfnzxI6vO-zIG5IyAwMqcEBjbyc/https/f-droid.org/repo/com.shabinder.spotiflyer/en-US/icon_thUbhx0uJAq4WiC069oqFjah8QZ5feyfQx2Hn3zj8mQ%3D.png",
+            "width": 286,
+            "height": 286
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939840652471070731",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:11:12.944+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**AudioPlayer for Youtube** *AudioTube*\nhttps://play.google.com/store/apps/details?id=tech.apps.music\nhttps://invent.kde.org/plasma-mobile/audiotube\nhttps://jbbgameich.github.io/kde/2021/03/13/audiotube.html",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AudioTube: Audio Player - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=tech.apps.music",
+          "timestamp": null,
+          "description": "AudioTube is For Listening Youtube Videos in Audio & For AudioBooks",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/j3bKyctLwZ5hPY26LdeChsuITEp8jLsjv7eg7XmOHmk/https/play-lh.googleusercontent.com/Q_TaZPXOHKND09KRy3wd5Uce9greIjKTF20iF0ZIQZl7A31ahA6KN8sC9M_R7SQcTD8",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        },
+        {
+          "title": "Plasma Mobile / AudioTube",
+          "url": "https://invent.kde.org/plasma-mobile/audiotube",
+          "timestamp": null,
+          "description": "Client for YouTube Music",
+          "color": "#1A3652",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/p7yrtW6QjDuG7FXQH091QRxxJ2-eQ5WWg7IzBnghJrw/https/invent.kde.org/plasma-mobile/audiotube/-/avatar",
+            "width": 64,
+            "height": 64
+          },
+          "fields": []
+        },
+        {
+          "title": "AudioTube, a client for YouTube Music",
+          "url": "https://jbbgameich.github.io/kde/2021/03/13/audiotube.html",
+          "timestamp": null,
+          "description": "JBB's blog",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "950358933179105350",
+      "type": "Default",
+      "timestamp": "2022-03-07T11:47:06.485+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Cloud Audio File Player** *CloudPlayer*\nhttps://www.doubletwist.com/cloudplayer",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "doubleTwist",
+          "url": "https://www.doubletwist.com/cloudplayer",
+          "timestamp": null,
+          "description": "Turn your favorite cloud service into a giant jukebox. Stream, browse and download your music from Dropbox, OneDrive and Google Drive.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/i6ZxWPKY_IUhyItifwF3xJrc-_IUX5hjHwubyKXwUuM/https/d30j0ipo6imng1.cloudfront.net/static/web/images/cloud-player.1eed55d7ff37.png",
+            "width": 580,
+            "height": 578
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "969173736504836116",
+      "type": "Default",
+      "timestamp": "2022-04-28T09:50:25.16+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**YouTube Audio Apps**\nhttps://redd.it/tiqzon/\nhttps://f-droid.org/packages/deep.ryd.rydplayer/\nhttps://github.com/4v3ngR/ytm-wrapped\nhttps://holoplay.io/\nhttps://github.com/alexmercerind/harmonoid\nhttps://ymusic.io/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "969219832132304898",
+      "type": "Default",
+      "timestamp": "2022-04-28T12:53:35.214+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Dolby Atmos ZTE A2019 Pro Magisk Module** \nhttps://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module",
+          "url": "https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module",
+          "timestamp": null,
+          "description": "Contribute to reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/45en6Yjxj5FCOrEE-mSWzPw12kXJgMh3j2tSh6lHhl0/https/opengraph.githubassets.com/3a6694aa9709652b75736fd63c0a0ee5768951d14b3e28bc745046dcddaf8bdf/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "969223845384970251",
+      "type": "Default",
+      "timestamp": "2022-04-28T13:09:32.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Headphone Audio Equalizer** Wavelet\nhttps://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wavelet: headphone specific EQ - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet",
+          "timestamp": null,
+          "description": "Headphone specific equalization with lots of customizability",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/5Uq8kS0u8nuMIxQYutoTZoQHIPfOtCBZ4XtoP00Uk6k/https/play-lh.googleusercontent.com/uSpptX8zNBC7ecehKMHgQgjFVaJ58-dPbiz-KkF-qUEE9k8ymkIc0tZcWHQWRr4Fxa9L",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "970336178073124954",
+      "type": "Default",
+      "timestamp": "2022-05-01T14:49:32.827+00:00",
+      "timestampEdited": "2022-05-01T14:49:46.111+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Audio Equalizer** *Flat Equalizer*\nhttps://play.google.com/store/apps/details?id=com.jazibkhan.equalizer",
+      "author": {
+        "id": "864483354023165982",
+        "name": "TheRedSpecial",
+        "discriminator": "8311",
+        "nickname": "C₁₇H₂₁NO₄",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864483354023165982/45e56fbb9fb9c91d10ed880f41ca7573.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Flat Equalizer - Bass Booster - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer",
+          "timestamp": null,
+          "description": "Equalizer FX, Bass Booster & Volume Booster for your Android Phone.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/4aaH6Oa86i9-1Z0Gv6txcAR4Qi9oQhvJrG8Wt00eGtE/https/play-lh.googleusercontent.com/nldiHdk0NS-9JhYfa3r5f9OjSBwejgDfn7IsbFDrlBGeKWv4xI0B7nf3WuJsOEF7Qog",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 76
+}

@@ -1,0 +1,2685 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254713112297530",
+    "type": "GuildTextChat",
+    "categoryId": "913254712919343167",
+    "category": "\uD83D\uDD27 tools",
+    "name": "twitch-tools",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_twitch_tools"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "939190228818731088",
+      "type": "Default",
+      "timestamp": "2022-02-04T16:06:39.861+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848693702615100",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:10.123+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Streaming Tools Index** *Awesome Streaming Tools*\nhttps://github.com/juancarlospaco/awesome-streaming-tools",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - juancarlospaco/awesome-streaming-tools: Awesome Streaming ...",
+          "url": "https://github.com/juancarlospaco/awesome-streaming-tools",
+          "timestamp": null,
+          "description": "Awesome Streaming Tools. Contribute to juancarlospaco/awesome-streaming-tools development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/LWJN1zc8oZTphcthcHpotsZilil2nhDftl5kJpUMtBg/https/opengraph.githubassets.com/f0bf1e3760ed016aa53f4c8c9757f7c8412b8b945c6b0f316fcaf4b52e4541fd/juancarlospaco/awesome-streaming-tools",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848695124471828",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:10.462+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ad Free Twitch App** *TwitchMod*\nhttps://t.me/pubTw",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TwitchMod",
+          "url": "https://t.me/pubTw",
+          "timestamp": null,
+          "description": "TwitchMod is a modded version of Android Twitch Application. Features: bttv/ffz emotes, adblock and more.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Mf_dUYN0MC2dDLLWrq5YjD7bVJvSdgp4GOWa5YaT7Ps/https/cdn4.telesco.pe/file/CMSrTXH-RSikCpowSdCHX39TiVFgSSEN2BYAu2jx65iOSuz6raBLFpQfGjlymZQy6pyvmIk65arnLz5TyRAZLoUIvcrwVyli9jg-HS9_SpH6nHoytCzlBFycgZnaLjR9RDb6yXZbaiuyfdbsWZRtodLVHeNIzt6ksn_4gASfwChtfgvsR6JAZnFfUU47UxLxtvOoQzgfEYICd-Tr5NavZaP1xVovWNZ6tYADarM_t3wvPj3e1mjGFeGqMWkPjmI3rgY6J1dgo4utKsOiOzkRhs8peZLyK7kOBKTEkvoUKo0l-c9uSD2mJTBpTlbUWLhFH40OFWCmkMXU1pTrt9qijA.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848696428920852",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:10.773+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch browser with adblocker** *Twire*\nhttps://f-droid.org/packages/com.perflyst.twire/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Twire | F-Droid - Free and Open Source Android App Repository",
+          "url": "https://f-droid.org/packages/com.perflyst.twire/",
+          "timestamp": null,
+          "description": "Free and open Twitch browser and stream player",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/h8ey1O22p703LwYnwtpKkZMKaxhhC76ptgYtvE2qSmQ/https/f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4%3D.png",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848706969186304",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:13.286+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Enhancement Extension** *BetterTTV*\nhttps://betterttv.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BetterTTV",
+          "url": "https://betterttv.com/",
+          "timestamp": null,
+          "description": "BetterTTV enhances Twitch with new features, emotes, and more.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848709536108656",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:13.898+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Desktop Client** *Orion*\nhttps://alamminsalo.github.io/orion/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848716477673483",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:15.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Extension Index** *Twitch Extensions*\nhttps://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Featured Extensions",
+          "url": "https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f",
+          "timestamp": null,
+          "description": "Upgrade your stream with these Extensions",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/MavzddGbZbeCxAu-e1XxXyZyBTyfwf0anz7U2C7snik/https/static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg",
+            "width": 262,
+            "height": 200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848726002941982",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:17.824+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Broadcast Downloader** *TwitchLeecher*\nhttps://github.com/Franiac/TwitchLeecher",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Franiac/TwitchLeecher: Twitch Leecher - The Broadcast Down...",
+          "url": "https://github.com/Franiac/TwitchLeecher",
+          "timestamp": null,
+          "description": "Twitch Leecher - The Broadcast Downloader. Contribute to Franiac/TwitchLeecher development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/AYmvtHlfYWf_b9lOGV8h_Q9YZKUpuTblCsLu7WPrRs4/https/opengraph.githubassets.com/d5cda4f8dccc9631aeb704555c888d2f955f18951d4ec1c669cfa2f1f65f95fe/Franiac/TwitchLeecher",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848727315767307",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:18.137+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Chat Client for Twitch** *Chatterino*\nhttps://chatterino.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848729115131925",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:18.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Download Twitch Videos** *twitch-dl*\nhttps://github.com/ihabunek/twitch-dl",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - ihabunek/twitch-dl: CLI tool for downloading videos from T...",
+          "url": "https://github.com/ihabunek/twitch-dl",
+          "timestamp": null,
+          "description": "CLI tool for downloading videos from Twitch. Contribute to ihabunek/twitch-dl development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/7f8zD9TL3xZKSD00dHaApI-v8sgeCpnf6rjxsa5nx4s/https/opengraph.githubassets.com/b091e5ed5ee65b5908ecafd910d6c2a50724be47f8e655f9aa487a5d5f17effc/ihabunek/twitch-dl",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848730989973584",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:19.013+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Chat Client for Twitch** *Chatty*\nhttps://chatty.github.io/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848733196165140",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:19.539+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Chat manager** *Featured.chat*\nhttps://featured.chat/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848735050067988",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:19.981+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Save clips from Twitch** *Twitch clips downloader*\nhttps://github.com/TorbenCapiau/Twitch-Clips-Downloader",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - TorbenCapiau/Twitch-Clips-Downloader: Streamers have been ...",
+          "url": "https://github.com/TorbenCapiau/Twitch-Clips-Downloader",
+          "timestamp": null,
+          "description": "Streamers have been receiving a lot of copyright complaints and are forced to delete all their clips to avoid their Twitch account being closed. Save the clips you&#39;ve made with this tool. -...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mIeKyE4EgpFRW1nq_o3tYLl6-u0K81RwGO09-_uEcYA/https/opengraph.githubassets.com/9f3f8179ea224d7cbcf2c214da07efa7fd2ffd209845eaa44271ca7c51729513/TorbenCapiau/Twitch-Clips-Downloader",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848736111206451",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:20.234+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Lightweight Twitch Webplayer** *Twitch Lite*\nhttps://thavixt.github.io/twitch-lite/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848751747592243",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:23.962+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**HTL5 Twitch Player** *Twitchls*\nhttps://twitchls.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Twitchls - Alternative Twitch.tv listing",
+          "url": "https://twitchls.com/",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/LBVdYfZJCb9ZbZUqhUrRisp351HuXd3PW9WwWmqntTY/https/twitchls.com/og.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848752959725610",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:24.251+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Auto claim twitch points** *Points autoclicker*\nhttps://github.com/xinitrc-dev/twitch-points-autoclicker",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - xinitrc-dev/twitch-points-autoclicker: Twitch Channel Poin...",
+          "url": "https://github.com/xinitrc-dev/twitch-points-autoclicker",
+          "timestamp": null,
+          "description": "Twitch Channel Points Autoclicker browser extension - GitHub - xinitrc-dev/twitch-points-autoclicker: Twitch Channel Points Autoclicker browser extension",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/qZfc8UGzHUoHeHOIKSy5MX7t57w79LZUb9VYPbhU4JI/https/opengraph.githubassets.com/43cfb3b0b1c29a229d210690097474a3ae646e0bd7b9d988a9334eb339d30092/xinitrc-dev/twitch-points-autoclicker",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848754847182898",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:24.701+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Alt Twitch Player** *Alternate Player for Twitch.tv*\nhttps://addons.mozilla.org/en-US/firefox/addon/twitch_5/\nhttps://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Alternate Player for Twitch.tv – Get this Extension for \uD83E\uDD8A Firefox (...",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/twitch_5/",
+          "timestamp": null,
+          "description": "Download Alternate Player for Twitch.tv for Firefox. Alternate player of live broadcasts for Twitch.tv website.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/jcDDQVLZ7oraf6imHMkHOWa5TvVossey3Qg5V10v6j8/%3Fmodified%3D1622132423/https/addons.mozilla.org/user-media/previews/full/206/206888.png",
+            "width": 1280,
+            "height": 800
+          },
+          "fields": []
+        },
+        {
+          "title": "Alternate Player for Twitch.tv",
+          "url": "https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf",
+          "timestamp": null,
+          "description": "Alternate player of live broadcasts for Twitch.tv website.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XZHYbqUBHOZ78rlAKZMroNiOpQjFlXWyWWYeYbuk09c/https/lh3.googleusercontent.com/RrHRF32X94UUrh9OqXOaJgVHmpB2oYb8XVjG62kqXTi2GxhS0itm1ZNmpX46wbJbjLB1xMqu6qtmqpWyX4FblnYLmw%3Dw128-h128-e365-rj-sc0x00ffffff",
+            "width": 128,
+            "height": 128
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848756491350057",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:25.093+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Hightlights Stream** *Pogged*\nhttps://pogged.tv/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MinMax - Gaming Websites & Tools | MinMax",
+          "url": "https://pogged.tv/",
+          "timestamp": null,
+          "description": "We build high quality gaming websites and tools to empower the everyday gamer. We are as passionate about games as we are of building software around them – hopefully it shows!",
+          "color": "#404040",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/V85im6UabXpW-Y9-5W1s1nLOSptd3BbWsqZjAbSnv64/https/minmax.gg/static/assets/landing/banner.png",
+            "width": 5544,
+            "height": 1654
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848757963526184",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:25.444+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Watch Multiple Twitch Streams** *Multi*\nhttps://multi.raredrop.co/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch your favourite streamers together.",
+          "url": "https://multi.raredrop.co/",
+          "timestamp": null,
+          "description": "With Rare Drop Multi, it doesn’t matter what platform streamers are on. Twitch, Facebook, YouTube, and more. You can create a Multi that focuses on the broadcasters and not what platform they are on.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NrGlvJM63bETrcitEkMWed0AnBl43DNfuhDOHAERfxg/https/multi.raredrop.co/img/raredroplogo.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848775374098453",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:29.595+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Watch Multiple Twitch Streams** *TwitchTheater*\nhttps://twitchtheater.tv/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TwitchTheater.tv",
+          "url": "https://twitchtheater.tv/",
+          "timestamp": null,
+          "description": "Multistream, multivideo, and multichat for Twitch, Youtube, and others (mobile and desktop).",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/gXXSE5jr_V6FNpsIhQykcysfXja1ucTNRa1aKht2FYM/https/twitchtheater.tv/favicon-192.png",
+            "width": 192,
+            "height": 192
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848777202819133",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:30.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Aspect Ratio Fix** *Ultrawidify*\nhttps://github.com/tamius-han/ultrawidify",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - tamius-han/ultrawidify: Firefox extension that allows you ...",
+          "url": "https://github.com/tamius-han/ultrawidify",
+          "timestamp": null,
+          "description": "Firefox extension that allows you to work around some people&#39;s inability to properly encode 21:9 videos. - GitHub - tamius-han/ultrawidify: Firefox extension that allows you to work around ...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/2zi4Z6eXlBo461wDYe8neH62ZDrAAyJsGeIiv8wPigU/https/opengraph.githubassets.com/1c83c097efb48259e686f4e22e88ce96aab04c29569728032eb45bf4161036a3/tamius-han/ultrawidify",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848778754719744",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:30.401+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Auto Scroll Twitch Comments** *Twitch Screen Comment Scroller*\nhttps://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Twitch Screen Comment Scroller",
+          "url": "https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller",
+          "timestamp": null,
+          "description": "Twitch のコメントをニコニコ風にスクロールさせます。",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/KhunKpVKZ5Mo3nYLK7vsvfVRzgSXbZDTlTaasvipuyo/https/greasyfork.s3.us-east-2.amazonaws.com/qcujy9ormbqce5jzb887mazdowcf",
+            "width": 640,
+            "height": 367
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848781506174976",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:31.057+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Browser for Streamlink** *Streamlink Twitch GUI*\nhttps://github.com/streamlink/streamlink-twitch-gui",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - streamlink/streamlink-twitch-gui: A multi platform Twitch....",
+          "url": "https://github.com/streamlink/streamlink-twitch-gui",
+          "timestamp": null,
+          "description": "A multi platform Twitch.tv browser for Streamlink. Contribute to streamlink/streamlink-twitch-gui development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/fpUyjtPn-sDl33mTncgeTaWJqAg-BODh0FxU-aES6sc/https/opengraph.githubassets.com/2ba0e0ce88f855a47a94d97d7d7ceb36d499e7b3a3556fe8c8ece61c867168ab/streamlink/streamlink-twitch-gui",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848799042551848",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:35.238+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Zero Viewer Stream Roulette** *nobody.live*\nhttps://nobody.live/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch streamers with no audience",
+          "url": "https://nobody.live/",
+          "timestamp": null,
+          "description": "Become the entire audience of a lonely streamer broadcasting to zero viewers",
+          "color": "#6441A5",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/SNcKEnKm9ovbMlLFDQU9YT0QSroZrmnTV-pBW0I0_T8/https/nobody.live/og.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848800162422865",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:35.505+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Random Stream Roulette** *Twitch Roulette*\nhttps://twitchroulette.net/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848801450094602",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:35.812+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Download Twitch Chat Messages** *Twitch-Chat-Downloader*\nhttps://github.com/PetterKraabol/Twitch-Chat-Downloader",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - PetterKraabol/Twitch-Chat-Downloader: Download chat messag...",
+          "url": "https://github.com/PetterKraabol/Twitch-Chat-Downloader",
+          "timestamp": null,
+          "description": "Download chat messages from past broadcasts on Twitch - GitHub - PetterKraabol/Twitch-Chat-Downloader: Download chat messages from past broadcasts on Twitch",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/813cJEJXgfCFRPbtvxErch5BrqNc9yeKniQEc7qQ3Uw/https/opengraph.githubassets.com/7cb943fbec45b9d032b00924295a2a74228e36dc408bb6f62014eb93ba09adcb/PetterKraabol/Twitch-Chat-Downloader",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848803035541558",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:36.19+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Add Subtitles to Twitch Stream** *Twitch TV OBS Subtitles*\nhttps://github.com/stephenlb/twitch-tv-obs-subtitles/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - stephenlb/twitch-tv-obs-subtitles: Add Subtitles to your T...",
+          "url": "https://github.com/stephenlb/twitch-tv-obs-subtitles/",
+          "timestamp": null,
+          "description": "Add Subtitles to your Twitch stream! Easy OBS integration. - GitHub - stephenlb/twitch-tv-obs-subtitles: Add Subtitles to your Twitch stream! Easy OBS integration.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/39GVWjJLAy_DN-yf5zAZ0x9fYPnlKfS8hKnI56FN_BU/https/opengraph.githubassets.com/6214b655412fbed2c8387b8ee045db10cc32f2ce68248a2205f9dd47792d1114/stephenlb/twitch-tv-obs-subtitles",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848822299963472",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:40.783+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Social Media Templates for Twitch Clips** *StreamLadder*\nhttps://streamladder.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848823906377818",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:41.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Transparent Twitch Chat** *Transparent-Twitch-Chat*\nhttps://github.com/chylex/Transparent-Twitch-Chat",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - chylex/Transparent-Twitch-Chat: Why decide between missing...",
+          "url": "https://github.com/chylex/Transparent-Twitch-Chat",
+          "timestamp": null,
+          "description": "Why decide between missing a PogChamp or sacrificing precious screen space, when you can have the best of both worlds! - GitHub - chylex/Transparent-Twitch-Chat: Why decide between missing a PogCha...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/br_Q-z18RPvAfH3p_OlynSz4UEWl0pkAGOpyr-gYIWY/https/opengraph.githubassets.com/c5237013d2e52c1670120980629bcaa169c83e823ff3b35605fa4ea1296b7960/chylex/Transparent-Twitch-Chat",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848825735114774",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:41.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Emotes Extension** *7TV*\nhttps://7tv.app/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "7TV.APP",
+          "url": "https://7tv.app/",
+          "timestamp": null,
+          "description": "7TV is an emote service and extension for Twitch, providing custom emotes at no fee and supporting new formats such as animated wide emotes",
+          "color": "#1976D2",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848827274403890",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:41.969+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Enhancement Suite** *FrankerFacez*\nhttps://www.frankerfacez.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848828469780481",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:42.254+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Chat Client** *Chatsen*\nhttps://chatsen.app/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://chatsen.app/",
+          "timestamp": null,
+          "description": "Chatsen is a Twitch chat cross-platform application for iOS and Android with support\n          for 7TV, BTTV and FFZ.",
+          "color": "#212121",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/gU1rC_EdZuY_EQZpscA_0muTQP25iiAtrNUHdveM8Q0/https/chatsen.github.io/assets/logo.png",
+            "width": 400,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848846572388423",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:46.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Smart TV Twitch Client** *SmartTwitchTV*\nhttps://github.com/fgl27/SmartTwitchTV",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - fgl27/SmartTwitchTV: A Twitch web client that works on And...",
+          "url": "https://github.com/fgl27/SmartTwitchTV",
+          "timestamp": null,
+          "description": "A Twitch web client that works on Android TVs and web base systems - GitHub - fgl27/SmartTwitchTV: A Twitch web client that works on Android TVs and web base systems",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sDTHpSIfIiTzVTiZkqvbYvXIVgMZgJSwp_Dk8Vj_EE8/https/opengraph.githubassets.com/09f4228a739f4a45e6fa402e76ac160a0017a808df58f0f02ba000d3a0fd7daa/fgl27/SmartTwitchTV",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848855019724810",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:48.584+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Top Earners Table** *TwitchLeak*\nhttps://twitchleak.netlify.app/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848856307380294",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:48.891+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Web Based Chat Client** *SpeechChat*\nhttps://speechchat.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SpeechChat",
+          "url": "https://speechchat.com/",
+          "timestamp": null,
+          "description": "A web based chat client for Twitch, Youtube, Mixer with text to speech.",
+          "color": "#50505A",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848857863479316",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:49.262+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Multiple Twitch VODs** *Twitchmultivod*\nhttps://www.twitchmultivod.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Twitch Multi Vod",
+          "url": "https://www.twitchmultivod.com/",
+          "timestamp": null,
+          "description": "Watch multiple twitch vods in sync",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848859109175349",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:49.559+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Chat Client** *Chatterino Homies*\nhttps://chatterinohomies.com/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chatterino Homies Edition",
+          "url": "https://chatterinohomies.com/",
+          "timestamp": null,
+          "description": "Chatterino Homies is a chat client for Twitch chat. It aims to be an extended version of the Chatterino client.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848872472240149",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:52.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Watch Parties on Twitch** *Tenami*\nhttps://www.tenami.tv/",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Watch Parties for Twitch and Discord",
+          "url": "https://www.tenami.tv/",
+          "timestamp": null,
+          "description": "Watch Netflix with your favorite Twitch streamer, or binge the best anime on Crunchyroll with your closest friends. Tenami unlocks Twitch watch parties of your favorite shows, DMCA free.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/U87-N8jkin_CoPqlG0Y-G2NevGx5_-0KWhY8dsS0p90/https/res.cloudinary.com/heekokixs/image/upload/q_auto/v1617312404/Website_Tenami_Images/facebook_thumbnail_xgppis.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939848874061860895",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:43:53.124+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Downloader** *twitch-downloader*\nhttps://github.com/jybp/twitch-downloader",
+      "author": {
+        "id": "939487628825329684",
+        "name": "fmhyRecovery",
+        "discriminator": "4608",
+        "nickname": "fmhyRecovery",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - jybp/twitch-downloader: Download Twitch VODs and Clips",
+          "url": "https://github.com/jybp/twitch-downloader",
+          "timestamp": null,
+          "description": "Download Twitch VODs and Clips. Contribute to jybp/twitch-downloader development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8oG7rEPGfdeH-wq1s2rlagl0mf9AGJmhrAUuBZO1tEA/https/opengraph.githubassets.com/af9fb5aee6fdf125fda4206ec4f122b021c1162838cdb53daa534e55416c8f7a/jybp/twitch-downloader",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941256215181287464",
+      "type": "Default",
+      "timestamp": "2022-02-10T08:56:09.394+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**LIveStream Guides and Resources** *Stream Scheme*\nhttps://www.streamscheme.com/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Guides For Twitch, YouTube, and Facebook Streaming - StreamScheme",
+          "url": "https://www.streamscheme.com/",
+          "timestamp": null,
+          "description": "Master Your Chosen Streaming Platform Popular Posts Our Twitch Growth Services Channel Reviews Struggling to grow on Twitch? Upload a VOD for in-an depth analysis with custom recommendations...",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "943326972061319249",
+      "type": "Default",
+      "timestamp": "2022-02-16T02:04:36.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Copypastas** *TwitchQuotes*\nhttps://www.twitchquotes.com/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TwitchQuotes | Dankest Memes and Copypasta from Twitch Chat",
+          "url": "https://www.twitchquotes.com/",
+          "timestamp": null,
+          "description": "TwitchQuotes is the leading database for funny Twitch chat copypastas, memes, and ASCII art. Thousands of Hearthstone, LoL, and Dota 2 copypastas and more!",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "947832966397173770",
+      "type": "Default",
+      "timestamp": "2022-02-28T12:29:49.074+00:00",
+      "timestampEdited": "2022-03-30T21:51:07.527+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Adblockers**\nhttps://discord.com/channels/913254711338074192/913254712214700048/958828036730548345",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "947840521555025930",
+      "type": "Default",
+      "timestamp": "2022-02-28T12:59:50.364+00:00",
+      "timestampEdited": "2022-02-28T13:00:38.775+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Clip Search / Download** *ClipsGameLab*\nhttps://clipsgamelab.github.io/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "search twitch clips by date and easly download - ClipsGamelab",
+          "url": "https://clipsgamelab.github.io/",
+          "timestamp": null,
+          "description": "Search twitch clips by date and easly download. The streamers and games most viewed twitch clips now sorted by date and views.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "952628727701979176",
+      "type": "Default",
+      "timestamp": "2022-03-13T18:06:27.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch stream RSS generator** *TwitchRSS*\nhttps://twitchrss.appspot.com/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "953029251400101888",
+      "type": "Default",
+      "timestamp": "2022-03-14T20:37:59.961+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Chat Overlay** *Transparent Twitch Chat Overlay*\nhttps://github.com/baffler/Transparent-Twitch-Chat-Overlay",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - baffler/Transparent-Twitch-Chat-Overlay: Twitch chat on to...",
+          "url": "https://github.com/baffler/Transparent-Twitch-Chat-Overlay",
+          "timestamp": null,
+          "description": "Twitch chat on top of windowed games for single monitor streamers - GitHub - baffler/Transparent-Twitch-Chat-Overlay: Twitch chat on top of windowed games for single monitor streamers",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/UQMvaUmQvgHwPB6buKn3NvN9wd7kq6WFHpxHTy2SbL4/https/opengraph.githubassets.com/61a5d101497fda8ff3b237feb8bdfa094243284a39a8fb25620b259aae96edc6/baffler/Transparent-Twitch-Chat-Overlay",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "953360614766555166",
+      "type": "Default",
+      "timestamp": "2022-03-15T18:34:43.144+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Tools and Analytics** *Twitch Databse*\nhttps://twitchdatabase.com/",
+      "author": {
+        "id": "615965857595523083",
+        "name": "Sinister_Shadow",
+        "discriminator": "9634",
+        "nickname": "Sinister but without a shadow.",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/615965857595523083/3456080fad29216dccd2db27344b6879.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Twitch Database",
+          "url": "https://twitchdatabase.com/",
+          "timestamp": null,
+          "description": "Twitch tools and analytics.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "953779949075066970",
+      "type": "Default",
+      "timestamp": "2022-03-16T22:21:00.234+00:00",
+      "timestampEdited": "2022-03-16T22:21:06.093+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Alternative** *Trovo*\nhttps://trovo.live/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "953780049654448228",
+      "type": "Default",
+      "timestamp": "2022-03-16T22:21:24.214+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Alternative** *dlive*\nhttps://dlive.tv/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DLive · Live Stream on Blockchain",
+          "url": "https://dlive.tv/",
+          "timestamp": null,
+          "description": "DLive.tv is the largest live streaming community on the blockchain. Discover amazing games and channels, and earn rewards by watching streams on DLive now.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/B8ZtfH5KpDywrsGZQEsFmiaLG70vVfGTleJoFwBYCSg/https/community.dlive.tv/wp-content/uploads/2019/06/Social_Icon-png.png",
+            "width": 128,
+            "height": 128
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "953780151676698624",
+      "type": "Default",
+      "timestamp": "2022-03-16T22:21:48.538+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Twitch Alternative** *Theta*\nhttps://www.theta.tv/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "THETA.tv: Watch LIVE Streams, Earn TFuel, and support Streamers",
+          "url": "https://www.theta.tv/",
+          "timestamp": null,
+          "description": "Theta.tv is the next generation Esports entertainment platform.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/5Xh52CoCnoUXg3Z7YsgfqELjKUowBKPL6N9kFq9vCM0/https/www.theta.tv/assets/images/logos/theta_logo_horizontal_Black.png",
+            "width": 1000,
+            "height": 284
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "954863484301095044",
+      "type": "Default",
+      "timestamp": "2022-03-19T22:06:35.163+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** Live previews when hovering over streams on twitch** *Twitch Previews*\nhttps://github.com/MarkM-dev/Twitch-Previews",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - MarkM-dev/Twitch-Previews: Twitch Previews - Live previews...",
+          "url": "https://github.com/MarkM-dev/Twitch-Previews",
+          "timestamp": null,
+          "description": "Twitch Previews - Live previews when hovering over streams on twitch | A bunch of quality of life improvement features to twitch. - GitHub - MarkM-dev/Twitch-Previews: Twitch Previews - Live previe...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/UJd8a0hXSo2fKj8SsEmQ23STByGOnUDlmjPpI6OJacA/https/opengraph.githubassets.com/9a05cfad917631fde8de5849af7d673254c506a304b85dfe0670f68654079a67/MarkM-dev/Twitch-Previews",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "958845864372240455",
+      "type": "Default",
+      "timestamp": "2022-03-30T21:51:08.561+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Download Twitch Clips** *Windsya*\nhttps://www.windsya.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Twitch Clip Downloader: Windsya",
+          "url": "https://www.windsya.com/",
+          "timestamp": null,
+          "description": "Windsya is the Twitch clip downloader that you need to help you to download Twitch clips. Our Free Twitch clip downloader is very easy and safe to use !!",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "964428833119948820",
+      "type": "Default",
+      "timestamp": "2022-04-15T07:35:52.037+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Random Twitch Streamers** *Stream Clicker*\nhttps://streamclicker.io/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Stream Clicker",
+          "url": "https://streamclicker.io/",
+          "timestamp": null,
+          "description": "Find your new favourite streamer",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/pEAcDW2_HssNsnzL4jfp9MO70dJ-QgAfybn8OuTr13E/https/thumbs2.imgbox.com/5c/df/PxfYXP8s_t.png",
+            "width": 800,
+            "height": 800
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "965870559739117568",
+      "type": "Default",
+      "timestamp": "2022-04-19T07:04:46.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**extract raw stream urls from twitch** *get stream*\nhttps://pwn.sh/tools/getstream.html",
+      "author": {
+        "id": "925645788590252032",
+        "name": "Pixel_1",
+        "discriminator": "6758",
+        "nickname": "Pixel_1",
+        "color": "#00FF4A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/925645788590252032/e735505f92b518a3e12e4250c2398ace.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 53
+}

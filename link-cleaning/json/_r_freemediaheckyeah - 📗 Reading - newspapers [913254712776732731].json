@@ -1,0 +1,1170 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254712776732731",
+    "type": "GuildTextChat",
+    "categoryId": "913254712776732724",
+    "category": "\uD83D\uDCD7 Reading",
+    "name": "newspapers",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "939189821044314183",
+      "type": "Default",
+      "timestamp": "2022-02-04T16:05:02.64+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "top",
+      "author": {
+        "id": "775783292100149269",
+        "name": "0928",
+        "discriminator": "0928",
+        "nickname": "Hey I'm Jack!",
+        "color": "#FF1515",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/775783292100149269/34078cd3934fb6649b903ae3892aa204.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841877581127691",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:05.033+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspapers** *Chronicling America*\nhttps://chroniclingamerica.loc.gov/newspapers/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "All Digitized Newspapers « Chronicling America « Library of Congress",
+          "url": "https://chroniclingamerica.loc.gov/newspapers/",
+          "timestamp": null,
+          "description": "Search America's historic newspaper pages from 1777-1963 or use the U.S. Newspaper Directory to find information about American newspapers published between 1690-present.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841878583570443",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:05.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspapers** *Newspapers*\nhttps://newspapers.com",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841881112711208",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:05.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Newspapers** *Mobilism*\nhttps://forum.mobilism.org/viewforum.php?f=123",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841881527943189",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:05.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Newspapers** *Google Newspaper Search*\nhttps://news.google.com/newspapers",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841882685579294",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:06.25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspaper Indexes** *ThoughtCo*\nhttps://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Where to Find Historical Newspapers Online for each US State",
+          "url": "https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215",
+          "timestamp": null,
+          "description": "Browse the actual pages of hundreds of digitized historical newspapers online in this list organized by state.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NFHFrBe761HNSvz3tfSfS8zC1v4ukHptQqw56tAVq28/https/www.thoughtco.com/thmb/pbR3LrKDW1pfQqBIqgUXD_8Dgt8%3D/3168x3104/filters%3Afill%28auto%2C1%29/getty-old-newspapers-58b9d0863df78c353c38b7f7.jpg",
+            "width": 3168,
+            "height": 3104
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841899852865596",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:10.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**LA Times Newspapers** *Los Angeles Times*\nhttps://latimes.newspapers.com",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841900263907329",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:10.441+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspaper Indexes** *Library of Congress*\nhttps://www.loc.gov/rr/news/oltitles.html",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Newspaper Archives/Indexes/Morgues - Newspaper and Current Periodic...",
+          "url": "https://www.loc.gov/rr/news/oltitles.html",
+          "timestamp": null,
+          "description": "Newspaper Archives, Indexes & Morgues (Newspaper and Current Periodical Reading Room, Library of Congress).",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841901870346310",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:10.824+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspaper Telegram** *EngNewsPapers*\nhttps://vk.com/engnewspapers",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://vk.com/engnewspapers",
+          "timestamp": null,
+          "description": "\uD83D\uDCF0 Газеты и журналы на английском, немецком, франзуском и др. языках \uD83C\uDF0E",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841902344273920",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:10.937+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Daily newspaper in PDF** None\nhttps://sanet.st/newspapers/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841922065895504",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:15.639+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Bypass Newspaper Paywalls** *Burlesco*\nhttps://burles.co/en/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841922682478653",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:15.786+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Find / Translate Worldwide Newspapers** *Newspaper Map*\nhttps://newspapermap.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Newspaper Map",
+          "url": "https://newspapermap.com/",
+          "timestamp": null,
+          "description": "Find and translate all newspapers in the world",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ZuQ7sLWvJoBTYFk3olhY-9_mSnHRS-e7rd-xktJ35VU/https/newspapermap.com/images/og-image.jpg",
+            "width": 1200,
+            "height": 627
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841923773005844",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:16.046+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Australian Broadcasting Corporation News Archive** *abc-dl*\nhttps://github.com/king-millez/abc-dl",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - king-millez/abc-dl: Archive ABC (Australian Broadcasting C...",
+          "url": "https://github.com/king-millez/abc-dl",
+          "timestamp": null,
+          "description": "Archive ABC (Australian Broadcasting Corporation) News articles. - GitHub - king-millez/abc-dl: Archive ABC (Australian Broadcasting Corporation) News articles.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/h-J6i_mz4r3pz9BAbuJE8LiilqrraR6ANOSN2Lp6Gec/https/opengraph.githubassets.com/49a3be1717bb97c14ada2f8645aef2c8f03237bf6e489957acb006ce2c4d6425/king-millez/abc-dl",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841924360196119",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:16.186+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspapers / Magazines** *newspaper_archive*\nhttps://t.me/newspaper_archive",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Archive of newspapers & magazines",
+          "url": "https://t.me/newspaper_archive",
+          "timestamp": null,
+          "description": "Newspapers:\t- Wall Street Journal\t- Financial Times\t- New York Times\t- Vedomosti\t\tMagazines:\t- The #Economist\t- #Forbes_RU\t- #Forbes_ASIA\t- #Forbes_US\t- #RBK\t- #BLOOMBERG BW\t- #BARRON’S\t- #FORTUNE\t- #HARVARD BR",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/3DMoN7SlLVAKzy76WAvTrxBDbhZh2R-rDmOnPVhEvgQ/https/cdn4.telesco.pe/file/WzVF5clK3LGJ4rS-32e62HhS2ww914NxGdWl1CeN642J3RSO5WwfWKqDXM1r3VjoMSNY42j-CwJjxFVwtndDwpk-aHJYGU8JVU9ysJTgwMkqs8X2SgD11QZrnSueh2sTjrHOzLuILhHLc2BQu6HYYU8XpYYzcQpyMqx_28WyuNDmsAr2gnimN3fzM53SknilJU6lbnHUV-yNPnaUraQh0sYfylPVII0Qp-szLJNtqfHo7iBsj2yRJkpT0g94eJK_yyA1FPnnr9N4GS59qhX9AOEemPAvBRjQ3ZTAhojRq0_mNr421ruYW9slxCa9ag0SroopFVgaLuA8NIng8I9P7A.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841942496370740",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:20.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Online Newspaper Index** *Paperboy*\nhttps://www.thepaperboy.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Paperboy Online Newspapers | US & World Newspapers",
+          "url": "https://www.thepaperboy.com/",
+          "timestamp": null,
+          "description": "Paperboy delivers 11683 online newspapers from around the world.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841943519756339",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:20.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Historical Newspaper Search** *Elephind*\nhttps://www.elephind.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841944325066763",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:20.946+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**European Historical Newspapers** *Europeana Newspapers*\nhttps://www.europeana.eu/en/collections/topic/18-newspapers",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Newspapers",
+          "url": "https://www.europeana.eu/en/collections/topic/18-newspapers",
+          "timestamp": null,
+          "description": "Explore the headlines, articles, advertisements, and opinion pieces from European newspapers from 20 countries, dating from 1618 to the 1980s.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841944912281610",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:21.086+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Online Newspaper Index** *World-Newspapers*\nhttps://world-newspapers.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "World Newspapers and Magazines on your Finger Tip | World-Newspa...",
+          "url": "https://world-newspapers.com/",
+          "timestamp": null,
+          "description": "Annotated directory of newspapers, magazines and news sites in English.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841945889538079",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:21.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**NY Times Top Story App** *NYTimes-Compose*\nhttps://github.com/akshay2211/NYTimes-Compose",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - akshay2211/NYTimes-Compose: An offline-first application i...",
+          "url": "https://github.com/akshay2211/NYTimes-Compose",
+          "timestamp": null,
+          "description": "An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API. - GitHub - akshay2211/NYTimes-Compose: An offline-first applic...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/m9YEUsftV1CqUJ-edVFwxTk4mkZmhdvKCMArSQVmrm8/https/opengraph.githubassets.com/2ac513934b0d3aaf442881114153a312d4a73776443f85190a278ad397af12ec/akshay2211/NYTimes-Compose",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841964478709781",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:25.751+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspapers / Magazines** *BookCrush Newsstand*\nhttps://t.me/BookCrushNewsstand",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BookCrush: Newsstand",
+          "url": "https://t.me/BookCrushNewsstand",
+          "timestamp": null,
+          "description": "Newspapers, Magazines & Comics by @BookCrush\t⚡️ @BookCrushNewsstandBot\t\tRead this post to know how this channel and the bot works \uD83D\uDC47\thttps://telegra.ph/Introducing-a-new-way-to-consume-Newspapers-and-Magazines-on-Telegram-05-23\t\t\uD83C\uDD95 Join @FinCrush",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/l927-H5g2Om5O2VqsqVwiGFSrydMtZ32jlc6Qpp3L0c/https/cdn5.telesco.pe/file/UJXEkMC8s-zXxZPJzR3mLEydztb0dB4xNlk2sKOarhun5KX_LSYT3JXNZ-AbTDR7eSpoIIEXfiJugs3qLg3MQ-Hwk8Ir6AqBxqz4cTbCqlFNN51mSZqEhu02pS4uNrTXyKFcUxLDEwE7hBmY1Ai5887ke8izbSg1LFMPdP1qB1v_7c11AWNkIEdFBMP5HmtoIPUjlqoq1eOcl_BCz8QyZtfAioOe3f5cuEPQGcOnveOJeyacWHSCSufq6yEWNJjhTwAdoOH8ope5h6eoxBWA4bJ5sXQv9T1pPy-UxDyrMUE6E0Wk1r1LZOf-qeHipzYHHcVfdb-bSctcfVPlKXfNqA.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939841965418221568",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:16:25.975+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines / Newspapers** *WhatsNws*\nhttps://t.me/whatsnws",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Telegram: Contact @whatsnws",
+          "url": "https://t.me/whatsnws",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/vQJF1mUTS5Fumitbe1LLlMqmyrwKJ2tgTbvnfq1kLP0/https/telegram.org/img/t_logo.png",
+            "width": 128,
+            "height": 128
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "940060732484104202",
+      "type": "Default",
+      "timestamp": "2022-02-07T01:45:44.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Newpapers** *Newspaper Magazines*\nhttps://t.me/newspapersmagaziness",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Telegram: Contact @newspapersmagaziness",
+          "url": "https://t.me/newspapersmagaziness",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/vQJF1mUTS5Fumitbe1LLlMqmyrwKJ2tgTbvnfq1kLP0/https/telegram.org/img/t_logo.png",
+            "width": 128,
+            "height": 128
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "956981847496204358",
+      "type": "Default",
+      "timestamp": "2022-03-25T18:24:12.306+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspaper Rankings** *4IMN*\nhttps://www.4imn.com/",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "World Newspapers Rankings & Reviews | 4imn.com",
+          "url": "https://www.4imn.com/",
+          "timestamp": null,
+          "description": "Directory of 7,000 world newspapers reviews and web rankings in 200 countries.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "957377043266424842",
+      "type": "Default",
+      "timestamp": "2022-03-26T20:34:34.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspapers** *Archive Newspapers*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_archive.org_newspapers>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 24
+}

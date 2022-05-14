@@ -1,0 +1,1816 @@
+{
+  "guild": {
+    "id": "913254711338074192",
+    "name": "/r/freemediaheckyeah",
+    "iconUrl": "https://cdn.discordapp.com/icons/913254711338074192/a_5401c4c8df497995452901ec91477457.png"
+  },
+  "channel": {
+    "id": "913254712776732730",
+    "type": "GuildTextChat",
+    "categoryId": "913254712776732724",
+    "category": "\uD83D\uDCD7 Reading",
+    "name": "magazines",
+    "topic": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_magazine_sites"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "939842491962777610",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:31.513+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Magazines** *DownMagaz*\nhttps://downmagaz.net/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Download PDF magazines -  Magazines Commumity!",
+          "url": "https://downmagaz.net/",
+          "timestamp": null,
+          "description": "Its free pdf magazines community, where dear users can familiarize and more to know about world magazines.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842492923281419",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:31.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Magazines** *PDF Magazines*\nhttps://pdfmagazines.club/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Giant Archive of downloadable PDF magazines",
+          "url": "https://pdfmagazines.club/",
+          "timestamp": null,
+          "description": "More than 200,000 digital copies of magazines in one place",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842494177357845",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:32.041+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *World Mags*\nhttps://www.worldmags.net/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PDF Digital Magazines",
+          "url": "https://www.worldmags.net/",
+          "timestamp": null,
+          "description": "True PDF Digital Magazine - Download free digital magazines for iPhone iPad, Android, Smartphone, PC and Mac device",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842494907183114",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:32.215+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Magazines** *MagazineLib*\nhttps://magazinelib.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Download PDF magazines and ebook free USA, UK, Australia and other",
+          "url": "https://magazinelib.com/",
+          "timestamp": null,
+          "description": "FREE PDF & INTERACTIVE E-MAGAZINES",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842514490392609",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:36.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Magazines** *Mobilism*\nhttps://forum.mobilism.org/viewforum.php?f=123",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842515564122142",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:37.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *magzDB*\nhttp://magzdb.org/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842516214235166",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:37.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *ENMagazine*\nhttps://t.me/enmagazine",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "English Magazines",
+          "url": "https://t.me/enmagazine",
+          "timestamp": null,
+          "description": "link   \thttps://t.me/joinchat/O8EuT-gsyrP0WY5c\t\tContact \t@Magscontactbot\t\t\t\tتبلیغات\t@Magsadsbot",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zJ93y3Uh06JfxpSAfhbKSs7Nq7JBqKcLelpWPKkchaY/https/cdn4.telesco.pe/file/HUJfbzso4C-WTB65XJsJ8pyZeSQ5PqWg6UbLrp20aFcBmitefNRgUJXB25LJtt2wBgeI3AV5QrTxZYijXpS5xI8J1tIMo51Ob6QqfTOQdGcdz8puTBLwhC70RSPorlRRoHpCTwNVTRrTZpU5_ZXIatrgsc3OYBbajXQ6aDJVs33SWqhGIT8YS0l5fZmnNqhI66k0hAbgzcGcHt8gCyQElK_AuzvyguaT1-n7rTpfYdGUBEUjTAQu4unsup3JWmNSdIbbIRSPvbye7x_U6uLPhUp1uRQHBtFFI8yJweRhYlT-9v054d_vc7axfEspJ1w-6cp69FZKM0keaZwvh4WmKw.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842516788846593",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:37.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *Magzter*\nhttps://www.magzter.com/top-free-magazines",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Get your Digital Access to Top Free Magazines",
+          "url": "https://www.magzter.com/top-free-magazines",
+          "timestamp": null,
+          "description": "Get your digital subscriptions/issues of Top Free Magazines on Magzter and enjoy reading them on iPad, iPhone, Android devices and the web.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Z8JROQk2xd6HhAN5fbhsYyGP5oM8aCyjZSkMAQSgQ0M/https/akcdn.magzter.com/web/assets/images/fb/home_new.jpg",
+            "width": 600,
+            "height": 315
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842535004725258",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:41.775+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *ebook3000*\nhttp://www.ebook3000.com/Magazine/index.html",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Magazine - Free eBooks Download",
+          "url": "http://www.ebook3000.com/Magazine/index.html",
+          "timestamp": null,
+          "description": "ebook3000.com is the best free ebooks download library. It's the open directory for free ebooks and download links, and the best place to read ebooks and search free download ebooks.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842535839371275",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:41.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *PDF Magazine*\nhttps://www.pdfmagaz.in",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PDF Magazine - E-Books & Magazines in PDF with daily updates",
+          "url": "https://www.pdfmagaz.in/",
+          "timestamp": null,
+          "description": "The best selection of the most recent world's popular magazine issues in PDF format, and rare archives of the best magazines! Quick search and handy navigation",
+          "color": "#365A79",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2MA8vF1ambMATbkwmGDA_-tH3S3GGqLcD1TEn6FdUus/https/www.pdfmagaz.in/wp-content/uploads/2021/04/17/og_image.jpg",
+            "width": 440,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842536594370602",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:42.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *World of Magazine*\nhttps://www.worldofmagazine.com",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Free Download PDF Magazines - World of Magazine",
+          "url": "https://www.worldofmagazine.com/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "vIRUSxPLORER",
+            "url": "https://www.worldofmagazine.com/author/virusxplorer/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842537605189632",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:42.395+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *MagDownload*\nhttps://magdownload.org/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Free PDF Magazine download",
+          "url": "https://magdownload.org/",
+          "timestamp": null,
+          "description": "A website deticated to bring free magazines. Here you will find the latest pdf magazines and download them for free. Magazines in Spanish, German, Italian, French also.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842538259509279",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:42.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines / Telegram** *Magazines4U*\nhttps://t.me/Magazines4U",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Magazines4U",
+          "url": "https://t.me/Magazines4U",
+          "timestamp": null,
+          "description": "Download Magazines!\t\tDMCA : http://bit.ly/dmca4u\t\t\uD83D\uDD30 Channel Partners \uD83D\uDD30\t\t⚜️ @BooksFree4U\t⚜️ @SelfHelpBooks4U\t⚜️ @ITBooks4U\t⚜️ @SpecializeInfo\t⚜️ @Book_Shelff\t\tAdmin ➟ @vivzbot | @amanda89",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xGuJ8PCUBbSaHV6X1WRHWHgE3tFB23giS9wz_BMM_Mw/https/cdn5.telesco.pe/file/LTj52111YgIlv8L0y4RgSPj5dLlBzUfvoYrz1infq8cN1lp0laOFidmn1ikfwE-VZr23BW-a5LA6o_Ir71Fd3zVkqYS4CyqCGU6NbDVXMyfKWlnFIs4f1zvfVY1Llnj6ocL4skg4UcJdCp2V_RnhpEvrVzSdwBzrjXGSW883HLKfO2-IYocnsy_83uVr-tw3t8QuUqfQggPViMeYAwdLTWgcAq-EC2f1Y5YP6KrZzPvivwxT4Z_D4wJEKZnogV3hG-7Wz4wghbJJmgGyFzqaCiMQ3B8nyHjVLLGVmWlR5mwRYihQrSoXnSm06mM3FEMe0B0IqfaHoqMjEEb1FaulUw.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842556819300462",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:46.976+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magzines** *Aeon*\nhttps://aeon.co/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Aeon | a world of ideas",
+          "url": "https://aeon.co/",
+          "timestamp": null,
+          "description": "Aeon is a magazine of ideas and culture. We publish in-depth essays, incisive articles, and a mix of original and curated videos — free to all.",
+          "color": "#9D120D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dUR1ynLjzUs2MSFcwkKjQeAq8kbGbi7pFF5db-mXd5Q/https/aeon.co/images/logo.png",
+            "width": 1200,
+            "height": 900
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842557691719680",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:47.184+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *FlipHTML5*\nhttps://fliphtml5.com/exploring",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Latest Flips | FlipHTML5",
+          "url": "https://fliphtml5.com/exploring",
+          "timestamp": null,
+          "description": "Free Flip HTML5 flip book software helps you turn PDF into an online HTML5 eBook with page turning effect. Easily access to media rich flipbook on iPad, iPhone and Android phones and tablets.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842558207619152",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:47.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *FreeMagazinesPDF*\nhttps://freemagazinepdf.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Magazines PDF download free - E-magazines free download in pdf",
+          "url": "https://freemagazinepdf.com/",
+          "timestamp": null,
+          "description": "E-magazines free download in pdf",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842558694133801",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:47.423+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Classic Computer Magazine Archive** *Atari Magazines*\nhttps://www.atarimagazines.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Classic Computer Magazine Archive",
+          "url": "https://www.atarimagazines.com/",
+          "timestamp": null,
+          "description": "Full text of Creative Computing, Antic, and STart magazines. Compute! and other magazines are coming soon.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842559583338586",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:47.635+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Fashion Magazine Archive** *Archive Fashion for the World*\nhttps://www.archivepdf.net/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Archive Fashion for the World | ARCHIVE.pdf",
+          "url": "https://www.archivepdf.net/",
+          "timestamp": null,
+          "description": "ARCHIVE.pdf\u00A0is a collaborative venture created to share\u00A0Archive Fashion with the world. Our offerings range from scans of rare fashion publications to articles and info regarding Archive Fashion brands such as Undercover, Comme des Garcons, Raf Simons, Yohji Yamamoto, Issey Miyake, and many more.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6fHX0ytjmRmtew-OZ6g-gRaUH1e3XVIU0vD306aZlBQ/https/static.wixstatic.com/media/e1ce86_ff246b69d7fe4439b702877c5d41b0f5~mv2.png/v1/fit/w_2500%2Ch_1330%2Cal_c/e1ce86_ff246b69d7fe4439b702877c5d41b0f5~mv2.png",
+            "width": 2500,
+            "height": 1330
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842578147332118",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:52.061+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Retro Game Magazines** *Retromags*\nhttps://www.retromags.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Retromags",
+          "url": "https://www.retromags.com/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842579057491979",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:52.278+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *freemagazines*\nhttps://freemagazines.top/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Free Magazines Online | English PDF Magazine Download",
+          "url": "https://freemagazines.top/",
+          "timestamp": null,
+          "description": "Free Magazines Online Share With You Interesting US, UK, CA, AU Magazines | Download Free Magazines and Read Them on Your Computer or Mobile. Get Your PDF Magazine Without a Subscription.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842579636297739",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:52.416+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines PDF** *Magazines Archive*\nhttps://pdf-magazines-archive.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PDF Magazines Archive",
+          "url": "https://pdf-magazines-archive.com/",
+          "timestamp": null,
+          "description": "PDF Magazines and ebook, variety of categories, fast search",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842580684894238",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:52.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *PDF Magazines Download*\nhttps://pdf-magazines-download.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PDF Magazines Download - Catalog popular PDF journals",
+          "url": "https://pdf-magazines-download.com/",
+          "timestamp": null,
+          "description": "Catalog PDF magazines, easy search, many categories",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842581074956301",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:52.759+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspapers / Magazines** *newspaper_archive*\nhttps://t.me/newspaper_archive",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Archive of newspapers & magazines",
+          "url": "https://t.me/newspaper_archive",
+          "timestamp": null,
+          "description": "Newspapers:\t- Wall Street Journal\t- Financial Times\t- New York Times\t- Vedomosti\t\tMagazines:\t- The #Economist\t- #Forbes_RU\t- #Forbes_ASIA\t- #Forbes_US\t- #RBK\t- #BLOOMBERG BW\t- #BARRON’S\t- #FORTUNE\t- #HARVARD BR",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/3DMoN7SlLVAKzy76WAvTrxBDbhZh2R-rDmOnPVhEvgQ/https/cdn4.telesco.pe/file/WzVF5clK3LGJ4rS-32e62HhS2ww914NxGdWl1CeN642J3RSO5WwfWKqDXM1r3VjoMSNY42j-CwJjxFVwtndDwpk-aHJYGU8JVU9ysJTgwMkqs8X2SgD11QZrnSueh2sTjrHOzLuILhHLc2BQu6HYYU8XpYYzcQpyMqx_28WyuNDmsAr2gnimN3fzM53SknilJU6lbnHUV-yNPnaUraQh0sYfylPVII0Qp-szLJNtqfHo7iBsj2yRJkpT0g94eJK_yyA1FPnnr9N4GS59qhX9AOEemPAvBRjQ3ZTAhojRq0_mNr421ruYW9slxCa9ag0SroopFVgaLuA8NIng8I9P7A.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842600150659133",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:57.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**PC Zone Magazines** *PC Zone*\nhttp://pixsoriginadventures.co.uk/PCZone/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842600880463912",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:57.481+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Newspapers / Magazines** *BookCrush Newsstand*\nhttps://t.me/BookCrushNewsstand",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BookCrush: Newsstand",
+          "url": "https://t.me/BookCrushNewsstand",
+          "timestamp": null,
+          "description": "Newspapers, Magazines & Comics by @BookCrush\t⚡️ @BookCrushNewsstandBot\t\tRead this post to know how this channel and the bot works \uD83D\uDC47\thttps://telegra.ph/Introducing-a-new-way-to-consume-Newspapers-and-Magazines-on-Telegram-05-23\t\t\uD83C\uDD95 Join @FinCrush",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/l927-H5g2Om5O2VqsqVwiGFSrydMtZ32jlc6Qpp3L0c/https/cdn5.telesco.pe/file/UJXEkMC8s-zXxZPJzR3mLEydztb0dB4xNlk2sKOarhun5KX_LSYT3JXNZ-AbTDR7eSpoIIEXfiJugs3qLg3MQ-Hwk8Ir6AqBxqz4cTbCqlFNN51mSZqEhu02pS4uNrTXyKFcUxLDEwE7hBmY1Ai5887ke8izbSg1LFMPdP1qB1v_7c11AWNkIEdFBMP5HmtoIPUjlqoq1eOcl_BCz8QyZtfAioOe3f5cuEPQGcOnveOJeyacWHSCSufq6yEWNJjhTwAdoOH8ope5h6eoxBWA4bJ5sXQv9T1pPy-UxDyrMUE6E0Wk1r1LZOf-qeHipzYHHcVfdb-bSctcfVPlKXfNqA.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842601186631732",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:57.554+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *Home Power Magazine Archive*\nhttps://www.homepower.com/archive-browse",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home Power Magazine  |  Downloadable Archive  |  Browse",
+          "url": "https://www.homepower.com/archive-browse",
+          "timestamp": null,
+          "description": "Browse 188 digital back issues of Home Power magazine in PDF and register to download any or all of them for free.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/QcJo9nnvI6FyxtbPxfDyGV08xjHlX0jx-IFel4NYaYc/https/static.wixstatic.com/media/d49ff9_8e404e26961c4532a34fed3e66a3dbdb%257Emv2.png/v1/fit/w_2500%2Ch_1330%2Cal_c/d49ff9_8e404e26961c4532a34fed3e66a3dbdb%257Emv2.png",
+            "width": 2500,
+            "height": 1330
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842602080034848",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:57.767+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Computer Gaming World Magazines** *CGW Museum*\nhttp://www.cgwmuseum.org/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CGW Museum - Home",
+          "url": "http://www.cgwmuseum.org/",
+          "timestamp": null,
+          "description": "CGW Museum Home Page",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842603183116349",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:18:58.03+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *FreePDFMagazine*\nhttps://www.freepdfmagazine.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Free PDF Magazine Download - freepdfmagazine.com",
+          "url": "https://www.freepdfmagazine.com/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "DigitalUnix",
+            "url": "https://www.freepdfmagazine.com/author/digitalunix/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842622615355412",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:19:02.663+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *Calameo*\nhttps://calameo.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Calaméo - Publishing Platform for Documents and Magazines",
+          "url": "https://calameo.com/",
+          "timestamp": null,
+          "description": "Publishing platform for digital magazines, interactive publications and online catalogs. Convert documents to beautiful publications and share them worldwide",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dcoeigKOFIFgjDrSvZTa0uAI4limvaw8rT4dk9olg2E/https/s.calameoassets.com/pinwheel/8337-b04dd1/platform/img/other/opengraph-avatar.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842623575818250",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:19:02.892+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines / Newspapers** *WhatsNws*\nhttps://t.me/whatsnws",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Telegram: Contact @whatsnws",
+          "url": "https://t.me/whatsnws",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/vQJF1mUTS5Fumitbe1LLlMqmyrwKJ2tgTbvnfq1kLP0/https/telegram.org/img/t_logo.png",
+            "width": 128,
+            "height": 128
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842624288870440",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:19:03.062+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *PDF Dude*\nhttps://pdfdude.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PDF Dude – Download PDF Magazines, eBooks & Journals Online",
+          "url": "https://pdfdude.com/",
+          "timestamp": null,
+          "description": "Download Your Favorite Magazines! Get the latest issues in PDF format for your PC, Mac, Android, iPhone and iPad. Variety of categories with fast search.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/6qnj6P9Rhi6Fuc3HNGxvp_hT4bo0-uLPNv767i0F-sA/https/pdfdude.com/wp-content/themes/pdfdude/images/pdfdude_og.png",
+            "width": 228,
+            "height": 298
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842624951549962",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:19:03.22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Retro Game Magazines, Catalogs &amp; more** *Annarchive*\nhttps://www.annarchive.com/",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939842625555558400",
+      "type": "Default",
+      "timestamp": "2022-02-06T11:19:03.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Free Children's Magazines** *Netflix Jr. Magazine*\nhttps://www.netflixjr.com",
+      "author": {
+        "id": "795319888424075314",
+        "name": "vyx",
+        "discriminator": "7962",
+        "nickname": "vyx",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795319888424075314/b133795394a31215f1d27ba87b76298e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Netflix Jr. Magazine | Official Website",
+          "url": "https://www.netflixjr.com/",
+          "timestamp": null,
+          "description": "Sign-up for our free Netflix Jr. preschool magazine. It's a print magazine delivered right to your door — full of games, stories, activities, crafts, stickers — everything you need to share in the fun of your child’s favorite Netflix characters.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/HNS48Su7o1z2uQiHscYgWrymR6C7QysoMtG4pPByfNM/https/dx35vtwkllhj9.cloudfront.net/netflix/netflix-jr-magazine/images/regions/us/share.png",
+            "width": 1019,
+            "height": 535
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "957376172998684795",
+      "type": "Default",
+      "timestamp": "2022-03-26T20:31:06.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *Magazine Rack*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_magazine_rack>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "957376486191534090",
+      "type": "Default",
+      "timestamp": "2022-03-26T20:32:21.503+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Computer Magazines** *computermagazines*\n<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_computer_magazines>",
+      "author": {
+        "id": "913252971029073921",
+        "name": "nbats 2.0",
+        "discriminator": "8652",
+        "nickname": "nbats",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/913252971029073921/6fb3cf19a9ddb42f09fea251651f2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "958674601351729172",
+      "type": "Default",
+      "timestamp": "2022-03-30T10:30:36.275+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Magazines** *MagazinesBB*\nhttps://magazinesbb.com/",
+      "author": {
+        "id": "265875010252439568",
+        "name": "zinklog",
+        "discriminator": "3696",
+        "nickname": "zinklog",
+        "color": "#00FFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265875010252439568/fec6bdc20fb084f6b7746be208953017.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MagazinesBB | Free PDF Magazines",
+          "url": "https://magazinesbb.com/",
+          "timestamp": null,
+          "description": "Looking for Popular Free Magazines? Chose Categories for PDF Magazines Download like PCWorld, Woodcraft, USA Today, Elle USA, Women's Health and more.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "939252452295860254",
+            "name": "updoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252452295860254.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "939252513230688347",
+            "name": "downdoot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/939252513230688347.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 36
+}
