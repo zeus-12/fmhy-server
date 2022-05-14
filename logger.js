@@ -4,8 +4,6 @@ const hook = new Webhook(process.env.WEBHOOK);
 hook.setUsername("Guide Logs");
 hook.setAvatar("https://fmhy.cf/assets/logo.png");
 
-const description = `${`\n**Title:** \`${title}\`\n**Link:** \`${link}\`\n**NSFW:** \`${nsfw}\`\n**Tags:** \`${tags}\`\n**Credits:** \`${credits}\``}`;
-
 function add(title, link, nsfw, tags, credits) {
 	const description = `${`\n**Title:** \`${title}\`\n**Link:** \`${link}\`\n**NSFW:** \`${nsfw}\`\n**Tags:** \`${tags}\`\n**Credits:** \`${credits}\``}`;
 	const message = new MessageBuilder()
