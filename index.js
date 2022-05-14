@@ -47,13 +47,19 @@ app.post("/api/guides/new", (req, res) => {
 				nsfw: req.body.nsfw ? true : false,
 				owner: req.body.username,
 				credits: req.body.credits,
-        		tags: req.body.tags,
+				tags: req.body.tags,
 			});
 
 			guide
 				.save()
 				.then((result) => {
-					log.add(result.title, result.link, result.nsfw);
+					log.add(
+						result.title,
+						result.link,
+						result.nsfw,
+						req.body.tags,
+						req.body.credits,
+					);
 					console.log(result);
 					res.status(200);
 				})
@@ -146,7 +152,7 @@ app.get("/api/guides/:ID", (req, res) => {
 						link: data.link,
 						nsfw: data.nsfw,
 						tags: data.tags,
-            			credits: data.credits,
+						credits: data.credits,
 					},
 				});
 			}
@@ -179,12 +185,20 @@ app.put("/api/guides/:ID", (req, res) => {
 							link: req.body.link.replaceAll(" ", ""),
 							nsfw: req.body.nsfw ? true : false,
 							tags: req.body.tags,
-              				credits: req.body.credits.trim(),
+							credits: req.body.credits.trim(),
 						})
 						.then(() => {
 							res.json({ status: "ok" });
 						})
-						.finally(log.update(req.body.title, req.body.link, req.body.nsfw));
+						.finally(
+							log.update(
+								req.body.title,
+								req.body.link,
+								req.body.nsfw,
+								req.body.tags,
+								req.body.credits,
+							),
+						);
 				}
 			},
 		);
