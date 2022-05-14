@@ -57,8 +57,8 @@ app.post("/api/guides/new", (req, res) => {
 						result.title,
 						result.link,
 						result.nsfw,
-						req.body.tags,
-						req.body.credits,
+						result.tags,
+						result.credits,
 					);
 					console.log(result);
 					res.status(200);
@@ -121,15 +121,30 @@ app.delete("/api/guides/delete/:ID", async (req, res) => {
 
 		if (decoded.admin) {
 			Guide.findOneAndDelete({ _id: req.params.ID }).then(
-				(data) => res.json({ status: "ok", deletedGuide: data }),
-				//					.finally(log.remove(data.title, data.link, data.nsfw)),
+				(data) => {
+					log.remove(data.title, data.link, data.nsfw, data.tags, data.credits);
+					res.json({ status: "ok", deletedGuide: data });
+				},
+				// .finally((data) =>
+				// 	log.remove(
+				// 		data.title,
+				// 		data.link,
+				// 		data.nsfw,
+				// 		data.tags,
+				// 		data.credits,
+				// 	),
+				// ),
 			);
 		} else {
 			Guide.findOneAndDelete({
 				_id: req.params.ID,
 				owner: decoded.username,
-			}).then((data) => res.json({ status: "ok", deletedGuide: data }));
-			//				.finally(log.remove(data.title, data.link, data.nsfw));
+			}).then((data) => {
+				log.remove(data.title, data.link, data.nsfw, data.tags, data.credits);
+				res.json({ status: "ok", deletedGuide: data });
+			});
+			// .finally((data) =>
+			// );
 		}
 	}
 });
