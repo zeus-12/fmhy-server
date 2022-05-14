@@ -4,9 +4,10 @@ const hook = new Webhook(process.env.WEBHOOK);
 hook.setUsername("Guide Logs");
 hook.setAvatar("https://fmhy.cf/assets/logo.png");
 
+const description = `${`\n**Title:** \`${title}\`\n**Link:** \`${link}\`\n**NSFW:** \`${nsfw}\`\n**Tags:** \`${tags}\`\n**Credits:** \`${credits}\``}`;
+
 function add(title, link, nsfw, tags, credits) {
-	const description = `${`\`\`\`diff\n+ Title: ${title} | Link: ${link} | NSFW: ${nsfw} | Tags: ${tags} | Credits: ${credits} \`\`\``}`;
-	// what a beautiful mess
+	const description = `${`\n**Title:** \`${title}\`\n**Link:** \`${link}\`\n**NSFW:** \`${nsfw}\`\n**Tags:** \`${tags}\`\n**Credits:** \`${credits}\``}`;
 	const message = new MessageBuilder()
 		.setTitle("Added")
 		.setColor("#07c4e3")
@@ -16,8 +17,7 @@ function add(title, link, nsfw, tags, credits) {
 }
 
 function remove(title, link, nsfw, tags, credits) {
-	const description = `${`\`\`\`diff\n+ Title: ${title} | Link: ${link} | NSFW: ${nsfw} | Tags: ${tags} | Credits: ${credits} \`\`\``}`;
-	// what a beautiful mess
+	const description = `${`\n**Title:** \`${title}\`\n**Link:** \`${link}\`\n**NSFW:** \`${nsfw}\`\n**Tags:** \`${tags}\`\n**Credits:** \`${credits}\``}`;
 
 	const message = new MessageBuilder()
 		.setTitle("Removed")
@@ -28,7 +28,7 @@ function remove(title, link, nsfw, tags, credits) {
 }
 
 function update(title, link, nsfw, tags, credits) {
-	const description = `${`\`\`\`diff\n+ Title: ${title} | Link: ${link} | NSFW: ${nsfw} | Tags: ${tags} | Credits: ${credits} \`\`\``}`;
+	const description = `${`\n**Title:** \`${title}\`\n**Link:** \`${link}\`\n**NSFW:** \`${nsfw}\`\n**Tags:** \`${tags}\`\n**Credits:** \`${credits}\``}`;
 
 	const message = new MessageBuilder()
 		.setTitle("Updated")
