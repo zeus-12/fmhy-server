@@ -2,7 +2,11 @@ const express = require("express");
 const mongoose = require("mongoose");
 const Guide = require("./Guide.js");
 const User = require("./User.js");
+const Link = require("./Link.js");
+const SubmitLink = require("./SubmitLink.js");
 const jwt = require("jsonwebtoken");
+var fs = require("fs");
+
 require("dotenv").config();
 const cors = require("cors");
 
@@ -12,6 +16,8 @@ const PORT = process.env.PORT || 3001;
 const dbURI = process.env.DB_URI;
 
 const log = require("./logger");
+const { GridFSBucketWriteStream } = require("mongodb");
+const { db } = require("./Guide.js");
 
 mongoose
 	.connect(dbURI)
@@ -35,6 +41,9 @@ app.use(express.json());
 //for adding new guide
 app.post("/api/guides/new", (req, res) => {
 	console.log(req.body);
+	if (!req.headers["x-access-token"]) res.json({ error: "Not authenticated" });
+	const token = req.headers["x-access-token"];
+	const decoded = jwt.verify(token, process.env.SECRET_KEY);
 
 	Guide.findOne({ link: req.body.link }).then((data) => {
 		if (data) {
@@ -219,3 +228,288 @@ app.put("/api/guides/:ID", (req, res) => {
 		);
 	}
 });
+
+//  for adding links to db, add the files(101) into link-cleaning/json
+// fs.readdir('./link-cleaning/json', (err, files) => {
+// 	files.forEach((fileName) => {
+// 		if (fileName == '.DS_Store') return;
+
+// 		let rawdata = fs.readFileSync('./link-cleaning/json/' + fileName);
+
+// 		const result = JSON.parse(rawdata);
+
+// 		// let resources = [];
+// 		result.messages.map((item) => {
+
+// 			let resource = item.content;
+// 			let link = []
+// 			let description = resource.split('**')[1];
+// 			let linkItems = resource
+// 				.split('*')
+// 				.slice(-1)[0]
+// 				.replace('\n', '')
+// 				.replaceAll('None', '')
+// 				.trim()
+// 				.replaceAll('+', ',');
+
+// 			//if more than 1 link
+// 			const linkArray = linkItems.split('\n')
+// 			linkArray.forEach((link_item) => { link.push(link_item) })
+
+// 			if (link.slice(0, 1) == '/n') link = link.slice(1);
+// 			let title = resource.split('*').slice(-2, -1)[0]?.replaceAll('&amp', '&');
+// 			if (!link || !description) { console.log(resource); return }
+// 			category = result.channel.category.slice(2).replaceAll(' ','').replaceAll('/','_').toLowerCase();
+// 			channel = result.channel.name.replaceAll(' ','').replaceAll('/','_').toLowerCase();
+// 			// resources.push({ title, link, description, category });
+
+// 			const link_entry = new Link({
+// 				title,link,description,category,channel
+// 			});
+
+// 			link_entry.save().catch((err) => {
+// 				console.log(err);
+// 			});
+
+// 			// fs.appendFileSync('./links.txt', 'title:' + title + '\n');
+// 			// fs.appendFileSync('./links.txt', 'link:' + link + '\n');
+// 			// fs.appendFileSync('./links.txt', 'descrption:' + description + '\n');
+// 			// fs.appendFileSync('./links.txt', 'category:' + category + '\n');
+// 			// fs.appendFileSync('./links.txt', 'channel:' + channel + '\n');
+// 			// fs.appendFileSync('./links.txt','\n')
+// 		});
+// 		// console.log(resources);
+// 	})
+// })
+
+app.get("/api/links/:CATEGORY/:CHANNEL", (req, res) => {
+	const CATEGORY = req.params.CATEGORY;
+	const CHANNEL = req.params.CHANNEL;
+
+	Link.find({ category: CATEGORY, channel: CHANNEL }).then((data) => {
+		if (data) {
+			return res.json({
+				status: "ok",
+				data: data,
+			});
+		}
+	});
+});
+app.get("/api/links/:CATEGORY", (req, res) => {
+	const CATEGORY = req.params.CATEGORY;
+
+	Link.find({ category: CATEGORY }).then((data) => {
+		if (data) {
+			// console.log(data)
+			return res.json({
+				status: "ok",
+				data: data,
+			});
+		}
+	});
+});
+
+app.post("/api/submit-links", (req, res) => {
+	if (!req.headers["x-access-token"]) res.json({ error: "Not authenticated" });
+	const token = req.headers["x-access-token"];
+	const decoded = jwt.verify(token, process.env.SECRET_KEY);
+	//check if link already exist
+	Link.findOne({ link: req.body.link })
+		.then((result) => {
+			if (result) {
+				return res.sendStatus(401);
+			}
+		})
+		.catch((err) => console.log(err));
+
+	SubmitLink.findOne({ link: req.body.link })
+		.then((result) => {
+			if (result) {
+				return res.sendStatus(401);
+			} else {
+				const submit_link = new SubmitLink({
+					title: req.body.title,
+					link: req.body.link,
+					description: req.body.description,
+					channel: req.body.channel,
+					category: req.body.category,
+					username: decoded.username,
+					admin: decoded.admin,
+				});
+				submit_link
+					.save()
+					.then((result) => {
+						console.log(result);
+						res.status(200).json({ error: "Already exists in the queue." });
+						res.end();
+					})
+					.catch((err) => {
+						console.log(err);
+					});
+			}
+		})
+		.catch((err) => console.log(err));
+	//if it doesnt exist then post
+});
+app.get("/api/submitted-links", (req, res) => {
+	const submitted_links = SubmitLink.find().then((data) =>
+		res.json({ data: data }).status(200),
+	);
+});
+
+//to get list of channels for a given category
+// app.get('/api/channels/:CATEGORY', (req, res) => {
+// 	const CATEGORY = req.params.CATEGORY;
+// 	let channels = []
+// 	Link.find({ category: CATEGORY }).then((data) => {
+// 		data.map((item) => {
+// 			if (channels.includes(item.channel)) return;
+// 			else channels.push(item.channel)
+// 		})
+// 		console.log(channels)
+// 		res.json({channels})
+
+// 	})
+
+// })
+
+const category_channels = [
+	{
+		category: "tools",
+		channels: [
+			"audio-tools",
+			"career-tools",
+			"developer-tools",
+			"discord-tools",
+			"educational-tools",
+			"file-tools",
+			"facebook-tools",
+			"gaming-tools",
+			"general-tools",
+			"image-tools",
+			"internet-tools",
+			"reddit-tools",
+			"search-tools",
+			"system-tools",
+			"telegram-tools",
+			"text-tools",
+			"twitch-tools",
+			"twitter-tools",
+			"url-tools",
+			"video-tools",
+			"youtube-tools",
+		],
+	},
+	{
+		category: "miscellaneous",
+		channels: [
+			"browser-games",
+			"cooking",
+			"extensions",
+			"fonts",
+			"fun-sites",
+			"health",
+			"indexes",
+			"maps",
+			"media-databases",
+			"news",
+			"non-english",
+			"piracy-discussion",
+			"request-media",
+			"subtitles",
+		],
+	},
+	{
+		category: "reading",
+		channels: [
+			"audiobooks",
+			"comics",
+			"ebook-readers",
+			"educational",
+			"general",
+			"light-novels",
+			"manga",
+			"magazines",
+			"religion-esoteric",
+			"newspapers",
+		],
+	},
+	{
+		category: "android_ios",
+		channels: [
+			"android-adblocking",
+			"android-audio",
+			"android-emulators",
+			"android-general",
+			"android-privacy",
+			"android-reading",
+			"android-torrenting",
+			"android-video",
+			"ios-adblocking",
+			"ios-audio",
+			"ios-general",
+			"ios-jailbreaking",
+			"ios-privacy",
+			"ios-torrenting",
+			"ios-reading",
+			"ios-video",
+		],
+	},
+	{
+		category: "downloading",
+		channels: [
+			"anime",
+			"arcade-retro",
+			"educational",
+			"emulators-roms",
+			"games",
+			"general",
+			"movies-tv",
+			"music",
+			"software",
+			"usenet",
+		],
+	},
+	{
+		category: "torrenting",
+		channels: [
+			"anime",
+			"educational",
+			"games",
+			"general",
+			"movies-tv",
+			"music",
+			"torrent-clients",
+		],
+	},
+	{
+		category: "linux_macos",
+		channels: [
+			"linux-adblock-privacy",
+			"linux-gaming",
+			"linux-general",
+			"linux-software",
+			"mac-adblock-privacy",
+			"mac-gaming",
+			"mac-general",
+			"mac-software",
+		],
+	},
+	{
+		category: "streaming",
+		channels: [
+			"ambient-relaxation",
+			"anime",
+			"educational",
+			"movies-tv",
+			"live-tv",
+			"podcasts-radio",
+			"music",
+			"sports",
+		],
+	},
+	{
+		category: "adblock_privacy",
+		channels: ["adblocking", "antivirus", "dns", "privacy", "proxies", "vpn"],
+	},
+];
