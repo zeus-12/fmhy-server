@@ -4,12 +4,11 @@ specifiers:
   cors: ^2.8.5
   discord-webhook-node: ^1.1.8
   dotenv: ^16.0.0
-  express: ^4.17.3
+  express: ^4.18.1
   jsonwebtoken: ^8.5.1
   mongodb: ^4.5.0
   mongoose: ^6.2.10
-  node: ^17.7.2
-  nodemon: ^2.0.15
+  nodemon: ^2.0.16
   prettier: 2.6.2
 
 dependencies:
@@ -20,7 +19,6 @@ dependencies:
   jsonwebtoken: 8.5.1
   mongodb: 4.5.0
   mongoose: 6.3.2
-  node: 17.7.2
   nodemon: 2.0.16
 
 devDependencies:
@@ -144,7 +142,10 @@ packages:
     dev: false
 
   /array-flatten/1.1.1:
-    resolution: { integrity: sha1-ml9pkFGx5wczKPKgCJaLZOopVdI= }
+    resolution:
+      {
+        integrity: sha512-PCVAQswWemu6UdxsDFFX/+gVeYqKAod3D3UVm91jHwynguOwAvYPhx8nNlM++NqRcK6CxxpUafjmhIdKiHibqg==,
+      }
     dev: false
 
   /asynckit/0.4.0:
@@ -1335,13 +1336,6 @@ packages:
     engines: { node: ">= 0.6" }
     dev: false
 
-  /node-bin-setup/1.1.0:
-    resolution:
-      {
-        integrity: sha512-pTeU6NgUrexiLNtd+AKwvg6cngHMvj5FZ5e2bbv2ogBSIc9yhkXSSaTScfSRZnwHIh5YFmYSYlemLWkiKD7rog==,
-      }
-    dev: false
-
   /node-fetch/2.6.7:
     resolution:
       {
@@ -1355,18 +1349,6 @@ packages:
         optional: true
     dependencies:
       whatwg-url: 5.0.0
-    dev: false
-
-  /node/17.7.2:
-    resolution:
-      {
-        integrity: sha512-1hLwQfuA39nUDxCTwKqS8l27E9OEzfAdK5xU4Wcr3h2FrQao6qWNnurgWn4GJn9g6tfHuuupyrBl1lvMLNnecw==,
-      }
-    engines: { npm: ">=5.0.0" }
-    hasBin: true
-    requiresBuild: true
-    dependencies:
-      node-bin-setup: 1.1.0
     dev: false
 
   /nodemon/2.0.16:

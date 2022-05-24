@@ -5,8 +5,7 @@
 tasks:
   - init: npm install
   - command: node index.js
-  
+
 ports:
   - port: 3000-6000
     onOpen: open-preview
-

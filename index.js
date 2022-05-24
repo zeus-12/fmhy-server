@@ -7,6 +7,12 @@ const app = express();
 
 const PORT = process.env.PORT || 3001;
 const dbURI = process.env.DB_URI;
+const allowList = [
+	"https://fmhy.cf",
+	"https://fmhy.tk",
+	"https://fmhy.pages.dev",
+	"http://localhost:3001",
+];
 
 mongoose
 	.connect(dbURI)
@@ -17,7 +23,11 @@ mongoose
 	.then(console.log(`Server listening on port ${PORT}`))
 	.catch((err) => console.log(err));
 
-app.use(cors());
+app.use(
+	cors({
+		origin: allowList,
+	}),
+);
 app.use(express.json());
 
 app.use("/api", require("./routes/index.js"));
