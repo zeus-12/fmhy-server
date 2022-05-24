@@ -11,7 +11,7 @@ const allowList = [
 	"https://fmhy.cf",
 	"https://fmhy.tk",
 	"https://fmhy.pages.dev",
-	"http://localhost:3001",
+	"http://localhost:3000",
 ];
 
 mongoose
