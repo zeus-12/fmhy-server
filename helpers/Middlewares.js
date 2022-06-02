@@ -1,21 +1,32 @@
 const jwt = require("jsonwebtoken");
 
-module.exports = {
-	authHandler: function (req, res, next) {
-		if (!req.headers["x-access-token"]) {
-			res.json({ error: "Not authenticated" });
-			return;
-		}
+function authHandler(req, res, next) {
+	let ignoreRoutes = ["/guides/all", "/submit-links/all", "/login"];
+	//to be fixed when edit and update is aded to links
+	let ignore = ["links"];
+	let route = req.path;
+	if (ignoreRoutes.indexOf(route) >= 0) {
+		return next();
+	} else if (ignore.indexOf(route.split("/")[1]) >= 0) {
+		return next();
+	} else {
 		const token = req.headers["x-access-token"];
+
 		if (!token) {
 			res.json({ error: "Not authenticated" });
 			return;
+		} else {
+			try {
+				const decoded = jwt.verify(token, process.env.SECRET_KEY);
+				console.log(decoded);
+				req.decoded = decoded;
+				return next();
+			} catch {
+				res.json({ error: "Invalid token!" });
+				return;
+			}
 		}
-		const decoded = jwt.verify(token, process.env.SECRET_KEY);
-		if (!decoded) {
-			res.json({});
-			return;
-		}
-		next();
-	},
-};
+	}
+	return next();
+}
+module.exports = { authHandler };

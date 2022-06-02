@@ -1,3 +1,4 @@
+const mongoose = require("mongoose");
 const express = require("express");
 var router = express.Router();
 const jwt = require("jsonwebtoken");
@@ -8,21 +9,7 @@ var middlewares = require("../helpers/Middlewares");
 // import * as Util from "../helpers/Util";
 
 router.post("/", (req, res) => {
-	if (!req.headers["x-access-token"]) {
-		res.json({ error: "Not authenticated" });
-		return;
-	}
-	const token = req.headers["x-access-token"];
-	if (!token) {
-		res.json({ error: "Not authenticated" });
-		return;
-	}
-	const decoded = jwt.verify(token, process.env.SECRET_KEY);
-	if (!decoded) {
-		res.json({});
-		return;
-	}
-
+	console.log("here");
 	//check if link already exist
 	Link.findOne({ link: req.body.link })
 		.then((result) => {
@@ -35,7 +22,7 @@ router.post("/", (req, res) => {
 	SubmitLink.findOne({ link: req.body.link })
 		.then((result) => {
 			if (result) {
-				return res.sendStatus(401);
+				return res.json({ error: "link already exists" }).sendStatus(401);
 			} else {
 				const submit_link = new SubmitLink({
 					title: req.body.title,
@@ -43,14 +30,14 @@ router.post("/", (req, res) => {
 					description: req.body.description,
 					channel: req.body.channel,
 					category: req.body.category,
-					username: decoded.username,
-					admin: decoded.admin,
+					username: req.decoded.username,
+					admin: req.decoded.admin,
 				});
 				submit_link
 					.save()
 					.then((result) => {
 						console.log(result);
-						res.status(200).json({ error: "Already exists in the queue." });
+						res.status(200).json({ error: "Link added to queue." });
 						res.end();
 						return;
 					})
@@ -66,6 +53,18 @@ router.get("/all", (req, res) => {
 	const submitted_links = SubmitLink.find().then((data) =>
 		res.json({ data: data }).status(200),
 	);
+});
+router.get("/:ID", (req, res) => {
+	var ObjectId = mongoose.Types.ObjectId;
+	if (!ObjectId.isValid(req.params.ID)) {
+		res.status(400).json({ error: "Invalid ID" });
+		return;
+	} else {
+		SubmitLink.findOne({ _id: req.params.ID }).then((data) => {
+			res.json({ status: "ok", data: data }).status(200);
+			return;
+		});
+	}
 });
 
 module.exports = router;

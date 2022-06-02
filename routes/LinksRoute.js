@@ -30,6 +30,37 @@ router.get("/:CATEGORY", (req, res) => {
 	});
 });
 
+//posting link
+router.post("/:CATEGORY/:CHANNEL", (req, res) => {
+	//check if category and channel is valid
+	const CATEGORY = req.params.CATEGORY;
+	const CHANNEL = req.params.CHANNEL;
+	if (!(CATEGORY === req.body.category && CHANNEL === req.body.channel)) {
+		res.status(400).json({ error: "category or channel doesnt match" });
+		return;
+	}
+
+	const link = new Link({
+		title: req.body.title.trim(),
+		link: req.body.link,
+		description: req.body.description,
+		category: req.body.category,
+		channel: req.body.channel,
+	});
+
+	link
+		.save()
+		.then((result) => {
+			console.log(result);
+		})
+		.catch((err) => {
+			console.log(err);
+		});
+
+	res.end();
+	return;
+});
+
 //  for adding links to db, add the files(101) into link-cleaning/json
 // fs.readdir('../link-cleaning/json', (err, files) => {
 // 	files.forEach((fileName) => {

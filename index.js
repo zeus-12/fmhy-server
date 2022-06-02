@@ -32,8 +32,6 @@ app.use(express.json());
 
 app.use("/api", require("./routes/index.js"));
 
-//delete a link from linkqueue
-
 //to get list of all the channels for a given category
 // app.get('/api/channels/:CATEGORY', (req, res) => {
 // 	const CATEGORY = req.params.CATEGORY;

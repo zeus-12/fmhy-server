@@ -11,29 +11,22 @@ router.get("/all", (req, res) => {
 });
 
 router.get("/user", (req, res) => {
-	if (!req.headers["x-access-token"]) res.json({ error: "Not authenticated" });
-	const token = req.headers["x-access-token"];
-	const decoded = jwt.verify(token, process.env.SECRET_KEY);
-	Guide.find({ owner: decoded.username }).then((data) =>
+	Guide.find({ owner: req.decoded.username }).then((data) =>
 		res.json({ status: "ok", data: data }),
 	);
 });
 router.post("/new", (req, res) => {
-	console.log(req.body);
-	if (!req.headers["x-access-token"]) res.json({ error: "Not authenticated" });
-	const token = req.headers["x-access-token"];
-	const decoded = jwt.verify(token, process.env.SECRET_KEY);
-
 	Guide.findOne({ link: req.body.link }).then((data) => {
 		if (data) {
 			res.status(400);
 			res.end();
+			return;
 		} else {
 			const guide = new Guide({
 				title: req.body.title.trim(),
 				link: req.body.link.replaceAll(" ", ""),
 				nsfw: req.body.nsfw ? true : false,
-				owner: req.body.username,
+				owner: req.decoded.username,
 				credits: req.body.credits,
 				tags: req.body.tags,
 			});
@@ -48,7 +41,7 @@ router.post("/new", (req, res) => {
 						result.tags,
 						result.credits,
 					);
-					console.log(result);
+
 					res.status(200);
 				})
 				.catch((err) => {
@@ -66,12 +59,7 @@ router.delete("/delete/:ID", async (req, res) => {
 	if (!ObjectId.isValid(req.params.ID))
 		res.status(400).json({ error: "Invalid ID" });
 	else {
-		if (!req.headers["x-access-token"])
-			res.send({ error: "Not authenticated" });
-		const token = req.headers["x-access-token"];
-		const decoded = jwt.verify(token, process.env.SECRET_KEY);
-
-		if (decoded.admin) {
+		if (req.decoded.admin) {
 			Guide.findOneAndDelete({ _id: req.params.ID }).then(
 				(data) => {
 					log.remove(data.title, data.link, data.nsfw, data.tags, data.credits);
@@ -90,7 +78,7 @@ router.delete("/delete/:ID", async (req, res) => {
 		} else {
 			Guide.findOneAndDelete({
 				_id: req.params.ID,
-				owner: decoded.username,
+				owner: req.decoded.username,
 			}).then((data) => {
 				log.remove(data.title, data.link, data.nsfw, data.tags, data.credits);
 				res.json({ status: "ok", deletedGuide: data });
@@ -108,10 +96,8 @@ router.get("/:ID", (req, res) => {
 		res.status(400).json({ error: "Invalid ID" });
 	else {
 		Guide.find({ _id: req.params.ID }).then((data) => {
-			console.log(data[0]);
 			if (data) {
 				data = data[0];
-				console.log(data);
 				return res.json({
 					status: "ok",
 					data: {
@@ -136,10 +122,8 @@ router.put("/:ID", (req, res) => {
 		Guide.findOne({ link: req.body.link, _id: { $ne: req.params.ID } }).then(
 			(data) => {
 				if (data) {
-					console.log("here");
-					console.log(data._id, req.params.ID);
-					res.status(400);
-					res.end();
+					res.status(400).end();
+					return;
 				} else {
 					const guide = Guide.find({ _id: req.params.ID });
 					if (!guide) {
