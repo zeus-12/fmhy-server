@@ -18,7 +18,6 @@ function authHandler(req, res, next) {
 		} else {
 			try {
 				const decoded = jwt.verify(token, process.env.SECRET_KEY);
-				console.log(decoded);
 				req.decoded = decoded;
 				return next();
 			} catch {

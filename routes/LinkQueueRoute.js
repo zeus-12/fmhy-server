@@ -10,9 +10,14 @@ router.delete("/delete/:ID", async (req, res) => {
 		res.status(400).json({ error: "Invalid ID" });
 	else {
 		if (req.decoded.admin) {
-			SubmitLink.findOneAndDelete({ _id: req.params.ID }).then((data) => {
-				res.json({ status: "ok", deletedSubmittedLink: data });
-			});
+			try {
+				SubmitLink.findOneAndDelete({ _id: req.params.ID }).then((data) => {
+					res.json({ status: "ok", deletedSubmittedLink: data });
+				});
+			} catch {
+				res.json({ error: "Error" }).end();
+				return;
+			}
 		}
 	}
 });
