@@ -22,7 +22,9 @@ router.post("/", (req, res) => {
 	SubmitLink.findOne({ link: req.body.link })
 		.then((result) => {
 			if (result) {
-				return res.json({ error: "link already exists" }).sendStatus(401);
+				return res
+					.json({ error: "link already exists" })
+					.sendStatus(401);
 			} else {
 				const submit_link = new SubmitLink({
 					title: req.body.title,
@@ -51,7 +53,7 @@ router.post("/", (req, res) => {
 });
 router.get("/all", (req, res) => {
 	const submitted_links = SubmitLink.find().then((data) =>
-		res.json({ data: data }).status(200),
+		res.json({ data: data }).status(200)
 	);
 });
 router.get("/:ID", (req, res) => {

@@ -11,9 +11,11 @@ router.delete("/delete/:ID", async (req, res) => {
 	else {
 		if (req.decoded.admin) {
 			try {
-				SubmitLink.findOneAndDelete({ _id: req.params.ID }).then((data) => {
-					res.json({ status: "ok", deletedSubmittedLink: data });
-				});
+				SubmitLink.findOneAndDelete({ _id: req.params.ID }).then(
+					(data) => {
+						res.json({ status: "ok", deletedSubmittedLink: data });
+					}
+				);
 			} catch {
 				res.json({ error: "Error" }).end();
 				return;

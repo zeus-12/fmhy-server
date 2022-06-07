@@ -9,8 +9,14 @@ const guides_sfw = [
 		name: "Pirated Games Mega Thread",
 		url: "https://rentry.org/pgames-mega-thread",
 	},
-	{ name: "Rom Center Markdown Edition 2021", url: "https://rentry.co/24ufx" },
-	{ name: "Rom Center markdown edition 2021", url: "https://rentry.co/vin7x" },
+	{
+		name: "Rom Center Markdown Edition 2021",
+		url: "https://rentry.co/24ufx",
+	},
+	{
+		name: "Rom Center markdown edition 2021",
+		url: "https://rentry.co/vin7x",
+	},
 	{
 		name: "Rekulous Krunker Settings",
 		url: "https://rentry.co/krunkersettings",
@@ -38,7 +44,10 @@ const guides_sfw = [
 	},
 	{ name: "Clear uploaded songs on YTM", url: "https://rentry.co/tv4uo" },
 	{ name: "Echlinks", url: "https://rentry.co/echlinkss" },
-	{ name: "Manga sites with known APIs", url: "https://rentry.co/manga-apis" },
+	{
+		name: "Manga sites with known APIs",
+		url: "https://rentry.co/manga-apis",
+	},
 	{ name: "Friendly Windows Thread Paste", url: "https://rentry.co/fwt" },
 	{
 		name: "Installing Windows for Noobs",
@@ -114,7 +123,10 @@ const guides_sfw = [
 	},
 	{ name: "YouTube Tweaked IPAs", url: "https://rentry.co/YTcrack" },
 	{ name: "no_name", url: "https://rentry.co/mnvfw" },
-	{ name: "Italian Piracy Sites", url: "https://rentry.co/ItalianPiracySites" },
+	{
+		name: "Italian Piracy Sites",
+		url: "https://rentry.co/ItalianPiracySites",
+	},
 	{
 		name: "Italian Streaming Sites",
 		url: "https://rentry.co/ItalianStreamingImproved",

@@ -26,7 +26,7 @@ mongoose
 app.use(
 	cors({
 		origin: allowList,
-	}),
+	})
 );
 app.use(express.json());
 

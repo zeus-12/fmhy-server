@@ -135,7 +135,14 @@ const category_channels = [
 	},
 	{
 		category: "adblock_privacy",
-		channels: ["adblocking", "antivirus", "dns", "privacy", "proxies", "vpn"],
+		channels: [
+			"adblocking",
+			"antivirus",
+			"dns",
+			"privacy",
+			"proxies",
+			"vpn",
+		],
 	},
 ];
 

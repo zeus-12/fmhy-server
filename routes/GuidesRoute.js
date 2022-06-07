@@ -12,7 +12,7 @@ router.get("/all", (req, res) => {
 
 router.get("/user", (req, res) => {
 	Guide.find({ owner: req.decoded.username }).then((data) =>
-		res.json({ status: "ok", data: data }),
+		res.json({ status: "ok", data: data })
 	);
 });
 router.post("/new", (req, res) => {
@@ -39,7 +39,7 @@ router.post("/new", (req, res) => {
 						result.link,
 						result.nsfw,
 						result.tags,
-						result.credits,
+						result.credits
 					);
 
 					res.status(200);
@@ -62,9 +62,15 @@ router.delete("/delete/:ID", async (req, res) => {
 		if (req.decoded.admin) {
 			Guide.findOneAndDelete({ _id: req.params.ID }).then(
 				(data) => {
-					log.remove(data.title, data.link, data.nsfw, data.tags, data.credits);
+					log.remove(
+						data.title,
+						data.link,
+						data.nsfw,
+						data.tags,
+						data.credits
+					);
 					res.json({ status: "ok", deletedGuide: data });
-				},
+				}
 				// .finally((data) =>
 				// 	log.remove(
 				// 		data.title,
@@ -80,7 +86,13 @@ router.delete("/delete/:ID", async (req, res) => {
 				_id: req.params.ID,
 				owner: req.decoded.username,
 			}).then((data) => {
-				log.remove(data.title, data.link, data.nsfw, data.tags, data.credits);
+				log.remove(
+					data.title,
+					data.link,
+					data.nsfw,
+					data.tags,
+					data.credits
+				);
 				res.json({ status: "ok", deletedGuide: data });
 			});
 			// .finally((data) =>
@@ -119,40 +131,41 @@ router.put("/:ID", (req, res) => {
 	if (!ObjectId.isValid(req.params.ID))
 		res.status(400).json({ error: "Invalid ID" });
 	else {
-		Guide.findOne({ link: req.body.link, _id: { $ne: req.params.ID } }).then(
-			(data) => {
-				if (data) {
-					res.status(400).end();
-					return;
-				} else {
-					const guide = Guide.find({ _id: req.params.ID });
-					if (!guide) {
-						res.status(400).json({ error: "Invalid ID" });
-					}
-					console.log(req.body);
-					guide
-						.updateOne({
-							title: req.body.title.trim(),
-							link: req.body.link.replaceAll(" ", ""),
-							nsfw: req.body.nsfw ? true : false,
-							tags: req.body.tags,
-							credits: req.body.credits.trim(),
-						})
-						.then(() => {
-							res.json({ status: "ok" });
-						})
-						.finally(
-							log.update(
-								req.body.title,
-								req.body.link,
-								req.body.nsfw,
-								req.body.tags,
-								req.body.credits,
-							),
-						);
+		Guide.findOne({
+			link: req.body.link,
+			_id: { $ne: req.params.ID },
+		}).then((data) => {
+			if (data) {
+				res.status(400).end();
+				return;
+			} else {
+				const guide = Guide.find({ _id: req.params.ID });
+				if (!guide) {
+					res.status(400).json({ error: "Invalid ID" });
 				}
-			},
-		);
+				console.log(req.body);
+				guide
+					.updateOne({
+						title: req.body.title.trim(),
+						link: req.body.link.replaceAll(" ", ""),
+						nsfw: req.body.nsfw ? true : false,
+						tags: req.body.tags,
+						credits: req.body.credits.trim(),
+					})
+					.then(() => {
+						res.json({ status: "ok" });
+					})
+					.finally(
+						log.update(
+							req.body.title,
+							req.body.link,
+							req.body.nsfw,
+							req.body.tags,
+							req.body.credits
+						)
+					);
+			}
+		});
 	}
 });
 

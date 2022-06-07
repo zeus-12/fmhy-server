@@ -48,8 +48,7 @@ router.post("/:CATEGORY/:CHANNEL", (req, res) => {
 		channel: req.body.channel,
 	});
 
-	link
-		.save()
+	link.save()
 		.then((result) => {
 			console.log(result);
 		})
