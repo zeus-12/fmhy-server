@@ -1,6 +1,6 @@
 const express = require("express");
 var router = express.Router();
-const Link = require("../Link.js");
+const Link = require("../models/Link.js");
 var fs = require("fs");
 
 router.get("/:CATEGORY/:CHANNEL", (req, res) => {

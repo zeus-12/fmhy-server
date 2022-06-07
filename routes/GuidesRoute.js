@@ -1,7 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 var router = express.Router();
-const Guide = require("../Guide.js");
+const Guide = require("../models/Guide.js");
 const log = require("../logger");
 const jwt = require("jsonwebtoken");
 

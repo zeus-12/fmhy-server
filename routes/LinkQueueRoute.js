@@ -1,8 +1,7 @@
 const mongoose = require("mongoose");
 const express = require("express");
 var router = express.Router();
-const jwt = require("jsonwebtoken");
-const SubmitLink = require("../SubmitLink.js");
+const SubmitLink = require("../models/SubmitLink.js");
 
 router.delete("/delete/:ID", async (req, res) => {
 	var ObjectId = mongoose.Types.ObjectId;

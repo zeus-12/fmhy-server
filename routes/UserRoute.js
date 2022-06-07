@@ -2,7 +2,7 @@ const express = require("express");
 
 var router = express.Router();
 const jwt = require("jsonwebtoken");
-const User = require("../User.js");
+const User = require("../models/User.js");
 
 //for signing in
 router.post("/", async (req, res) => {

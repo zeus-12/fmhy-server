@@ -1,9 +1,8 @@
 const mongoose = require("mongoose");
 const express = require("express");
 var router = express.Router();
-const jwt = require("jsonwebtoken");
-const Link = require("../Link.js");
-const SubmitLink = require("../SubmitLink.js");
+const Link = require("../models/Link.js");
+const SubmitLink = require("../models/SubmitLink.js");
 
 var middlewares = require("../helpers/Middlewares");
 // import * as Util from "../helpers/Util";
