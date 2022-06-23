@@ -2,7 +2,7 @@ const jwt = require("jsonwebtoken");
 
 function authHandler(req, res, next) {
 	let ignoreRoutes = ["/guides/all", "/submit-links/all", "/login"];
-	//to be fixed when edit and update is aded to links
+	//TODO: to be fixed when edit and update is aded to links
 	let ignore = ["links"];
 	let route = req.path;
 	if (ignoreRoutes.indexOf(route) >= 0) {

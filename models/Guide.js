@@ -14,7 +14,6 @@ const guideSchema = new Schema({
 	nsfw: {
 		type: Boolean,
 	},
-	//todo set owner default value from localstorage
 	owner: {
 		type: String,
 		// default: '',
