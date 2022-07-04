@@ -2,17 +2,12 @@ const express = require("express");
 const mongoose = require("mongoose");
 require("dotenv").config();
 const cors = require("cors");
+const allowList = require("./helpers/allowList");
 
 const app = express();
 
 const PORT = process.env.PORT || 3001;
 const dbURI = process.env.DB_URI;
-const allowList = [
-	"https://fmhy.cf",
-	"https://fmhy.tk",
-	"https://fmhy.pages.dev",
-	"http://localhost:3000",
-];
 
 mongoose
 	.connect(dbURI)
