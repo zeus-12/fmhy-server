@@ -26,6 +26,5 @@ function authHandler(req, res, next) {
 			}
 		}
 	}
-	return next();
 }
 module.exports = { authHandler };
