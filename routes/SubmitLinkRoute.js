@@ -4,57 +4,56 @@ var router = express.Router();
 const Link = require("../models/Link.js");
 const SubmitLink = require("../models/SubmitLink.js");
 
-var middlewares = require("../helpers/Middlewares");
-// import * as Util from "../helpers/Util";
-
 router.post("/", (req, res) => {
-	console.log("here");
-	//check if link already exist
 	Link.findOne({ link: req.body.link })
 		.then((result) => {
 			if (result) {
-				return res.sendStatus(401);
-			}
-		})
-		.catch((err) => console.log(err));
-
-	SubmitLink.findOne({ link: req.body.link })
-		.then((result) => {
-			if (result) {
 				return res
-					.json({ error: "link already exists" })
-					.sendStatus(401);
+					.status(409)
+					.json({ message: "Link already exists!" });
 			} else {
-				const submit_link = new SubmitLink({
-					title: req.body.title,
-					link: req.body.link,
-					description: req.body.description,
-					channel: req.body.channel,
-					category: req.body.category,
-					username: req.decoded.username,
-					admin: req.decoded.admin,
-				});
-				submit_link
-					.save()
+				SubmitLink.findOne({ link: req.body.link })
 					.then((result) => {
-						console.log(result);
-						res.status(200).json({ error: "Link added to queue." });
-						res.end();
-						return;
+						if (result) {
+							return res.status(409).json({
+								message: "link already exists in Link queue!",
+							});
+						} else {
+							const submit_link = new SubmitLink({
+								title: req.body.title,
+								link: req.body.link,
+								description: req.body.description,
+								channel: req.body.channel,
+								category: req.body.category,
+								username: req.decoded.username,
+								admin: req.decoded.admin,
+							});
+							submit_link
+								.save()
+								.then((result) => {
+									res.status(200).json({
+										message: "Link added to queue.",
+									});
+									res.end();
+									return;
+								})
+								.catch((err) => {
+									console.log(err);
+								});
+						}
 					})
-					.catch((err) => {
-						console.log(err);
-					});
+					.catch((err) => console.log(err));
 			}
 		})
 		.catch((err) => console.log(err));
-	//if it doesnt exist then post
 });
+
 router.get("/all", (req, res) => {
 	const submitted_links = SubmitLink.find().then((data) =>
 		res.json({ data: data }).status(200)
 	);
 });
+
 router.get("/:ID", (req, res) => {
 	var ObjectId = mongoose.Types.ObjectId;
 	if (!ObjectId.isValid(req.params.ID)) {
