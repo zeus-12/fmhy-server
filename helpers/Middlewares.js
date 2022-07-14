@@ -7,8 +7,8 @@ function authHandler(req, res, next) {
 	let route = req.path;
 	if (ignoreRoutes.indexOf(route) >= 0) {
 		return next();
-	} else if (ignore.indexOf(route.split("/")[1]) >= 0) {
-		return next();
+		// } else if (ignore.indexOf(route.split("/")[1]) >= 0) {
+		// return next();
 	} else {
 		const token = req.headers["x-access-token"];
 
