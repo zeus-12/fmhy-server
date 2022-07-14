@@ -1,7 +1,21 @@
+const { categories } = require("./CONSTANTS");
 const jwt = require("jsonwebtoken");
-
 function authHandler(req, res, next) {
-	let ignoreRoutes = ["/guides/all", "/submit-links/all", "/login"];
+	const ignoreRoutes = [
+		"/guides/all",
+		"/submit-links/all",
+		"/login",
+		"/links/tools",
+		"/links/miscellaneous",
+		"/links/reading",
+		"/links/android_ios",
+		"/links/downloading",
+		"/links/torrenting",
+		"/links/linux_macos",
+		"/links/streaming",
+		"/links/adblock_privacy",
+	];
+
 	//TODO: to be fixed when edit and update is aded to links
 	let ignore = ["links"];
 	let route = req.path;

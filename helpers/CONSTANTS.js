@@ -145,5 +145,16 @@ const category_channels = [
 		],
 	},
 ];
+const categories = [
+	"tools",
+	"miscellaneous",
+	"reading",
+	"android_ios",
+	"downloading",
+	"torrenting",
+	"linux_macos",
+	"streaming",
+	"adblock_privacy",
+];
 
-export default { category_channels };
+module.exports = { category_channels, categories };
