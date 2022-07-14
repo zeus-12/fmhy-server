@@ -16,7 +16,7 @@
 		"nodemon": "^2.0.16"
 	},
 	"scripts": {
-		"dev":"nodemon .",
+		"dev": "nodemon .",
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"fmt": "prettier --write ."
 	},
