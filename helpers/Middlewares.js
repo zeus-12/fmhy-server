@@ -1,4 +1,3 @@
-const { categories } = require("./CONSTANTS");
 const jwt = require("jsonwebtoken");
 function authHandler(req, res, next) {
 	const ignoreRoutes = [
@@ -14,15 +13,26 @@ function authHandler(req, res, next) {
 		"/links/linux_macos",
 		"/links/streaming",
 		"/links/adblock_privacy",
-	];
 
-	//TODO: to be fixed when edit and update is aded to links
-	let ignore = ["links"];
+		"/wiki/adblock-vpn-privacy",
+		"/wiki/video",
+		"/wiki/audio",
+		"/wiki/games",
+		"/wiki/reading",
+		"/wiki/download",
+		"/wiki/torrent",
+		"/wiki/edu",
+		"/wiki/tools-misc",
+		"/wiki/misc",
+		"/wiki/android",
+		"/wiki/linux",
+		"/wiki/storage",
+		"/wiki/non-eng",
+		"/wiki/base64",
+	];
 	let route = req.path;
 	if (ignoreRoutes.indexOf(route) >= 0) {
 		return next();
-		// } else if (ignore.indexOf(route.split("/")[1]) >= 0) {
-		// return next();
 	} else {
 		const token = req.headers["x-access-token"];
 
