@@ -21,7 +21,6 @@ router.get("/:CATEGORY", (req, res) => {
 
 	Link.find({ category: CATEGORY }).then((data) => {
 		if (data) {
-			// console.log(data)
 			return res.json({
 				status: "ok",
 				data: data,
