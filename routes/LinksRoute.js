@@ -109,7 +109,7 @@ router.post("/:CATEGORY/:CHANNEL", (req, res) => {
 // 			// fs.appendFileSync('./links.txt', 'channel:' + channel + '\n');
 // 			// fs.appendFileSync('./links.txt','\n')
 // 		});
-// 		// console.log(resources);
+
 // 	})
 // })
 
