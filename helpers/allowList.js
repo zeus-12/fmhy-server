@@ -1,4 +1,3 @@
-//removed access to server from localhost, for dev uncomment this line.
 const allowList = [
 	"https://fmhy.ml",
 	"https://fmhy.cf",

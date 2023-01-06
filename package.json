@@ -11,16 +11,16 @@
 		"jsonwebtoken": "^8.5.1",
 		"mongodb": "^4.5.0",
 		"mongoose": "^6.2.10",
-		"node-fetch": "^3.2.5",
-		"nodemon": "^2.0.16"
+		"node-fetch": "^3.2.5"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.16",
+		"prettier": "2.6.2"
 	},
 	"scripts": {
 		"dev": "nodemon .",
 		"fmt": "prettier --write ."
 	},
 	"author": "",
-	"license": "ISC",
-	"devDependencies": {
-		"prettier": "2.6.2"
-	}
+	"license": "ISC"
 }
