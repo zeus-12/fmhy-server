@@ -21,9 +21,5 @@
 		"fmt": "prettier --write ."
 	},
 	"author": "",
-	"license": "ISC",
-	"devDependencies": {
-		"nodemon": "^2.0.20",
-		"prettier": "2.6.2"
-	}
+	"license": "ISC"
 }

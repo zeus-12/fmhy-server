@@ -2,6 +2,7 @@ const express = require("express");
 var router = express.Router();
 
 router.use(require("../helpers/AuthHandler").authHandler);
+router.use("/search", require("./SearchRoute"));
 router.use("/guides", require("./GuidesRoute"));
 router.use("/login", require("./UserRoute"));
 router.use("/links", require("./LinksRoute"));

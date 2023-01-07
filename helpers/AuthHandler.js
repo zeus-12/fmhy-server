@@ -4,6 +4,7 @@ function authHandler(req, res, next) {
 		"/guides/all",
 		"/submit-links/all",
 		"/login",
+		"/search"
 	];
 	let route = req.path;
 	if (ignoreRoutes.indexOf(route) >= 0 || route.startsWith("/wiki/" || route.startsWith("/links/"))) {
