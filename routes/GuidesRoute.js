@@ -2,7 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 var router = express.Router();
 const Guide = require("../models/Guide.js");
-const log = require("../logger");
+
 const jwt = require("jsonwebtoken");
 
 // for fetching all the guides
@@ -33,17 +33,7 @@ router.post("/new", (req, res) => {
 
 			guide
 				.save()
-				.then((result) => {
-					log.add(
-						result.title,
-						result.link,
-						result.nsfw,
-						result.tags,
-						result.credits
-					);
 
-					res.status(200);
-				})
 				.catch((err) => {
 					console.log(err);
 				});
@@ -60,43 +50,16 @@ router.delete("/delete/:ID", async (req, res) => {
 		res.status(400).json({ error: "Invalid ID" });
 	else {
 		if (req.decoded.admin) {
-			Guide.findOneAndDelete({ _id: req.params.ID }).then(
-				(data) => {
-					log.remove(
-						data.title,
-						data.link,
-						data.nsfw,
-						data.tags,
-						data.credits
-					);
-					res.json({ status: "ok", deletedGuide: data });
-				}
-				// .finally((data) =>
-				// 	log.remove(
-				// 		data.title,
-				// 		data.link,
-				// 		data.nsfw,
-				// 		data.tags,
-				// 		data.credits,
-				// 	),
-				// ),
-			);
+			Guide.findOneAndDelete({ _id: req.params.ID }).then((data) => {
+				res.json({ status: "ok", deletedGuide: data });
+			});
 		} else {
 			Guide.findOneAndDelete({
 				_id: req.params.ID,
 				owner: req.decoded.username,
-			}).then((data) => {
-				log.remove(
-					data.title,
-					data.link,
-					data.nsfw,
-					data.tags,
-					data.credits
-				);
-				res.json({ status: "ok", deletedGuide: data });
 			});
-			// .finally((data) =>
-			// );
+
+			res.json({ status: "ok", deletedGuide: data });
 		}
 	}
 });
@@ -143,7 +106,7 @@ router.put("/:ID", (req, res) => {
 				if (!guide) {
 					res.status(400).json({ error: "Invalid ID" });
 				}
-				console.log(req.body);
+
 				guide
 					.updateOne({
 						title: req.body.title.trim(),
@@ -154,16 +117,7 @@ router.put("/:ID", (req, res) => {
 					})
 					.then(() => {
 						res.json({ status: "ok" });
-					})
-					.finally(
-						log.update(
-							req.body.title,
-							req.body.link,
-							req.body.nsfw,
-							req.body.tags,
-							req.body.credits
-						)
-					);
+					});
 			}
 		});
 	}

@@ -3,3 +3,4 @@ node_modules/
 dist/
 .env
 helpers/allowList.js
+.DS_Store

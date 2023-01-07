@@ -4,34 +4,9 @@ function authHandler(req, res, next) {
 		"/guides/all",
 		"/submit-links/all",
 		"/login",
-		"/links/tools",
-		"/links/miscellaneous",
-		"/links/reading",
-		"/links/android_ios",
-		"/links/downloading",
-		"/links/torrenting",
-		"/links/linux_macos",
-		"/links/streaming",
-		"/links/adblock_privacy",
-
-		"/wiki/adblock-vpn-privacy",
-		"/wiki/video",
-		"/wiki/audio",
-		"/wiki/games",
-		"/wiki/reading",
-		"/wiki/download",
-		"/wiki/torrent",
-		"/wiki/edu",
-		"/wiki/tools-misc",
-		"/wiki/misc",
-		"/wiki/android",
-		"/wiki/linux",
-		"/wiki/storage",
-		"/wiki/non-eng",
-		"/wiki/base64",
 	];
 	let route = req.path;
-	if (ignoreRoutes.indexOf(route) >= 0) {
+	if (ignoreRoutes.indexOf(route) >= 0 || route.startsWith("/wiki/" || route.startsWith("/links/"))) {
 		return next();
 	} else {
 		const token = req.headers["x-access-token"];

@@ -115,6 +115,13 @@
 		"__v": 0
 	},
 	{
+		"tags": [],
+		"_id": "62574c8178c6317e3b7a2ca4",
+		"title": "Manga sites with known APIs",
+		"link": "https://rentry.co/manga-apis",
+		"__v": 0
+	},
+	{
 		"_id": "62574c8178c6317e3b7a2ca5",
 		"title": "Friendly Windows Thread Paste",
 		"link": "https://rentry.co/fwt",
@@ -128,13 +135,6 @@
 		"_id": "62574c8178c6317e3b7a2ca3",
 		"title": "Echlinks",
 		"link": "https://rentry.co/echlinkss",
-		"__v": 0
-	},
-	{
-		"tags": [],
-		"_id": "62574c8178c6317e3b7a2ca4",
-		"title": "Manga sites with known APIs",
-		"link": "https://rentry.co/manga-apis",
 		"__v": 0
 	},
 	{
@@ -205,6 +205,13 @@
 		"__v": 0
 	},
 	{
+		"tags": [],
+		"_id": "62574c8178c6317e3b7a2cae",
+		"title": "Full Guide About What Sites Are Safe/Not Safe To Download Content",
+		"link": "https://rentry.org/EsotericaSiteList",
+		"__v": 0
+	},
+	{
 		"_id": "62574c8178c6317e3b7a2caf",
 		"title": "r/SoftwarePirates Megathread!",
 		"link": "https://rentry.org/SoftwarePirates-Megathread",
@@ -221,13 +228,6 @@
 		"credits": "Sevastian",
 		"nsfw": false,
 		"tags": []
-	},
-	{
-		"tags": [],
-		"_id": "62574c8178c6317e3b7a2cae",
-		"title": "Full Guide About What Sites Are Safe/Not Safe To Download Content",
-		"link": "https://rentry.org/EsotericaSiteList",
-		"__v": 0
 	},
 	{
 		"tags": [],
@@ -286,16 +286,16 @@
 	},
 	{
 		"tags": [],
-		"_id": "62574c8178c6317e3b7a2cbb",
-		"title": "Deezer Premium iOS Guide (Jailbroken)",
-		"link": "https://rentry.co/deezerpremiumforios",
+		"_id": "62574c8178c6317e3b7a2cbe",
+		"title": "Italian Piracy Sites",
+		"link": "https://rentry.co/ItalianPiracySites",
 		"__v": 0
 	},
 	{
 		"tags": [],
-		"_id": "62574c8178c6317e3b7a2cbe",
-		"title": "Italian Piracy Sites",
-		"link": "https://rentry.co/ItalianPiracySites",
+		"_id": "62574c8178c6317e3b7a2cbb",
+		"title": "Deezer Premium iOS Guide (Jailbroken)",
+		"link": "https://rentry.co/deezerpremiumforios",
 		"__v": 0
 	},
 	{
@@ -333,15 +333,6 @@
 		"__v": 0
 	},
 	{
-		"_id": "62574c8178c6317e3b7a2cc8",
-		"title": "JD2 Optimization Guide",
-		"link": "https://rentry.org/jdownloader2opt",
-		"__v": 0,
-		"credits": "RekulousToad",
-		"nsfw": false,
-		"tags": []
-	},
-	{
 		"_id": "62574c8178c6317e3b7a2cc4",
 		"title": "Malwarebytes Premium Guide",
 		"link": "https://rentry.co/malwarebytespremium",
@@ -351,11 +342,34 @@
 		"tags": []
 	},
 	{
+		"tags": [],
+		"_id": "62574c8178c6317e3b7a2cc6",
+		"title": "Get all Jetbrains Ultimate Edition IDEs (using trial resets)",
+		"link": "https://rentry.org/52oyb",
+		"__v": 0
+	},
+	{
+		"tags": [],
+		"_id": "62574c8178c6317e3b7a2cc2",
+		"title": "Guia de Pirataria para Iniciantes",
+		"link": "https://rentry.org/PiracyBG-PTBR",
+		"__v": 0
+	},
+	{
 		"_id": "62574c8178c6317e3b7a2cc5",
 		"title": "Full Kaspersky Products Installation & Cracking Guide",
 		"link": "https://rentry.org/Kaspersky",
 		"__v": 0,
 		"credits": "Ori",
+		"nsfw": false,
+		"tags": []
+	},
+	{
+		"_id": "62574c8178c6317e3b7a2cc8",
+		"title": "JD2 Optimization Guide",
+		"link": "https://rentry.org/jdownloader2opt",
+		"__v": 0,
+		"credits": "RekulousToad",
 		"nsfw": false,
 		"tags": []
 	},
@@ -378,20 +392,6 @@
 		"_id": "62574c8178c6317e3b7a2cc3",
 		"title": "Portuguese Piracy Sites",
 		"link": "https://rentry.org/PortuguesePiracySites",
-		"__v": 0
-	},
-	{
-		"tags": [],
-		"_id": "62574c8178c6317e3b7a2cc6",
-		"title": "Get all Jetbrains Ultimate Edition IDEs (using trial resets)",
-		"link": "https://rentry.org/52oyb",
-		"__v": 0
-	},
-	{
-		"tags": [],
-		"_id": "62574c8178c6317e3b7a2cc2",
-		"title": "Guia de Pirataria para Iniciantes",
-		"link": "https://rentry.org/PiracyBG-PTBR",
 		"__v": 0
 	},
 	{
