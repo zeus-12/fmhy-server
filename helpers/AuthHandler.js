@@ -7,7 +7,9 @@ function authHandler(req, res, next) {
 		"/search"
 	];
 	let route = req.path;
-	if (ignoreRoutes.indexOf(route) >= 0 || route.startsWith("/wiki/" || route.startsWith("/links/"))) {
+	console.log(route)
+	console.log(route.startsWith("/links"))
+	if (ignoreRoutes.indexOf(route) >= 0 || route.startsWith("/wiki") || route.startsWith("/links")) {
 		return next();
 	} else {
 		const token = req.headers["x-access-token"];
