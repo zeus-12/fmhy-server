@@ -10,21 +10,28 @@ router.get("/", async (req, res) => {
 
     const ITEMS_PER_PAGE = 30
 
-    await Search.find({ title: { $regex: query, $options: "i" } })
-        .skip(page > 0 ? (page - 1) * ITEMS_PER_PAGE : 0)
-        .limit(ITEMS_PER_PAGE)
-        .then((data) => {
-            if (data) {
-                return res.json({
-                    status: "ok",
-                    data: data,
-                });
-            } else {
-                return res.json({
-                    status: "error",
-                })
-            }
+    try {
+
+        const results = await Search.find({ title: { $regex: query, $options: "i" } })
+            .skip(page > 0 ? (page - 1) * ITEMS_PER_PAGE : 0)
+            .limit(ITEMS_PER_PAGE)
+
+            const count = await Search.countDocuments({ title: { $regex: query, $options: "i" } });
+
+        return res.json({
+            status: "ok",
+            data: results,
+            count: count
+        });
+    } catch (err) {
+        console.log(err)
+        return res.json({
+            status: "error",
         })
+    }
+
+
+
 
 });
 
