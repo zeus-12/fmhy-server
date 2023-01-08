@@ -6,13 +6,11 @@ const User = require("../models/User.js");
 
 //for signing in
 router.post("/", async (req, res) => {
-	console.log(req.body);
 	const user = await User.findOne({
 		username: req.body.user_name,
 		password: req.body.password,
 	});
 	if (user) {
-		console.log("login successful");
 		const token = jwt.sign(
 			{ username: user.username, admin: user.admin },
 			process.env.SECRET_KEY
