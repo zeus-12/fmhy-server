@@ -14,6 +14,10 @@ const searchSchema = new Schema({
 		type: Boolean,
 		default: false,
 	},
+	isNsfw: {
+		type: Boolean,
+		default:false
+	}
 
 });
 

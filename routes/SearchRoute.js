@@ -7,16 +7,17 @@ router.get("/", async (req, res) => {
 
     const query = req.query.q;
     const page = req.query.page
+    const nsfw = req.query.nsfw === "true" ? true : false
 
     const ITEMS_PER_PAGE = 30
 
     try {
 
-        const results = await Search.find({ title: { $regex: query, $options: "i" } })
+        const results = await Search.find({ title: { $regex: query, $options: "i" }, isNsfw:nsfw })
             .skip(page > 0 ? (page - 1) * ITEMS_PER_PAGE : 0)
             .limit(ITEMS_PER_PAGE)
 
-            const count = await Search.countDocuments({ title: { $regex: query, $options: "i" } });
+            const count = await Search.countDocuments({ title: { $regex: query, $options: "i" }, isNsfw:nsfw});
 
         return res.json({
             status: "ok",
