@@ -1,5 +1,5 @@
 import express from "express";
-import AuthHandler from "../helpers/AuthHandler";
+import AuthHandler from "../middlewares/AuthHandler";
 import GuidesRoute from "./GuidesRoute";
 // import UserRoute from "./UserRoute";
 import LinksRoute from "./LinksRoute";

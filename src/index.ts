@@ -1,7 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
-import ALLOW_LIST from "./helpers/AllowList";
+import ALLOW_LIST from "./config/AllowList";
 import dotenv from "dotenv";
 import Router from "./routes/index";
 
