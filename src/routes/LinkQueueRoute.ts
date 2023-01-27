@@ -1,7 +1,8 @@
-const mongoose = require("mongoose");
-const express = require("express");
+import express from "express";
+import mongoose from "mongoose";
+
+import SubmitLink from "../models/SubmitLink";
 var router = express.Router();
-const SubmitLink = require("../models/SubmitLink.js");
 
 router.delete("/delete/:ID", async (req, res) => {
 	var ObjectId = mongoose.Types.ObjectId;
@@ -29,20 +30,21 @@ router.put("/update/:ID", async (req, res) => {
 		res.status(400).json({ error: "Invalid ID" });
 	else {
 		if (req.decoded.admin) {
-			const updateData = req.body
+			const updateData = req.body;
 
 			try {
-				SubmitLink.findOneAndUpdate({ _id: req.params.ID }, updateData).then(
-					(data) => {
-						res.json({ status: "ok", deletedSubmittedLink: data });
-					}
-				);
+				SubmitLink.findOneAndUpdate(
+					{ _id: req.params.ID },
+					updateData
+				).then((data) => {
+					res.json({ status: "ok", deletedSubmittedLink: data });
+				});
 			} catch {
 				res.json({ error: "Error" }).end();
 				return;
 			}
 		}
 	}
-})
+});
 
-module.exports = router;
+export default router;

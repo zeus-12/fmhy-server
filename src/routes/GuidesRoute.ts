@@ -1,22 +1,20 @@
-const express = require("express");
-const mongoose = require("mongoose");
+import express from "express";
+import mongoose from "mongoose";
+import Guide from "../models/Guide";
+
 var router = express.Router();
-const Guide = require("../models/Guide.js");
 
-const jwt = require("jsonwebtoken");
-
-// for fetching all the guides
-router.get("/all", (req, res) => {
-	Guide.find().then((data) => res.send(data));
+router.get("/all", (_, res) => {
+	Guide.find().then((data: any) => res.send(data));
 });
 
 router.get("/user", (req, res) => {
-	Guide.find({ owner: req.decoded.username }).then((data) =>
+	Guide.find({ owner: req.decoded.username }).then((data: any) =>
 		res.json({ status: "ok", data: data })
 	);
 });
 router.post("/new", (req, res) => {
-	Guide.findOne({ link: req.body.link }).then((data) => {
+	Guide.findOne({ link: req.body.link }).then((data: any) => {
 		if (data) {
 			res.status(400);
 			res.end();
@@ -34,7 +32,7 @@ router.post("/new", (req, res) => {
 			guide
 				.save()
 
-				.catch((err) => {
+				.catch((err: any) => {
 					console.log(err);
 				});
 
@@ -50,7 +48,7 @@ router.delete("/delete/:ID", async (req, res) => {
 		res.status(400).json({ error: "Invalid ID" });
 	else {
 		if (req.decoded.admin) {
-			Guide.findOneAndDelete({ _id: req.params.ID }).then((data) => {
+			Guide.findOneAndDelete({ _id: req.params.ID }).then((data: any) => {
 				res.json({ status: "ok", deletedGuide: data });
 			});
 		} else {
@@ -59,7 +57,7 @@ router.delete("/delete/:ID", async (req, res) => {
 				owner: req.decoded.username,
 			});
 
-			res.json({ status: "ok", deletedGuide: data });
+			res.json({ status: "ok" });
 		}
 	}
 });
@@ -70,7 +68,8 @@ router.get("/:ID", (req, res) => {
 	if (!ObjectId.isValid(req.params.ID))
 		res.status(400).json({ error: "Invalid ID" });
 	else {
-		Guide.find({ _id: req.params.ID }).then((data) => {
+		// @ts-ignore
+		Guide.find({ _id: req.params.ID }).then((data: any) => {
 			if (data) {
 				data = data[0];
 				return res.json({
@@ -97,7 +96,7 @@ router.put("/:ID", (req, res) => {
 		Guide.findOne({
 			link: req.body.link,
 			_id: { $ne: req.params.ID },
-		}).then((data) => {
+		}).then((data: any) => {
 			if (data) {
 				res.status(400).end();
 				return;
@@ -123,4 +122,4 @@ router.put("/:ID", (req, res) => {
 	}
 });
 
-module.exports = router;
+export default router;

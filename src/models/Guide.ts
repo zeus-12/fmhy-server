@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 
 const guideSchema = new Schema({
@@ -27,4 +27,4 @@ const guideSchema = new Schema({
 	//maybe add a credit field to give credits to the creator.
 });
 
-module.exports = mongoose.model("Guide", guideSchema);
+export default mongoose.model("Guide", guideSchema);

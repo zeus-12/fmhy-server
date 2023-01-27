@@ -1,19 +1,24 @@
-const mongoose = require("mongoose");
-const express = require("express");
+import mongoose from "mongoose";
+import express from "express";
+
 var router = express.Router();
-const Link = require("../models/Link.js");
-const SubmitLink = require("../models/SubmitLink.js");
+import Link from "../models/Link";
+import SubmitLink from "../models/SubmitLink";
 
 router.post("/", (req, res) => {
 	Link.findOne({ link: req.body.link })
-		.then((result) => {
+		// @ts-ignore
+
+		.then((result: any) => {
 			if (result) {
 				return res
 					.status(409)
 					.json({ message: "Link already exists!" });
 			} else {
 				SubmitLink.findOne({ link: req.body.link })
-					.then((result) => {
+					// @ts-ignore
+
+					.then((result: any) => {
 						if (result) {
 							return res.status(409).json({
 								message: "link already exists in Link queue!",
@@ -30,7 +35,7 @@ router.post("/", (req, res) => {
 							});
 							submit_link
 								.save()
-								.then((result) => {
+								.then((result: any) => {
 									res.status(200).json({
 										message: "Link added to queue.",
 									});
@@ -48,7 +53,7 @@ router.post("/", (req, res) => {
 		.catch((err) => console.log(err));
 });
 
-router.get("/all", (req, res) => {
+router.get("/all", (_, res) => {
 	const submitted_links = SubmitLink.find().then((data) =>
 		res.json({ data: data }).status(200)
 	);
@@ -67,4 +72,4 @@ router.get("/:ID", (req, res) => {
 	}
 });
 
-module.exports = router;
+export default router;

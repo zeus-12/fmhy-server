@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 
 const submitLinkSchema = new Schema({
@@ -29,4 +29,4 @@ const submitLinkSchema = new Schema({
 	},
 });
 
-module.exports = mongoose.model("SubmitLink", submitLinkSchema);
+export default mongoose.model("SubmitLink", submitLinkSchema);
