@@ -9,7 +9,7 @@ router.get("/all", (_, res) => {
 });
 
 router.get("/user", (req, res) => {
-	Guide.find({ owner: req.decoded.username }).then((data: any) =>
+	Guide.find({ owner: res.locals.decoded.username }).then((data: any) =>
 		res.json({ status: "ok", data: data })
 	);
 });
@@ -24,7 +24,7 @@ router.post("/new", (req, res) => {
 				title: req.body.title.trim(),
 				link: req.body.link.replaceAll(" ", ""),
 				nsfw: req.body.nsfw ? true : false,
-				owner: req.decoded.username,
+				owner: res.locals.decoded.username,
 				credits: req.body.credits,
 				tags: req.body.tags,
 			});
@@ -47,14 +47,14 @@ router.delete("/delete/:ID", async (req, res) => {
 	if (!ObjectId.isValid(req.params.ID))
 		res.status(400).json({ error: "Invalid ID" });
 	else {
-		if (req.decoded.admin) {
+		if (res.locals.decoded.admin) {
 			Guide.findOneAndDelete({ _id: req.params.ID }).then((data: any) => {
 				res.json({ status: "ok", deletedGuide: data });
 			});
 		} else {
 			Guide.findOneAndDelete({
 				_id: req.params.ID,
-				owner: req.decoded.username,
+				owner: res.locals.decoded.username,
 			});
 
 			res.json({ status: "ok" });

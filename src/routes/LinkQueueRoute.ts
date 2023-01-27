@@ -9,7 +9,7 @@ router.delete("/delete/:ID", async (req, res) => {
 	if (!ObjectId.isValid(req.params.ID))
 		res.status(400).json({ error: "Invalid ID" });
 	else {
-		if (req.decoded.admin) {
+		if (res.locals.decoded.admin) {
 			try {
 				SubmitLink.findOneAndDelete({ _id: req.params.ID }).then(
 					(data) => {
@@ -29,7 +29,7 @@ router.put("/update/:ID", async (req, res) => {
 	if (!ObjectId.isValid(req.params.ID))
 		res.status(400).json({ error: "Invalid ID" });
 	else {
-		if (req.decoded.admin) {
+		if (res.locals.decoded.admin) {
 			const updateData = req.body;
 
 			try {

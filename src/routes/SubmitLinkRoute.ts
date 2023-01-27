@@ -30,8 +30,8 @@ router.post("/", (req, res) => {
 								description: req.body.description,
 								channel: req.body.channel,
 								category: req.body.category,
-								username: req.decoded.username,
-								admin: req.decoded.admin,
+								username: res.locals.decoded.username,
+								admin: res.locals.decoded.admin,
 							});
 							submit_link
 								.save()

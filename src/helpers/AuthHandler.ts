@@ -31,8 +31,7 @@ export default function authHandler(
 				// @ts-ignore
 
 				const decoded = jwt.verify(token, process.env.SECRET_KEY);
-				// @ts-ignore
-				req.decoded = decoded;
+				res.locals.decoded = decoded;
 				return next();
 			} catch {
 				res.json({ error: "Invalid token!" });

@@ -12,7 +12,7 @@
 		"strictNullChecks": true,
 		"strictFunctionTypes": true,
 		"noImplicitThis": true,
-		"noUnusedLocals": true,
+		"noUnusedLocals": false,
 		"noUnusedParameters": false,
 		"noImplicitReturns": true,
 		"noFallthroughCasesInSwitch": true,
@@ -24,5 +24,5 @@
 		"baseUrl": "./src"
 	},
 	"exclude": ["node_modules"],
-	"include": ["./src/**/*.ts", "./src/types/custom.d.ts"]
+	"include": ["./src/**/*.ts"]
 }

@@ -16,7 +16,7 @@
 		"jsonwebtoken": "^8.5.1",
 		"mongodb": "^4.5.0",
 		"mongoose": "^6.2.10",
-		"node-fetch": "^3.2.5",
+		"node-fetch": "2",
 		"ts-node-dev": "^2.0.0",
 		"zod": "^3.20.2"
 	},
