@@ -1,1 +1,2 @@
 -   rename models to schemas and add models folder => which is used to communicate to the db
+-   use zod for validation

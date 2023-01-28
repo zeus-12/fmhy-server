@@ -1,8 +1,7 @@
 import express from "express";
 import Link from "../models/Link";
-// import fs from "fs";
 
-var router = express.Router();
+const router = express.Router();
 
 router.get("/:CATEGORY/:CHANNEL", (req, res) => {
 	const CATEGORY = req.params.CATEGORY;
