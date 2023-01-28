@@ -6,12 +6,7 @@ export default function authHandler(
 	res: Response,
 	next: NextFunction
 ) {
-	const ignoreRoutes = [
-		"/guides/all",
-		"/submit-links/all",
-		"/login",
-		"/search",
-	];
+	const ignoreRoutes = ["/guides", "/link-queue", "/login", "/search"];
 	let route = req.path;
 	if (
 		ignoreRoutes.indexOf(route) >= 0 ||

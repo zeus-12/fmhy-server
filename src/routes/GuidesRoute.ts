@@ -4,7 +4,7 @@ import Guide from "../models/Guide";
 
 var router = express.Router();
 
-router.get("/all", (_, res) => {
+router.get("/", (_, res) => {
 	Guide.find().then((data: any) => res.send(data));
 });
 
@@ -13,7 +13,7 @@ router.get("/user", (req, res) => {
 		res.json({ status: "ok", data: data })
 	);
 });
-router.post("/new", (req, res) => {
+router.post("/", (req, res) => {
 	Guide.findOne({ link: req.body.link }).then((data: any) => {
 		if (data) {
 			res.status(400);
@@ -42,7 +42,7 @@ router.post("/new", (req, res) => {
 });
 
 //for deleting an existing guide
-router.delete("/delete/:ID", async (req, res) => {
+router.delete("/:ID", async (req, res) => {
 	var ObjectId = mongoose.Types.ObjectId;
 	if (!ObjectId.isValid(req.params.ID))
 		res.status(400).json({ error: "Invalid ID" });

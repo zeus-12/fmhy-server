@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 
-const submitLinkSchema = new Schema({
+const linkQueueSchema = new Schema({
 	title: {
 		type: String,
 	},
@@ -29,4 +29,4 @@ const submitLinkSchema = new Schema({
 	},
 });
 
-export default mongoose.model("SubmitLink", submitLinkSchema);
+export default mongoose.model("LinkQueue", linkQueueSchema);
