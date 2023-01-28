@@ -1,32 +1,25 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 
-const submitLinkSchema = new Schema({
+const linkSchema = new Schema({
 	title: {
 		type: String,
 	},
 	link: {
 		type: Array,
 		required: true,
-		unique: true,
 	},
 	description: {
 		type: String,
 	},
 	category: {
 		type: String,
+		required: true,
 	},
 	channel: {
 		type: String,
-	},
-
-	username: {
-		type: String,
 		required: true,
-	},
-	admin: {
-		type: Boolean,
 	},
 });
 
-module.exports = mongoose.model("SubmitLink", submitLinkSchema);
+export default mongoose.model("Link", linkSchema);

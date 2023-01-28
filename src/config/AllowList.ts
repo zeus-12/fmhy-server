@@ -1,4 +1,4 @@
-const allowList = [
+const ALLOW_LIST = [
 	"https://fmhy.ml",
 	"https://fmhy.cf",
 	"https://fmhy.tk",
@@ -9,4 +9,4 @@ const allowList = [
 	"https://fmhy-vite.vercel.app",
 ];
 
-module.exports = { allowList };
+export default ALLOW_LIST;

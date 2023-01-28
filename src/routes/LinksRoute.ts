@@ -1,12 +1,13 @@
-const express = require("express");
+import express from "express";
+import Link from "../models/Link";
+// import fs from "fs";
+
 var router = express.Router();
-const Link = require("../models/Link.js");
-var fs = require("fs");
 
 router.get("/:CATEGORY/:CHANNEL", (req, res) => {
 	const CATEGORY = req.params.CATEGORY;
 	const CHANNEL = req.params.CHANNEL;
-
+	// @ts-ignore
 	Link.find({ category: CATEGORY, channel: CHANNEL }).then((data) => {
 		if (data) {
 			return res.json({
@@ -18,7 +19,7 @@ router.get("/:CATEGORY/:CHANNEL", (req, res) => {
 });
 router.get("/:CATEGORY", (req, res) => {
 	const CATEGORY = req.params.CATEGORY;
-
+	// @ts-ignore
 	Link.find({ category: CATEGORY }).then((data) => {
 		if (data) {
 			return res.json({
@@ -59,5 +60,4 @@ router.post("/:CATEGORY/:CHANNEL", (req, res) => {
 	return;
 });
 
-
-module.exports = router;
+export default router;

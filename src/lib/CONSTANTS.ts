@@ -1,4 +1,4 @@
-const category_channels = [
+export const category_channels = [
 	{
 		category: "tools",
 		channels: [
@@ -145,7 +145,7 @@ const category_channels = [
 		],
 	},
 ];
-const categories = [
+export const categories = [
 	"tools",
 	"miscellaneous",
 	"reading",
@@ -156,5 +156,3 @@ const categories = [
 	"streaming",
 	"adblock_privacy",
 ];
-
-module.exports = { category_channels, categories };

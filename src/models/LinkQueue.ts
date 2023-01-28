@@ -1,25 +1,32 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 
-const linkSchema = new Schema({
+const linkQueueSchema = new Schema({
 	title: {
 		type: String,
 	},
 	link: {
 		type: Array,
 		required: true,
+		unique: true,
 	},
 	description: {
 		type: String,
 	},
 	category: {
 		type: String,
-		required: true,
 	},
 	channel: {
 		type: String,
+	},
+
+	username: {
+		type: String,
 		required: true,
+	},
+	admin: {
+		type: Boolean,
 	},
 });
 
-module.exports = mongoose.model("Link", linkSchema);
+export default mongoose.model("LinkQueue", linkQueueSchema);

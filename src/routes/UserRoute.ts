@@ -1,8 +1,7 @@
-const express = require("express");
-
+import express from "express";
+import jwt from "jsonwebtoken";
+import User from "../models/User";
 var router = express.Router();
-const jwt = require("jsonwebtoken");
-const User = require("../models/User.js");
 
 //for signing in
 router.post("/", async (req, res) => {
@@ -13,6 +12,8 @@ router.post("/", async (req, res) => {
 	if (user) {
 		const token = jwt.sign(
 			{ username: user.username, admin: user.admin },
+			// @ts-ignore
+
 			process.env.SECRET_KEY
 		);
 		return res.json({
@@ -31,4 +32,4 @@ router.post("/", async (req, res) => {
 //   admin: false,
 // }).save();
 
-module.exports = router;
+export default router;

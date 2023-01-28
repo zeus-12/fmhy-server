@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 
 const searchSchema = new Schema({
@@ -16,9 +16,8 @@ const searchSchema = new Schema({
 	},
 	isNsfw: {
 		type: Boolean,
-		default:false
-	}
-
+		default: false,
+	},
 });
 
-module.exports = mongoose.model("Search", searchSchema);
+export default mongoose.model("Search", searchSchema);
