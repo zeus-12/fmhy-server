@@ -8,8 +8,7 @@
 	"scripts": {
 		"dev": "nodemon ./dist/index.js",
 		"devStart": "ts-node-dev ./src/index.ts",
-		"fmt": "prettier --write .",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"fmt": "prettier --write ."
 	},
 	"dependencies": {
 		"cors": "^2.8.5",
