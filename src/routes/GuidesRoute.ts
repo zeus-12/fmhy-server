@@ -13,6 +13,7 @@ router.get("/user", (req, res) => {
 		res.json({ status: "ok", data: data })
 	);
 });
+
 router.post("/", (req, res) => {
 	Guide.findOne({ link: req.body.link }).then((data: any) => {
 		if (data) {
@@ -41,7 +42,6 @@ router.post("/", (req, res) => {
 	});
 });
 
-//for deleting an existing guide
 router.delete("/:ID", async (req, res) => {
 	var ObjectId = mongoose.Types.ObjectId;
 	if (!ObjectId.isValid(req.params.ID))
@@ -62,7 +62,6 @@ router.delete("/:ID", async (req, res) => {
 	}
 });
 
-// for fetching a particular guide: used to populate data for modifying the guide
 router.get("/:ID", (req, res) => {
 	var ObjectId = mongoose.Types.ObjectId;
 	if (!ObjectId.isValid(req.params.ID))
@@ -87,7 +86,6 @@ router.get("/:ID", (req, res) => {
 	}
 });
 
-//to update a guide
 router.put("/:ID", (req, res) => {
 	var ObjectId = mongoose.Types.ObjectId;
 	if (!ObjectId.isValid(req.params.ID))
