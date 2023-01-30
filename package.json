@@ -6,8 +6,8 @@
 	"author": "Vishnu",
 	"license": "ISC",
 	"scripts": {
+		"start": "tsc && node dist/index.js",
 		"dev": "ts-node-dev ./src/index.ts",
-		"start": "node ./dist/index.js",
 		"devStart": "nodemon ./dist/index.js",
 		"watch": "tsc -w",
 		"fmt": "prettier --write ."
