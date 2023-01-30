@@ -18,8 +18,7 @@ mongoose
 		console.log("connected to db");
 		app.listen(PORT);
 	})
-	// @ts-ignore
-	.then(console.log(`Server listening on port ${PORT}`))
+	.then(() => console.log(`Server listening on port ${PORT}`))
 	.catch((err) => console.log(err));
 
 app.use(
