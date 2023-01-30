@@ -10,7 +10,6 @@ router.get("/:ID", async (req, res) => {
 	const url = `https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/${ID}.json`;
 	const response = await fetch(url);
 	const data = await response.json();
-	// @ts-ignore
 	res.status(200).json(data?.data?.content_md);
 });
 

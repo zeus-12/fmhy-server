@@ -8,7 +8,6 @@ var router = express.Router();
 router.post("/", (req, res) => {
 	Link.findOne({ link: req.body.link })
 		// @ts-ignore
-
 		.then((result: any) => {
 			if (result) {
 				return res
@@ -17,7 +16,6 @@ router.post("/", (req, res) => {
 			} else {
 				LinkQueue.findOne({ link: req.body.link })
 					// @ts-ignore
-
 					.then((result: any) => {
 						if (result) {
 							return res.status(409).json({

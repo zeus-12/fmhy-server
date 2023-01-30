@@ -67,7 +67,6 @@ router.get("/:ID", (req, res) => {
 	if (!ObjectId.isValid(req.params.ID))
 		res.status(400).json({ error: "Invalid ID" });
 	else {
-		// @ts-ignore
 		Guide.find({ _id: req.params.ID }).then((data: any) => {
 			if (data) {
 				data = data[0];
@@ -81,6 +80,8 @@ router.get("/:ID", (req, res) => {
 						credits: data.credits,
 					},
 				});
+			} else {
+				return res.json({ status: "error", error: "Invalid ID" });
 			}
 		});
 	}

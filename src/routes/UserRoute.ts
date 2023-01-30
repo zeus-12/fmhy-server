@@ -1,9 +1,9 @@
 import express from "express";
 import jwt from "jsonwebtoken";
+import { string } from "zod";
 import User from "../models/User";
 var router = express.Router();
 
-//for signing in
 router.post("/", async (req, res) => {
 	const user = await User.findOne({
 		username: req.body.user_name,
@@ -12,9 +12,7 @@ router.post("/", async (req, res) => {
 	if (user) {
 		const token = jwt.sign(
 			{ username: user.username, admin: user.admin },
-			// @ts-ignore
-
-			process.env.SECRET_KEY
+			process.env.SECRET_KEY as string
 		);
 		return res.json({
 			status: "ok",
