@@ -1,5 +1,4 @@
-.node-modules
 node_modules/
 .env
-helpers/allowList.js
 .DS_Store
+dist/
