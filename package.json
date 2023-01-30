@@ -8,7 +8,7 @@
 	"scripts": {
 		"start": "tsc && node dist/index.js",
 		"dev": "ts-node-dev ./src/index.ts",
-		"devStart": "nodemon ./dist/index.js",
+		"devStart": "tsc && nodemon ./dist/index.js",
 		"watch": "tsc -w",
 		"fmt": "prettier --write ."
 	},
