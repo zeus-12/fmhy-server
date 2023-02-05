@@ -9,6 +9,7 @@ router.post("/", async (req, res) => {
 		username: req.body.user_name,
 		password: req.body.password,
 	});
+
 	if (user) {
 		const token = jwt.sign(
 			{ username: user.username, admin: user.admin },

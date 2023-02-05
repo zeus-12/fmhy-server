@@ -28,8 +28,8 @@ router.post("/", (req, res) => {
 								description: req.body.description,
 								channel: req.body.channel,
 								category: req.body.category,
-								username: res.locals.decoded.username,
-								admin: res.locals.decoded.admin,
+								username: res.locals.user.username,
+								admin: res.locals.user.admin,
 							});
 							submit_link
 								.save()
@@ -75,7 +75,7 @@ router.delete("/:ID", async (req, res) => {
 	if (!ObjectId.isValid(req.params.ID))
 		res.status(400).json({ error: "Invalid ID" });
 	else {
-		if (res.locals.decoded.admin) {
+		if (res.locals.user.admin) {
 			try {
 				LinkQueue.findOneAndDelete({ _id: req.params.ID }).then(
 					(data) => {
@@ -95,7 +95,7 @@ router.put("/:ID", async (req, res) => {
 	if (!ObjectId.isValid(req.params.ID))
 		res.status(400).json({ error: "Invalid ID" });
 	else {
-		if (res.locals.decoded.admin) {
+		if (res.locals.user.admin) {
 			const updateData = req.body;
 
 			try {

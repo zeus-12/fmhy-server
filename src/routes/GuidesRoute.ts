@@ -1,124 +1,84 @@
+import {
+	addNewGuide,
+	deleteGuideById,
+	getAllGuides,
+	// getGuideById,
+	getGuidesByUser,
+	updateGuideById,
+} from "../controller/GuidesController";
 import express from "express";
 import mongoose from "mongoose";
-import Guide from "../models/Guide";
+import { z } from "zod";
+
+var ObjectId = mongoose.Types.ObjectId;
+
+export const guideSchema = z.object({
+	title: z.string().min(3).max(20),
+	link: z.string().min(3).max(40),
+	nsfw: z.boolean(),
+	credits: z.string().min(3).max(20),
+	tags: z.array(
+		z
+			.string()
+			.min(3, {
+				message: "min 3 characters",
+			})
+			.max(12, { message: "max 12 character" })
+	),
+});
+
+export type guidePayloadType = z.infer<typeof guideSchema>;
 
 var router = express.Router();
 
 router.get("/", (_, res) => {
-	Guide.find().then((data: any) => res.send(data));
+	return getAllGuides(res);
 });
 
-router.get("/user", (req, res) => {
-	Guide.find({ owner: res.locals.decoded.username }).then((data: any) =>
-		res.json({ status: "ok", data: data })
-	);
+router.get("/user", (_, res) => {
+	return getGuidesByUser(res);
 });
 
 router.post("/", (req, res) => {
-	Guide.findOne({ link: req.body.link }).then((data: any) => {
-		if (data) {
-			res.status(400);
-			res.end();
-			return;
-		} else {
-			const guide = new Guide({
-				title: req.body.title.trim(),
-				link: req.body.link.replaceAll(" ", ""),
-				nsfw: req.body.nsfw ? true : false,
-				owner: res.locals.decoded.username,
-				credits: req.body.credits,
-				tags: req.body.tags,
-			});
-
-			guide
-				.save()
-
-				.catch((err: any) => {
-					console.log(err);
-				});
-
-			res.end();
-		}
-	});
+	const guidePayload = guideSchema.safeParse(req.body);
+	if (!guidePayload.success) {
+		res.status(400).json({ error: guidePayload.error });
+		return;
+	}
+	return addNewGuide(res, guidePayload.data);
 });
 
 router.delete("/:ID", async (req, res) => {
-	var ObjectId = mongoose.Types.ObjectId;
 	if (!ObjectId.isValid(req.params.ID))
-		res.status(400).json({ error: "Invalid ID" });
-	else {
-		if (res.locals.decoded.admin) {
-			Guide.findOneAndDelete({ _id: req.params.ID }).then((data: any) => {
-				res.json({ status: "ok", deletedGuide: data });
-			});
-		} else {
-			Guide.findOneAndDelete({
-				_id: req.params.ID,
-				owner: res.locals.decoded.username,
-			});
+		return res.status(400).json({ error: "Invalid ID" });
 
-			res.json({ status: "ok" });
-		}
-	}
-});
-
-router.get("/:ID", (req, res) => {
-	var ObjectId = mongoose.Types.ObjectId;
-	if (!ObjectId.isValid(req.params.ID))
-		res.status(400).json({ error: "Invalid ID" });
-	else {
-		Guide.find({ _id: req.params.ID }).then((data: any) => {
-			if (data) {
-				data = data[0];
-				return res.json({
-					status: "ok",
-					data: {
-						title: data.title,
-						link: data.link,
-						nsfw: data.nsfw,
-						tags: data.tags,
-						credits: data.credits,
-					},
-				});
-			} else {
-				return res.json({ status: "error", error: "Invalid ID" });
-			}
-		});
-	}
+	return deleteGuideById(res, req.params.ID);
 });
 
 router.put("/:ID", (req, res) => {
-	var ObjectId = mongoose.Types.ObjectId;
 	if (!ObjectId.isValid(req.params.ID))
-		res.status(400).json({ error: "Invalid ID" });
-	else {
-		Guide.findOne({
-			link: req.body.link,
-			_id: { $ne: req.params.ID },
-		}).then((data: any) => {
-			if (data) {
-				res.status(400).end();
-				return;
-			} else {
-				const guide = Guide.find({ _id: req.params.ID });
-				if (!guide) {
-					res.status(400).json({ error: "Invalid ID" });
-				}
+		return res.status(400).json({ error: "Invalid ID" });
 
-				guide
-					.updateOne({
-						title: req.body.title.trim(),
-						link: req.body.link.replaceAll(" ", ""),
-						nsfw: req.body.nsfw ? true : false,
-						tags: req.body.tags,
-						credits: req.body.credits.trim(),
-					})
-					.then(() => {
-						res.json({ status: "ok" });
-					});
-			}
-		});
+	const newGuidePayload = guideSchema.safeParse(req.body);
+	if (!newGuidePayload.success) {
+		res.status(400).json({ error: newGuidePayload.error });
+		return;
 	}
+
+	return updateGuideById(res, newGuidePayload.data, req.params.ID);
 });
+
+// ##### route not required rn => remember to whitelist it in authhandler #####
+
+// router.get("/:ID", (req, res) => {
+// 	const { ID } = req.params;
+// 	const ObjectId = mongoose.Types.ObjectId;
+// 	if (!ObjectId.isValid(ID)) {
+// 		res.status(400).json({ error: "Invalid ID" });
+// 		return;
+// 	}
+
+// 	return getGuideById(res, ID);
+// });
 
 export default router;

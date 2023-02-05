@@ -6,27 +6,31 @@ export default function authHandler(
 	res: Response,
 	next: NextFunction
 ) {
-	const ignoreRoutes = ["/guides", "/link-queue", "/login", "/search"];
+	const ignoreGetRoutes = ["/guides", "/link-queue"];
+	const ignoreAllRoutes = ["/login", "/search"];
+
 	let route = req.path;
 	if (
-		ignoreRoutes.indexOf(route) >= 0 ||
+		(req.method === "GET" && ignoreGetRoutes.indexOf(route) >= 0) ||
+		ignoreAllRoutes.indexOf(route) >= 0 ||
 		route.startsWith("/wiki") ||
 		route.startsWith("/links")
 	) {
 		return next();
 	} else {
-		// @ts-ignore
-		const token: string = req.headers["x-access-token"] ?? "";
-
+		const token = req.headers["x-access-token"] as string;
 		if (!token) {
 			res.json({ error: "Not authenticated" });
 			return;
 		} else {
 			try {
-				// @ts-ignore
+				const decoded = jwt.verify(
+					token,
+					process.env.SECRET_KEY as string
+				);
 
-				const decoded = jwt.verify(token, process.env.SECRET_KEY);
-				res.locals.decoded = decoded;
+				res.locals.user = decoded;
+				console.log(decoded);
 				return next();
 			} catch {
 				res.json({ error: "Invalid token!" });

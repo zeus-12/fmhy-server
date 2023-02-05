@@ -7,6 +7,7 @@ const fetch = (url: RequestInfo) =>
 
 router.get("/:ID", async (req, res) => {
 	const { ID } = req.params;
+	// check if ID is valid
 	const url = `https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/${ID}.json`;
 	const response = await fetch(url);
 	const data = await response.json();
