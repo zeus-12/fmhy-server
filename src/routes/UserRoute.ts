@@ -6,9 +6,11 @@ var router = express.Router();
 
 router.post("/", async (req, res) => {
 	const user = await User.findOne({
-		username: req.body.user_name,
+		username: req.body.username,
 		password: req.body.password,
 	});
+
+	// todo validate req.body using zod
 
 	if (user) {
 		const token = jwt.sign(

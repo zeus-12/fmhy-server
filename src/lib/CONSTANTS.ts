@@ -156,3 +156,21 @@ export const categories = [
 	"streaming",
 	"adblock_privacy",
 ];
+
+export const redditCategories = [
+	"adblock-vpn-privacy",
+	"video",
+	"audio",
+	"games",
+	"reading",
+	"download",
+	"torrent",
+	"edu",
+	"tools-misc",
+	"misc",
+	"android",
+	"linux",
+	"storage",
+	"non-eng",
+	"base64",
+];

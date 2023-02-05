@@ -1,7 +1,7 @@
 import express from "express";
 import AuthHandler from "../middlewares/AuthHandler";
 import GuidesRoute from "./GuidesRoute";
-import UserRoute from "./UserRoute";
+// import UserRoute from "./UserRoute";
 import LinksRoute from "./LinksRoute";
 import SearchRoute from "./SearchRoute";
 import LinkQueueRoute from "./LinkQueueRoute";
