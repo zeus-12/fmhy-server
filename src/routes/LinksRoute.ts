@@ -1,70 +1,51 @@
+import {
+	addLinkToQueue,
+	getLinkByCategory,
+	getLinkByCategoryAndChannel,
+} from "../controller/LinksController";
 import express from "express";
 import Link from "../models/Link";
+import { z } from "zod";
 
 const router = express.Router();
+
+export const linkSchema = z.object({
+	title: z.string().min(3).max(20),
+	link: z.string().min(3).max(40),
+	description: z.string().min(3).max(40),
+	// todo make sure cateogry and channel is valid.
+	category: z.string().min(3).max(20),
+	channel: z.string().min(3).max(20),
+});
+
+export type linkPayloadType = z.infer<typeof linkSchema>;
+
+// none of these routes are tested
 
 router.get("/:CATEGORY/:CHANNEL", (req, res) => {
 	const CATEGORY = req.params.CATEGORY as string;
 	const CHANNEL = req.params.CHANNEL as string;
 
-	Link.find({ category: CATEGORY, channel: CHANNEL }).then((data) => {
-		if (data) {
-			return res.json({
-				status: "ok",
-				data: data,
-			});
-		} else {
-			return res.json({
-				status: "error",
-				message: "No links found",
-			});
-		}
-	});
+	// check cateogry and channel is valid.
+
+	return getLinkByCategoryAndChannel(res, CATEGORY, CHANNEL);
 });
 router.get("/:CATEGORY", (req, res) => {
 	const CATEGORY = req.params.CATEGORY;
-	Link.find({ category: CATEGORY }).then((data) => {
-		if (data) {
-			return res.json({
-				status: "ok",
-				data: data,
-			});
-		} else {
-			return res.json({
-				status: "error",
-				message: "No links found",
-			});
-		}
-	});
+	// check cateogry is valid.
+
+	return getLinkByCategory(res, CATEGORY);
 });
 
-//posting link
-router.post("/:CATEGORY/:CHANNEL", (req, res) => {
-	const CATEGORY = req.params.CATEGORY;
-	const CHANNEL = req.params.CHANNEL;
-	if (!(CATEGORY === req.body.category && CHANNEL === req.body.channel)) {
-		res.status(400).json({ error: "category or channel doesnt match" });
+router.post("/", (req, res) => {
+	const linkPayload = linkSchema.safeParse(req.body);
+
+	if (!linkPayload.success) {
+		res.status(400).json({ error: linkPayload.error });
 		return;
 	}
 
-	const link = new Link({
-		title: req.body.title.trim(),
-		link: req.body.link,
-		description: req.body.description,
-		category: req.body.category,
-		channel: req.body.channel,
-	});
-
-	link.save()
-		.then((result) => {
-			console.log(result);
-		})
-		.catch((err) => {
-			console.log(err);
-		});
-
-	res.end();
-	return;
+	return addLinkToQueue(res, linkPayload.data);
 });
 
 export default router;
