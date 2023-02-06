@@ -1,4 +1,5 @@
-export const category_channels = [
+// todo give types to category_channel_mapping such that category should be a element of categories
+export const CATEGORY_CHANNEL_MAPPING = [
 	{
 		category: "tools",
 		channels: [
@@ -144,8 +145,9 @@ export const category_channels = [
 			"vpn",
 		],
 	},
-];
-export const categories = [
+] as const;
+
+export const CATEGORIES = [
 	"tools",
 	"miscellaneous",
 	"reading",
@@ -155,9 +157,9 @@ export const categories = [
 	"linux_macos",
 	"streaming",
 	"adblock_privacy",
-];
+] as const;
 
-export const redditCategories = [
+export const REDDIT_CATEGORIES = [
 	"adblock-vpn-privacy",
 	"video",
 	"audio",
@@ -173,4 +175,8 @@ export const redditCategories = [
 	"storage",
 	"non-eng",
 	"base64",
-];
+] as const;
+
+// export const CATEGORIES = Object.freeze(
+// 	CATEGORY_CHANNEL_MAPPING.map((item) => item.category)
+// );

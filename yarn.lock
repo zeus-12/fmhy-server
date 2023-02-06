@@ -1319,6 +1319,11 @@ yn@3.1.1:
   resolved "https://registry.yarnpkg.com/yn/-/yn-3.1.1.tgz#1e87401a09d767c1d5eab26a6e4c185182d2eb50"
   integrity sha512-Ux4ygGWsu2c7isFWe8Yu1YluJmqVhxqK2cLXNQA5AcC3QfbGNpM7fu0Y8b/z16pXLnFxZYvWhd3fhBY9DLmC6Q==
 
+zod-validation-error@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/zod-validation-error/-/zod-validation-error-0.3.1.tgz#c31e5d72ff1e5a682c7eec9901148aefc6981b6d"
+  integrity sha512-3m7VcE4YT3ZdGJoYBZnLt8E1S/r8zPFNDWMc2njaeC7Vxe5FQbgIiwHoerSkli5PgsUyxWQhpFxEAJXkBJvoDg==
+
 zod@^3.20.2:
   version "3.20.2"
   resolved "https://registry.yarnpkg.com/zod/-/zod-3.20.2.tgz#068606642c8f51b3333981f91c0a8ab37dfc2807"

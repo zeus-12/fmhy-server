@@ -4,19 +4,30 @@ import {
 	getLinkByCategoryAndChannel,
 } from "../controller/LinksController";
 import express from "express";
-import Link from "../models/Link";
 import { z } from "zod";
+import { fromZodError } from "zod-validation-error";
+import { CATEGORIES, CATEGORY_CHANNEL_MAPPING } from "../lib/CONSTANTS";
 
 const router = express.Router();
 
-export const linkSchema = z.object({
-	title: z.string().min(3).max(20),
-	link: z.string().min(3).max(40),
-	description: z.string().min(3).max(40),
-	// todo make sure cateogry and channel is valid.
-	category: z.string().min(3).max(20),
-	channel: z.string().min(3).max(20),
-});
+export const linkSchema = z
+	.object({
+		title: z.string().min(3).max(20),
+		link: z.string().min(3).max(40),
+		description: z.string().min(3, "Min length must be 3"),
+		// throw proper error message here if invalid category name is passed
+		category: z.enum(CATEGORIES),
+		channel: z.string().min(3, "Min length must be 3"),
+	})
+	.refine((data) => {
+		const findChannel = CATEGORY_CHANNEL_MAPPING.find(
+			(item) => item.category === data.category
+		);
+
+		// check how to put proper error message here
+		// @ts-ignore
+		return findChannel?.channels.includes(data.channel);
+	});
 
 export type linkPayloadType = z.infer<typeof linkSchema>;
 
@@ -30,6 +41,7 @@ router.get("/:CATEGORY/:CHANNEL", (req, res) => {
 
 	return getLinkByCategoryAndChannel(res, CATEGORY, CHANNEL);
 });
+
 router.get("/:CATEGORY", (req, res) => {
 	const CATEGORY = req.params.CATEGORY;
 	// check cateogry is valid.
@@ -39,12 +51,11 @@ router.get("/:CATEGORY", (req, res) => {
 
 router.post("/", (req, res) => {
 	const linkPayload = linkSchema.safeParse(req.body);
-
 	if (!linkPayload.success) {
-		res.status(400).json({ error: linkPayload.error });
-		return;
+		return res
+			.status(400)
+			.json({ error: fromZodError(linkPayload.error).message });
 	}
-
 	return addLinkToQueue(res, linkPayload.data);
 });
 

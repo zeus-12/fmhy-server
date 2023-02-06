@@ -9,6 +9,7 @@ import {
 import express from "express";
 import mongoose from "mongoose";
 import { z } from "zod";
+import { fromZodError } from "zod-validation-error";
 
 var ObjectId = mongoose.Types.ObjectId;
 
@@ -42,8 +43,9 @@ router.get("/user", (_, res) => {
 router.post("/", (req, res) => {
 	const guidePayload = guideSchema.safeParse(req.body);
 	if (!guidePayload.success) {
-		res.status(400).json({ error: guidePayload.error });
-		return;
+		return res
+			.status(400)
+			.json({ error: fromZodError(guidePayload.error).message });
 	}
 	return addNewGuide(res, guidePayload.data);
 });
