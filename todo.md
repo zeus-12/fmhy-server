@@ -5,6 +5,7 @@
 -   update fmhy.ml/links with the github scraped one
 -   move validation with zod to the controller level
 -   improve the tsconfig, make sure to put `"script":true`
+-   move all zod schemas to separate file and import from there
 
 ---
 

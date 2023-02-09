@@ -3,7 +3,7 @@ import { linkPayloadType } from "routes/LinksRoute";
 import {
 	getLinkByCategoryAndChannel as getLinkByCategoryAndChannelService,
 	getLinkByCategory as getLinkByCategoryService,
-	addLinkToQueue as addLinkToQueueService,
+	addLink as addLinkService,
 } from "../service/LinksService";
 
 export const getLinkByCategoryAndChannel = async (
@@ -43,12 +43,9 @@ export const getLinkByCategory = async (res: Response, CATEGORY: string) => {
 	}
 };
 
-export const addLinkToQueue = async (
-	res: Response,
-	linkPayload: linkPayloadType
-) => {
+export const addLink = async (res: Response, linkPayload: linkPayloadType) => {
 	try {
-		const link = await addLinkToQueueService(linkPayload);
+		const link = await addLinkService(linkPayload);
 		return res.status(200).json({
 			status: "success",
 			data: link,

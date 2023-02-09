@@ -30,10 +30,19 @@ export const getLinkByCategory = async (CATEGORY: string) => {
 	}
 };
 
-export const addLinkToQueue = async (linkPayload: linkPayloadType) => {
+export const addLink = async (linkPayload: linkPayloadType) => {
 	try {
 		const link = new Link(linkPayload);
 		await link.save();
+	} catch (err) {
+		throw new Error(err.message);
+	}
+};
+
+export const getLinkByUrl = async (url: string) => {
+	try {
+		const link = await Link.findOne({ link: url });
+		return link;
 	} catch (err) {
 		throw new Error(err.message);
 	}

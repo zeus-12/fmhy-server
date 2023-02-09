@@ -1,116 +1,51 @@
 import express from "express";
-import Link from "../models/Link";
 import mongoose from "mongoose";
+import { linkSchema } from "./LinksRoute";
+import {
+	addLinkToQueue,
+	deleteLinkInQueueById,
+	getLinkInQueueById,
+	getLinksInQueue,
+	updateLinkInQueuById,
+} from "../controller/LinkQueueController";
+import { fromZodError } from "zod-validation-error";
 
-import LinkQueue from "../models/LinkQueue";
 var router = express.Router();
+const ObjectId = mongoose.Types.ObjectId;
 
 router.post("/", (req, res) => {
-	Link.findOne({ link: req.body.link })
-		// @ts-ignore
-		.then((result: any) => {
-			if (result) {
-				return res
-					.status(409)
-					.json({ message: "Link already exists!" });
-			} else {
-				LinkQueue.findOne({ link: req.body.link })
-					// @ts-ignore
-					.then((result: any) => {
-						if (result) {
-							return res.status(409).json({
-								message: "link already exists in Link queue!",
-							});
-						} else {
-							const submit_link = new LinkQueue({
-								title: req.body.title,
-								link: req.body.link,
-								description: req.body.description,
-								channel: req.body.channel,
-								category: req.body.category,
-								username: res.locals.user.username,
-								admin: res.locals.user.admin,
-							});
-							submit_link
-								.save()
-								.then((result: any) => {
-									res.status(200).json({
-										message: "Link added to queue.",
-									});
-									res.end();
-									return;
-								})
-								.catch((err) => {
-									console.log(err);
-								});
-						}
-					})
-					.catch((err) => console.log(err));
-			}
-		})
-		.catch((err) => console.log(err));
+	const linkPayload = linkSchema.safeParse(req.body);
+	if (!linkPayload.success)
+		return res
+			.status(400)
+			.json({ error: fromZodError(linkPayload.error).message });
+
+	return addLinkToQueue(res, linkPayload.data);
 });
 
-router.get("/", (_, res) => {
-	const submitted_links = LinkQueue.find().then((data) =>
-		res.json({ data: data }).status(200)
-	);
+router.get("/", async (_, res) => {
+	return await getLinksInQueue(res);
 });
 
 router.get("/:ID", (req, res) => {
-	var ObjectId = mongoose.Types.ObjectId;
-	if (!ObjectId.isValid(req.params.ID)) {
-		res.status(400).json({ error: "Invalid ID" });
-		return;
-	} else {
-		LinkQueue.findOne({ _id: req.params.ID }).then((data) => {
-			res.json({ status: "ok", data: data }).status(200);
-			return;
-		});
-	}
+	if (!ObjectId.isValid(req.params.ID))
+		return res.status(400).json({ error: "Invalid ID" });
+
+	return getLinkInQueueById(res, req.params.ID);
 });
 
 router.delete("/:ID", async (req, res) => {
-	var ObjectId = mongoose.Types.ObjectId;
 	if (!ObjectId.isValid(req.params.ID))
-		res.status(400).json({ error: "Invalid ID" });
-	else {
-		if (res.locals.user.admin) {
-			try {
-				LinkQueue.findOneAndDelete({ _id: req.params.ID }).then(
-					(data) => {
-						res.json({ status: "ok", data });
-					}
-				);
-			} catch {
-				res.json({ error: "Error" }).end();
-				return;
-			}
-		}
-	}
+		return res.status(400).json({ error: "Invalid ID" });
+
+	return deleteLinkInQueueById(res, req.params.ID);
 });
 
 router.put("/:ID", async (req, res) => {
-	var ObjectId = mongoose.Types.ObjectId;
 	if (!ObjectId.isValid(req.params.ID))
-		res.status(400).json({ error: "Invalid ID" });
-	else {
-		if (res.locals.user.admin) {
-			const updateData = req.body;
+		return res.status(400).json({ error: "Invalid ID" });
 
-			try {
-				LinkQueue.findOneAndUpdate(
-					{ _id: req.params.ID },
-					updateData
-				).then((data) => {
-					res.json({ status: "ok", data });
-				});
-			} catch {
-				res.json({ error: "Error" }).end();
-				return;
-			}
-		}
-	}
+	return updateLinkInQueuById(res, req.params.ID, req.body);
 });
 
 export default router;

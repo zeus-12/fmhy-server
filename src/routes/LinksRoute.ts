@@ -1,5 +1,5 @@
 import {
-	addLinkToQueue,
+	addLink,
 	getLinkByCategory,
 	getLinkByCategoryAndChannel,
 } from "../controller/LinksController";
@@ -56,7 +56,7 @@ router.post("/", (req, res) => {
 			.status(400)
 			.json({ error: fromZodError(linkPayload.error).message });
 	}
-	return addLinkToQueue(res, linkPayload.data);
+	return addLink(res, linkPayload.data);
 });
 
 export default router;
