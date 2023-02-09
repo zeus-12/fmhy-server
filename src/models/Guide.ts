@@ -16,7 +16,6 @@ const guideSchema = new Schema({
 	},
 	owner: {
 		type: String,
-		// default: '',
 	},
 	credits: {
 		type: String,
@@ -24,7 +23,6 @@ const guideSchema = new Schema({
 	tags: {
 		type: Array,
 	},
-	//maybe add a credit field to give credits to the creator.
 });
 
 export default mongoose.model("Guide", guideSchema);

@@ -1,5 +1,6 @@
 import { Response } from "express";
-import { linkPayloadType } from "routes/LinksRoute";
+import { linkSchema } from "../lib/zodSchemas";
+import { fromZodError } from "zod-validation-error";
 import {
 	getLinkByCategoryAndChannel as getLinkByCategoryAndChannelService,
 	getLinkByCategory as getLinkByCategoryService,
@@ -8,10 +9,14 @@ import {
 
 export const getLinkByCategoryAndChannel = async (
 	res: Response,
-	CATEGORY: string,
-	CHANNEL: string
+	reqParams: any
 ) => {
 	try {
+		const CATEGORY = reqParams.CATEGORY as string;
+		const CHANNEL = reqParams.CHANNEL as string;
+
+		// validate category and channel
+
 		const link = await getLinkByCategoryAndChannelService(
 			CATEGORY,
 			CHANNEL
@@ -28,8 +33,10 @@ export const getLinkByCategoryAndChannel = async (
 	}
 };
 
-export const getLinkByCategory = async (res: Response, CATEGORY: string) => {
+export const getLinkByCategory = async (res: Response, reqParams: any) => {
 	try {
+		const CATEGORY = reqParams.CATEGORY as string;
+
 		const link = await getLinkByCategoryService(CATEGORY);
 		return res.status(200).json({
 			status: "success",
@@ -43,9 +50,16 @@ export const getLinkByCategory = async (res: Response, CATEGORY: string) => {
 	}
 };
 
-export const addLink = async (res: Response, linkPayload: linkPayloadType) => {
+export const addLink = async (res: Response, reqBody: any) => {
 	try {
-		const link = await addLinkService(linkPayload);
+		const linkPayload = linkSchema.safeParse(reqBody);
+		if (!linkPayload.success) {
+			return res
+				.status(400)
+				.json({ error: fromZodError(linkPayload.error).message });
+		}
+
+		const link = await addLinkService(linkPayload.data);
 		return res.status(200).json({
 			status: "success",
 			data: link,

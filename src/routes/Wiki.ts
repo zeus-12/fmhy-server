@@ -9,8 +9,7 @@ const fetch = (url: RequestInfo) =>
 router.get("/:ID", async (req, res) => {
 	const { ID } = req.params;
 
-	// @ts-ignore
-	if (!REDDIT_CATEGORIES.includes(ID))
+	if (REDDIT_CATEGORIES.findIndex((item) => item === ID) === -1)
 		return res.status(400).json({ status: "error", message: "Invalid ID" });
 
 	const url = `https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/${ID}.json`;

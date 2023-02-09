@@ -1,6 +1,4 @@
-import Guide from "../models/Guide";
 import { Response } from "express";
-import { guidePayloadType } from "../routes/GuidesRoute";
 import {
 	getAllGuides as getAllGuidesService,
 	getGuideById as getGuideByIdService,
@@ -9,6 +7,7 @@ import {
 	deleteGuideById as deleteGuideByIdService,
 	updateGuideById as updateGuideByIdService,
 } from "../service/GuidesService";
+import { guideSchema, validMongooseId } from "../lib/zodSchemas";
 
 // tested
 export const getAllGuides = async (res: Response) => {
@@ -48,10 +47,9 @@ export const getGuideById = async (res: Response, id: string) => {
 
 // to be tested
 
-export const addNewGuide = async (
-	res: Response,
-	guidePayload: guidePayloadType
-) => {
+export const addNewGuide = async (res: Response, reqBody: any) => {
+	const guidePayload = guideSchema.parse(reqBody);
+
 	if (!res.locals.user?.username) {
 		return res
 			.status(401)
@@ -69,9 +67,10 @@ export const addNewGuide = async (
 	}
 };
 
-// to be tested
 export const deleteGuideById = async (res: Response, id: string) => {
 	try {
+		validMongooseId.parse(id);
+
 		const isAdmin = res.locals.user?.admin;
 		const username = res.locals.user?.username;
 		await deleteGuideByIdService(id, isAdmin, username);
@@ -83,10 +82,14 @@ export const deleteGuideById = async (res: Response, id: string) => {
 
 export const updateGuideById = async (
 	res: Response,
-	newGuidePayload: guidePayloadType,
+	reqBody: any,
 	id: string
 ) => {
 	try {
+		const newGuidePayload = guideSchema.parse(reqBody);
+
+		validMongooseId.parse(id);
+
 		const isAdmin = res.locals.user?.admin;
 		const username = res.locals.user?.username;
 

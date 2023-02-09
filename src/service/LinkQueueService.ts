@@ -1,6 +1,6 @@
-import { linkPayloadType } from "routes/LinksRoute";
-import { getLinkByUrl } from "./LinksService";
 import LinkQueue from "../models/LinkQueue";
+import { linkPayloadType } from "../lib/zodSchemas";
+import { getLinkByUrl } from "./LinksService";
 
 export const addLinkToQueue = async (
 	linkPayload: linkPayloadType,

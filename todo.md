@@ -6,6 +6,7 @@
 -   move validation with zod to the controller level
 -   improve the tsconfig, make sure to put `"script":true`
 -   move all zod schemas to separate file and import from there
+-   move sending response to route level
 
 ---
 
