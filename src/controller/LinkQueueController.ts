@@ -64,7 +64,11 @@ export const deleteLinkInQueueById = async (res: Response, id: string) => {
 	}
 };
 
-export const updateLinkInQueuById = async (res: Response, id: string) => {
+export const updateLinkInQueuById = async (
+	res: Response,
+	id: string,
+	linkPayload: linkPayloadType
+) => {
 	try {
 		const isAdmin = res.locals.user.admin;
 		const username = res.locals.user.username;
