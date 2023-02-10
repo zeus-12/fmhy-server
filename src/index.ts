@@ -15,10 +15,10 @@ const dbURI = process.env.DB_URI!;
 mongoose
 	.connect(dbURI)
 	.then((_) => {
-		console.log("connected to db");
+		console.log("connected to db⚡️");
 		app.listen(PORT);
 	})
-	.then(() => console.log(`Server listening on port ${PORT}`))
+	.then(() => console.log(`Server listening on port ${PORT}✨`))
 	.catch((err) => console.log(err));
 
 app.use(

@@ -176,7 +176,3 @@ export const REDDIT_CATEGORIES = [
 	"non-eng",
 	"base64",
 ] as const;
-
-// export const CATEGORIES = Object.freeze(
-// 	CATEGORY_CHANNEL_MAPPING.map((item) => item.category)
-// );

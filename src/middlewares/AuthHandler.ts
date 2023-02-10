@@ -30,7 +30,6 @@ export default function authHandler(
 				);
 
 				res.locals.user = decoded;
-				console.log(decoded);
 				return next();
 			} catch {
 				res.json({ error: "Invalid token!" });

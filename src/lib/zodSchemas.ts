@@ -44,7 +44,13 @@ export const guideSchema = z.object({
 
 export type guidePayloadType = z.infer<typeof guideSchema>;
 
-// add custom error messages
-export const usernameSchema = z.string();
-export const isAdminSchema = z.boolean();
-export const passwordSchema = z.string();
+export const userSchema = z.object({
+	username: z.string({
+		required_error: "Username is required",
+		invalid_type_error: "Username must be a string",
+	}),
+	password: z.string({
+		required_error: "Password is required",
+		invalid_type_error: "Password must be a string",
+	}),
+});

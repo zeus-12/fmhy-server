@@ -1,6 +1,6 @@
 import express from "express";
 import jwt from "jsonwebtoken";
-import { passwordSchema, usernameSchema } from "lib/zodSchemas";
+import { userSchema } from "lib/zodSchemas";
 import { fromZodError } from "zod-validation-error";
 import User from "../models/User";
 var router = express.Router();
@@ -9,8 +9,7 @@ router.post("/", async (req, res) => {
 	try {
 		const { username, password } = req.body;
 
-		usernameSchema.parse(username);
-		passwordSchema.parse(password);
+		userSchema.parse({ username, password });
 
 		const user = await User.findOne({
 			username,
@@ -35,7 +34,8 @@ router.post("/", async (req, res) => {
 	}
 });
 
-// ADD A NEW USER
+// ---  ADD A NEW USER ---
+
 // const user = new User({
 //   username: 'user',
 //   password: 'user',

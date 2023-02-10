@@ -70,6 +70,7 @@ export const deleteGuideById = async (res: Response, id: string) => {
 
 		const isAdmin = res.locals.user?.admin;
 		const username = res.locals.user?.username;
+
 		await deleteGuideByIdService(id, isAdmin, username);
 		return res.status(200).json({ status: "ok" });
 	} catch (err) {

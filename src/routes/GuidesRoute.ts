@@ -30,8 +30,6 @@ router.put("/:ID", (req, res) => {
 	return updateGuideById(res, req.body, req.params.ID);
 });
 
-// ##### route not required rn => remember to whitelist it in authhandler #####
-
 router.get("/:ID", (req, res) => {
 	return getGuideById(res, req.params);
 });
