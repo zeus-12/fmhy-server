@@ -14,7 +14,7 @@ const dbURI = process.env.DB_URI!;
 
 mongoose
 	.connect(dbURI)
-	.then((result: any) => {
+	.then((_) => {
 		console.log("connected to db");
 		app.listen(PORT);
 	})
@@ -28,5 +28,4 @@ app.use(
 );
 
 app.use(express.json());
-
 app.use("/api", Router);

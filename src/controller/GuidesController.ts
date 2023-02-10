@@ -9,7 +9,6 @@ import {
 } from "../service/GuidesService";
 import { guideSchema, validMongooseId } from "../lib/zodSchemas";
 
-// tested
 export const getAllGuides = async (res: Response) => {
 	try {
 		const guides = await getAllGuidesService();
@@ -19,7 +18,6 @@ export const getAllGuides = async (res: Response) => {
 	}
 };
 
-// to be tested
 export const getGuidesByUser = async (res: Response) => {
 	if (!res.locals.user?.username) {
 		res.status(401).json({ status: "error", message: "Unauthorized" });
@@ -34,18 +32,17 @@ export const getGuidesByUser = async (res: Response) => {
 	}
 };
 
-// to be tested
-
-export const getGuideById = async (res: Response, id: string) => {
+export const getGuideById = async (res: Response, reqParams: any) => {
 	try {
+		const { id } = reqParams;
+		validMongooseId.parse(id);
+
 		const guide = await getGuideByIdService(id);
 		return res.status(200).json({ status: "ok", data: guide });
 	} catch (err) {
 		return res.status(500).json({ status: "error", message: err.message });
 	}
 };
-
-// to be tested
 
 export const addNewGuide = async (res: Response, reqBody: any) => {
 	const guidePayload = guideSchema.parse(reqBody);

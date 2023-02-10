@@ -43,3 +43,8 @@ export const guideSchema = z.object({
 });
 
 export type guidePayloadType = z.infer<typeof guideSchema>;
+
+// add custom error messages
+export const usernameSchema = z.string();
+export const isAdminSchema = z.boolean();
+export const passwordSchema = z.string();

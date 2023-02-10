@@ -1,32 +1,41 @@
 import express from "express";
 import jwt from "jsonwebtoken";
-import { string } from "zod";
+import { passwordSchema, usernameSchema } from "lib/zodSchemas";
+import { fromZodError } from "zod-validation-error";
 import User from "../models/User";
 var router = express.Router();
 
 router.post("/", async (req, res) => {
-	const user = await User.findOne({
-		username: req.body.username,
-		password: req.body.password,
-	});
+	try {
+		const { username, password } = req.body;
 
-	// todo validate req.body using zod
+		usernameSchema.parse(username);
+		passwordSchema.parse(password);
 
-	if (user) {
-		const token = jwt.sign(
-			{ username: user.username, admin: user.admin },
-			process.env.SECRET_KEY as string
-		);
-		return res.json({
-			status: "ok",
-			user: token,
-			username: user.username,
-			admin: user.admin,
+		const user = await User.findOne({
+			username,
+			password,
 		});
-	} else return res.json({ status: "error", user: false, username: null });
+
+		if (user) {
+			const token = jwt.sign(
+				{ username: user.username, admin: user.admin },
+				process.env.SECRET_KEY as string
+			);
+			return res.json({
+				status: "ok",
+				user: token,
+				username: user.username,
+				admin: user.admin,
+			});
+		} else
+			return res.json({ status: "error", user: false, username: null });
+	} catch (err) {
+		return res.status(500).json({ error: fromZodError(err).message });
+	}
 });
 
-// for adding a new user (ps: comment out when not req)
+// ADD A NEW USER
 // const user = new User({
 //   username: 'user',
 //   password: 'user',

@@ -1,4 +1,4 @@
-import { guidePayloadType } from "routes/GuidesRoute";
+import { guidePayloadType } from "../lib/zodSchemas";
 import Guide from "../models/Guide";
 
 export const getAllGuides = async () => {

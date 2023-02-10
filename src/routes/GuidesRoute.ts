@@ -2,7 +2,7 @@ import {
 	addNewGuide,
 	deleteGuideById,
 	getAllGuides,
-	// getGuideById,
+	getGuideById,
 	getGuidesByUser,
 	updateGuideById,
 } from "../controller/GuidesController";
@@ -32,15 +32,8 @@ router.put("/:ID", (req, res) => {
 
 // ##### route not required rn => remember to whitelist it in authhandler #####
 
-// router.get("/:ID", (req, res) => {
-// 	const { ID } = req.params;
-// 	const ObjectId = mongoose.Types.ObjectId;
-// 	if (!ObjectId.isValid(ID)) {
-// 		res.status(400).json({ error: "Invalid ID" });
-// 		return;
-// 	}
-
-// 	return getGuideById(res, ID);
-// });
+router.get("/:ID", (req, res) => {
+	return getGuideById(res, req.params);
+});
 
 export default router;
