@@ -10,28 +10,28 @@ import express from "express";
 
 var router = express.Router();
 
-router.get("/", (_, res) => {
-	return getAllGuides(res);
+router.get("/", async (_, res) => {
+	return await getAllGuides(res);
 });
 
-router.get("/user", (_, res) => {
-	return getGuidesByUser(res);
+router.get("/user", async (_, res) => {
+	return await getGuidesByUser(res);
 });
 
-router.post("/", (req, res) => {
-	return addNewGuide(res, req.body);
+router.post("/", async (req, res) => {
+	return await addNewGuide(res, req.body);
 });
 
 router.delete("/:ID", async (req, res) => {
-	return deleteGuideById(res, req.params.ID);
+	return await deleteGuideById(res, req.params.ID);
 });
 
-router.put("/:ID", (req, res) => {
-	return updateGuideById(res, req.body, req.params.ID);
+router.put("/:ID", async (req, res) => {
+	return await updateGuideById(res, req.body, req.params.ID);
 });
 
-router.get("/:ID", (req, res) => {
-	return getGuideById(res, req.params);
+router.get("/:ID", async (req, res) => {
+	return await getGuideById(res, req.params);
 });
 
 export default router;

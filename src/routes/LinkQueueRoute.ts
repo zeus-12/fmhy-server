@@ -9,24 +9,24 @@ import {
 
 var router = express.Router();
 
-router.post("/", (req, res) => {
-	return addLinkToQueue(res, req.body);
+router.post("/", async (req, res) => {
+	return await addLinkToQueue(res, req.body);
 });
 
 router.get("/", async (_, res) => {
 	return await getLinksInQueue(res);
 });
 
-router.get("/:ID", (req, res) => {
-	return getLinkInQueueById(res, req.params.ID);
+router.get("/:ID", async (req, res) => {
+	return await getLinkInQueueById(res, req.params.ID);
 });
 
 router.delete("/:ID", async (req, res) => {
-	return deleteLinkInQueueById(res, req.params.ID);
+	return await deleteLinkInQueueById(res, req.params.ID);
 });
 
 router.put("/:ID", async (req, res) => {
-	return updateLinkInQueuById(res, req.params.ID, req.body);
+	return await updateLinkInQueuById(res, req.params.ID, req.body);
 });
 
 export default router;
