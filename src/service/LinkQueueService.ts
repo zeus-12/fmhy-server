@@ -7,27 +7,20 @@ export const addLinkToQueue = async (
 	username: string,
 	isAdmin: boolean
 ) => {
+	const isLinkInDb = getLinkByUrl(linkPayload.link);
+	if (!isLinkInDb) throw new Error("Link already exists!");
+
+	const isLinkInQueue = await getLinkInQueueById(linkPayload.link);
+	if (!isLinkInQueue) throw new Error("Link already added to the queue!");
+
 	try {
-		const isLinkInDb = getLinkByUrl(linkPayload.link);
-		// todo make sure if it doesnt exist then null is returned
-		if (!isLinkInDb) throw new Error("Link already exists!");
-
-		const isLinkInQueue = await getLinkInQueueById(linkPayload.link);
-		// todo make sure if it doesnt exist then null is returned
-		if (!isLinkInQueue) throw new Error("Link already added to the queue!");
-
 		const submit_link = new LinkQueue({
-			title: linkPayload.title,
-			link: linkPayload.link,
-			description: linkPayload.description,
-			channel: linkPayload.channel,
-			category: linkPayload.category,
-			username: username,
+			...linkPayload,
+			username,
 			admin: isAdmin,
 		});
 
-		await submit_link.save();
-		return;
+		return await submit_link.save();
 	} catch (err) {
 		throw new Error(err.message);
 	}
@@ -61,9 +54,13 @@ export const deleteLinkInQueueById = async (
 			return await LinkQueue.findByIdAndDelete(id);
 		}
 		const link = await getLinkInQueueById(id);
+
 		if (!link) throw new Error("Link not found!");
+
 		if (link?.username !== username) {
-			throw new Error("You are not the owner of this link!");
+			throw new Error(
+				"You don't have the permission to delete this link!"
+			);
 		} else {
 			return await LinkQueue.findByIdAndDelete(id);
 		}
@@ -79,14 +76,15 @@ export const updateLinkInQueuById = async (
 	isAdmin: boolean
 ) => {
 	try {
-		if (isAdmin) {
-			return await LinkQueue.findByIdAndUpdate(id, linkPayload);
-		}
+		if (isAdmin) return await LinkQueue.findByIdAndUpdate(id, linkPayload);
+
 		const link = await getLinkInQueueById(id);
 		if (!link) throw new Error("Link not found!");
 
 		if (link?.username !== username) {
-			throw new Error("You are not the owner of this link!");
+			throw new Error(
+				"You don't have the permission to delete this link!"
+			);
 		}
 
 		return await LinkQueue.findByIdAndUpdate(id, linkPayload);

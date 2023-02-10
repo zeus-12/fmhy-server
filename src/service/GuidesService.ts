@@ -43,7 +43,7 @@ export const addNewGuide = async (
 ) => {
 	const guideWithSameLink = await getGuideByLink(guidePayload.link);
 	if (guideWithSameLink) {
-		throw new Error("Link already exists");
+		throw new Error("Guide already exists");
 	}
 
 	try {
@@ -51,7 +51,7 @@ export const addNewGuide = async (
 			// todo move these text transformations to somewhere else?
 			title: guidePayload.title.trim(),
 			link: guidePayload.link.split(" ").join(""),
-			nsfw: guidePayload.nsfw ? true : false,
+			nsfw: guidePayload.nsfw,
 			owner: username,
 			credits: guidePayload.credits,
 			tags: guidePayload.tags,
@@ -71,14 +71,16 @@ export const deleteGuideById = async (
 ) => {
 	try {
 		if (isAdmin) {
-			await Guide.findOneAndDelete({ _id: id });
-			return;
+			return await Guide.findOneAndDelete({ _id: id });
 		} else {
-			await Guide.findOneAndDelete({
+			const deletedGuide = await Guide.findOneAndDelete({
 				_id: id,
 				owner: username,
 			});
 
+			if (!deletedGuide) {
+				throw new Error("Invalid ID");
+			}
 			return;
 		}
 	} catch (err) {
@@ -98,19 +100,17 @@ export const updateGuideById = async (
 			throw new Error("Invalid ID");
 		}
 
-		const oldGuide = await getGuideById(id);
-		if (!oldGuide) {
-			throw new Error("Invalid ID");
+		if (!isAdmin && existingGuideData.owner !== username) {
+			throw new Error("Unauthorized");
 		}
 
-		await oldGuide.updateOne({
+		return await existingGuideData.updateOne({
 			title: newGuidePayload.title.trim(),
 			link: newGuidePayload.link.split(" ").join(""),
-			nsfw: newGuidePayload.nsfw ? true : false,
+			nsfw: newGuidePayload.nsfw,
 			tags: newGuidePayload.tags,
 			credits: newGuidePayload.credits.trim(),
 		});
-		return;
 	} catch (err) {
 		throw new Error(err.message);
 	}

@@ -1,7 +1,7 @@
 {
 	"name": "fmhy-server",
 	"version": "2.0.0",
-	"description": "Backend for Fmhy Website. (migrated to ts)",
+	"description": "Backend for Fmhy Website.",
 	"main": "index.js",
 	"author": "Vishnu",
 	"license": "ISC",
