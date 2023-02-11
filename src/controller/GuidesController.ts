@@ -53,6 +53,9 @@ export const addNewGuide = async (res: Response, reqBody: any) => {
 			.json({ status: "error", message: "Unauthorized" });
 	}
 
+	guidePayload.title = guidePayload.title.trim();
+	guidePayload.link = guidePayload.link.split(" ").join("");
+
 	try {
 		const newGuide = await addNewGuideService(
 			guidePayload,

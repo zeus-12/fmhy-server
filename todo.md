@@ -1,3 +1,5 @@
+-   move all try catch to the route level. (use a custom error factory to manage better the responses)
+
 -   fix the auth
 
 -   improve the tsconfig, make sure to put `"script":true`
@@ -8,7 +10,7 @@
 
 ---
 
--   implement something like
+-   FOR ROLE BASED, implement something like
 
 ```
 import { Router } from 'express'

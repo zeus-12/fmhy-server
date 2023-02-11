@@ -48,13 +48,8 @@ export const addNewGuide = async (
 
 	try {
 		const newGuide = new Guide({
-			// todo move these text transformations to somewhere else?
-			title: guidePayload.title.trim(),
-			link: guidePayload.link.split(" ").join(""),
-			nsfw: guidePayload.nsfw,
+			...guidePayload,
 			owner: username,
-			credits: guidePayload.credits,
-			tags: guidePayload.tags,
 		});
 
 		await newGuide.save();

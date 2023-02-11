@@ -29,22 +29,21 @@ async function get_links(
 		item.title = prettifyTitle($(element), "⭐ ");
 
 		item.isNsfw = urlEnding === "NSFWPiracy";
+
 		// for bolded links
 		$(element)
 			.children("strong")
 			.children("a")
 			.each((_: number, element: cheerio.Element) => {
 				let link = $(element).attr("href");
-				// @ts-ignore
-				item.link.push(link);
+				if (link) item.link.push(link);
 			});
 
 		$(element)
 			.children("a")
 			.each((_: number, element: cheerio.Element) => {
 				let link = $(element).attr("href");
-				// @ts-ignore
-				item.link.push(link);
+				if (link) item.link.push(link);
 			});
 
 		res.push(item);

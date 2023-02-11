@@ -14,8 +14,6 @@ export const addLinkToQueue = async (res: Response, reqBody: any) => {
 		const username = res.locals.user.username;
 		const isAdmin = res.locals.user.admin;
 
-		// todo validate and isAdmin
-
 		await addLinkToQueueService(linkPayload, username, isAdmin);
 		return res.status(200).json({
 			status: "success",

@@ -1,8 +1,8 @@
 import { RESOURCES } from "./utils/CONSTANTS";
-// import cron from "node-cron";
 import scrape from "./scrape";
 import fs from "fs";
 import { LinkType } from "./utils/types";
+// import cron from "node-cron";
 
 const simpleScrapeScript = async () => {
 	let data: LinkType[] = [];
