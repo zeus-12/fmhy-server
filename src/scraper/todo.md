@@ -1,0 +1,4 @@
+-   write scripts for storage, base64.
+-   move this to fmhy-server
+-   figure out if file based can replace db
+-   isShort = true, gives a version without the resource name. include it. and the current data should be inside category array

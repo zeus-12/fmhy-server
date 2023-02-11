@@ -1,5 +1,5 @@
 import express from "express";
-import { REDDIT_CATEGORIES, CATEGORIES } from "../lib/CONSTANTS";
+import { REDDIT_CATEGORIES } from "../lib/CONSTANTS";
 const router = express.Router();
 import { RequestInfo } from "node-fetch";
 
