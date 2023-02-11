@@ -9,7 +9,7 @@ import Wiki from "./Wiki";
 const router = express.Router();
 
 router.use(AuthHandler);
-// router.use("/login", UserRoute);
+// router.use("/user", UserRoute);
 router.use("/search", SearchRoute);
 router.use("/guides", GuidesRoute);
 router.use("/links", LinksRoute);

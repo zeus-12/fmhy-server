@@ -1,9 +1,12 @@
 -   move all try catch to the route level. (use a custom error factory to manage better the responses)
+-   learn about error factory
 
 -   fix the auth
 
 -   improve the tsconfig, make sure to put `"script":true`
 -   move sending response message/errors to route level
+
+-   move current models to schemas, and create models for communicating with the db
 
 -   write scraper for STORAGE and base64
 -   update fmhy.ml/links with the github scraped one

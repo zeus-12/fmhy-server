@@ -5,7 +5,7 @@ import { fromZodError } from "zod-validation-error";
 import User from "../models/User";
 var router = express.Router();
 
-router.post("/", async (req, res) => {
+router.post("/login", async (req, res) => {
 	try {
 		const { username, password } = req.body;
 
@@ -31,6 +31,25 @@ router.post("/", async (req, res) => {
 			return res.json({ status: "error", user: false, username: null });
 	} catch (err) {
 		return res.status(500).json({ error: fromZodError(err).message });
+	}
+});
+
+router.post("/register", async (req, res) => {
+	try {
+		const { username, password } = req.body;
+
+		userSchema.parse({ username, password });
+
+		const user = new User({
+			username,
+			password,
+			admin: false,
+		});
+		await user.save();
+
+		return res.json({ success: true });
+	} catch (error) {
+		return res.status(500).json({ error: error.message });
 	}
 });
 
