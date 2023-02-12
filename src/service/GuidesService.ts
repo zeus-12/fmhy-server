@@ -35,9 +35,7 @@ export const addNewGuide = async (
 			...guidePayload,
 			owner: username,
 		});
-
-		await newGuide.save();
-		return newGuide;
+		return await newGuide.save();
 	} catch (err) {
 		throw new Error("Unable to add guide");
 	}

@@ -7,14 +7,19 @@ export default function authHandler(
 	next: NextFunction
 ) {
 	const ignoreGetRoutes = ["/guides", "/link-queue"];
-	const ignoreAllRoutes = ["/login", "/search"];
+	const ignoreAllRoutes = [
+		"/login",
+		"/search",
+		"/user/login",
+		"/user/register",
+	];
+	const ignoreStartsWithRoutes = ["/wiki", "/links"];
 
 	let route = req.path;
 	if (
 		(req.method === "GET" && ignoreGetRoutes.indexOf(route) >= 0) ||
 		ignoreAllRoutes.indexOf(route) >= 0 ||
-		route.startsWith("/wiki") ||
-		route.startsWith("/links")
+		ignoreStartsWithRoutes.some((r) => route.startsWith(r))
 	) {
 		return next();
 	} else {

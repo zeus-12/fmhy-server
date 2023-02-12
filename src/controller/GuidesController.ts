@@ -26,10 +26,10 @@ export const getGuidesByUser = async (res: Response) => {
 };
 
 export const getGuideById = async (res: Response, reqParams: any) => {
-	const { id } = reqParams;
-	validMongooseId.parse(id);
+	const { ID } = reqParams;
+	validMongooseId.parse(ID);
 
-	const guide = await getGuideByIdService(id);
+	const guide = await getGuideByIdService(ID);
 	return res.status(200).json({ status: "ok", data: guide });
 };
 

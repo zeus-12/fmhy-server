@@ -4,6 +4,8 @@ import cors from "cors";
 import ALLOW_LIST from "./config/AllowList";
 import dotenv from "dotenv";
 import Router from "./routes/index";
+// import scrapeScript from "./scraper/index";
+// import cron from "node-cron";
 
 dotenv.config();
 
@@ -29,3 +31,7 @@ app.use(
 
 app.use(express.json());
 app.use("/api", Router);
+
+// cron.schedule("0 0 * * 0", async () => {
+// 	await scrapeScript();
+// });
