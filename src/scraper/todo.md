@@ -1,0 +1,2 @@
+-   write scripts for storage, base64.
+-   figure out if file-based can replace db

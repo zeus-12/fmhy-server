@@ -1,37 +1,42 @@
 {
 	"name": "fmhy-server",
 	"version": "2.0.0",
-	"description": "Backend for Fmhy Website. (migrated to ts)",
+	"description": "Backend for Fmhy Website.",
 	"main": "index.js",
 	"author": "Vishnu",
 	"license": "ISC",
 	"scripts": {
 		"start": "node dist/index.js",
-		"dev": "ts-node-dev ./src/index.ts",
-		"generate": "tsc",
-		"devStart": "tsc && nodemon ./dist/index.js",
+		"dev": "tsc && nodemon ./dist/index.js",
+		"scrape": "node ./dist/scraper/index.js",
 		"watch": "tsc -w",
+		"generate": "tsc",
+		"devStart": "ts-node-dev ./src/index.ts",
 		"fmt": "prettier --write ."
 	},
 	"dependencies": {
+		"cheerio": "^1.0.0-rc.12",
 		"cors": "^2.8.5",
 		"dotenv": "^16.0.0",
 		"express": "^4.18.1",
 		"jsonwebtoken": "^8.5.1",
 		"mongodb": "^4.5.0",
 		"mongoose": "^6.2.10",
+		"node-cron": "^3.0.2",
 		"node-fetch": "2",
-		"zod": "^3.20.2"
+		"zod": "^3.20.2",
+		"zod-validation-error": "^0.3.1"
 	},
 	"devDependencies": {
-		"ts-node-dev": "^2.0.0",
 		"@types/cors": "^2.8.13",
 		"@types/express": "^4.17.16",
 		"@types/jsonwebtoken": "^9.0.1",
 		"@types/node": "^18.11.18",
 		"@types/node-fetch": "^2.6.2",
+		"@types/node-cron": "^3.0.6",
 		"nodemon": "^2.0.16",
 		"prettier": "2.6.2",
+		"ts-node-dev": "^2.0.0",
 		"typescript": "^4.9.4"
 	}
 }

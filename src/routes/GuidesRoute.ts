@@ -1,124 +1,37 @@
+import {
+	addNewGuide,
+	deleteGuideById,
+	getAllGuides,
+	getGuideById,
+	getGuidesByUser,
+	updateGuideById,
+} from "../controller/GuidesController";
 import express from "express";
-import mongoose from "mongoose";
-import Guide from "../models/Guide";
 
 var router = express.Router();
 
-router.get("/", (_, res) => {
-	Guide.find().then((data: any) => res.send(data));
+router.get("/", async (_, res, next) => {
+	return await getAllGuides(res).catch(next);
 });
 
-router.get("/user", (req, res) => {
-	Guide.find({ owner: res.locals.decoded.username }).then((data: any) =>
-		res.json({ status: "ok", data: data })
-	);
+router.get("/user", async (_, res, next) => {
+	return await getGuidesByUser(res).catch(next);
 });
 
-router.post("/", (req, res) => {
-	Guide.findOne({ link: req.body.link }).then((data: any) => {
-		if (data) {
-			res.status(400);
-			res.end();
-			return;
-		} else {
-			const guide = new Guide({
-				title: req.body.title.trim(),
-				link: req.body.link.replaceAll(" ", ""),
-				nsfw: req.body.nsfw ? true : false,
-				owner: res.locals.decoded.username,
-				credits: req.body.credits,
-				tags: req.body.tags,
-			});
-
-			guide
-				.save()
-
-				.catch((err: any) => {
-					console.log(err);
-				});
-
-			res.end();
-		}
-	});
+router.post("/", async (req, res, next) => {
+	return await addNewGuide(res, req.body).catch(next);
 });
 
-router.delete("/:ID", async (req, res) => {
-	var ObjectId = mongoose.Types.ObjectId;
-	if (!ObjectId.isValid(req.params.ID))
-		res.status(400).json({ error: "Invalid ID" });
-	else {
-		if (res.locals.decoded.admin) {
-			Guide.findOneAndDelete({ _id: req.params.ID }).then((data: any) => {
-				res.json({ status: "ok", deletedGuide: data });
-			});
-		} else {
-			Guide.findOneAndDelete({
-				_id: req.params.ID,
-				owner: res.locals.decoded.username,
-			});
-
-			res.json({ status: "ok" });
-		}
-	}
+router.delete("/:ID", async (req, res, next) => {
+	return await deleteGuideById(res, req.params.ID).catch(next);
 });
 
-router.get("/:ID", (req, res) => {
-	var ObjectId = mongoose.Types.ObjectId;
-	if (!ObjectId.isValid(req.params.ID))
-		res.status(400).json({ error: "Invalid ID" });
-	else {
-		Guide.find({ _id: req.params.ID }).then((data: any) => {
-			if (data) {
-				data = data[0];
-				return res.json({
-					status: "ok",
-					data: {
-						title: data.title,
-						link: data.link,
-						nsfw: data.nsfw,
-						tags: data.tags,
-						credits: data.credits,
-					},
-				});
-			} else {
-				return res.json({ status: "error", error: "Invalid ID" });
-			}
-		});
-	}
+router.put("/:ID", async (req, res, next) => {
+	return await updateGuideById(res, req.body, req.params.ID).catch(next);
 });
 
-router.put("/:ID", (req, res) => {
-	var ObjectId = mongoose.Types.ObjectId;
-	if (!ObjectId.isValid(req.params.ID))
-		res.status(400).json({ error: "Invalid ID" });
-	else {
-		Guide.findOne({
-			link: req.body.link,
-			_id: { $ne: req.params.ID },
-		}).then((data: any) => {
-			if (data) {
-				res.status(400).end();
-				return;
-			} else {
-				const guide = Guide.find({ _id: req.params.ID });
-				if (!guide) {
-					res.status(400).json({ error: "Invalid ID" });
-				}
-
-				guide
-					.updateOne({
-						title: req.body.title.trim(),
-						link: req.body.link.replaceAll(" ", ""),
-						nsfw: req.body.nsfw ? true : false,
-						tags: req.body.tags,
-						credits: req.body.credits.trim(),
-					})
-					.then(() => {
-						res.json({ status: "ok" });
-					});
-			}
-		});
-	}
+router.get("/:ID", async (req, res, next) => {
+	return await getGuideById(res, req.params).catch(next);
 });
 
 export default router;
