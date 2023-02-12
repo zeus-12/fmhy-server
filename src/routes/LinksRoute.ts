@@ -7,16 +7,16 @@ import express from "express";
 
 const router = express.Router();
 
-router.get("/:CATEGORY/:CHANNEL", async (req, res) => {
-	return await getLinkByCategoryAndChannel(res, req.params);
+router.get("/:CATEGORY/:CHANNEL", async (req, res, next) => {
+	return await getLinkByCategoryAndChannel(res, req.params).catch(next);
 });
 
-router.get("/:CATEGORY", async (req, res) => {
-	return await getLinkByCategory(res, req.params);
+router.get("/:CATEGORY", async (req, res, next) => {
+	return await getLinkByCategory(res, req.params).catch(next);
 });
 
-router.post("/", async (req, res) => {
-	return await addLink(res, req.body);
+router.post("/", async (req, res, next) => {
+	return await addLink(res, req.body).catch(next);
 });
 
 export default router;

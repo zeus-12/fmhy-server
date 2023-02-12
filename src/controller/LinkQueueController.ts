@@ -9,60 +9,44 @@ import {
 } from "../service/LinkQueueService";
 
 export const addLinkToQueue = async (res: Response, reqBody: any) => {
-	try {
-		const linkPayload = linkSchema.parse(reqBody);
-		const username = res.locals.user.username;
-		const isAdmin = res.locals.user.admin;
+	const linkPayload = linkSchema.parse(reqBody);
+	const username = res.locals.user.username;
+	const isAdmin = res.locals.user.admin;
 
-		await addLinkToQueueService(linkPayload, username, isAdmin);
-		return res.status(200).json({
-			status: "success",
-		});
-	} catch (err) {
-		return res.status(500).json({ error: err.message });
-	}
+	await addLinkToQueueService(linkPayload, username, isAdmin);
+	return res.status(200).json({
+		status: "success",
+	});
 };
 
 export const getLinksInQueue = async (res: Response) => {
-	try {
-		const links = await getLinksInQueueService();
-		return res.status(200).json({
-			status: "success",
-			data: links,
-		});
-	} catch (err) {
-		return res.status(500).json({ error: err.message });
-	}
+	const links = await getLinksInQueueService();
+	return res.status(200).json({
+		status: "success",
+		data: links,
+	});
 };
 
 export const getLinkInQueueById = async (res: Response, id: string) => {
-	try {
-		validMongooseId.parse(id);
+	validMongooseId.parse(id);
 
-		const link = await getLinkInQueueByIdService(id);
-		return res.status(200).json({
-			status: "success",
-			data: link,
-		});
-	} catch (err) {
-		return res.status(500).json({ error: err.message });
-	}
+	const link = await getLinkInQueueByIdService(id);
+	return res.status(200).json({
+		status: "success",
+		data: link,
+	});
 };
 
 export const deleteLinkInQueueById = async (res: Response, id: string) => {
-	try {
-		validMongooseId.parse(id);
+	validMongooseId.parse(id);
 
-		const isAdmin = res.locals.user.admin;
-		const username = res.locals.user.username;
+	const isAdmin = res.locals.user.admin;
+	const username = res.locals.user.username;
 
-		await deleteLinkInQueueByIdService(id, username, isAdmin);
-		return res.status(200).json({
-			status: "success",
-		});
-	} catch (err) {
-		return res.status(500).json({ error: err.message });
-	}
+	await deleteLinkInQueueByIdService(id, username, isAdmin);
+	return res.status(200).json({
+		status: "success",
+	});
 };
 
 export const updateLinkInQueuById = async (
@@ -70,18 +54,14 @@ export const updateLinkInQueuById = async (
 	id: string,
 	reqBody: any
 ) => {
-	try {
-		validMongooseId.parse(id);
-		const linkPayload = linkSchema.parse(reqBody);
+	validMongooseId.parse(id);
+	const linkPayload = linkSchema.parse(reqBody);
 
-		const isAdmin = res.locals.user.admin;
-		const username = res.locals.user.username;
+	const isAdmin = res.locals.user.admin;
+	const username = res.locals.user.username;
 
-		await updateLinkInQueuByIdService(id, linkPayload, username, isAdmin);
-		return res.status(200).json({
-			status: "success",
-		});
-	} catch (err) {
-		return res.status(500).json({ error: err.message });
-	}
+	await updateLinkInQueuByIdService(id, linkPayload, username, isAdmin);
+	return res.status(200).json({
+		status: "success",
+	});
 };

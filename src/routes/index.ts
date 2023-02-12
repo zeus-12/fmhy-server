@@ -1,5 +1,6 @@
 import express from "express";
 import AuthHandler from "../middlewares/AuthHandler";
+import ErrorFactory from "../middlewares/ErrorFactory";
 import GuidesRoute from "./GuidesRoute";
 // import UserRoute from "./UserRoute";
 import LinksRoute from "./LinksRoute";
@@ -15,5 +16,6 @@ router.use("/guides", GuidesRoute);
 router.use("/links", LinksRoute);
 router.use("/link-queue", LinkQueueRoute);
 router.use("/wiki", Wiki);
+router.use(ErrorFactory);
 
 export default router;

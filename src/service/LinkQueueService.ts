@@ -13,35 +13,23 @@ export const addLinkToQueue = async (
 	const isLinkInQueue = await getLinkInQueueById(linkPayload.link);
 	if (!isLinkInQueue) throw new Error("Link already added to the queue!");
 
-	try {
-		const submit_link = new LinkQueue({
-			...linkPayload,
-			username,
-			admin: isAdmin,
-		});
+	const submit_link = new LinkQueue({
+		...linkPayload,
+		username,
+		admin: isAdmin,
+	});
 
-		return await submit_link.save();
-	} catch (err) {
-		throw new Error(err.message);
-	}
+	return await submit_link.save();
 };
 
 export const getLinksInQueue = async () => {
-	try {
-		const links = await LinkQueue.find();
-		return links;
-	} catch (err) {
-		throw new Error(err.message);
-	}
+	const links = await LinkQueue.find();
+	return links;
 };
 
 export const getLinkInQueueById = async (id: string) => {
-	try {
-		const link = LinkQueue.findById(id);
-		return link;
-	} catch (err) {
-		throw new Error(err.message);
-	}
+	const link = LinkQueue.findById(id);
+	return link;
 };
 
 export const deleteLinkInQueueById = async (
@@ -49,23 +37,17 @@ export const deleteLinkInQueueById = async (
 	username: string,
 	isAdmin: boolean
 ) => {
-	try {
-		if (isAdmin) {
-			return await LinkQueue.findByIdAndDelete(id);
-		}
-		const link = await getLinkInQueueById(id);
+	if (isAdmin) {
+		return await LinkQueue.findByIdAndDelete(id);
+	}
+	const link = await getLinkInQueueById(id);
 
-		if (!link) throw new Error("Link not found!");
+	if (!link) throw new Error("Link not found!");
 
-		if (link?.username !== username) {
-			throw new Error(
-				"You don't have the permission to delete this link!"
-			);
-		} else {
-			return await LinkQueue.findByIdAndDelete(id);
-		}
-	} catch (err) {
-		throw new Error(err.message);
+	if (link?.username !== username) {
+		throw new Error("You don't have the permission to delete this link!");
+	} else {
+		return await LinkQueue.findByIdAndDelete(id);
 	}
 };
 
@@ -75,20 +57,14 @@ export const updateLinkInQueuById = async (
 	username: string,
 	isAdmin: boolean
 ) => {
-	try {
-		if (isAdmin) return await LinkQueue.findByIdAndUpdate(id, linkPayload);
+	if (isAdmin) return await LinkQueue.findByIdAndUpdate(id, linkPayload);
 
-		const link = await getLinkInQueueById(id);
-		if (!link) throw new Error("Link not found!");
+	const link = await getLinkInQueueById(id);
+	if (!link) throw new Error("Link not found!");
 
-		if (link?.username !== username) {
-			throw new Error(
-				"You don't have the permission to delete this link!"
-			);
-		}
-
-		return await LinkQueue.findByIdAndUpdate(id, linkPayload);
-	} catch (err) {
-		throw new Error(err.message);
+	if (link?.username !== username) {
+		throw new Error("You don't have the permission to delete this link!");
 	}
+
+	return await LinkQueue.findByIdAndUpdate(id, linkPayload);
 };

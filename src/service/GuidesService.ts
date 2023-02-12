@@ -2,39 +2,23 @@ import { guidePayloadType } from "../lib/zodSchemas";
 import Guide from "../models/Guide";
 
 export const getAllGuides = async () => {
-	try {
-		const guides = await Guide.find();
-		return guides;
-	} catch (err) {
-		throw new Error(err.message);
-	}
+	const guides = await Guide.find();
+	return guides;
 };
 
 export const getGuidesByUser = async (username: string) => {
-	try {
-		const guides = await Guide.find({ owner: username });
-		return guides;
-	} catch (err) {
-		throw new Error(err.message);
-	}
+	const guides = await Guide.find({ owner: username });
+	return guides;
 };
 
 export const getGuideByLink = async (link: string) => {
-	try {
-		const guide = await Guide.findOne({ link });
-		return guide;
-	} catch (err) {
-		throw new Error(err.message);
-	}
+	const guide = await Guide.findOne({ link });
+	return guide;
 };
 
 export const getGuideById = async (id: string) => {
-	try {
-		const guide = await Guide.findById(id);
-		return guide;
-	} catch (err) {
-		throw new Error(err.message);
-	}
+	const guide = await Guide.findById(id);
+	return guide;
 };
 
 export const addNewGuide = async (
@@ -64,22 +48,18 @@ export const deleteGuideById = async (
 	isAdmin: boolean,
 	username: string
 ) => {
-	try {
-		if (isAdmin) {
-			return await Guide.findOneAndDelete({ _id: id });
-		} else {
-			const deletedGuide = await Guide.findOneAndDelete({
-				_id: id,
-				owner: username,
-			});
+	if (isAdmin) {
+		return await Guide.findOneAndDelete({ _id: id });
+	} else {
+		const deletedGuide = await Guide.findOneAndDelete({
+			_id: id,
+			owner: username,
+		});
 
-			if (!deletedGuide) {
-				throw new Error("Invalid ID");
-			}
-			return;
+		if (!deletedGuide) {
+			throw new Error("Invalid ID");
 		}
-	} catch (err) {
-		throw new Error(err.message);
+		return;
 	}
 };
 
@@ -89,24 +69,20 @@ export const updateGuideById = async (
 	isAdmin: boolean,
 	username: string
 ) => {
-	try {
-		const existingGuideData = await getGuideById(id);
-		if (!existingGuideData) {
-			throw new Error("Invalid ID");
-		}
-
-		if (!isAdmin && existingGuideData.owner !== username) {
-			throw new Error("Unauthorized");
-		}
-
-		return await existingGuideData.updateOne({
-			title: newGuidePayload.title.trim(),
-			link: newGuidePayload.link.split(" ").join(""),
-			nsfw: newGuidePayload.nsfw,
-			tags: newGuidePayload.tags,
-			credits: newGuidePayload.credits.trim(),
-		});
-	} catch (err) {
-		throw new Error(err.message);
+	const existingGuideData = await getGuideById(id);
+	if (!existingGuideData) {
+		throw new Error("Invalid ID");
 	}
+
+	if (!isAdmin && existingGuideData.owner !== username) {
+		throw new Error("Unauthorized");
+	}
+
+	return await existingGuideData.updateOne({
+		title: newGuidePayload.title.trim(),
+		link: newGuidePayload.link.split(" ").join(""),
+		nsfw: newGuidePayload.nsfw,
+		tags: newGuidePayload.tags,
+		credits: newGuidePayload.credits.trim(),
+	});
 };
