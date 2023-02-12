@@ -1,6 +1,6 @@
 import express from "express";
 import jwt from "jsonwebtoken";
-import { userSchema } from "lib/zodSchemas";
+import { userSchema } from "../lib/zodSchemas";
 import { fromZodError } from "zod-validation-error";
 import User from "../models/User";
 var router = express.Router();

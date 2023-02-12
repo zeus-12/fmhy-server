@@ -2,9 +2,8 @@ import { RESOURCES } from "./utils/CONSTANTS";
 import scrape from "./scrape";
 import fs from "fs";
 import { LinkType } from "./utils/types";
-// import cron from "node-cron";
 
-const simpleScrapeScript = async () => {
+const scrapeScript = async () => {
 	let data: LinkType[] = [];
 	let scrapedData!: LinkType[];
 
@@ -26,14 +25,11 @@ const simpleScrapeScript = async () => {
 	logLinks(data);
 };
 
-// cron.schedule("0 0 * * 0", async () => {
-// await
-simpleScrapeScript();
-// });
-
 const logLinks = (data: LinkType[]) => {
 	fs.writeFileSync(
 		`./src/scraper/links-scraped/${Date.now()}.json`,
 		JSON.stringify(data)
 	);
 };
+
+export default scrapeScript;
