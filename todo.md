@@ -5,6 +5,7 @@
 
 -   move current models to schemas, and create models for communicating with the db
 
+-   implement rate-limit and caching
 -   write scraper for STORAGE and base64
 -   update fmhy.ml/links with the github scraped one
 
@@ -15,7 +16,6 @@
 ```
 import { Router } from 'express'
 import { create } from './controller'
-import jwt from 'jsonwebtoken'
 
 const router = new Router()
 

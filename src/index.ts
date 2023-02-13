@@ -32,6 +32,6 @@ app.use(
 app.use(express.json());
 app.use("/api", Router);
 
-// cron.schedule("0 0 * * 0", async () => {
+// cron.schedule("30 19 * * *", async () => {
 // 	await scrapeScript();
 // });
