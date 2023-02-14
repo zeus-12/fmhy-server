@@ -3,7 +3,7 @@
 -   improve the tsconfig, make sure to put `"script":true`
 -   move sending response message/errors to route level
 
--   move current models to schemas, and create models for communicating with the db
+-   move current models to schemas, and create models for communicating with the db(data access layer)
 
 -   implement rate-limit and caching
 -   write scraper for STORAGE and base64
