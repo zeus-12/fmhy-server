@@ -12,6 +12,7 @@ export default function authHandler(
 		"/search",
 		"/user/login",
 		"/user/register",
+		"/hashed-links",
 	];
 	const ignoreStartsWithRoutes = ["/wiki", "/links"];
 

@@ -4,6 +4,7 @@ import { searchUsingQuery as searchUsingQueryService } from "../service/SearchSe
 export const searchUsingQuery = async (res: Response, reqQuery: any) => {
 	const query = reqQuery.q as string;
 	const page = (reqQuery.page as string) || "1";
+	// is !isNan for page number validation
 	const nsfw = reqQuery.nsfw === "true" ? true : false;
 
 	const { results, count } = await searchUsingQueryService(query, page, nsfw);

@@ -1,5 +1,5 @@
 import { RESOURCES } from "./utils/CONSTANTS";
-import scrape from "./scrape";
+import scrape, { storage_scraper, base64_scraper } from "./scrape";
 import fs from "fs";
 import { LinkType } from "./utils/types";
 
@@ -13,7 +13,7 @@ const scrapeScript = async () => {
 		RESOURCES.map(async (resource) => {
 			scrapedData = [];
 			if (resource.title === "STORAGE") {
-				// scrapedData = await storage_scrapper();
+				// scrapedData = await storage_scrapper(isShort);
 			} else {
 				scrapedData = await scrape(resource.urlEnding, isShort);
 			}
@@ -23,6 +23,11 @@ const scrapeScript = async () => {
 
 	console.log(data.length);
 	logLinks(data);
+
+	// base64 links
+	scrapedData = await base64_scraper();
+	logLinks(scrapedData);
+	console.log(scrapedData.length);
 };
 
 const logLinks = (data: LinkType[]) => {
