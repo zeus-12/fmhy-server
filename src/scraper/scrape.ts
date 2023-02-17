@@ -109,14 +109,19 @@ export default async function scrape(urlEnding: string, isShort: boolean) {
 	return finalData;
 }
 
+// @ts-ignore
 export async function storage_scraper(isShort: boolean) {
 	const { $, markdown } = await getCheerioDocument("STORAGE");
+
+	// @ts-ignore
 
 	let finalData: any = [];
 
 	let i = 0;
 	while (i < markdown.length) {
 		if (currentEle("h4", $(markdown[i]))) {
+			// @ts-ignore
+
 			let cur: LinkType = {
 				title: "",
 				link: [],
@@ -130,8 +135,12 @@ export async function storage_scraper(isShort: boolean) {
 			let nextP = $(markdown[i]).next("p");
 			let children = nextP.children();
 			// split= each a tag in children into an array
+			// @ts-ignore
+
 			let split = children.map((_, element) => {
 				// no idea how to properly structure this data. maybe cur.title = categoryName + $(element).text()?
+
+				// @ts-ignore
 
 				let cur = {
 					title: "",
@@ -169,7 +178,7 @@ export async function base64_scraper() {
 
 			// check for true base64
 			try {
-				const url = atob(hash);
+				atob(hash);
 			} catch (err) {
 				console.log(hash + " is not base64❗️");
 				throw err;
