@@ -1,4 +1,4 @@
-import LinkQueue from "../schema/LinkQueueSchema";
+import LinkQueue from "../models/LinkQueueSchema";
 import { linkPayloadType } from "../lib/zodSchemas";
 import { getLinkByUrl } from "./LinksService";
 

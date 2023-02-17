@@ -1,5 +1,5 @@
 import { linkPayloadType } from "../lib/zodSchemas";
-import Link from "../schema/LinkSchema";
+import Link from "../models/LinkSchema";
 
 export const getLinkByCategoryAndChannel = async (
 	CATEGORY: string,
