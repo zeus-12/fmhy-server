@@ -55,14 +55,7 @@ async function get_links(
 // isShort === true ? return data in LinkType[] : return data in CategoryType[]
 
 export default async function scrape(urlEnding: string, isShort: boolean) {
-	const html = await fetch(
-		`https://github.com/nbats/FMHYedit/blob/main/${urlEnding}.md`
-	);
-	const text = await html.text();
-
-	const $ = cheerio.load(text);
-
-	var markdown = $(".markdown-body").children();
+	const { $, markdown } = await getCheerioDocument(urlEnding);
 
 	let finalData: any = [];
 
@@ -115,3 +108,91 @@ export default async function scrape(urlEnding: string, isShort: boolean) {
 
 	return finalData;
 }
+
+export async function storage_scraper(isShort: boolean) {
+	const { $, markdown } = await getCheerioDocument("STORAGE");
+
+	let finalData: any = [];
+
+	let i = 0;
+	while (i < markdown.length) {
+		if (currentEle("h4", $(markdown[i]))) {
+			let cur: LinkType = {
+				title: "",
+				link: [],
+				starred: false,
+				isNsfw: false,
+			};
+
+			// @ts-ignore
+			const categoryName = $(markdown[i]).text();
+
+			let nextP = $(markdown[i]).next("p");
+			let children = nextP.children();
+			// split= each a tag in children into an array
+			let split = children.map((_, element) => {
+				// no idea how to properly structure this data. maybe cur.title = categoryName + $(element).text()?
+
+				let cur = {
+					title: "",
+					link: [],
+					isNsfw: false,
+				};
+				return $(element).text();
+			});
+			// console.log(split);
+
+			return;
+		}
+		// curLi.each((_, element) => {
+		// 	}
+		i += 1;
+	}
+}
+
+export async function base64_scraper() {
+	const { $, markdown } = await getCheerioDocument("base64");
+	const finalData: any = [];
+
+	let i = 0;
+
+	const h4ElementsToIgnore = ["How-to Decode Links"];
+	while (i < markdown.length) {
+		if (
+			currentEle("h4", $(markdown[i])) &&
+			!h4ElementsToIgnore.includes($(markdown[i]).text())
+		) {
+			const title = $(markdown[i]).text();
+			let hash = $(markdown[i]).next("p").text();
+
+			hash = hash.trim();
+
+			// check for true base64
+			try {
+				const url = atob(hash);
+			} catch (err) {
+				console.log(hash + " is not base64❗️");
+				throw err;
+			}
+
+			finalData.push({ title, hash });
+		}
+		i += 1;
+	}
+	return finalData;
+}
+
+const getCheerioDocument = async (urlEnding: string) => {
+	const html = await fetch(
+		`https://github.com/nbats/FMHYedit/blob/main/${urlEnding}.md`
+	);
+	const text = await html.text();
+
+	const $ = cheerio.load(text);
+
+	var markdown = $(".markdown-body").children();
+	return { $, markdown };
+};
+
+// storage_scrapper("STORAGE", true);
+base64_scraper();

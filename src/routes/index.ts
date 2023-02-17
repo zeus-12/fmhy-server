@@ -6,6 +6,7 @@ import GuidesRoute from "./GuidesRoute";
 import LinksRoute from "./LinksRoute";
 import SearchRoute from "./SearchRoute";
 import LinkQueueRoute from "./LinkQueueRoute";
+import HashedLinksRoute from "./HashedLinksRoute";
 import Wiki from "./Wiki";
 const router = express.Router();
 
@@ -14,6 +15,7 @@ router.use(AuthHandler);
 router.use("/search", SearchRoute);
 router.use("/guides", GuidesRoute);
 router.use("/links", LinksRoute);
+router.use("/hashed-links", HashedLinksRoute);
 router.use("/link-queue", LinkQueueRoute);
 router.use("/wiki", Wiki);
 router.use(ErrorFactory);
