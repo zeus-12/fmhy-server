@@ -25,4 +25,6 @@ Features:
 
 ## To run local
 
--   run "yarn watch" on one terminal and "yarn dev" on another.
+-   run "yarn generate" to generate the compiled js files
+-   "yarn dev" to run the server
+-   "yarn scrape" to run the scraper

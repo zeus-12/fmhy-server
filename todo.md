@@ -1,7 +1,6 @@
 -   fix the auth
 
 -   improve the tsconfig, make sure to put `"script":true`
--   move sending response message/errors to route level
 
 -   move current models to schemas, and create models for communicating with the db(data access layer)
 
@@ -37,3 +36,6 @@ const only = roles = (req, res, next) => {
   }
 }
 ```
+
+for role-based
+------- roles => admin, any, user(requires logged in) --------

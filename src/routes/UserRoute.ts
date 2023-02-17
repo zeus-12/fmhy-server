@@ -2,7 +2,7 @@ import express from "express";
 import jwt from "jsonwebtoken";
 import { userSchema } from "../lib/zodSchemas";
 import { fromZodError } from "zod-validation-error";
-import User from "../models/User";
+import User from "../schema/UserSchema";
 var router = express.Router();
 
 router.post("/login", async (req, res) => {
