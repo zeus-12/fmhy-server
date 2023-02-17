@@ -1,5 +1,5 @@
 import { guidePayloadType } from "../lib/zodSchemas";
-import Guide from "../models/GuideSchema";
+import Guide from "../models/GuideModel";
 
 export const getAllGuides = async () => {
 	const guides = await Guide.find();

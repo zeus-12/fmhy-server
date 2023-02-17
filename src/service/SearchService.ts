@@ -1,4 +1,4 @@
-import Search from "../models/SearchSchema";
+import Search from "../models/SearchModel";
 
 export const searchUsingQuery = async (
 	query: string,
