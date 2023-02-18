@@ -2,6 +2,7 @@ import * as cheerio from "cheerio";
 import fetch from "node-fetch";
 import { currentEle, prettifyTitle } from "./utils/helper";
 import { LinkType, CategoryType } from "./utils/types";
+// import { logLinks } from "./index";
 
 async function get_links(
 	$: cheerio.CheerioAPI,
@@ -114,48 +115,51 @@ export async function storage_scraper(isShort: boolean) {
 	const { $, markdown } = await getCheerioDocument("STORAGE");
 
 	// @ts-ignore
-
 	let finalData: any = [];
 
 	let i = 0;
 	while (i < markdown.length) {
 		if (currentEle("h4", $(markdown[i]))) {
 			// @ts-ignore
-
-			let cur: LinkType = {
-				title: "",
-				link: [],
-				starred: false,
-				isNsfw: false,
-			};
+			let data: any = [];
 
 			// @ts-ignore
 			const categoryName = $(markdown[i]).text();
 
 			let nextP = $(markdown[i]).next("p");
-			let children = nextP.children();
-			// split= each a tag in children into an array
 			// @ts-ignore
 
-			let split = children.map((_, element) => {
-				// no idea how to properly structure this data. maybe cur.title = categoryName + $(element).text()?
-
+			$(nextP)
+				.children("a")
 				// @ts-ignore
+				.each((_: number, element: cheerio.Element) => {
+					// @ts-ignore
+					const cur = {
+						title: "",
+						link: [],
+						isNsfw: false,
+						isStarred: false,
+					};
 
-				let cur = {
-					title: "",
-					link: [],
-					isNsfw: false,
-				};
-				return $(element).text();
-			});
-			// console.log(split);
+					cur.title = categoryName + " " + $(element).text();
+					// @ts-ignore
+					cur.link = [$(element).attr("href")];
+					data.push({ ...cur });
+				});
 
-			return;
+			if (data.length === 0) {
+				console.log("no data found for " + categoryName);
+				console.log("nextP: " + nextP.toString());
+			}
+
+			finalData = finalData.concat([...data]);
 		}
-		// curLi.each((_, element) => {
-		// 	}
+
 		i += 1;
+	}
+	if (finalData.length > 0) {
+		console.log(finalData.length);
+		// logLinks(finalData);
 	}
 }
 
@@ -203,5 +207,4 @@ const getCheerioDocument = async (urlEnding: string) => {
 	return { $, markdown };
 };
 
-// storage_scrapper("STORAGE", true);
-base64_scraper();
+storage_scraper(false);

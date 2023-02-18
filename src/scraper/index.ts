@@ -30,7 +30,7 @@ const scrapeScript = async () => {
 	console.log(scrapedData.length);
 };
 
-const logLinks = (data: LinkType[]) => {
+export const logLinks = (data: LinkType[]) => {
 	fs.writeFileSync(
 		`./src/scraper/links-scraped/${Date.now()}.json`,
 		JSON.stringify(data)
