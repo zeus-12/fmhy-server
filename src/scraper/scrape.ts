@@ -110,53 +110,56 @@ export default async function scrape(urlEnding: string, isShort: boolean) {
 	return finalData;
 }
 
-// @ts-ignore
 export async function storage_scraper(isShort: boolean) {
 	const { $, markdown } = await getCheerioDocument("STORAGE");
 
-	// @ts-ignore
 	let finalData: any = [];
 
 	let i = 0;
-	while (i < markdown.length) {
-		if (currentEle("h4", $(markdown[i]))) {
-			// @ts-ignore
-			let data: any = [];
+	if (isShort) {
+		while (i < markdown.length) {
+			if (currentEle("h4", $(markdown[i]))) {
+				let data: any = [];
 
-			// @ts-ignore
-			const categoryName = $(markdown[i]).text();
+				const categoryName = $(markdown[i]).text();
 
-			let nextP = $(markdown[i]).next("p");
-			// @ts-ignore
+				let nextP = $(markdown[i]).next("p");
 
-			$(nextP)
-				.children("a")
-				// @ts-ignore
-				.each((_: number, element: cheerio.Element) => {
-					// @ts-ignore
-					const cur = {
-						title: "",
-						link: [],
-						isNsfw: false,
-						isStarred: false,
-					};
+				$(nextP)
+					.children()
+					.each((_: number, element: cheerio.Element) => {
+						const cur: LinkType = {
+							title: "",
+							link: [],
+							isNsfw: false,
+							starred: false,
+						};
 
-					cur.title = categoryName + " " + $(element).text();
-					// @ts-ignore
-					cur.link = [$(element).attr("href")];
-					data.push({ ...cur });
-				});
+						cur.title = categoryName + " " + $(element).text();
+						// @ts-ignore
+						cur.link = [$(element).attr("href")];
 
-			if (data.length === 0) {
-				console.log("no data found for " + categoryName);
-				console.log("nextP: " + nextP.toString());
+						if (cur.title.includes("⭐ ")) {
+							cur.starred = true;
+						}
+
+						data.push({ ...cur });
+					});
+
+				if (data.length === 0) {
+					console.log("no data found for " + categoryName);
+					console.log("nextP: " + nextP.toString());
+					return;
+				} else {
+					console.log(data);
+					finalData = finalData.concat([...data]);
+				}
 			}
 
-			finalData = finalData.concat([...data]);
+			i += 1;
 		}
-
-		i += 1;
 	}
+
 	if (finalData.length > 0) {
 		console.log(finalData.length);
 		// logLinks(finalData);
@@ -207,4 +210,4 @@ const getCheerioDocument = async (urlEnding: string) => {
 	return { $, markdown };
 };
 
-storage_scraper(false);
+storage_scraper(true);
