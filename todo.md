@@ -1,16 +1,18 @@
+## Tasks
+
 -   fix the auth
 
 -   improve the tsconfig, make sure to put `"script":true`
-
 -   move current models to schemas, and create models for communicating with the db(data access layer)
 
 -   implement rate-limit and caching
--   write scraper for STORAGE and base64
+-   write scraper for STORAGE
+
 -   update fmhy.ml/links with the github scraped one
 
 ---
 
--   FOR ROLE BASED, implement something like
+## FOR ROLE BASED, implement something like
 
 ```
 import { Router } from 'express'
@@ -37,5 +39,4 @@ const only = roles = (req, res, next) => {
 }
 ```
 
-for role-based
 ------- roles => admin, any, user(requires logged in) --------

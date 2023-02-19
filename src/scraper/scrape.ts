@@ -53,7 +53,7 @@ async function get_links(
 	return res;
 }
 
-// isShort === true ? return data in LinkType[] : return data in CategoryType[]
+// isShort === true ? return data in LinkType[] ,else return data in CategoryType[]
 
 export default async function scrape(urlEnding: string, isShort: boolean) {
 	const { $, markdown } = await getCheerioDocument(urlEnding);
