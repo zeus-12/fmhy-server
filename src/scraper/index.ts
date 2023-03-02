@@ -25,9 +25,9 @@ const scrapeScript = async () => {
 	logLinks(data);
 
 	// base64 links
-	scrapedData = await base64_scraper();
-	logLinks(scrapedData);
-	console.log(scrapedData.length);
+	const base64Links = await base64_scraper();
+	logLinks(base64Links);
+	console.log(base64Links.length);
 };
 
 export const logLinks = (data: LinkType[]) => {

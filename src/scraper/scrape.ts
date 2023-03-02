@@ -1,6 +1,5 @@
 import * as cheerio from "cheerio";
-import fetch from "node-fetch";
-import { currentEle, prettifyTitle } from "./utils/helper";
+import { currentEle, getCheerioDocument, prettifyTitle } from "./utils/helper";
 import { LinkType, CategoryType } from "./utils/types";
 // import { logLinks } from "./index";
 
@@ -197,17 +196,5 @@ export async function base64_scraper() {
 	}
 	return finalData;
 }
-
-const getCheerioDocument = async (urlEnding: string) => {
-	const html = await fetch(
-		`https://github.com/nbats/FMHYedit/blob/main/${urlEnding}.md`
-	);
-	const text = await html.text();
-
-	const $ = cheerio.load(text);
-
-	var markdown = $(".markdown-body").children();
-	return { $, markdown };
-};
 
 storage_scraper(true);

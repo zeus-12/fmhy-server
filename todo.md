@@ -1,8 +1,8 @@
 ## Tasks
 
 -   fix the auth
+-   add not-found error exception everywhere
 
--   improve the tsconfig, make sure to put `"script":true`
 -   move current models to schemas, and create models for communicating with the db(data access layer)
 
 -   implement rate-limit and caching
