@@ -10,6 +10,8 @@
 
 -   update fmhy.ml/links with the github scraped one
 
+-   write tests
+
 ---
 
 ## FOR ROLE BASED, implement something like
