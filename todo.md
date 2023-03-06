@@ -3,42 +3,11 @@
 -   fix the auth
 -   add not-found error exception everywhere
 
--   move current models to schemas, and create models for communicating with the db(data access layer)
+-   create models layer for communicating with the db(data access layer)
 
 -   implement rate-limit and caching
+
 -   write scraper for STORAGE
-
--   update fmhy.ml/links with the github scraped one
-
--   write tests
+-   update fmhy.ml/links with the github scraped one: maybe read from files?
 
 ---
-
-## FOR ROLE BASED, implement something like
-
-```
-import { Router } from 'express'
-import { create } from './controller'
-
-const router = new Router()
-
-router.post(
-  '/things',
-  only(['admin','customer']),
-  create
-)
-
-const only = roles = (req, res, next) => {
-  try {
-    req.decoded = jwt.verify(token, 'my-secret')
-    if(roles.includes(req.decoded.role)
-      next()
-    else
-      throw new Error('Sem permissões') //can use a custom error factory to manage better the responses
-  } catch(err) {
-    next(error)
-  }
-}
-```
-
-------- roles => admin, any, user(requires logged in) --------
