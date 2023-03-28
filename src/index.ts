@@ -4,14 +4,14 @@ import cors from "cors";
 import ALLOW_LIST from "./config/AllowList";
 import dotenv from "dotenv";
 import Router from "./routes/index";
-// import scrapeScript from "./scraper/index";
+// import scrapeScript from "./scraper/v1/index";
 // import cron from "node-cron";
 
 dotenv.config();
 
 const app = express();
 
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 8080;
 const dbURI = process.env.DB_URI!;
 
 mongoose
