@@ -1,7 +1,7 @@
 import * as cheerio from "cheerio";
-import fetch from "node-fetch";
-import { currentEle, prettifyTitle } from "./utils/helper";
+import { currentEle, getCheerioDocument, prettifyTitle } from "./utils/helper";
 import { LinkType, CategoryType } from "./utils/types";
+// import { logLinks } from "./index";
 
 async function get_links(
 	$: cheerio.CheerioAPI,
@@ -52,7 +52,7 @@ async function get_links(
 	return res;
 }
 
-// isShort === true ? return data in LinkType[] : return data in CategoryType[]
+// isShort === true ? return data in LinkType[] ,else return data in CategoryType[]
 
 export default async function scrape(urlEnding: string, isShort: boolean) {
 	const { $, markdown } = await getCheerioDocument(urlEnding);
@@ -109,53 +109,59 @@ export default async function scrape(urlEnding: string, isShort: boolean) {
 	return finalData;
 }
 
-// @ts-ignore
 export async function storage_scraper(isShort: boolean) {
 	const { $, markdown } = await getCheerioDocument("STORAGE");
-
-	// @ts-ignore
 
 	let finalData: any = [];
 
 	let i = 0;
-	while (i < markdown.length) {
-		if (currentEle("h4", $(markdown[i]))) {
-			// @ts-ignore
+	if (isShort) {
+		while (i < markdown.length) {
+			if (currentEle("h4", $(markdown[i]))) {
+				let data: any = [];
 
-			let cur: LinkType = {
-				title: "",
-				link: [],
-				starred: false,
-				isNsfw: false,
-			};
+				const categoryName = $(markdown[i]).text();
 
-			// @ts-ignore
-			const categoryName = $(markdown[i]).text();
+				let nextP = $(markdown[i]).next("p");
 
-			let nextP = $(markdown[i]).next("p");
-			let children = nextP.children();
-			// split= each a tag in children into an array
-			// @ts-ignore
+				$(nextP)
+					.children()
+					.each((_: number, element: cheerio.Element) => {
+						const cur: LinkType = {
+							title: "",
+							link: [],
+							isNsfw: false,
+							starred: false,
+						};
 
-			let split = children.map((_, element) => {
-				// no idea how to properly structure this data. maybe cur.title = categoryName + $(element).text()?
+						cur.title = categoryName + " " + $(element).text();
+						// @ts-ignore
+						cur.link = [$(element).attr("href")];
 
-				// @ts-ignore
+						if (cur.title.includes("⭐ ")) {
+							cur.starred = true;
+						}
 
-				let cur = {
-					title: "",
-					link: [],
-					isNsfw: false,
-				};
-				return $(element).text();
-			});
-			// console.log(split);
+						data.push({ ...cur });
+					});
 
-			return;
+				if (data.length === 0) {
+					console.log("no data found for " + categoryName);
+					console.log("nextP: " + nextP.toString());
+					return;
+				} else {
+					console.log(data);
+					finalData = finalData.concat([...data]);
+				}
+			}
+
+			i += 1;
 		}
-		// curLi.each((_, element) => {
-		// 	}
-		i += 1;
+	}
+
+	if (finalData.length > 0) {
+		console.log(finalData.length);
+		// logLinks(finalData);
 	}
 }
 
@@ -191,17 +197,4 @@ export async function base64_scraper() {
 	return finalData;
 }
 
-const getCheerioDocument = async (urlEnding: string) => {
-	const html = await fetch(
-		`https://github.com/nbats/FMHYedit/blob/main/${urlEnding}.md`
-	);
-	const text = await html.text();
-
-	const $ = cheerio.load(text);
-
-	var markdown = $(".markdown-body").children();
-	return { $, markdown };
-};
-
-// storage_scrapper("STORAGE", true);
-base64_scraper();
+storage_scraper(true);

@@ -13,11 +13,14 @@ export const getGuidesByUser = async (username: string) => {
 
 export const getGuideByLink = async (link: string) => {
 	const guide = await Guide.findOne({ link });
+	if (!guide) throw new Error("No guide found.");
 	return guide;
 };
 
 export const getGuideById = async (id: string) => {
 	const guide = await Guide.findById(id);
+	if (!guide) throw new Error("No guide found.");
+
 	return guide;
 };
 
@@ -77,10 +80,6 @@ export const updateGuideById = async (
 	}
 
 	return await existingGuideData.updateOne({
-		title: newGuidePayload.title.trim(),
-		link: newGuidePayload.link.split(" ").join(""),
-		nsfw: newGuidePayload.nsfw,
-		tags: newGuidePayload.tags,
-		credits: newGuidePayload.credits.trim(),
+		...newGuidePayload,
 	});
 };

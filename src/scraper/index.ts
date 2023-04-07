@@ -25,12 +25,12 @@ const scrapeScript = async () => {
 	logLinks(data);
 
 	// base64 links
-	scrapedData = await base64_scraper();
-	logLinks(scrapedData);
-	console.log(scrapedData.length);
+	const base64Links = await base64_scraper();
+	logLinks(base64Links);
+	console.log(base64Links.length);
 };
 
-const logLinks = (data: LinkType[]) => {
+export const logLinks = (data: LinkType[]) => {
 	fs.writeFileSync(
 		`./src/scraper/links-scraped/${Date.now()}.json`,
 		JSON.stringify(data)
