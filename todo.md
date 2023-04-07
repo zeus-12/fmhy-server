@@ -5,5 +5,6 @@
 
 -   implement rate-limit and caching
 
--   write scraper for STORAGE
--   update fmhy.ml/links with the github scraped one: maybe read from files?
+-   write scraper for STORAGE, AI
+
+-   dont store isAdmin to res.locals, check it in authhanlder from username
