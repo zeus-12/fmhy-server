@@ -73,4 +73,5 @@ export const RESOURCES = [
 	},
 ];
 
-// STORAGE & base64 -- diff format => write a separate scrapper for it
+// WRITE NEW SCRAPER FOR "AI"
+// STORAGE -- diff format => write a separate scrapper for it
