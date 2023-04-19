@@ -1,6 +1,6 @@
 import express from "express";
 import mongoose from "mongoose";
-import cors from "cors";
+import cors, { CorsRequest } from "cors";
 import ALLOW_LIST from "./config/AllowList";
 import dotenv from "dotenv";
 import Router from "./routes/index";
@@ -23,11 +23,18 @@ mongoose
 	.then(() => console.log(`Server listening on port ${PORT}✨`))
 	.catch((err) => console.log(err));
 
-app.use(
-	cors({
-		origin: ALLOW_LIST,
-	})
-);
+// @ts-ignore
+const corsOptionsDelegate = function (req, callback) {
+	let corsOptions;
+	if (ALLOW_LIST.indexOf(req.header("Origin")) !== -1) {
+		corsOptions = { origin: true };
+	} else {
+		corsOptions = { origin: false };
+	}
+	callback(null, corsOptions);
+};
+
+app.use(cors(corsOptionsDelegate));
 
 app.use(express.json());
 app.use("/api", Router);
