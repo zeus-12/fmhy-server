@@ -1,6 +1,8 @@
 const ALLOW_LIST = [
 	"https://fmhy.ml",
+	"https://old.fmhy.ml",
 	"https://www.fmhy.ml",
+	"https://www.old.fmhy.ml",
 	"https://fmhy.cf",
 	"https://fmhy.tk",
 	"https://freemediaheckyeah.ml",

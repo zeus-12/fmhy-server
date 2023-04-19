@@ -196,5 +196,3 @@ export async function base64_scraper() {
 	}
 	return finalData;
 }
-
-storage_scraper(true);
