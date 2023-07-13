@@ -1,4 +1,11 @@
-# Backend Server for FMHY
+# Deprecated!
+## Migrated to Nextjs [API routes](https://github.com/zeus-12/fmhy)
+
+<br />
+<br />
+<br />
+
+## Backend Server for FMHY
 
 Domains:
 
